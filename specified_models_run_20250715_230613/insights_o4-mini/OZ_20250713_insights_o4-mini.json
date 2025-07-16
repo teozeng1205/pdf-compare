@@ -1,0 +1,212 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Pricing Dominance",
+      "line_content": "59% of OTA listings were priced above the Asiana website last week, while discounted routes rose to 8.2% with modest average markdowns."
+    },
+    {
+      "line_title": "MSE Discount Balance",
+      "line_content": "MSE fares were lower on 48.0% of routes versus the website, nearly matching the 51.9% offered at parity with minimal discount depth of 0.09%."
+    },
+    {
+      "line_title": "GDS Premium Prevalence",
+      "line_content": "65.1% of GDS itineraries carried an average 1.04% premium last week, as price parity fell below 26% and discounts climbed to 8.3%."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Dominant OTA Premiums",
+      "line_content": "Last week 59% of OTA listings were priced above the Asiana website, representing the majority of routes, though this share dipped 1.7 pp week-on-week."
+    },
+    {
+      "line_title": "Rising OTA Discounts",
+      "line_content": "Routes priced lower on OTA climbed to 8.2% last week, up 1.7 pp versus the prior week, albeit with a modest average discount of 0.16%."
+    },
+    {
+      "line_title": "Stable Missing Listings",
+      "line_content": "Just 5.1% of routes lacked a website offer on OTA, a level broadly unchanged month-on-month, indicating consistent coverage."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Missing OTA Listings",
+      "line_content": "About 5.1% of routes showed no Asiana offer on OTA last week, virtually flat versus the prior month (0.04% change)."
+    },
+    {
+      "line_title": "Price Parity",
+      "line_content": "Matching prices accounted for 27.5% of listings last week, down 2.3 pp month-on-month, signaling slight erosion in parity."
+    },
+    {
+      "line_title": "Channel Premiums",
+      "line_content": "OTA prices were higher on 59.2% of routes last week, though this prevalence eased by 1.0 pp from the previous month; average premium stood at 1.09%."
+    },
+    {
+      "line_title": "Channel Discounts",
+      "line_content": "Discounted OTA listings rose to 8.2% last week, up 3.2 pp month-on-month, with an average markdown of 0.16%."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Pricing Behaviors",
+      "line_content": "For short-haul routes OTA held a 62.6% premium share (1.09% avg markup) and an 8.6% discount share (0.16% avg markdown), with parity down to 23.8%."
+    },
+    {
+      "line_title": "Long Haul Pricing Behaviors",
+      "line_content": "Long-haul listings exhibited 91.7% price parity and minimal premium frequency (2.1%, 0.07% avg markup), reflecting strong alignment with the website."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic Market (KR)",
+      "line_content": "Within Korea origin routes, OTA premiums were most prevalent at 64.6% of listings (1.33% avg markup), while discounts remained low at 5.2%."
+    },
+    {
+      "line_title": "International Markets (Non-KR)",
+      "line_content": "Non-Korea origins saw more balanced behavior: 43.0% premiums (0.06% avg markup), 17.2% discounts (0.20% avg markdown) and parity at 36.2%."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Bookings within a short window showed 61.4% OTA premiums (0.99% avg markup) and 7.6% discounts, with premium frequency down 2.3 pp week-on-week."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings carried 55.0% OTA premiums (1.32% avg markup) and 9.1% discounts, with discount share up nearly 3 pp month-on-month."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Broad Discount Footprint",
+      "line_content": "Last week 48.00% of routes were priced lower on MSE than on the airline website, nearly matching the 51.88% offered at parity."
+    },
+    {
+      "line_title": "Minimal Discount Depth",
+      "line_content": "Average MSE fares were only 0.09% below the website last week, consistent with prior week and slightly deeper than the 0.07%–0.08% range seen month-to-date."
+    },
+    {
+      "line_title": "Positive Monthly Trend",
+      "line_content": "The share of routes with lower MSE fares increased 2.47 pp versus the previous month, offsetting a modest 1.06 pp weekly decline."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Price Parity Prevalent",
+      "line_content": "51.88% of routes were offered at identical fares on MSE, up 0.95 pp week-on-week and down 2.36 pp month-on-month."
+    },
+    {
+      "line_title": "Discount Incidence",
+      "line_content": "48.00% of itineraries carried MSE discounts last week, a 1.06 pp dip from the prior week and a 2.47 pp gain versus the previous month."
+    },
+    {
+      "line_title": "Markup Rarity",
+      "line_content": "No routes were priced higher on MSE last week, with average markups negligible at 0.10% when they occurred."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Pricing",
+      "line_content": "Short-haul routes were 54.83% at parity and 45.05% discounted last week, with the lower-fare share down 1.36 pp w/w but up 2.38 pp m/m."
+    },
+    {
+      "line_title": "Long-Haul Discounts",
+      "line_content": "All long-haul itineraries (100%) were discounted on MSE last week, unchanged w/w and 2.13 pp higher than a month ago at an average 0.06% discount."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic (KR) Market",
+      "line_content": "KR departures saw 62.14% parity and 37.71% discounts last week, with discounted share up 1.82 pp w/w and 2.09 pp m/m."
+    },
+    {
+      "line_title": "International (Non-KR) Market",
+      "line_content": "Non-KR origins delivered 78.38% discounted fares and 21.62% parity, with discounted share easing 12.03 pp w/w and 1.62 pp m/m."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in itineraries were 54.15% at parity and 45.85% discounted, with discounts down 1.08 pp w/w but up 2.55 pp m/m."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings saw 47.47% parity and 52.19% discounts last week, with the discount share down 0.91 pp w/w and up 2.02 pp m/m."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS Premium Pricing",
+      "line_content": "In the GDS channel, 65.07% of itineraries were priced higher than the website last week, carrying an average premium of 1.04%."
+    },
+    {
+      "line_title": "Rising Channel Discounts",
+      "line_content": "Although rare, GDS discounts grew to 8.33% of itineraries last week, up 1.42 pp w/w and 3.14 pp m/m, with an average discount of 0.15%."
+    },
+    {
+      "line_title": "Decline in Price Parity",
+      "line_content": "Parity between the website and GDS fell to 25.68% last week, marking a 0.99 pp decrease from the prior week and a 3.02 pp drop over the past month."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offers Missing",
+      "line_content": "Only 0.91% of routes were not found on GDS last week, a slight 0.25 pp increase from the previous week."
+    },
+    {
+      "line_title": "Unchanged Prices",
+      "line_content": "25.68% of fares matched website prices in GDS last week, down 0.99 pp w/w and 3.02 pp m/m."
+    },
+    {
+      "line_title": "GDS Price Premium",
+      "line_content": "GDS offered higher prices on 65.07% of itineraries last week, with an average premium of 1.04%, marginally down 0.68 pp w/w."
+    },
+    {
+      "line_title": "GDS Price Discounts",
+      "line_content": "GDS priced lower on 8.33% of itineraries last week, up 1.42 pp versus the prior week, yielding an average discount of 0.15%."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Pricing Trends",
+      "line_content": "On short-haul routes, 65.94% of fares were higher in GDS with a 1.08% avg premium, while matches fell to 24.40%, down 1.12 pp w/w."
+    },
+    {
+      "line_title": "Long-Haul Price Balance",
+      "line_content": "Long-haul routes saw a near even split, with 51.06% of GDS fares higher (0.04% premium) and 48.94% matching website prices."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic (KR) Pricing",
+      "line_content": "For KR origins, 66.26% of fares were higher in GDS with a 1.35% avg premium, while unchanged prices held at 27.33%."
+    },
+    {
+      "line_title": "International (Non-KR) Variability",
+      "line_content": "Non-KR origins experienced an 11.69 pp m/m drop in parity to 32.50%, with GDS discounts climbing 8.69 pp to 17.19%."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Dynamics",
+      "line_content": "Close-in bookings showed 67.36% of fares higher in GDS (0.96% avg premium) with parity at 24.18%, down 2.89 pp m/m."
+    },
+    {
+      "line_title": "Far-Out Booking Variance",
+      "line_content": "Far-out bookings had a 3.23 pp m/m decline in parity to 31.76%, alongside a 1.20% avg premium on 60.74% of GDS fares."
+    }
+  ]
+}

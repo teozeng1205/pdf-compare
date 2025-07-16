@@ -1,0 +1,204 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Discount Dominance",
+      "line_content": "OTA fares undercut the website on 40.5% of itineraries last week, averaging a 0.06% discount while maintaining the highest share among channels."
+    },
+    {
+      "line_title": "MSE Near-Universal Undercut",
+      "line_content": "MSE fares were lower than the website in 99.31% of offers with an average 0.11% discount and only 0.35% coverage gaps."
+    },
+    {
+      "line_title": "GDS Balanced Pricing",
+      "line_content": "GDS maintains stable parity at 57.6%, delivers lower fares on 41.0% of routes (avg −0.06%), and shows minimal premium occurrences (1.03%, avg +0.21%)."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Dominant OTA Discounts",
+      "line_content": "OTA fares were lower than the website on 40.5% of itineraries last week, delivering an average 0.06% discount and remaining the most common status."
+    },
+    {
+      "line_title": "Rising OTA Premiums",
+      "line_content": "Instances of OTA pricing above the website jumped to 3.8% last week, up 2.43pp week-on-week and 2.11pp month-on-month, with a modest 0.04% average premium."
+    },
+    {
+      "line_title": "Stable Price Parity",
+      "line_content": "Price parity accounted for 54.0% of observations, showing a slight 1.19pp week-on-week dip but maintaining overall alignment with the website."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Non-Availability on OTA",
+      "line_content": "OTAs did not list 1.73% of itineraries last week, marking a 0.68pp week-on-week and 0.65pp month-on-month decline in unlisted routes."
+    },
+    {
+      "line_title": "Price Parity Prevalence",
+      "line_content": "Parity held for 53.98% of cases, down 1.19pp from the prior week but up 2.28pp versus last month, underscoring consistent alignment."
+    },
+    {
+      "line_title": "OTA Higher Pricing",
+      "line_content": "OTA fares exceeded website prices on 3.81% of routes, reflecting a 2.43pp week-on-week and 2.11pp month-on-month increase, with a 0.04% average uplift."
+    },
+    {
+      "line_title": "OTA Lower Pricing",
+      "line_content": "Lower OTA fares appeared on 40.48% of routes, slightly easing by 0.55pp week-on-week and 3.73pp month-on-month, with a steady 0.06% average discount."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Dynamics",
+      "line_content": "Short-haul routes mirrored overall trends with 40.48% lower OTA fares (avg −0.06%), 3.81% higher (avg +0.04%), and parity at 53.98%, highlighting consistent distribution behavior."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "HR Origins",
+      "line_content": "HR routes saw strong parity at 67.6%, a rise in OTA premiums to 4.6% (+2.78pp WoW), and discounted shares at 25.9% (avg −0.06%)."
+    },
+    {
+      "line_title": "Non-HR Origins",
+      "line_content": "Non-HR itineraries were predominantly cheaper on OTA (83.6%, avg −0.06%), with limited parity (13.7%) and rare premiums (1.4%, avg +0.17%)."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in travel exhibited 52.0% parity (+1.78pp WoW), 43.9% lower OTA fares (avg −0.06%), and a small 1.5% premium share (+1.01pp)."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings held 57.5% parity, saw OTA premiums jump to 8.5% (+5.45pp WoW, avg +0.02%), and recorded 33.0% lower fares (avg −0.07%)."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Predominant Price Undercut",
+      "line_content": "MSE fares undercut the website in 99.31% of offers last week, with an average discount of 0.11%."
+    },
+    {
+      "line_title": "Minimal Coverage Gaps",
+      "line_content": "Only 0.35% of itineraries were unavailable on MSE, indicating near-complete parity in offer presence."
+    },
+    {
+      "line_title": "No Instances of Premium Pricing",
+      "line_content": "There were zero occurrences of MSE fares higher than the website across all dimensions."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offer Missing",
+      "line_content": "MSE did not present 0.35% of ODs last week, consistent week-on-week and month-on-month."
+    },
+    {
+      "line_title": "Price Parity",
+      "line_content": "Only 0.35% of offers matched the website price on MSE, unchanged from prior periods."
+    },
+    {
+      "line_title": "Channel Undercut",
+      "line_content": "MSE prices were lower for 99.31% of itineraries, with stable frequency and an average 0.11% discount."
+    },
+    {
+      "line_title": "No Channel Premium",
+      "line_content": "MSE did not list any fares above website prices in the latest week or historical comparisons."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Consistency",
+      "line_content": "Short-haul routes mirror overall results with 99.31% lower pricing, 0.35% parity and 0.35% missing coverage."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Home Market (HR)",
+      "line_content": "HR origins saw 99.54% undercut, a 0.10% average discount and zero week-on-week fluctuation in frequency."
+    },
+    {
+      "line_title": "Non-Home Market",
+      "line_content": "Non-HR routes had 98.63% lower fares, down 1.37pp week-on-week, with an average 0.13% discount."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in itineraries were 99.49% lower-priced, with virtually no variance in price or frequency over time."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings showed 98.92% undercut frequency, a 1.08pp week-on-week decline and a 0.11% average discount."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Stable Fare Parity",
+      "line_content": "GDS fares matched Croatia Airlines' website for 57.6% of itineraries in the latest week, virtually unchanged from prior week and month levels."
+    },
+    {
+      "line_title": "Lower GDS Pricing Prevalent",
+      "line_content": "41.0% of itineraries are priced lower on GDS by an average of 0.06%, significantly outweighing the 1.03% of itineraries priced higher by 0.21%."
+    },
+    {
+      "line_title": "Origin Group Discrepancies",
+      "line_content": "Non-HR origins exhibit 84.9% lower GDS fares versus just 13.7% parity, while HR origins remain largely aligned with 72.7% same-price and 25.9% lower-price shares."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Availability Gaps",
+      "line_content": "Fares missing on GDS occur in only 0.34% of itineraries, holding steady versus both the prior week and month."
+    },
+    {
+      "line_title": "Price Parity Stability",
+      "line_content": "Same-price occurrences persist at 57.59%, showing minimal week-over-week change (−0.49%) and a slight month-over-month uptick (+0.25%)."
+    },
+    {
+      "line_title": "Minor Upside on GDS",
+      "line_content": "Higher-priced fares represent just 1.03% of itineraries, with average increases of +0.21%, effectively flat versus the previous month."
+    },
+    {
+      "line_title": "Consistent Downside Pressure",
+      "line_content": "Lower-priced GDS fares maintain a 41.03% share, averaging −0.06% differences and exhibiting under 0.2% variation week-to-month."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Trends",
+      "line_content": "Short-haul routes mirror overall patterns: 57.6% fare parity, 41.0% lower-priced on GDS, and only 1.03% higher-priced, with negligible weekly or monthly shifts."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "High-Revenue Origins",
+      "line_content": "HR origins see 72.7% same-price, 25.9% lower-priced and 0.93% higher-priced shares on GDS, with price gaps averaging ±0.06–0.22%."
+    },
+    {
+      "line_title": "Non-HR Origins",
+      "line_content": "Non-HR origins have an 84.9% share of lower-priced fares, only 13.7% parity and 1.37% higher-priced, reflecting the greatest discount prevalence."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "For close-in bookings, 53.3% of fares align, 44.7% are lower on GDS by −0.06% avg., and 1.52% are higher by +0.23%."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings show 66.7% parity and 33.3% lower fares on GDS (−0.07% avg.), with no instances of higher-priced offers."
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Premium Escalation",
+      "line_content": "OTAs priced 64.24% of routes above the website last week, marking multi-week and monthly increases in premium incidence and an ongoing decline in parity."
+    },
+    {
+      "line_title": "MSE Discount Dominance",
+      "line_content": "MSE undercut website fares on 77.7% of routes last week, even as its discount share narrowed, while price parity reached its highest gain across channels."
+    },
+    {
+      "line_title": "GDS Premium Prevalence",
+      "line_content": "GDS fares ran higher on 51.2% of itineraries last week, with premium share climbing and matched rates receding, underscoring widening channel gaps."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Dominant OTA Premium Presence",
+      "line_content": "In the latest week, 64.24% of routes are priced higher on OTAs compared to the website, up 3.91% week-on-week and 7.19% month-on-month, with an average 0.06% premium."
+    },
+    {
+      "line_title": "Shrinking Price Parity",
+      "line_content": "Routes with identical fares declined to 28.22% last week from 35.90% a month ago, marking a 7.67% month-on-month decrease in parity."
+    },
+    {
+      "line_title": "Minimal OTA Discounts",
+      "line_content": "OTA discounts occur on only 0.38% of routes, unchanged sequentially and monthly, with an average 0.22% reduction."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA Coverage Trend",
+      "line_content": "Unavailability dipped slightly to 7.15% of routes last week (–0.15% w/w) but sits 0.49% above the monthly level."
+    },
+    {
+      "line_title": "Parity Trend",
+      "line_content": "Identical pricing now accounts for 28.22% of routes (–3.77% w/w, –7.67% m/m)."
+    },
+    {
+      "line_title": "Premium Trend",
+      "line_content": "Premium OTA pricing captured 64.24% of routes (+3.91% w/w, +7.19% m/m), averaging a 0.06% uplift."
+    },
+    {
+      "line_title": "Discount Trend",
+      "line_content": "Discounted fares remain negligible at 0.38%, stable week-over-week and month-over-month, with an average –0.22% difference."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Premium Growth",
+      "line_content": "76.49% of short-haul routes carried OTA premiums (up 3.10% w/w, 8.42% m/m), with fares 0.06% above the website."
+    },
+    {
+      "line_title": "Long-Haul Dynamics",
+      "line_content": "40.00% of long-haul routes showed premiums (up 5.91% w/w) while parity held at 60.00%, with average premiums of 0.05%."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Qatar Origin Performance",
+      "line_content": "From Qatar, 61.73% of itineraries carried OTA premiums (up 2.71% w/w), averaging a 0.07% increase and parity at 30.87%."
+    },
+    {
+      "line_title": "Non-Qatar Origin Strength",
+      "line_content": "Non-Qatar origins saw OTA premiums on 66.84% of routes (up 5.26% w/w, 12.66% m/m), with parity down to 25.71%."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Premiums",
+      "line_content": "Close-in bookings had 62.06% OTA premiums (up 4.75% w/w, 6.64% m/m), with a 0.07% average uplift."
+    },
+    {
+      "line_title": "Far-Out Booking Premiums",
+      "line_content": "Far-out bookings showed 68.66% premiums (up 2.60% w/w, 8.58% m/m), with a 0.04% average uplift."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Rising Price Parity",
+      "line_content": "MSE listings matched website fares on 21.6% of routes last week, up 5.06pp w/w and 8.78pp m/m—the strongest parity gain across all segments."
+    },
+    {
+      "line_title": "Dominant Discount Trend",
+      "line_content": "MSE undercut fares on 77.7% of routes last week, though this contracted by 4.95pp w/w and 8.27pp m/m, indicating a narrowing discount edge."
+    },
+    {
+      "line_title": "Enhanced Coverage",
+      "line_content": "Missing offers on MSE fell to 0.51% of ODs last week (–0.12pp w/w, –0.51pp m/m), reflecting improved distribution completeness."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Missing Offers Decline",
+      "line_content": "Offer absence dropped to 0.51% last week (–0.12pp w/w, –0.51pp m/m), evidencing stronger coverage."
+    },
+    {
+      "line_title": "Increasing Price Parity",
+      "line_content": "Parity grew to 21.6% of routes (+5.06pp w/w, +8.78pp m/m)."
+    },
+    {
+      "line_title": "Predominant Lower Pricing",
+      "line_content": "MSE fares undercut the website on 77.7% of routes, though share eased by 4.95pp w/w and 8.27pp m/m."
+    },
+    {
+      "line_title": "Minimal Higher-Pricing",
+      "line_content": "Instances of higher MSE prices remain negligible at 0.26% of routes, with an average markup of just 0.14%."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Parity Uptick",
+      "line_content": "Short-haul routes saw parity climb to 23.0% (+5.05pp w/w, +9.90pp m/m) while undercut share receded to 75.9% (–4.89pp)."
+    },
+    {
+      "line_title": "Long-Haul Discount Prevalence",
+      "line_content": "Long-haul routes experienced lower fares on 81.1% of routes (–4.85pp w/w), with parity at 18.9% (+4.85pp) indicating a shift toward alignment."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "QA Origin Parity Surge",
+      "line_content": "Qatar-origin routes saw parity jump to 24.7% (+9.44pp w/w, +11.44pp m/m) as undercut instances fell to 75.1% (–9.43pp)."
+    },
+    {
+      "line_title": "Non-QA Stability",
+      "line_content": "Non-Qatar origins maintained an 80.3% share of lower fares with parity at 18.5% (+0.53pp w/w) and negligible higher-price occurrences."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Trends",
+      "line_content": "Close-in bookings saw parity rise to 17.5% (+4.76pp w/w, +8.03pp m/m) while lower-priced share eased to 81.9% (–4.38pp)."
+    },
+    {
+      "line_title": "Far-Out Booking Parity Growth",
+      "line_content": "Far-out bookings led parity at 29.7% (+6.02pp w/w, +10.69pp m/m) even as lower-fare share dipped to 69.1% (–6.40pp)."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS Predominant Premium",
+      "line_content": "Last week, 51.2% of itineraries on the GDS were priced above the website, up 6.0pp w/w and 8.8pp m/m, with an average +0.06% uplift."
+    },
+    {
+      "line_title": "Matched Rates Decline",
+      "line_content": "Same-price offerings fell to 46.4% of total last week (–6.3pp w/w, –8.1pp m/m), indicating widening channel discrepancies."
+    },
+    {
+      "line_title": "Minimal Discounts",
+      "line_content": "Only 0.5% of GDS fares ran below the website last week—unchanged sequentially—with an average –0.22% discount."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Unavailable Offers",
+      "line_content": "GDS-only itineraries were 1.9% last week (+0.15pp w/w, –0.78pp m/m), indicating stable but low N/A frequency."
+    },
+    {
+      "line_title": "Eroding Price Matches",
+      "line_content": "Same-fare offerings declined to 46.36% (–6.28pp w/w, –8.13pp m/m), reflecting fewer parity listings."
+    },
+    {
+      "line_title": "Rising Premiums",
+      "line_content": "GDS-higher fares reached 51.21% (+6.00pp w/w, +8.78pp m/m), with a consistent +0.06% premium."
+    },
+    {
+      "line_title": "Static Discounts",
+      "line_content": "Lower-priced GDS fares held at 0.51%, flat w/w and m/m, with a marginal –0.22% average discount."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Elevated Premium",
+      "line_content": "Short-haul routes saw 60.0% GDS-higher frequency (up 7.4pp w/w, 11.4pp m/m), with a +0.06% price difference."
+    },
+    {
+      "line_title": "Long-Haul Stable Parity",
+      "line_content": "Long-haul itineraries maintained 65.7% parity (–4.0pp w/w) while higher offers rose to 34.3%, reflecting a +0.05% premium."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "QA Markets Balance",
+      "line_content": "Within Qatar origins, 52.4% of fares matched (–2.9pp w/w) while 47.3% ran higher (+3.1pp), averaging +0.06% premium."
+    },
+    {
+      "line_title": "Non-QA Premium Bias",
+      "line_content": "Non-Qatar origins saw 55.4% GDS-higher (up 9.3pp w/w, 13.8pp m/m) with matches at 40.0% (–10.0pp w/w)."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Near Parity",
+      "line_content": "Close-in bookings delivered 47.7% GDS-higher (+6.9pp w/w) and 49.8% parity (–7.5pp), with an average +0.07% uplift."
+    },
+    {
+      "line_title": "Far-Out Premium Concentration",
+      "line_content": "Far-out bookings featured 58.0% GDS-higher (+4.2pp w/w, +9.1pp m/m) and 39.8% matches, highlighting stronger early-booking premiums."
+    }
+  ]
+}

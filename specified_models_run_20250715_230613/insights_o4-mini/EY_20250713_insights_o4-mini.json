@@ -1,0 +1,200 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA parity softening",
+      "line_content": "OTA fares matched Etihad’s site in over 76% of searches last week but parity share has declined by 4.8 points week-on-week and 8.2 points month-on-month, indicating growing discrepancies."
+    },
+    {
+      "line_title": "MSE consistent discounting",
+      "line_content": "MSE delivered lower fares on 100% of itineraries last week, averaging a 0.10% advantage and increasing its lower-fare share by 1.6 points week-on-week."
+    },
+    {
+      "line_title": "GDS stable alignment",
+      "line_content": "GDS maintained 88.54% price parity with the website and showed modest premium and discount activity, reflecting strong overall alignment."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "High overall parity with emerging gaps",
+      "line_content": "OTA fares matched the website in over three-quarters of searches last week, but parity share has fallen by 4.8 points week-on-week and 8.2 points month-on-month, signaling creeping discrepancies."
+    },
+    {
+      "line_title": "Increasing undercut activity",
+      "line_content": "OTA undercuts rose to 21.35% of searches last week (up 8.1 points from prior week and 9.9 points from last month), though average undercut depth remains modest at 0.02%."
+    },
+    {
+      "line_title": "Origin and timing drive variance",
+      "line_content": "Under AE origins and close-in bookings, OTA undercuts peaked at 40.00% and 25.41% respectively, highlighting segments where channel pricing diverges most from the site."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA unavailability",
+      "line_content": "OTA listings were unavailable in 1.04% of searches last week, a slight reduction of 0.02 points week-on-week and 0.59 points month-on-month."
+    },
+    {
+      "line_title": "Price parity prevalence",
+      "line_content": "Prices matched the website in 76.56% of OTA searches last week, though parity share is down 4.82 points week-on-week and 8.22 points month-on-month."
+    },
+    {
+      "line_title": "OTA higher than site",
+      "line_content": "OTA fares exceeded site prices in only 1.04% of searches last week (down 3.21 points week-on-week), with an average premium of 0.19%."
+    },
+    {
+      "line_title": "OTA lower than site",
+      "line_content": "OTA fares undercut the site in 21.35% of searches last week, up 8.06 points week-on-week and averaging a 0.02% discount."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-haul mirrors overall",
+      "line_content": "Short-haul routes reflect total OTA trends with 76.56% parity, 21.35% undercuts and similar week-on-week parity declines of 4.82 points."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic (AE) discrepancies",
+      "line_content": "For AE origins, undercuts reached 40.00% last week (up 12.83 points), while parity fell to 57.89%, down 9.50 points week-on-week."
+    },
+    {
+      "line_title": "Stable non-AE pricing",
+      "line_content": "Non-AE origins saw 94.85% parity last week (up 1.03 points) and only 3.09% undercuts, indicating tight alignment with site fares."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-in booking shifts",
+      "line_content": "Close-in bookings experienced 25.41% undercuts last week (up 11.85 points) and parity at 71.31%, down 8.35 points from the prior week."
+    },
+    {
+      "line_title": "Far-out booking steadiness",
+      "line_content": "Far-out bookings held 85.92% parity last week (up 0.41 points) with undercuts at 14.08%, demonstrating minimal week-on-week volatility."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Consistent Lower Pricing",
+      "line_content": "In the latest week, MSE fares were lower than the website on 100% of evaluated itineraries, delivering an average price advantage of 0.10%."
+    },
+    {
+      "line_title": "Growing Share of Discounts",
+      "line_content": "The proportion of lower-priced itineraries on MSE rose by 1.59% week-over-week and by 1.09% month-over-month, signaling an expanding channel advantage."
+    },
+    {
+      "line_title": "Strong Close-In Performance",
+      "line_content": "Close-in bookings saw the largest weekly jump in lower-fare share (+2.50%), underlining aggressive short-term pricing on MSE."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Predominant Lower Pricing",
+      "line_content": "MSE offered lower fares on 100% of itineraries last week, up from 98.41% in the previous week and 98.91% month-over-month."
+    },
+    {
+      "line_title": "Minimal Price Parity",
+      "line_content": "Exact price matches between MSE and the website occurred on 0% of itineraries last week, down from 1.06% in the prior week."
+    },
+    {
+      "line_title": "No Higher-Priced Instances",
+      "line_content": "There were no cases where MSE fares exceeded website prices in the latest week, week-over-week, or month-over-month periods."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Discount Consistency",
+      "line_content": "For short-haul routes, MSE delivered lower fares on 100% of itineraries last week with an average 0.10% price gap and saw lower-fare share grow by 1.59% week-over-week and 1.09% month-over-month."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "UAE Origins",
+      "line_content": "For bookings originating in the UAE, MSE was lower on 100% of itineraries last week, averaging a 0.12% fare advantage and a 2.17% weekly increase in lower-fare occurrences."
+    },
+    {
+      "line_title": "Non-UAE Origins",
+      "line_content": "On non-UAE origins, MSE fares were lower on 100% of itineraries last week with an average 0.07% price benefit and a 1.03% week-over-week rise in lower-fare share."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Discounts",
+      "line_content": "For close-in bookings, MSE offered lower fares on 100% of itineraries last week, averaging a 0.10% price improvement and a 2.50% uplift in lower-fare share week-over-week."
+    },
+    {
+      "line_title": "Far-Out Booking Stability",
+      "line_content": "In the far-out window, MSE lower-priced share remained flat at 100% week-over-week, maintaining a roughly 0.09% average fare advantage."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Dominant Price Parity",
+      "line_content": "Etihad’s GDS channel shows price parity on 88.54% of itineraries last week, a 0.24% increase versus the prior week, reflecting stable alignment with website fares."
+    },
+    {
+      "line_title": "Modest Premium Prevalence",
+      "line_content": "Approximately 9.90% of itineraries were priced higher on GDS last week, down 0.74% week-on-week but up 2.29% month-on-month, carrying an average 0.04% premium."
+    },
+    {
+      "line_title": "Rare but Growing Discounts",
+      "line_content": "GDS-lower offerings remain under 2% of itineraries but saw frequency rise by 0.50% week-on-week and 1.02% month-on-month, delivering an average 0.04% discount."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Website-Only Offers Missing",
+      "line_content": "No itineraries last week were exclusive to the website, indicating full availability alignment between Etihad’s site and GDS."
+    },
+    {
+      "line_title": "Price Parity (Same)",
+      "line_content": "88.54% of itineraries matched website fares last week, up 0.24% week-on-week and down 2.76% month-on-month, underscoring sustained parity."
+    },
+    {
+      "line_title": "GDS Higher",
+      "line_content": "9.90% of itineraries carried higher GDS fares last week, with average premiums of 0.04%, a 0.74% drop week-on-week and a 2.29% rise month-on-month."
+    },
+    {
+      "line_title": "GDS Lower",
+      "line_content": "1.56% of itineraries were cheaper on GDS last week, offering 0.04% average discounts and frequency gains of 0.50% week-on-week and 1.02% month-on-month."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Dynamics",
+      "line_content": "Short-haul itineraries mirror overall channel trends: 88.54% parity, 9.90% premiums at 0.04% average, and 1.56% discounts averaging 0.04%."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Origin AE",
+      "line_content": "Within UAE origins, 80.85% of fares were on par, 19.15% priced higher by 0.03% on average (up 0.47% w/w, 4.86% m/m), and no lower-priced instances."
+    },
+    {
+      "line_title": "Origin Non-AE",
+      "line_content": "Non-UAE origins held 95.88% parity, 1.03% premium share at 0.18% markup (down 2.06% w/w), and 3.09% discounts averaging 0.04% off."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in itineraries saw 88.33% parity, 10.00% higher fares at 0.04% average, and 1.67% discounts delivering 0.04% off."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings maintained 88.73% parity, 9.86% premiums at 0.02% average, and 1.41% discounts averaging 0.03% off."
+    }
+  ]
+}

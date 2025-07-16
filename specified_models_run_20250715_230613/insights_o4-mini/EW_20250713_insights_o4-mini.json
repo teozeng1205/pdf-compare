@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Parity & Long-Haul Premium",
+      "line_content": "OTA pricing remained aligned on 57.8% of routes last week with minimal variance overall, though long-haul itineraries saw markups on nearly 29% of routes."
+    },
+    {
+      "line_title": "MSE Dominant Discounting",
+      "line_content": "MSE displays a dominant discount trend, with 68.4% of itineraries priced below website levels and far-out bookings discounted at 98.3%, underscoring channel-driven price incentives."
+    },
+    {
+      "line_title": "GDS Limited Coverage & Premiums",
+      "line_content": "GDS coverage is limited to 14.6% of routes, yet these listed itineraries carry an average 0.62% markup, notably driven by long-haul premium growth."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Dominant Price Parity",
+      "line_content": "OTA parity accounted for 57.8% of routes last week, a marginal 0.3 pp dip WoW yet a robust 6.8 pp gain MoM, underscoring stable price alignment on the majority of itineraries."
+    },
+    {
+      "line_title": "Minimal Price Variance",
+      "line_content": "Only 7.1% of routes showed OTA markups at an average +0.09% and 3.0% showed discounts at −0.22%, indicating negligible booking-channel price gaps."
+    },
+    {
+      "line_title": "Long-Haul Markup Concentration",
+      "line_content": "Nearly 29% of long-haul routes carried OTA markups versus just 5.6% on short-haul, highlighting greater premium incidence on extended-distance itineraries."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA Coverage Gap",
+      "line_content": "32.1% of ODs lacked an OTA offer last week, edging up ~1 pp WoW and MoM, suggesting a small increase in website-only availability."
+    },
+    {
+      "line_title": "Parity Prevalence",
+      "line_content": "57.8% of routes were priced identically OTA vs website last week, down 0.3 pp WoW but up 6.8 pp MoM, reinforcing overall alignment."
+    },
+    {
+      "line_title": "OTA Premiums",
+      "line_content": "7.1% of routes were priced higher on OTA, declining 0.5 pp WoW and 7.8 pp MoM, with an average markup of just +0.09%."
+    },
+    {
+      "line_title": "OTA Discounts",
+      "line_content": "3.0% of routes showed OTA discounts, down slightly WoW, with an average price reduction of −0.22%, indicating limited channel-led discounts."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Parity & Variance",
+      "line_content": "Short-haul routes saw 59.2% parity last week (−0.7 pp WoW, +6.9 pp MoM), only 5.6% marked up by +0.10% on average and 3.0% discounted by −0.23%."
+    },
+    {
+      "line_title": "Long-Haul Markup Intensity",
+      "line_content": "Long-haul parity was 36.0% (up 4.5 pp WoW, 5.5 pp MoM), while 28.8% carried OTA markups (avg +0.04%), indicating persistent premium in extended-distance markets."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Germany Origin Dynamics",
+      "line_content": "DE-origin routes achieved 64.5% parity (−0.4 pp WoW, +7.5 pp MoM), just 2.2% bore markups at +0.25%—the highest average OTA premium."
+    },
+    {
+      "line_title": "Non-DE Origin Spread",
+      "line_content": "Non-DE origins trailed with 50.5% parity (+0.1 pp WoW, +6.5 pp MoM) and 12.5% markup share (avg +0.06%), reflecting wider OTA-website gaps outside Germany."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Gaps",
+      "line_content": "Close-in bookings saw 49.8% parity (+4.1 pp MoM) but a 40.5% OTA-N/A rate (+2.3 pp WoW), with 6.7% of fares marked up by +0.08%."
+    },
+    {
+      "line_title": "Far-Out Stability",
+      "line_content": "Far-out itineraries achieved 87.8% parity (up 6.3 pp WoW, 21.6 pp MoM) and minimal OTA-N/A at 0.6%, with 8.5% of fares at a +0.12% markup."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Dominant Discount Trend",
+      "line_content": "Across all routes on MSE, 68.4% of itineraries are priced lower than the website in the latest week, indicating consistent discounting on the channel."
+    },
+    {
+      "line_title": "Booking Window Extremes",
+      "line_content": "Far-out bookings see the strongest MSE discounts with 98.3% priced below the website, while close-in bookings have 60.5% discounted, highlighting a widening gap by booking lead time."
+    },
+    {
+      "line_title": "Long-Haul Coverage Improving",
+      "line_content": "Long-haul availability on MSE improved, with missing listings down 2.9% week-over-week and discounted offers growing by 2.3%, strengthening the channel’s long-haul presence."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Missing Listings",
+      "line_content": "On MSE, 31.2% of itineraries lack a channel listing, up 0.5% versus last week and 0.6% versus last month, indicating slight coverage gaps."
+    },
+    {
+      "line_title": "Identical Pricing",
+      "line_content": "Identical fares represent just 0.4% of itineraries, remaining stable with negligible week-over-week and month-over-month changes."
+    },
+    {
+      "line_title": "Higher Channel Prices",
+      "line_content": "Only 0.03% of itineraries are priced higher on MSE, averaging 1.09% above website levels and showing flat week and month trends."
+    },
+    {
+      "line_title": "Channel Discounts Prevalent",
+      "line_content": "A dominant 68.4% of itineraries show lower fares on MSE versus the website, with a modest week-over-week dip (−0.5%) but a 2.2% gain over the month."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Pricing Patterns",
+      "line_content": "Short-haul routes mirror the overall trend with 68.6% discounted on MSE and missing coverage at 31.2%, both largely flat week-over-week."
+    },
+    {
+      "line_title": "Long-Haul Growth",
+      "line_content": "Long-haul listings on MSE improved with missing offers down 2.9% week-over-week and discounted share up 2.3%, signaling strengthening presence."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "DE Origin Performance",
+      "line_content": "DE-origin itineraries have 69.3% discounted on MSE, up 2.1% monthly, while missing listings remain around 30.6%."
+    },
+    {
+      "line_title": "Non-DE Origin Trends",
+      "line_content": "Non-DE routes see 67.5% fares lower on MSE, up 2.3% month-over-month but down 0.7% week-over-week, with coverage gaps near 31.8%."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Dynamics",
+      "line_content": "Close-in bookings show 60.5% discounts on MSE with missing listings at 39.3%, and discount share dipping 1.4% week-over-week."
+    },
+    {
+      "line_title": "Far-Out Booking Strength",
+      "line_content": "Far-out itineraries enjoy 98.3% discounted fares on MSE and near-full coverage (0.9% missing), with discounted share up 17.3% month-over-month."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Limited GDS Coverage",
+      "line_content": "85.4% of Eurowings itineraries are not listed on GDS, although missing coverage edged down 0.07 pp week-over-week and 0.23 pp month-over-month."
+    },
+    {
+      "line_title": "Consistent GDS Premiums",
+      "line_content": "14.6% of routes on GDS are priced higher than the website, with an average markup of 0.62%, up 0.07 pp from the prior week."
+    },
+    {
+      "line_title": "Long-Haul Drives Premium Growth",
+      "line_content": "Long-haul share of higher-priced GDS listings reached 30.9%, the highest across segments, rising 0.97 pp week-over-week with a 0.45% average uplift."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A Prevalence",
+      "line_content": "Majority of ODs (85.40%) are not found on GDS, with missing coverage slightly improving week-over-week (−0.07 pp) and month-over-month (−0.23 pp)."
+    },
+    {
+      "line_title": "No Matching Prices",
+      "line_content": "No itineraries on GDS matched Eurowings website fares, indicating zero ‘SAME’ occurrences in the latest period."
+    },
+    {
+      "line_title": "GDS Higher Pricing",
+      "line_content": "14.60% of itineraries show GDS fares above website levels, with an average premium of 0.62%, up 0.07 pp from last week and 0.23 pp month-over-month."
+    },
+    {
+      "line_title": "Negligible Lower Pricing",
+      "line_content": "There are no instances of GDS fares undercutting the website, with ‘GDS LOWER’ frequency remaining at 0%."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Premium Share",
+      "line_content": "13.52% of short-haul routes on GDS carry a 0.64% average markup, up 0.05 pp week-over-week."
+    },
+    {
+      "line_title": "Long-Haul Premium Share",
+      "line_content": "30.93% of long-haul routes are priced above website levels on GDS, rising 0.97 pp week-over-week with a 0.45% markup."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Germany (DE) Coverage",
+      "line_content": "German origin routes are entirely absent from GDS, with 100% of DE ODs not listed."
+    },
+    {
+      "line_title": "Non-DE Premium Trends",
+      "line_content": "30.60% of non-DE itineraries on GDS are priced higher by 0.62% on average, though share dipped 0.28 pp week-over-week."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "12.70% of close-in itineraries are marked up on GDS by 0.60% on average, down 0.26 pp week-over-week."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "21.62% of far-out itineraries carry a 0.65% premium on GDS, up 1.78 pp week-over-week."
+    }
+  ]
+}

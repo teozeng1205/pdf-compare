@@ -1,0 +1,184 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Premium Consistency",
+      "line_content": "OTA fares exceeded the Virgin Australia website price in 81.02% of itineraries last week, indicating a consistent third-party premium with minor weekly convergence trends."
+    },
+    {
+      "line_title": "MSE Discount Leadership",
+      "line_content": "MSE fares were lower than the Virgin Australia website in 85.4% of itineraries last week, demonstrating deep channel discounts despite a slight week-over-week pullback."
+    },
+    {
+      "line_title": "GDS Pricing Premium",
+      "line_content": "GDS fares commanded a premium on 82.08% of itineraries last week at an average 4% above website prices, while price parity rose modestly to 17.33%."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "OTA Price Premium",
+      "line_content": "Last week OTA fares exceeded the website price in 81.02% of itineraries, underscoring a consistent premium on third-party distribution."
+    },
+    {
+      "line_title": "Minimal Lower-Price Occurrences",
+      "line_content": "Instances of OTA fares below the website remain negligible at 0.49%, despite a modest weekly uptick of 0.11 percentage points."
+    },
+    {
+      "line_title": "Slight Convergence Trend",
+      "line_content": "Week-on-week, the share of OTA higher pricing eased by 0.09 percentage points while same-price matches inched up by 0.05 points, indicating minor price alignment."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found (OTA N/A)",
+      "line_content": "OTA channels lacked the website offer in 1.84% of itineraries last week, down 0.07 points week-on-week and 0.72 points month-on-month."
+    },
+    {
+      "line_title": "Same Price",
+      "line_content": "Exact price parity occurred in 16.66% of itineraries last week, essentially flat week-on-week (+0.05 points) and up 2.86 points versus the prior month."
+    },
+    {
+      "line_title": "OTA Higher",
+      "line_content": "OTA fares were higher in 81.02% of itineraries last week, a slight decrease of 0.09 points week-on-week and 2.13 points month-on-month."
+    },
+    {
+      "line_title": "OTA Lower",
+      "line_content": "OTA fares were lower in only 0.49% of itineraries last week, reflecting a 0.11 point weekly rise and negligible monthly change."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Premium",
+      "line_content": "On short-haul routes, OTA fares were higher in 81.02% of itineraries last week, mirroring the overall channel and down 0.09 points week-on-week."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Australian Market Alignment",
+      "line_content": "From Australian origins, OTA fares exceeded site prices in 81.02% of itineraries last week, consistent with the channel’s overall trend and 2.13 points lower than last month."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Premium",
+      "line_content": "For bookings made close-in, 78.23% of OTA fares were higher last week (up 2.45 points week-on-week), while same-price matches fell by 2.39 points."
+    },
+    {
+      "line_title": "Far-Out Booking Convergence",
+      "line_content": "For far-out bookings, same-price matches rose to 13.69% (up 4.50 points week-on-week) and OTA higher fares declined by 4.80 points to 85.86%, signaling modest convergence."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Channel Discounting Prevalence",
+      "line_content": "In the latest week, 85.4% of MSE fares were lower than Virgin Australia’s website, underscoring deep channel discounts."
+    },
+    {
+      "line_title": "Slight Decline in Discounts",
+      "line_content": "Discounted fares on MSE decreased by 0.9 pp week-over-week and by 2.45 pp month-over-month, indicating a modest pullback in undercutting."
+    },
+    {
+      "line_title": "Parity Gains",
+      "line_content": "Fares matching the website price on MSE rose to 14.2%, up 0.7 pp week-over-week and 2.35 pp month-over-month, reflecting growing price alignment."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Dominant Discounting",
+      "line_content": "85.4% of all itineraries on MSE were priced lower than the website in the latest week, demonstrating consistent channel undercutting despite slight weekly and monthly declines."
+    },
+    {
+      "line_title": "Growing Price Parity",
+      "line_content": "14.2% of fares matched the website price on MSE last week, marking a 0.7 pp increase from the prior week and 2.35 pp rise from the previous month."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Discount Depth",
+      "line_content": "Short-haul routes saw 85.4% of MSE fares priced below the website last week, a 0.9 pp slide week-over-week and 2.45 pp drop month-over-month."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Australia Origins Pricing",
+      "line_content": "Australian-origin itineraries mirrored overall trends with 85.4% lower fares on MSE last week, down 0.9 pp week-over-week and 2.45 pp month-over-month."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Window Discounts",
+      "line_content": "95.3% of close-in bookings on MSE were priced below the website last week, reflecting a 0.9 pp weekly decline and 1.81 pp month-over-month decline in discounted fares."
+    },
+    {
+      "line_title": "Far-Out Window Dynamics",
+      "line_content": "68.2% of far-out itineraries showed lower MSE fares last week, down 0.3 pp week-over-week and 2.83 pp month-over-month, while matching fares held at 30.8%."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Widespread GDS Premium",
+      "line_content": "GDS fares exceeded website prices on 82.08% of routes last week, commanding an average 4% premium."
+    },
+    {
+      "line_title": "Stable Price Parity",
+      "line_content": "Price parity held on 17.33% of routes in the latest week, up 3.04 percentage points month-over-month."
+    },
+    {
+      "line_title": "Minimal GDS Discounts",
+      "line_content": "GDS fares were lower on just 0.60% of routes last week, with an average discount of 0.17%."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Channel Unavailable",
+      "line_content": "GDS availability remained near zero (0.00%) last week, a 0.71-point drop versus the prior month."
+    },
+    {
+      "line_title": "Parity Frequency",
+      "line_content": "Matching fares appeared on 17.33% of itineraries last week, a slight 0.12-point gain week-over-week."
+    },
+    {
+      "line_title": "Higher-Priced Share",
+      "line_content": "82.08% of itineraries showed GDS fares above the website last week, down 0.01 points from the prior week."
+    },
+    {
+      "line_title": "Lower-Priced Share",
+      "line_content": "Only 0.60% of itineraries had GDS fares below the website, a 0.11-point decline week-over-week."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Trends",
+      "line_content": "Short-haul routes mirrored overall patterns: 82.08% GDS premium, 17.33% parity and negligible discounts."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Australia Origins",
+      "line_content": "Domestic (AU) origins align with the overall mix: 82.08% GDS higher, 17.33% same, 0.60% lower."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Within 0–7 days, 79.85% of fares were higher on GDS (up 2.40 points week-over-week), with parity at 19.47%."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Beyond 7 days, 85.86% of fares were higher on GDS (down 4.64 points week-over-week), while parity rose to 13.54%."
+    }
+  ]
+}

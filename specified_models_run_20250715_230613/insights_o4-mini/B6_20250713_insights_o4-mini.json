@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Distribution Gap",
+      "line_content": "The OTA channel omitted 18.5% of itineraries last week, rising both week-on-week and month-on-month and highlighting increasing site exclusivity."
+    },
+    {
+      "line_title": "MSE Price Alignment",
+      "line_content": "Meta search engines achieved 61.9% exact parity last week, up 0.35 percentage points week-on-week and nearly 2 points month-on-month, reflecting improved rate consistency."
+    },
+    {
+      "line_title": "GDS Parity Dominance",
+      "line_content": "GDS listings matched JetBlue’s website fares 80.9% of the time last week, underscoring strong overall price alignment with minimal divergence."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "High Website Exclusivity",
+      "line_content": "18.5% of all ODs were not offered on the OTA channel last week, marking a 0.35-point increase week-on-week and a 0.25-point rise month-on-month, underscoring growing site exclusivity."
+    },
+    {
+      "line_title": "Strong Price Parity",
+      "line_content": "80.2% of itineraries showed price parity between the airline site and OTAs last week, remaining dominant despite a slight 0.34-point weekly and 0.21-point monthly dip."
+    },
+    {
+      "line_title": "Minimal Price Deviations",
+      "line_content": "Less than 1.0% of fares were marked up on OTAs (averaging +0.20%) and only 0.4% were priced lower (averaging −0.18%), with both metrics largely stable over recent periods."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Offers Missing on OTA",
+      "line_content": "18.45% of ODs lacked an OTA offer last week, up 0.35 percentage points versus the prior week and up 0.25 points versus the prior month."
+    },
+    {
+      "line_title": "Price Parity Prevalence",
+      "line_content": "80.20% of itineraries were priced identically on OTAs and the airline site last week, a slight decline of 0.34 points from last week and 0.21 points from last month."
+    },
+    {
+      "line_title": "OTAs Marked-Up Fares",
+      "line_content": "0.96% of fares on OTAs were higher than on the site last week, down 0.08 points week-on-week, with an average markup of +0.20%."
+    },
+    {
+      "line_title": "OTAs Discounted Fares",
+      "line_content": "0.39% of fares were lower on OTAs last week, up 0.06 points week-on-week, featuring an average discount of −0.18%."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Parity Dominance",
+      "line_content": "Short-haul itineraries achieved 95.6% price parity on OTAs last week, with 1.08% marked up (+0.21% avg) and 0.54% discounted (−0.18% avg)."
+    },
+    {
+      "line_title": "Long-Haul Coverage Gap",
+      "line_content": "50.1% of long-haul ODs had no OTA presence versus 49.1% parity, while only 0.73% were marked up (+0.18%) and 0.09% discounted (−0.18%)."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "US Market Dynamics",
+      "line_content": "US ODs showed 21.3% missing OTA offers and 77.5% parity, with just 0.81% marked up (+0.25%) and 0.39% discounted (−0.17%)."
+    },
+    {
+      "line_title": "Non-US Market Dynamics",
+      "line_content": "Non-US ODs had only 2.8% missing on OTAs and 95.1% parity, but a higher 1.78% markup (+0.09%) versus US routes."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Trends",
+      "line_content": "Close-in itineraries saw 18.7% missing on OTAs (up 0.67 points W/W) and 79.7% parity, with 1.14% marked up (+0.24%) and 0.48% discounted (−0.19%)."
+    },
+    {
+      "line_title": "Far-Out Booking Trends",
+      "line_content": "Far-out itineraries had 17.9% missing on OTAs (down 0.31 points W/W) and 81.4% parity, with minimal markup at 0.57% (+0.03%) and 0.09% discounted (−0.07%)."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Strong Price Parity",
+      "line_content": "MSE achieved exact price parity on 61.88% of itineraries last week, up 0.35 ppt wk/wk and 1.92 ppt m/m, underscoring consistent rate alignment."
+    },
+    {
+      "line_title": "Declining Discounts",
+      "line_content": "Discounted fares appeared in 13.74% of cases, down 1.75 ppt wk/wk and 1.36 ppt m/m, with an average 14% lower fare than JetBlue’s website."
+    },
+    {
+      "line_title": "Rising Premiums",
+      "line_content": "Premium fares represented 6.78% of listings last week (+1.44 ppt wk/wk) and carried an average 5% markup, highlighting selective upsell potential."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Availability Gap",
+      "line_content": "MSE N/A frequency was 17.61% last week, virtually flat wk/wk (−0.04 ppt) and m/m (−0.38 ppt), indicating steady distribution coverage."
+    },
+    {
+      "line_title": "Price Parity Prevalence",
+      "line_content": "Exact price matches held at 61.88% last week, rising 0.35 ppt wk/wk and 1.92 ppt m/m, demonstrating strong alignment with website rates."
+    },
+    {
+      "line_title": "Channel Premiums",
+      "line_content": "MSE higher share was 6.78% last week (+1.44 ppt wk/wk), with an average 5% fare premium, signaling targeted upsell opportunities."
+    },
+    {
+      "line_title": "Channel Discounts",
+      "line_content": "MSE lower share was 13.74% last week, down 1.75 ppt wk/wk and 1.36 ppt m/m, averaging a 14% discount vs. the website."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Parity",
+      "line_content": "Short-haul routes delivered 71.66% parity last week (+0.51 ppt wk/wk, +2.31 ppt m/m) and 16.59% discounts averaging −14% fare variance."
+    },
+    {
+      "line_title": "Long-Haul Coverage Gaps",
+      "line_content": "Long-haul itineraries lacked coverage on 49.68% last week, with just 42.16% parity and a minimal 0.18% premium share carrying a 16% markup."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "US-Origin Parity",
+      "line_content": "US itineraries saw 66.32% parity last week (+1.37 ppt wk/wk), with only 0.53% premium listings averaging +17% fare markup."
+    },
+    {
+      "line_title": "Non-US Premium Divergence",
+      "line_content": "Non-US trips exhibited 41.62% premium share last week (+9.06 ppt wk/wk), outpacing 37.08% parity and highlighting greater misalignment."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Dynamics",
+      "line_content": "Close-in bookings achieved 58.99% parity last week (+0.88 ppt wk/wk), with 16.58% discounts averaging −15% fare variance."
+    },
+    {
+      "line_title": "Far-Out Stability",
+      "line_content": "Far-out bookings maintained the highest parity at 68.09% last week, limited discounts (7.60%) and modest premiums (6.65%) averaging +3% markup."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Dominant Price Parity",
+      "line_content": "About 80.9% of fares on GDS matched JetBlue’s website last week, underscoring strong price alignment in this channel."
+    },
+    {
+      "line_title": "Minimal Discrepancies",
+      "line_content": "Only 1.17% of GDS listings showed any price difference—0.87% higher and 0.30% lower—indicating very limited divergence."
+    },
+    {
+      "line_title": "Recent Premium Uptick",
+      "line_content": "Premium GDS offers rose 7% week-over-week (despite a 10% month-over-month decline), sustaining an average 0.20% markup."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Coverage Gap Stability",
+      "line_content": "Approximately 17.9% of itineraries lacked GDS representation last week, with a marginal 0.04% weekly decrease and negligible monthly change."
+    },
+    {
+      "line_title": "Consistent Price Parity",
+      "line_content": "Matched fares accounted for 80.9% of GDS listings last week, fluctuating within ±0.03% week-over-week and month-over-month."
+    },
+    {
+      "line_title": "Premium GDS Pricing",
+      "line_content": "Higher-priced GDS offers represented 0.87% of listings, rising 7% week-over-week but down 10% month-over-month, with an average 0.20% markup."
+    },
+    {
+      "line_title": "Discounted GDS Pricing",
+      "line_content": "Lower-priced GDS offers made up 0.30% of listings, stable week-over-week and up 6% month-over-month, averaging a 0.18% discount."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Parity Strength",
+      "line_content": "Short-haul routes exhibit 96.4% price parity, a slight 0.08% weekly dip offset by a 0.24% monthly gain, with just 0.4% of fares lower and 0.99% higher on GDS."
+    },
+    {
+      "line_title": "Long-Haul Coverage Gap",
+      "line_content": "Long-haul routes show a 49.7% coverage gap in GDS listings, parity at 49.6%, and marginal variances of 0.63% higher-priced and 0.09% lower-priced fares."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "US-Origin Consistency",
+      "line_content": "US markets yield 78.8% parity on GDS with 20.3% unmatched, 0.64% higher-priced and 0.32% lower-priced fares; unmatched share declined 0.27% month-over-month."
+    },
+    {
+      "line_title": "Non-US Price Variance",
+      "line_content": "Non-US origins maintain 93.1% parity but saw a 1.27% monthly rise in non-availability, with higher-priced fares at 2.17%, over triple the US rate."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Variance",
+      "line_content": "Close-in bookings show 80.7% parity with 1.05% higher-priced and 0.39% lower-priced fares, while availability held within a 0.04% weekly range."
+    },
+    {
+      "line_title": "Far-Out Booking Stability",
+      "line_content": "Far-out bookings sustain 81.4% parity with low discrepancy rates (0.47% higher, 0.09% lower) and negligible shifts in availability."
+    }
+  ]
+}

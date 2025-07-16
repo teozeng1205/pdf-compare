@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Channel Overview",
+      "line_content": "OTA fare parity remains relatively strong at 84.2%, with volatility in lower fares and a modest uptick in premiums indicating subtle shifts in channel pricing."
+    },
+    {
+      "line_title": "MSE Undercut Dominance",
+      "line_content": "MSE continues to undercut the Thai Airways site on 91.7% of itineraries with negligible price gaps, though exact matches have shrunk to 6.7%."
+    },
+    {
+      "line_title": "GDS Parity Erosion",
+      "line_content": "GDS fare parity declined to 76.3% last week amid rising discounts and premiums, highlighting a widening price dispersion across that channel."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Stable Price Parity",
+      "line_content": "OTA fare parity holds at 84.2% with a minor 2.6% month-on-month dip in matched fares."
+    },
+    {
+      "line_title": "Volatile Lower Fares",
+      "line_content": "Channel-lower fares dipped 1.1pp week-on-week but climbed 2.9pp month-on-month, indicating short-term volatility."
+    },
+    {
+      "line_title": "Rising Premiums",
+      "line_content": "Instances where OTAs price above the website increased by 0.95pp week-on-week and 0.12pp month-on-month, signaling modest premium growth."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A Coverage",
+      "line_content": "Unpriced itineraries stood at 2.52%, flat week-on-week (+0.02pp) and down 0.40pp month-on-month."
+    },
+    {
+      "line_title": "Price Parity (SAME)",
+      "line_content": "Matched fares accounted for 84.17%, up 0.12pp week-on-week but down 2.57pp month-on-month."
+    },
+    {
+      "line_title": "Channel Lower Shares",
+      "line_content": "Lower OTA fares were 7.34% of mix, down 1.09pp week-on-week yet up 2.85pp month-on-month."
+    },
+    {
+      "line_title": "Channel Higher Shares",
+      "line_content": "Higher OTA fares reached 5.96%, rising 0.95pp week-on-week and 0.12pp month-on-month."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Parity",
+      "line_content": "Short-haul routes held 82.93% parity, up 0.18pp week-on-week but down 2.64pp month-on-month."
+    },
+    {
+      "line_title": "Long Haul Variance",
+      "line_content": "Long-haul parity was 91.04%, but fell 2.99pp week-on-week and 2.71pp month-on-month as OTA premiums increased."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic (TH) Trends",
+      "line_content": "Thailand-origin itineraries had 92.44% fare matching, down 0.35pp week-on-week and 1.12pp month-on-month amid occasional OTA dips."
+    },
+    {
+      "line_title": "International (Non-TH) Trends",
+      "line_content": "Non-Thailand origins showed 53.85% parity, up 2.23pp week-on-week but down 5.24pp month-on-month with high volatility."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in bookings exhibited 80.00% parity, decreasing 1.31pp week-on-week and 4.93pp month-on-month as lower OTA fares rose."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out itineraries showed 92.05% parity, up 1.51pp week-on-week and 1.92pp month-on-month, with higher OTA fares increasing 1.24pp."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Dominant Undercut",
+      "line_content": "MSE fares were lower than the site in 91.7% of itineraries, up from 88.4% week-on-week and 71.7% month-on-month."
+    },
+    {
+      "line_title": "Shrinking Parity",
+      "line_content": "Price parity on MSE fell to 6.7%, down 3.9pp week-on-week and 20.1pp month-on-month."
+    },
+    {
+      "line_title": "Minimal Price Gaps",
+      "line_content": "When MSE is lower it averages a 0.08% discount, matching the 0.08% surcharge when it is higher."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE LOWER Dominance",
+      "line_content": "Lower fares appeared in 91.7% of itineraries, marking a 3.4pp week-on-week and 20.1pp month-on-month increase."
+    },
+    {
+      "line_title": "Parity Decline",
+      "line_content": "Exact matches dropped to 6.7%, a 3.9pp decrease week-on-week and a 20.1pp drop month-on-month."
+    },
+    {
+      "line_title": "MSE HIGHER Stability",
+      "line_content": "Routes with higher MSE fares remain rare at 0.9%, stable week-on-week with a slight 0.2pp month-on-month rise."
+    },
+    {
+      "line_title": "Minimal Data Gaps",
+      "line_content": "Listings not found on MSE comprised only 0.7%, up 0.2pp week-on-week and down 0.2pp month-on-month."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Undercut",
+      "line_content": "Short-haul routes saw MSE lower fares 91.6% of the time, up 4.3pp week-on-week with a 0.09% average discount."
+    },
+    {
+      "line_title": "Long Haul Undercut",
+      "line_content": "Long-haul itineraries had lower MSE rates 93.9% of the time, down 0.1pp week-on-week with a 0.06% average discount."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic Origins",
+      "line_content": "Thailand-origin routes had undercuts on 91.6% of itineraries, up 5.1pp week-on-week at a 0.08% average discount."
+    },
+    {
+      "line_title": "International Origins",
+      "line_content": "Non-Thailand origins saw MSE lower fares 91.2% of the time, down 2.3pp week-on-week with a 0.11% average discount."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in itineraries had MSE lower fares 93.7% of the time, up 4.0pp week-on-week with a 0.10% average discount."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out itineraries recorded lower MSE prices 88.0%, up 2.8pp week-on-week at a 0.06% average discount."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Eroding Parity",
+      "line_content": "GDS parity declined to 76.32%, down 3.40pp week-on-week and 11.99pp month-on-month."
+    },
+    {
+      "line_title": "Growing Discounts",
+      "line_content": "GDS offered lower fares on 13.79% of itineraries, up 1.49pp week-on-week and 7.50pp month-on-month with a 0.20% average discount."
+    },
+    {
+      "line_title": "Rising Premiums",
+      "line_content": "GDS fares above the website grew to 9.89%, climbing 1.91pp week-on-week and 5.17pp month-on-month with a 0.16% average premium."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A Coverage",
+      "line_content": "No itineraries were missing, maintaining full listing coverage despite a 0.67pp month-on-month drop."
+    },
+    {
+      "line_title": "Matching Fares",
+      "line_content": "Fare parity held at 76.32%, contracting 3.40pp week-on-week and 11.99pp month-on-month."
+    },
+    {
+      "line_title": "Lower-priced Fares",
+      "line_content": "Discounted GDS fares represented 13.79% of itineraries, up 1.49pp week-on-week and 7.50pp month-on-month."
+    },
+    {
+      "line_title": "Higher-priced Fares",
+      "line_content": "Premium GDS fares accounted for 9.89% of itineraries, rising 1.91pp week-on-week and 5.17pp month-on-month."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-haul Dynamics",
+      "line_content": "Short-haul parity was 74.80% (down 3.91pp), with 15.72% cheaper fares yielding a 0.21% average discount."
+    },
+    {
+      "line_title": "Long-haul Stability",
+      "line_content": "Long-haul parity remained 84.85% (down 0.45pp), with 3.03% cheaper fares delivering a 0.09% average saving."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic (TH) Origins",
+      "line_content": "Thai-origin parity held at 79.13% (down 4.20pp), with 10.72% cheaper fares averaging a 0.26% discount."
+    },
+    {
+      "line_title": "International Origins",
+      "line_content": "Non-Thai origins saw 64.84% parity (down 0.38pp) and 25.27% discounts averaging 0.11% savings."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in itineraries recorded 73.24% parity (down 4.42pp) with 16.55% cheaper fares averaging a 0.22% discount."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings had 81.46% parity (down 1.76pp) and 8.61% cheaper fares yielding a 0.15% average discount."
+    }
+  ]
+}

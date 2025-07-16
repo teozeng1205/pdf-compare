@@ -1,0 +1,184 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Consistency",
+      "line_content": "Virgin Atlantic fares on OTA matched the website 93.6% of the time with minimal variance, highlighting strong cross-channel price alignment."
+    },
+    {
+      "line_title": "MSE Balance",
+      "line_content": "MSE delivered parity on 50.85% of itineraries and discounts on 49.15%, averaging a 0.32% fare reduction, with no overpricing detected."
+    },
+    {
+      "line_title": "GDS Dominance",
+      "line_content": "GDS achieved near-universal parity at 98.99% and reduced unavailability to 1.01%, underscoring highly reliable distribution coverage."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "High Parity Levels",
+      "line_content": "Virgin Atlantic fares on the OTA channel matched the website 93.6% of the time last week, underscoring robust price consistency."
+    },
+    {
+      "line_title": "Moderate Unmatched Offers",
+      "line_content": "6.4% of OTA itineraries lacked a corresponding website offer last week, up 0.7% week-on-week but down 1.35% month-on-month."
+    },
+    {
+      "line_title": "Negligible Price Variance",
+      "line_content": "When discrepancies occurred, OTA fares were on average just 0.09% higher or 0.02% lower than the website, indicating minimal divergence."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Parity Dominance",
+      "line_content": "93.6% of OTA offers matched the website last week, with parity frequency dipping 0.38% week-on-week but rising 2.97% month-on-month."
+    },
+    {
+      "line_title": "Unmatched Offer Trends",
+      "line_content": "OTA N/A frequency stood at 6.44% last week, reflecting a 0.72% week-on-week increase and a 1.35% month-on-month decrease."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Long-Haul Consistency",
+      "line_content": "On long-haul routes, OTA parity held at 93.6% last week with unmatched offers at 6.4%, and parity frequency climbed 2.97% month-on-month."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "UK Origins Lag Parity",
+      "line_content": "GB-origin itineraries saw 89.7% parity on OTA last week, with 10.3% unmatched and a 0.62% month-on-month uplift in matching frequency."
+    },
+    {
+      "line_title": "Non-UK Origins Lead Parity",
+      "line_content": "Non-GB itineraries achieved 96.7% parity on OTA last week, just 3.3% unmatched and a 4.53% month-on-month rise in matching frequency."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Strength",
+      "line_content": "Close-in bookings delivered 96.0% parity last week, under 4% unmatched and a 2.33% month-on-month gain in matching frequency."
+    },
+    {
+      "line_title": "Far-Out Booking Volatility",
+      "line_content": "Far-out itineraries showed just 87.4% parity last week, with 12.6% unmatched, reflecting greater price availability gaps in advance bookings."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Stable Price Parity",
+      "line_content": "MSE listings matched website fares on 50.85% of itineraries last week, up 0.51 pp from the prior week and 2.96 pp month-over-month."
+    },
+    {
+      "line_title": "Consistent Discounting",
+      "line_content": "48.15% of fares on MSE were lower than website prices, delivering an average discount of 0.32%, with close-in bookings enjoying the deepest cut."
+    },
+    {
+      "line_title": "Minimal Overpricing",
+      "line_content": "No itineraries were priced higher on MSE last week, indicating negligible risk of overcharging through the channel."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Missing Entries (N/A)",
+      "line_content": "Price offers absent on MSE fell to 0% last week, down 2.61 pp from the previous month, reflecting full coverage across core itineraries."
+    },
+    {
+      "line_title": "Parity Instances (SAME)",
+      "line_content": "Identical pricing holds steady at just over half of itineraries (50.85%), marking a modest weekly gain of 0.51 pp and a 2.96 pp increase over one month."
+    },
+    {
+      "line_title": "Channel Discounts (LOWER)",
+      "line_content": "MSE undercut site fares on 49.15% of searches, a slight weekly dip of 0.17 pp, maintaining an average price advantage of 0.32%."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Long-Haul Alignment",
+      "line_content": "Long-haul itineraries mirror overall trends with 50.85% parity and 49.15% lower fares, averaging a 0.32% discount on MSE."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "GB Origins",
+      "line_content": "For UK departures, all itineraries on MSE were priced below or equal to website fares last week, yielding a 0.32% average discount."
+    },
+    {
+      "line_title": "Non-GB Origins",
+      "line_content": "Non-UK origins exhibited 100% price parity on MSE, with no instances of lower or higher fares recorded last week."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-in Bookings",
+      "line_content": "Close-in itineraries saw 48.76% lower fares on MSE, deeper than average at a 0.38% discount, while 51.24% matched site prices."
+    },
+    {
+      "line_title": "Far-out Bookings",
+      "line_content": "Far-out searches split evenly with 50% parity and 50% lower fares, the latter carrying a 0.20% average discount on MSE."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Near-Universal Parity",
+      "line_content": "Over 98.99% of Virgin Atlantic fares on GDS matched the website last week, marking a 0.68 pp week-over-week gain and a 2.23 pp month-over-month improvement in parity."
+    },
+    {
+      "line_title": "Improved Availability",
+      "line_content": "Itineraries not found on GDS fell to 1.01% last week, down from 1.35% the prior week and 2.92% a month ago, reflecting stronger distribution coverage."
+    },
+    {
+      "line_title": "Negligible Price Variance",
+      "line_content": "Price gaps on GDS remain rare: no undercuts or premiums last week, and occasional premiums average under 0.1% when they occur."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A Rates",
+      "line_content": "1.01% of itineraries were unavailable on GDS last week, improving by 0.34 pp versus the prior week and 1.91 pp versus last month."
+    },
+    {
+      "line_title": "Exact Price Matches",
+      "line_content": "98.99% of fares were identical to the website last week, a rise of 0.68 pp week-over-week and 2.23 pp month-over-month."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Long-Haul Parity",
+      "line_content": "Long-haul routes achieved 98.99% price parity on GDS last week, with unavailable itineraries dropping from 2.92% monthly to 1.01%."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "GB Origins",
+      "line_content": "GB-origin itineraries saw 99.31% parity last week and only 0.69% unavailability, improving from 2.58% a month ago."
+    },
+    {
+      "line_title": "Non-GB Origins",
+      "line_content": "Non-GB origins recorded 99.33% parity and 0.67% unavailability last week (down from 3.29% monthly), with rare past-month discounts averaging 0.18%."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in itineraries matched at 99.50% last week, with unavailability at 0.50% (down 1.92 pp monthly); prior week saw isolated 0.09% premiums."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings maintained 98.94% parity with only 1.06% unavailability last week, an improvement of 2.90 pp versus last month and no price variances reported."
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Parity Gains",
+      "line_content": "OTA parity improved to 82.6% in the latest week, driving greater consistency with BA’s website fares and reducing instances of higher-priced offers."
+    },
+    {
+      "line_title": "MSE Undercut Leadership",
+      "line_content": "MSE maintained its discount positioning with 59.8% of fares below BA’s website, even as identical‐fare share accelerated to 40.1%."
+    },
+    {
+      "line_title": "GDS Premium Persistence",
+      "line_content": "GDS channels remain predominantly higher‐priced, with 89% of routes carrying a consistent premium—peaking at 96.7% for far‐out bookings."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Overall Parity Improvement",
+      "line_content": "Latest week OTA parity reached 82.6%, up 6.4 p.p. week-on-week and 16.4 p.p. month-on-month, reflecting improved consistency with website fares."
+    },
+    {
+      "line_title": "Decline in OTA Premiums",
+      "line_content": "Occurrences of OTA fares higher than the website declined to 12.8% in the latest week, down 5.1 p.p. week-on-week and 12.3 p.p. month-on-month, with an average OTA premium of +0.16%."
+    },
+    {
+      "line_title": "Far-Out Booking Advantage",
+      "line_content": "Far-out bookings exhibit strongest alignment at 90.2% parity in the latest week versus 78.5% for close-in, while OTA higher exposure is just 6.4% compared to 16.2%."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A Frequency",
+      "line_content": "2.0% of itineraries lacked an OTA offer in the latest week, a slight 0.1 p.p. increase week-on-week but a 1.1 p.p. decline month-on-month."
+    },
+    {
+      "line_title": "Price Parity (SAME)",
+      "line_content": "82.6% of itineraries matched website fares in the latest week, improving by 6.4 p.p. week-on-week and 16.4 p.p. month-on-month."
+    },
+    {
+      "line_title": "OTA Higher Incidence",
+      "line_content": "12.8% of itineraries were priced higher on OTA in the latest week, a decrease of 5.1 p.p. week-on-week and 12.3 p.p. month-on-month, with an average premium of +0.16%."
+    },
+    {
+      "line_title": "OTA Lower Incidence",
+      "line_content": "2.6% of itineraries were priced lower on OTA in the latest week, down 1.4 p.p. week-on-week and 3.0 p.p. month-on-month, with an average discount of -0.11%."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Dynamics",
+      "line_content": "Short-haul parity stood at 81.9% in the latest week, up 8.4 p.p. week-on-week and 20.4 p.p. month-on-month; OTA higher share was 14.4% at a +0.18% premium and OTA lower share 3.0% at a -0.10% discount."
+    },
+    {
+      "line_title": "Long-Haul Dynamics",
+      "line_content": "Long-haul parity was 84.8% in the latest week, broadly flat week-on-week (−0.4 p.p.) and +3.2 p.p. month-on-month; OTA higher occurred in 7.5% of itineraries (+0.05% premium) and OTA lower in 1.4% (−0.23% discount)."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "GB Origin",
+      "line_content": "UK origin parity reached 85.1% this week, rising 1.4 p.p. week-on-week and 10.9 p.p. month-on-month; OTA higher was 8.9% at a +0.19% premium and OTA lower 4.0% at a -0.10% discount."
+    },
+    {
+      "line_title": "Non-GB Origin",
+      "line_content": "Non-UK origin parity climbed to 79.4%, up 12.5 p.p. week-on-week and 23.2 p.p. month-on-month; OTA higher share was 17.6% (+0.15% premium) and OTA lower only 1.0% (-0.14% discount)."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in bookings parity was 78.5%, up 3.2 p.p. week-on-week and 12.4 p.p. month-on-month; OTA higher was 16.2% at +0.16% premium and OTA lower 3.4% at −0.11% discount."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings saw the highest parity at 90.2%, up 12.4 p.p. week-on-week and 23.7 p.p. month-on-month; OTA higher was only 6.4% with a +0.20% premium and OTA lower 1.3% at −0.11% discount."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Dominant Price Undercuts",
+      "line_content": "MSE fares were lower than BA’s website on 59.8% of routes in the latest week, maintaining the channel’s predominant undercut position."
+    },
+    {
+      "line_title": "Sharpening Parity Trend",
+      "line_content": "The share of identical fares rose to 40.1% in the latest week—up 11.8% week-over-week and 9.4% month-over-month—highlighting accelerated price alignment on MSE."
+    },
+    {
+      "line_title": "Minimal Price Gaps",
+      "line_content": "Where MSE fares were lower, the average discount was only 0.05% below website rates, indicating very narrow pricing differentials."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "N/A Frequency",
+      "line_content": "Listings not found on MSE remain negligible at 0.18% of routes in the latest week, effectively unchanged week-over-week."
+    },
+    {
+      "line_title": "Same-Price Share",
+      "line_content": "Routes priced identically on MSE grew to 40.07% of ODs, a jump of 11.81% from the prior week and 9.44% from last month."
+    },
+    {
+      "line_title": "Lower-Price Share",
+      "line_content": "Lower-priced MSE listings fell to 59.75% of routes, down 11.80% week-over-week and 9.47% month-over-month, signaling a shift toward parity."
+    },
+    {
+      "line_title": "Higher-Price Share",
+      "line_content": "Instances where MSE fares exceed BA’s website remain effectively zero, underscoring the channel’s consistent discount positioning."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Undercuts",
+      "line_content": "Short-haul undercuts comprised 63.32% of routes, down 13.55% week-over-week as identical-fare share climbed to 36.45%."
+    },
+    {
+      "line_title": "Long-Haul Parity",
+      "line_content": "On long-haul routes, fare parity exceeded undercuts for the first time this period—with 51.98% same-price versus 48.02% lower-price listings."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "GB Origin Dynamics",
+      "line_content": "From the UK, 73.23% of MSE fares were lower than BA’s site, down 10.87% week-over-week, while parity rose to 26.77%."
+    },
+    {
+      "line_title": "Non-GB Alignment",
+      "line_content": "Non-UK origins saw fare parity on 56.59% of routes—surpassing the 43.02% undercut share and reflecting a 12.92% weekly uptick in same-price listings."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Shifts",
+      "line_content": "Within close-in bookings, undercuts dropped to 51.82% of itineraries (−14.72% WoW) as same-price offers surged to 48.13%."
+    },
+    {
+      "line_title": "Far-Out Consistency",
+      "line_content": "For far-out bookings, 74.69% of fares remained below website rates, a modest 6.10% week-over-week decline as parity edged up to 24.90%."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Predominant GDS Premium",
+      "line_content": "Last week 89% of routes priced on GDS were higher than British Airways’s site, marking a 2.24% week-on-week increase and a steady 0.17% average premium."
+    },
+    {
+      "line_title": "Haul-based Variance",
+      "line_content": "Short-haul itineraries show a 95.5% incidence of GDS fare premiums (0.19% avg), while long-haul premiums affect 67.5% of routes after a 7.5% week-on-week surge."
+    },
+    {
+      "line_title": "Booking Window Dynamics",
+      "line_content": "Far-out bookings carry the steepest GDS premiums with 96.7% of fares higher (+0.21% avg and +4.43% month-on-month), compared to 85.0% for close-in bookings (+0.15% avg)."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Availability (N/A)",
+      "line_content": "GDS fare availability (‘N/A’) impacted 3.5% of routes last week, down 0.71% from the prior week and 1.00% month-on-month."
+    },
+    {
+      "line_title": "Price Parity",
+      "line_content": "Routes with matched pricing (‘Same’) accounted for 6.33% last week, edging down 0.90% week-on-week and 1.27% month-on-month."
+    },
+    {
+      "line_title": "Channel Higher",
+      "line_content": "89.03% of routes had higher GDS fares last week, reflecting a 2.24% week-on-week gain and a consistent 0.17% average premium."
+    },
+    {
+      "line_title": "Channel Lower",
+      "line_content": "Only 1.13% of routes showed GDS fares below the site last week, a 0.63% week-on-week decline with an average 0.20% discount."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Premiums",
+      "line_content": "Short-haul routes saw GDS fares higher on 95.53% of itineraries last week, with a 0.47% week-on-week uplift and a 0.19% average premium."
+    },
+    {
+      "line_title": "Long-Haul Premium Uptick",
+      "line_content": "Long-haul routes had 67.53% of fares higher on GDS last week, up 7.53% week-on-week, with an average premium of 0.11%."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic (GB) Priced Higher",
+      "line_content": "GB origin routes exhibited 86.59% GDS higher fares last week, up 1.58% week-on-week with a 0.18% average premium."
+    },
+    {
+      "line_title": "International Premium Strength",
+      "line_content": "Non-GB origin routes saw 92.07% of fares higher on GDS last week, increasing 2.97% week-on-week and holding a 0.17% average premium."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Premiums",
+      "line_content": "For close-in bookings, 84.99% of fares were higher on GDS last week, up 2.20% week-on-week with a 0.15% average premium."
+    },
+    {
+      "line_title": "Far-Out Booking Premiums",
+      "line_content": "Far-out bookings displayed a 96.73% incidence of higher GDS fares last week, up 2.56% week-on-week and averaging a 0.21% premium."
+    }
+  ]
+}

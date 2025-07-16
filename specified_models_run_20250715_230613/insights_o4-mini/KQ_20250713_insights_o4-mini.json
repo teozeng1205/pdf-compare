@@ -1,0 +1,188 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Premium Prevalence",
+      "line_content": "OTA pricing remained above the Kenya Airways website for 91.18% of itineraries last week, highlighting sustained premium positioning despite slight week-over-week declines."
+    },
+    {
+      "line_title": "MSE Parity and Discounts",
+      "line_content": "MSE delivered 72.06% fare parity and 27.94% lower-priced offers versus the website last week, emphasizing its role as a competitive match-and-beat channel."
+    },
+    {
+      "line_title": "GDS Premium Stability",
+      "line_content": "GDS fares carried a 95.6% premium frequency at an average markup of 0.08%, with discounts remaining scarce and booking-window dynamics consistent with prior periods."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "OTA Price Dominance with Slight Dip",
+      "line_content": "Last week, 91.18% of OTA offers were priced above the website, a 3.27 pp decline from the prior week, yet still representing the vast majority of itineraries."
+    },
+    {
+      "line_title": "Growing Coverage Gaps",
+      "line_content": "OTA offers not found on the OTA channel rose to 5.88% last week, up 3.10 pp week-over-week and 3.22 pp month-over-month, indicating expanding distribution gaps."
+    },
+    {
+      "line_title": "Far-Out Itineraries Fully Premium",
+      "line_content": "All far-out bookings (100%) were priced higher on OTA last week, maintaining an average markup of 0.08%, unchanged from prior periods."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A Trends",
+      "line_content": "OTA-absent offers reached 5.88% last week, up 3.10 pp week-over-week and 3.22 pp month-over-month, signaling a growing disconnect."
+    },
+    {
+      "line_title": "Parity (SAME) Stability",
+      "line_content": "Price parity cases remained low at 1.47%, virtually unchanged week-over-week (+0.08 pp) and month-over-month (+0.14 pp)."
+    },
+    {
+      "line_title": "OTA Higher Prevalence",
+      "line_content": "OTA higher frequency was 91.18% last week, slightly down from 94.44% prior week (–3.27 pp) and 94.67% prior month (–3.49 pp)."
+    },
+    {
+      "line_title": "OTA Lower Remains Marginal",
+      "line_content": "OTA offers below website prices were minimal at 1.47%, with negligible shifts week-to-week (+0.08 pp) and month-to-month (+0.14 pp)."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Pricing",
+      "line_content": "Short-haul routes saw OTA priced higher in 91.18% of itineraries last week (–3.27 pp vs prior week) with an average premium of 0.07%."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Kenya Origin Performance",
+      "line_content": "For Kenya-origin itineraries, OTA offers exceeded website prices in 91.18% of cases last week (down 3.27 pp from prior week) with a 0.07% average markup."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Dynamics",
+      "line_content": "Close-in bookings recorded 87.23% of OTA offers higher last week (–6.38 pp vs prior week) with a 0.07% premium; OTA-absent gaps increased to 8.51%."
+    },
+    {
+      "line_title": "Far-Out Booking Uniform Premium",
+      "line_content": "Far-out bookings maintained 100% OTA higher frequency last week, delivering a consistent 0.08% average price uplift."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "High Parity on MSE",
+      "line_content": "Last week, 72.06% of fares on the MSE channel matched Kenya Airways’ website prices, marking a 4.00 pp increase from the prior week."
+    },
+    {
+      "line_title": "Substantial Lower-Price Share",
+      "line_content": "27.94% of MSE fares were lower than the website last week, a 4.00 pp decrease week-over-week but an 11.72 pp increase month-over-month, with an average 0.10% discount."
+    },
+    {
+      "line_title": "Negligible Higher-Price Occurrences",
+      "line_content": "No instances of higher fares were observed on MSE last week, indicating the channel consistently matches or undercuts website pricing."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Parity Prevalence",
+      "line_content": "72.06% of fares on MSE matched website prices last week, up 4.00 pp from the prior week but down 11.72 pp versus the previous month."
+    },
+    {
+      "line_title": "Discount Frequency",
+      "line_content": "MSE offered lower fares for 27.94% of itineraries last week, a 4.00 pp decrease week-over-week but an 11.72 pp increase month-over-month, delivering modest savings."
+    },
+    {
+      "line_title": "Absence of Premium Pricing",
+      "line_content": "Higher-priced offers on MSE remain at 0%, confirming no upward deviations relative to the airline’s website."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Trends",
+      "line_content": "Short-haul routes mirrored overall channel performance with 72.06% parity and 27.94% lower fares last week, and zero higher-priced cases."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Kenya Origin Consistency",
+      "line_content": "For itineraries originating in Kenya, MSE pricing aligned fully with channel averages: 72.06% matched, 27.94% lower and no higher fares detected."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in bookings achieved 78.26% price parity last week—a 8.05 pp weekly gain—with 21.74% lower fares averaging a 0.11% discount."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings had a 61.90% match rate—down 2.10 pp week-over-week and 24.30 pp month-over-month—and 38.10% lower fares, up 24.30 pp from a month prior."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Predominant GDS Premiums",
+      "line_content": "Last week, 95.6% of itineraries on GDS were priced above the Kenya Airways website, carrying an average premium of 0.08%, in line with prior-week and prior-month levels."
+    },
+    {
+      "line_title": "Scarce GDS Discounts",
+      "line_content": "Only 1.5% of fares on GDS were cheaper than the website last week, offering an average discount of 0.11%, a share that rose marginally by 0.06 pp week-over-week and 0.14 pp month-over-month."
+    },
+    {
+      "line_title": "Stable Booking Window Premiums",
+      "line_content": "Both close-in and far-out bookings show persistent GDS markups—93.6% and 100% respectively—despite a 3-4% month-over-month dip in far-out frequency."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Unavailable on GDS",
+      "line_content": "1.47% of itineraries were not offered on GDS last week, unchanged week-over-week and up 0.06 pp versus the prior month."
+    },
+    {
+      "line_title": "Matching Fares",
+      "line_content": "1.47% of GDS fares matched the website, rising 0.06 pp week-over-week and 0.14 pp month-over-month, indicating minimal channel pricing divergence."
+    },
+    {
+      "line_title": "GDS Markup Prevalence",
+      "line_content": "GDS higher status represented 95.59% of records last week, a slight decrease of 0.19 pp week-over-week and 0.41 pp month-over-month, with an average markup of 0.08%."
+    },
+    {
+      "line_title": "Minimal GDS Discounts",
+      "line_content": "GDS lower status accounted for only 1.47% of records last week—up 0.06 pp week-over-week and 0.14 pp month-over-month—with an average discount of 0.11%."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Pricing Pattern",
+      "line_content": "Short-haul itineraries mirror overall GDS trends: 95.6% priced above the website at a 0.08% premium, with slight frequency dips versus both week and month prior."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Kenya Origin Consistency",
+      "line_content": "Routes originating in Kenya exhibit identical GDS dynamics to the overall channel, with 95.6% of fares at a 0.08% premium and minimal variation across periods."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "93.62% of close-in bookings on GDS were pricier than the website last week, holding flat week-over-week, down 4.16% month-over-month, and carrying a 0.08% average premium."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "All far-out itineraries were marked up on GDS last week, though frequency fell 3.45% versus last month, and the average premium ticked up to 0.08%."
+    }
+  ]
+}

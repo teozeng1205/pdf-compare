@@ -1,0 +1,204 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Distribution Gaps",
+      "line_content": "OTA fails to list 91.94% of Philippine Airlines ODs, signaling significant distribution shortfalls despite perfect parity where listed."
+    },
+    {
+      "line_title": "MSE Competitive Discounts",
+      "line_content": "MSE delivers lower fares on 62.28% of itineraries with an average 0.11% discount, while parity share climbs to 37.72% and premiums remain zero."
+    },
+    {
+      "line_title": "GDS Premium Dominance",
+      "line_content": "GDS premiums affect 75.1% of bookings last week, with long-haul markups reaching 8% and far-out windows seeing an 87% premium incidence."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Missing Offer Rate",
+      "line_content": "OTA fails to list 91.94% of ODs in the latest week, up +0.62% month-over-month, signaling distribution shortfalls."
+    },
+    {
+      "line_title": "Price Parity Prevalence",
+      "line_content": "7.76% of OTA offers match exactly with the website last week, showing zero variance across weeks and months."
+    },
+    {
+      "line_title": "Minimal Outliers",
+      "line_content": "Only 0.10% of OTA itineraries carry a premium (avg +0.11%) and 0.20% carry a discount (avg -0.14%), indicating negligible pricing deviations."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "High Missing-Offer Frequency",
+      "line_content": "91.94% of ODs were unlisted on OTA last week, rising +0.44% week-over-week and +0.62% month-over-month."
+    },
+    {
+      "line_title": "Low Exact-Match Share",
+      "line_content": "Exact-match offers account for 7.76% last week, slipping -0.25% week-over-week and -0.51% month-over-month, with zero price deviation."
+    },
+    {
+      "line_title": "Scarce Premium Listings",
+      "line_content": "Premium itineraries represent just 0.10% of OTA offers last week, down -0.19% week-over-week, with an average markup of +0.11%."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Gaps",
+      "line_content": "Short-haul routes are missing on OTA 96.71% of the time (up +0.32% week-over-week), with exact matches at 3.07% and max deviations under ±10.2%."
+    },
+    {
+      "line_title": "Long-Haul Improvements",
+      "line_content": "Long-haul offers are missing 50.00% of the time (improved -0.93% week-over-week), with exact matches at 48.11% and discounts of -0.12% on 1.89% of listings."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Philippine Origins",
+      "line_content": "All 14 PH ODs are unlisted on OTA (100% missing) consistently across weeks and months."
+    },
+    {
+      "line_title": "Non-PH Origins",
+      "line_content": "Non-Philippine ODs show 3.53% missing offers last week (up +1.28%), 92.94% exact matches, 1.18% with +0.11% premiums and 2.35% with -0.14% discounts."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "91.62% of close-in itineraries are missing (up +0.41% month-over-month), with 7.94% exact matches, 0.15% premiums (+0.11%) and 0.29% discounts (-0.17%)."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out itineraries see a 92.60% missing rate (up +1.06% month-over-month), 7.10% exact matches, no premiums and 0.30% discounts averaging -0.06%."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Lower-Fare Leadership",
+      "line_content": "62.28% of ODs on MSE were priced lower than the website last week, delivering an average discount of 0.11%."
+    },
+    {
+      "line_title": "Parity Growth",
+      "line_content": "Same-priced fares on MSE climbed to 37.72% last week, up 4.42% week-over-week and 3.72% month-over-month."
+    },
+    {
+      "line_title": "Zero Premiums",
+      "line_content": "There are no instances of MSE fares exceeding website rates, confirming a zero share for higher-priced listings."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Majority Discount Share",
+      "line_content": "MSE lower-price listings remain the majority at 62.28%, despite a 4.13% week-over-week and 3.62% month-over-month decrease."
+    },
+    {
+      "line_title": "Rising Parity",
+      "line_content": "Same-price offerings on MSE reached 37.72%, reflecting a 4.42% week-over-week and 3.72% month-over-month gain."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Discounts",
+      "line_content": "Short-haul routes saw 58.00% lower fares on MSE last week (down 4.62% week-over-week), while parity listings rose to 42.00% (+4.95%)."
+    },
+    {
+      "line_title": "Long-Haul Depth",
+      "line_content": "Long-haul itineraries exhibited 98.11% lower fares with negligible week-over-week movement, highlighting stable deep discounting."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic Pricing",
+      "line_content": "For PH origins, 58.99% of ODs were cheaper on MSE with an average 0.10% discount, though share declined 4.43% week-over-week."
+    },
+    {
+      "line_title": "International Deals",
+      "line_content": "Non-PH origins saw 98.81% lower-priced itineraries on MSE, up 1.06% week-over-week, averaging a 0.17% price advantage."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Savings",
+      "line_content": "Close-in bookings held 71.18% lower fares (down 4.67% week-over-week), while same-priced share increased to 28.82%."
+    },
+    {
+      "line_title": "Far-Out Parity",
+      "line_content": "Far-out bookings featured 55.62% same-priced fares (up 3.74% week-over-week), reducing lower-price share to 44.38%."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "High Premium Incidence",
+      "line_content": "75.1% of itineraries on GDS were priced above the website last week, marking a 3.5% week-over-week increase."
+    },
+    {
+      "line_title": "Long-Haul Markup",
+      "line_content": "Average GDS prices for long-haul routes carry an 8% markup—double the 4% seen on short-haul."
+    },
+    {
+      "line_title": "Far-Out Premium Growth",
+      "line_content": "Far-out booking windows exhibit the highest GDS premium share at 87.0%, with price differentials rising 5% month-over-month."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Premium Dominance",
+      "line_content": "75.12% of PR itineraries on GDS were more expensive than the website last week, up 3.54% week-over-week and 3.71% month-over-month."
+    },
+    {
+      "line_title": "Declining Parity",
+      "line_content": "20.45% of fares matched website pricing last week, down 4.65% week-over-week and 3.95% month-over-month."
+    },
+    {
+      "line_title": "Minimal Discounts",
+      "line_content": "Only 3.34% of GDS fares were lower than the website last week, remaining broadly flat week-over-week."
+    },
+    {
+      "line_title": "Availability Gaps",
+      "line_content": "1.08% of website offers were unavailable on GDS last week, a slight increase of 0.89% versus the prior week."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Premiums",
+      "line_content": "78.20% of short-haul fares on GDS carried a 4% average premium last week (up 3.89% week-over-week), while parity cases fell to 18.07%."
+    },
+    {
+      "line_title": "Long-Haul Pricing",
+      "line_content": "48.11% of long-haul itineraries were priced above the website with an 8% markup (flat month-over-month, down 0.51% week-over-week) and 41.51% at parity."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic Premiums",
+      "line_content": "81.89% of PH-origin fares on GDS were more expensive last week (up 3.54% week-over-week) with a consistent 4% average premium."
+    },
+    {
+      "line_title": "International Parity",
+      "line_content": "85.71% of non-PH itineraries matched website prices last week (down 9.74% week-over-week), with 11.90% unavailable and negligible premiums."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Markups",
+      "line_content": "69.12% of close-in fares were more expensive on GDS (up 4.76% week-over-week) with a 4% average premium and 25.29% parity."
+    },
+    {
+      "line_title": "Far-Out Premiums",
+      "line_content": "86.98% of far-out itineraries carried a 4–5% premium on GDS (up 1.48% week-over-week, 3.26% month-over-month), with parity at 10.65%."
+    }
+  ]
+}

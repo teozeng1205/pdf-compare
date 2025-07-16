@@ -1,0 +1,212 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Fare Premiums",
+      "line_content": "OTA fares topped the website on 89.8% of itineraries at a minimal 0.09% average premium, though markup frequency is slowly easing."
+    },
+    {
+      "line_title": "MSE Lower Pricing",
+      "line_content": "MSE delivered lower-priced offers on 51.6% of itineraries with a negligible −0.06% average gap and achieved full offer coverage."
+    },
+    {
+      "line_title": "GDS Markup Dominance",
+      "line_content": "GDS fares exceeded website prices on 85.6% of itineraries with a 0.05% average markup, driven by rising premiums on short-haul and close-in bookings."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Widespread Premiums",
+      "line_content": "OTA fares exceeded website prices on 89.8% of itineraries last week, underscoring a persistent third-party markup."
+    },
+    {
+      "line_title": "Minimal Premium",
+      "line_content": "When OTA fares were higher, the average premium was just 0.09%, indicating tight overall price alignment."
+    },
+    {
+      "line_title": "Convergence Trend",
+      "line_content": "The share of higher OTA fares declined by 3.0% week-on-week and 2.0% month-on-month, signaling gradual improvement toward parity."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Missing Offers",
+      "line_content": "OTA lacked offers on 3.2% of itineraries last week, up slightly from 2.9% WoW and modestly below 3.6% MoM, pointing to small coverage gaps."
+    },
+    {
+      "line_title": "Exact Parity",
+      "line_content": "Matched fares represented 1.9% of itineraries last week, unchanged WoW but up from 0.5% MoM, reflecting rare exact alignment."
+    },
+    {
+      "line_title": "Higher Fare Frequency",
+      "line_content": "OTA posted higher fares on 89.8% of itineraries last week, down 3.0% WoW and 2.0% MoM, yet remained dominant."
+    },
+    {
+      "line_title": "Lower Fare Frequency",
+      "line_content": "OTA offered lower fares in 5.1% of cases last week, up 2.2% WoW and 1.0% MoM, highlighting selective discount pockets."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Pricing",
+      "line_content": "On short-haul routes, 91.1% of OTA fares were above website levels last week (−1.7% WoW), while lower-fare instances held at 4.8%."
+    },
+    {
+      "line_title": "Long-Haul Dynamics",
+      "line_content": "Long-haul OTA higher-fare frequency dipped by 3.6% WoW to 88.0%, and lower-fare cases rose to 5.4%, signaling intensified competition on longer sectors."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "HK Origins",
+      "line_content": "For Hong Kong origins, OTA fares were higher on 91.4% of itineraries (−3.8% WoW) and lower on 6.7% (+3.8% WoW), showing dynamic domestic pricing shifts."
+    },
+    {
+      "line_title": "Non-HK Origins",
+      "line_content": "Non-HK routes saw 88.4% of OTA fares above website prices (−2.2% WoW) and 3.6% lower (+0.7% WoW), indicating stable external-market gaps."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "In the close-in window, 92.7% of OTA fares were higher (−1.1% WoW) and 2.7% lower (+1.3% WoW), pointing to slight margin compression on urgent travel."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings saw OTA higher fares fall by 7.3% WoW to 83.3%, while lower-fare share jumped to 10.6%, underscoring aggressive early-purchase discounts."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Lower-Priced Majority",
+      "line_content": "Last week, 51.6% of MSE listings were priced below the website, up 3.1pp WoW with an average gap of −0.06%."
+    },
+    {
+      "line_title": "Stable Parity",
+      "line_content": "48.4% of itineraries matched the website price last week, marking a 2.6pp WoW dip but a 0.7pp MoM gain."
+    },
+    {
+      "line_title": "Complete Coverage",
+      "line_content": "Website offers not found on MSE fell to 0% last week from 0.48% prior week, indicating near-complete channel coverage."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Missing Listings",
+      "line_content": "MSE N/A share was 0% in the latest week, down from 0.48% WoW and flat MoM, reflecting full offer availability."
+    },
+    {
+      "line_title": "Price Parity",
+      "line_content": "The SAME status held 48.37% last week (−2.59pp WoW, +0.68pp MoM), showing parity stability after a slight weekly dip."
+    },
+    {
+      "line_title": "Lower-Price Share",
+      "line_content": "MSE LOWER reached 51.63% last week (+3.07pp WoW, −0.68pp MoM) with an average price difference of −0.06%."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Parity Lead",
+      "line_content": "Short-haul listings were 52.85% SAME last week (+2.04pp WoW, +4.60pp MoM), with 47.15% LOWER at a −0.06% average price gap."
+    },
+    {
+      "line_title": "Long-Haul Lower-Price Growth",
+      "line_content": "Long-haul LOWER share rose to 56.52% last week (+8.90pp WoW, +3.44pp MoM), while SAME fell to 43.48%."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "HK Origin Lower-Price Dominance",
+      "line_content": "HK markets saw 87.50% LOWER last week (−1.72pp WoW, −3.12pp MoM) at an average −0.06% price gap."
+    },
+    {
+      "line_title": "Non-HK Parity Majority",
+      "line_content": "Non-HK origin listings were 81.98% SAME last week (−7.64pp WoW, −2.87pp MoM) as LOWER rose to 18.02%."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Parity",
+      "line_content": "Close-in itineraries held 52.67% SAME last week (+0.58pp WoW, +6.93pp MoM), with LOWER at 47.33% (−0.06% gap)."
+    },
+    {
+      "line_title": "Far-Out Discount Surge",
+      "line_content": "Far-out bookings were 61.54% LOWER last week (+9.98pp WoW, +12.28pp MoM) versus 38.46% SAME, indicating aggressive early purchase discounts."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Markup Dominance",
+      "line_content": "In the latest week, 85.6% of GDS fares exceeded website prices by an average 0.05%, underscoring consistent distribution channel markups."
+    },
+    {
+      "line_title": "Segment Markup Growth",
+      "line_content": "Week-over-week, markup frequency rose most for short-haul (+3.12pp) and close-in bookings (+3.15pp), indicating intensified GDS premiums in key segments."
+    },
+    {
+      "line_title": "Growing Discounts",
+      "line_content": "Overall discounts remain scarce at 5.6% of itineraries, yet long-haul routes and Hong Kong origins saw the largest upticks in discount frequency."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Unavailable Offers",
+      "line_content": "4.19% of flights lacked a GDS offer last week, down 0.62pp WoW, indicating marginal coverage improvement."
+    },
+    {
+      "line_title": "Price Parity",
+      "line_content": "Identical fares held at 4.65% last week, a 2.08pp WoW drop, reflecting fewer exact matches on GDS."
+    },
+    {
+      "line_title": "Prevalent Markups",
+      "line_content": "85.58% of GDS fares were higher than website prices last week, up 0.97pp WoW, with an average 0.05% premium."
+    },
+    {
+      "line_title": "Rare Discounts",
+      "line_content": "Only 5.58% of GDS fares were lower than website prices last week, up 1.74pp WoW, yielding an average discount of 0.30%."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Premiums",
+      "line_content": "Short-haul markups reached 86.99% last week (+3.12pp WoW), with prices +0.03% above the website on average."
+    },
+    {
+      "line_title": "Long-Haul Discounts",
+      "line_content": "Long-haul discount frequency rose 2.97pp to 5.38% last week, while markup share dipped 2.75pp to 82.80% with a 0.07% average markup."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "HK Origin Trends",
+      "line_content": "Markups on Hong Kong-origin itineraries remained highest at 90.38%, down 2.75pp WoW, while discounts increased to 7.69%."
+    },
+    {
+      "line_title": "Non-HK Origin Markups",
+      "line_content": "Non-HK itineraries saw markups on 81.08% of fares, up 3.94pp WoW, and discounts fell below 3%, underscoring robust GDS premiums outside Hong Kong."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Premiums",
+      "line_content": "For close-in bookings, 88.67% of fares were higher than the website, a 3.15pp WoW increase, with a 0.02% average premium."
+    },
+    {
+      "line_title": "Far-Out Variability",
+      "line_content": "Far-out bookings showed lower markup share at 77.27% (−2.73pp) and higher discount frequency at 10.61%, indicating greater price variability for advance purchases."
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Price Alignment",
+      "line_content": "OTAs matched our site fares on 40.4% of routes and charged a 0.82% premium on 25.9% of itineraries last week, reflecting stable parity with modest markups."
+    },
+    {
+      "line_title": "MSE Discount Dominance",
+      "line_content": "MSE offered lower fares on 51.05% of itineraries—100% of long-haul routes—last week, underscoring an aggressive, intensifying discount strategy."
+    },
+    {
+      "line_title": "GDS Premium Prevalence",
+      "line_content": "GDS fares exceeded our website prices on 50.8% of routes with an average 0.87% premium, while site-only offers shrank to 4.8%, showing strengthened GDS coverage."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Strong Price Parity",
+      "line_content": "OTA matches our website fares for 40.4% of routes last week, up 1.0% week-on-week and 4.2% month-on-month, reflecting stable alignment."
+    },
+    {
+      "line_title": "Moderate OTA Premiums",
+      "line_content": "25.9% of itineraries priced higher on OTAs last week, a 1.3% increase from the prior week, with an average premium of 0.82%."
+    },
+    {
+      "line_title": "Booking-Window Impact",
+      "line_content": "Far-out bookings see OTAs quoting fares 49.2% of the time with a 1.03% premium, versus a 13.4% premium incidence and 0.42% on close-in bookings."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Website Not Found (OTA N/A)",
+      "line_content": "33.7% of ODs lacked OTA availability last week, a 2.4% decrease week-on-week and 1.9% increase month-on-month."
+    },
+    {
+      "line_title": "Price Parity (Same)",
+      "line_content": "40.4% of ODs were priced identically on OTA and our site last week, rising 1.0% week-on-week and 4.2% month-on-month."
+    },
+    {
+      "line_title": "OTA Premiums (Higher)",
+      "line_content": "25.9% of ODs carried higher OTA fares last week, up 1.3% from the prior week and down 6.1% versus last month, with an average 0.82% markup."
+    },
+    {
+      "line_title": "OTA Discounts (Lower)",
+      "line_content": "Only 0.07% of ODs showed lower OTA fares last week, remaining effectively flat week-on-week and month-on-month."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Discrepancies",
+      "line_content": "36.9% of short-haul routes were at parity last week (up 1.2% w/w) while 27.8% carried a 0.82% OTA premium."
+    },
+    {
+      "line_title": "Long-Haul Consistency",
+      "line_content": "87.5% of long-haul ODs priced identically on OTAs last week, down 3.0% w/w but up 5.4% m/m, with negligible OTA premiums (0.09%)."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Korean Origins Variance",
+      "line_content": "Only 26.9% of KR-origin routes showed parity last week, while 31.2% quoted a 0.92% OTA premium and 41.9% were unavailable on OTAs."
+    },
+    {
+      "line_title": "Non-KR Origins Alignment",
+      "line_content": "78.7% of non-KR-origin routes matched fares on OTAs last week, with just 11.1% carrying a minor 0.02% premium."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "49.2% of close-in itineraries lacked OTA coverage, 37.3% were at parity and 13.4% carried a 0.42% premium."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "OTAs covered 95.5% of far-out itineraries, matching 46.3% and charging a 1.03% premium on 49.2% of bookings."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Majority Discounted Fares",
+      "line_content": "MSE offered lower fares on 51.05% of itineraries last week, marking a 3.90 pp week-over-week increase and a 5.08 pp month-over-month rise, reflecting a strong discounting trend."
+    },
+    {
+      "line_title": "Universal Long-Haul Discounting",
+      "line_content": "All long-haul itineraries (100% share) were priced below the website on MSE last week, sustaining full week-over-week consistency and only a marginal 1.05 pp month-over-month dip."
+    },
+    {
+      "line_title": "Non-Korean Origins Heavily Discounted",
+      "line_content": "Non-KR departures saw 96.40% of itineraries cheaper on MSE last week, unchanged week-over-week and up 2.61 pp versus last month, highlighting aggressive channel pricing for international markets."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Channel Coverage",
+      "line_content": "Only 1.66% of itineraries lacked an MSE offer last week, up 0.34 pp week-over-week and down 0.24 pp month-over-month, underscoring near-universal availability."
+    },
+    {
+      "line_title": "Price Parity Declines",
+      "line_content": "The share of identical fares fell to 47.08% last week, declining 4.31 pp week-over-week and 4.92 pp month-over-month, indicating reduced parity pricing."
+    },
+    {
+      "line_title": "Growing Discount Share",
+      "line_content": "Discounted itineraries climbed to 51.05% last week, up 3.90 pp week-over-week and 5.08 pp month-over-month, signaling intensifying MSE discounts."
+    },
+    {
+      "line_title": "Scarce Premium Offers",
+      "line_content": "Itineraries priced higher on MSE remained minimal at 0.22% last week, a slight 0.08 pp uptick both week-over-week and month-over-month."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Trends",
+      "line_content": "Short-haul saw 47.45% of itineraries discounted on MSE last week, up 4.05 pp week-over-week and 5.27 pp month-over-month, as parity offers declined to 50.54%."
+    },
+    {
+      "line_title": "Long-Haul Uniform Discount",
+      "line_content": "All long-haul routes were cheaper on MSE last week (100% share), maintaining week-over-week levels and only a 1.05 pp month-over-month reduction."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic (KR) Pricing",
+      "line_content": "On Korea departures, 62.87% of itineraries matched website prices last week (-4.73 pp week-over-week), while discounts rose to 35.09% (+4.45 pp)."
+    },
+    {
+      "line_title": "International (Non-KR) Pricing",
+      "line_content": "Non-KR origins experienced 96.40% discounted itineraries last week, stable week-over-week and up 2.61 pp month-over-month, highlighting broad international discounting."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in reservations saw 49.67% lower fares on MSE last week, up 3.51 pp week-over-week as parity offers fell to 48.23%."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings recorded 53.51% discounted fares on MSE last week, increasing 4.59 pp week-over-week and underlining stronger advance-sale discounts."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS Premium Dominates",
+      "line_content": "Over half (50.8%) of routes on GDS were priced higher than Korean Air’s website last week, a share essentially unchanged from the prior week."
+    },
+    {
+      "line_title": "Website-Exclusive Offers Shrinking",
+      "line_content": "Routes available only on the website fell to 4.8% last week, down 2.4 percentage points from a month ago, signaling strengthened GDS coverage."
+    },
+    {
+      "line_title": "Fare Premium Narrowing",
+      "line_content": "When GDS fares exceed the website, the average premium has eased from 1.08% a month ago to 0.96% last week and 0.87% in the latest week."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Missing GDS Listings",
+      "line_content": "Offers not found on GDS accounted for 4.8% of O&Ds last week, a decline of 0.95 pp versus the previous week and 2.4 pp versus the prior month."
+    },
+    {
+      "line_title": "Price Parity",
+      "line_content": "Exact price matches represented 44.4% of GDS quotes last week, up 1.1 pp week-over-week and 2.2 pp month-over-month, reflecting improved alignment."
+    },
+    {
+      "line_title": "GDS Higher",
+      "line_content": "Routes where GDS fares exceed website prices comprised 50.8% last week, nearly flat week-over-week (-0.1 pp) and up 0.2 pp versus a month ago, with a 0.87% average premium."
+    },
+    {
+      "line_title": "GDS Lower",
+      "line_content": "Instances of lower GDS fares remain negligible at 0% last week, with an average discount of just 0.15% when present."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Patterns",
+      "line_content": "In short-haul markets, 54.5% of GDS quotes were higher last week, stable from the prior week, with an average 0.87% premium."
+    },
+    {
+      "line_title": "Long-Haul Parity",
+      "line_content": "Long-haul routes were 100% matched last week on GDS, with only a nominal rise to 1.04% higher offers month-to-month."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic (KR) Routes",
+      "line_content": "For Korea-origin O&Ds, 62.8% of GDS fares were higher last week, averaging a 0.95% premium, while site-only listings dropped below 7%."
+    },
+    {
+      "line_title": "International (Non-KR) Routes",
+      "line_content": "Non-KR O&Ds saw 83.7% of GDS quotes match the website last week, with just 16.3% priced higher by about 0.02% on average."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "In close-in bookings, 51.3% of GDS fares exceeded website prices last week, up 0.25 pp week-over-week, with a 0.80% average premium."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "For far-out bookings, exactly 50.0% of GDS quotes were higher last week (down 0.68 pp), carrying a 1.02% average premium."
+    }
+  ]
+}

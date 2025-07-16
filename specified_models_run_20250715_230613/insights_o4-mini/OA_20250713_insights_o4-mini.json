@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Pricing Premium Fluctuations",
+      "line_content": "OTA fares were above Olympic Air’s website prices on 63.7% of itineraries last week, though this premium share fell nearly 18% week-over-week and 16% month-over-month, while non-availability and parity rates increased."
+    },
+    {
+      "line_title": "MSE Price Alignment",
+      "line_content": "MSE displayed no premium fares, with parity surging to 71.2% last week (up 31.9 points) and discounted offers narrowing to 28.8%, indicating strong alignment with the website."
+    },
+    {
+      "line_title": "GDS Distribution Gap",
+      "line_content": "GDS showed a complete absence of Olympic Air’s offers across all routes, with 100% of itineraries missing and no price comparisons possible."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Dominance of Higher OTA Prices",
+      "line_content": "Last week, OTA listings were higher than website prices on 63.7% of itineraries, though this share declined by 18.4% versus the prior week and by 16.4% month-over-month."
+    },
+    {
+      "line_title": "Rising OTA Non-Availability",
+      "line_content": "Offers not found on OTA climbed to 20.6% last week, marking a 12.2% increase from the prior week and an 11.5% rise compared with the previous month."
+    },
+    {
+      "line_title": "Parity Gains on OTA",
+      "line_content": "Website and OTA prices matched on 14.5% of itineraries last week, a 5.8% week-over-week improvement and 5.1% month-over-month lift."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "N/A Frequency",
+      "line_content": "Offers missing on OTA stood at 20.6% last week, increasing 12.2% week-over-week and 11.5% month-over-month."
+    },
+    {
+      "line_title": "Price Parity",
+      "line_content": "14.5% of OTA fares matched website prices last week, up 5.8% week-over-week and 5.1% month-over-month, with negligible average difference."
+    },
+    {
+      "line_title": "Higher Pricing",
+      "line_content": "OTA fares exceeded website prices on 63.7% of itineraries last week, down 18.4% week-over-week and 16.4% month-over-month, averaging a 0.02% premium."
+    },
+    {
+      "line_title": "Lower Pricing",
+      "line_content": "OTA fares were lower on 1.3% of itineraries last week, up 0.4% week-over-week and down 0.3% month-over-month, with an average 0.13% discount."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Pricing",
+      "line_content": "On short-haul routes, 63.7% of OTA fares were higher last week (down 18.4% week-over-week), parity rose to 14.5%, and missing offers climbed to 20.6%."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Greece Origin Trends",
+      "line_content": "For GR origins, 63.7% of OTA listings were higher last week (down 18.4% week-over-week), matched fares at 14.5%, and non-availability at 20.6%."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Window",
+      "line_content": "In close-in bookings, 66.4% of OTA fares exceeded website prices last week (down 15.5% week-over-week), matched fares at 14.2%, and missing offers at 18.0%."
+    },
+    {
+      "line_title": "Far-Out Window",
+      "line_content": "In far-out bookings, 57.6% of OTA fares were higher last week (down 24.7% week-over-week), parity at 15.1%, and non-availability at 26.3%."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "No Premium Pricing",
+      "line_content": "In the latest week, MSE never displayed fares above those on Olympic Air’s site, delivering either parity or lower rates across all itineraries."
+    },
+    {
+      "line_title": "Surge in Parity",
+      "line_content": "Parity listings on MSE jumped by 31.9 percentage points week-over-week to 71.2%, reflecting strong alignment with website rates."
+    },
+    {
+      "line_title": "Discount Opportunities Tighten",
+      "line_content": "Itineraries priced lower on MSE fell to 28.8% last week, down from 60.7% the prior week, signaling a significant reduction in discount opportunities."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Full Coverage",
+      "line_content": "MSE offered all itineraries with zero missing cases, ensuring complete distribution of Olympic Air’s published fares."
+    },
+    {
+      "line_title": "Price Parity",
+      "line_content": "71.2% of routes on MSE matched website prices last week, with an average difference of –0.01%."
+    },
+    {
+      "line_title": "Discounted Rates",
+      "line_content": "28.8% of itineraries were cheaper on MSE last week, averaging a 0.02% discount, down from 60.7% week-over-week."
+    },
+    {
+      "line_title": "No Premium Fares",
+      "line_content": "There were zero instances of MSE fares exceeding those on the website."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Parity",
+      "line_content": "On short-haul routes, 71.2% of MSE fares matched site prices (up 31.9 points), while discounted listings dropped to 28.8%, with negligible average deviations."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Greece Origin",
+      "line_content": "From Greece, 71.2% of MSE itineraries were at parity (avg –0.01%), and 28.8% offered minor discounts (avg –0.02%)."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Parity",
+      "line_content": "For close-in bookings, parity reached 74.9% (up 29.9 points) and discounts fell to 25.1%, with average differences of –0.01% and –0.02% respectively."
+    },
+    {
+      "line_title": "Far-Out Parity",
+      "line_content": "In the far-out window, 63.6% of MSE fares matched site prices (up 34.7 points), while 36.4% were cheaper, with average deviations of –0.01% and –0.02%."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Complete Distribution Gap",
+      "line_content": "100% of Olympic Air’s website offers were unavailable on GDS last week, indicating a full absence of listings."
+    },
+    {
+      "line_title": "No Price Data",
+      "line_content": "There were zero instances of price parity, lower, or higher fares on GDS, leaving no basis for direct comparison."
+    },
+    {
+      "line_title": "Stable Absence",
+      "line_content": "The 100% missing rate on GDS remained unchanged week-over-week and month-over-month."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Missing Prevalence",
+      "line_content": "All origin-destination pairs (100%) had website offers missing on GDS last week, consistent with prior periods."
+    },
+    {
+      "line_title": "Zero Parity",
+      "line_content": "0% of routes showed identical fares between the website and GDS, indicating no price matching cases."
+    },
+    {
+      "line_title": "Zero Lower Fares",
+      "line_content": "GDS listed no fares lower than the website, with 0% occurrence in the sample."
+    },
+    {
+      "line_title": "Zero Higher Fares",
+      "line_content": "GDS listed no fares higher than the website, with 0% incidence across all routes."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Absence",
+      "line_content": "All short-haul routes (100%) had no GDS presence last week, with no change over week or month."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Greece Origin Gap",
+      "line_content": "All routes from Greece (100%) lacked GDS listings last week, consistent with prior periods."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Absence",
+      "line_content": "All close-in itineraries (211) had no GDS presence last week, unchanged week-over-week and month-over-month."
+    },
+    {
+      "line_title": "Far-Out Absence",
+      "line_content": "All far-out itineraries (99) were absent on GDS last week, mirroring prior periods."
+    }
+  ]
+}

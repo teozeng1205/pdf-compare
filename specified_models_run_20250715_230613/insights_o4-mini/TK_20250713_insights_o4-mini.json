@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Coverage Gap and Premium",
+      "line_content": "Over half of routes (56.2%) lacked OTA offers last week, and where available, OTA fares carried a 1.64% average premium on 43.5% of routes."
+    },
+    {
+      "line_title": "MSE Distribution and Parity Decline",
+      "line_content": "MSE listings were absent for 57.9% of itineraries, while price parity eroded to 29.3%, signaling widening distribution and pricing gaps."
+    },
+    {
+      "line_title": "GDS Unavailability and Markup",
+      "line_content": "GDS unavailability climbed to 51.3%, and nearly 48% of listed itineraries carried a 1.65% average markup, underscoring persistent premium pricing."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "High OTA Non-Availability",
+      "line_content": "56.2% of routes lacked OTA offers last week, marking a 3.7 pp week-over-week and 4.3 pp month-over-month rise in unserved itineraries."
+    },
+    {
+      "line_title": "OTA Price Premium",
+      "line_content": "On 43.5% of routes, OTA fares exceeded website prices by an average of 1.64%, although this share fell 3.7 pp WoW and 4.3 pp MoM."
+    },
+    {
+      "line_title": "Minimal OTA Discounts",
+      "line_content": "OTA undercuts occurred on just 0.3% of routes, providing an average discount of 0.12%, a consistently negligible segment."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "No OTA Availability",
+      "line_content": "56.2% of ODs had no OTA offers last week, up 3.7 pp WoW and 4.3 pp MoM."
+    },
+    {
+      "line_title": "Parity Pricing Rare",
+      "line_content": "Exact price matches between OTA and website are near zero (<0.1%), remaining flat over weekly and monthly comparisons."
+    },
+    {
+      "line_title": "OTA Higher Prices",
+      "line_content": "43.5% of routes saw OTA prices above the website by 1.64% on average, a share down 3.7 pp WoW and 4.3 pp MoM."
+    },
+    {
+      "line_title": "OTA Lower Prices",
+      "line_content": "Lower OTA fares appeared on only 0.3% of routes, offering an average discount of 0.12%, with negligible fluctuation."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Dynamics",
+      "line_content": "Short-haul routes had 56.2% OTA non-availability last week, up 3.7 pp WoW and 4.3 pp MoM; when available, OTA listed fares 1.7% above website on 43.5% of routes, share down 3.7 pp WoW."
+    },
+    {
+      "line_title": "Long-Haul Dynamics",
+      "line_content": "Long-haul routes saw 55.3% non-availability (+4.4 pp WoW, +5.5 pp MoM); OTA fares were marginally higher (0.04%) on 44.4% of routes, share down 4.3 pp WoW."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Turkey Origins",
+      "line_content": "Routes originating in Turkey had 55.5% OTA non-availability (+3.7 pp WoW, +4.5 pp MoM); OTA fares were 2.07% higher on 44.3% of routes, share down 3.7 pp WoW."
+    },
+    {
+      "line_title": "Non-Turkey Origins",
+      "line_content": "Non-Turkey routes recorded 58.3% non-availability (+3.9 pp WoW, +3.7 pp MoM); when listed, OTA had a 0.09% premium on 40.9% of routes, share down 3.9 pp WoW."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in itineraries faced 55.7% OTA non-availability (+3.9 pp WoW, +3.9 pp MoM); 43.9% of them carried a 1.63% OTA premium, share down 3.9 pp WoW."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out itineraries saw 57.2% non-availability (+3.4 pp WoW, +5.2 pp MoM); OTA fares averaged a 1.67% premium on 42.7% of itineraries, share down 3.4 pp WoW and 5.1 pp MoM."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Rising Distribution Gap",
+      "line_content": "MSE-unavailable itineraries climbed to 57.9% last week, marking a +3.7% WoW and +8.8% MoM increase in the coverage gap."
+    },
+    {
+      "line_title": "Declining Price Parity",
+      "line_content": "Only 29.3% of fares matched website prices on MSE last week, down 2.7% WoW and 6.8% MoM, indicating eroding parity."
+    },
+    {
+      "line_title": "Stable Lower-Price Share",
+      "line_content": "Instances of MSE fares undercutting the website held at 12.7% last week, with a slight weekly decline of 1.0% and average gap of –0.10%."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A Trend",
+      "line_content": "57.9% of itineraries were not found on MSE last week, up 3.7% WoW and 8.8% MoM, signaling widening distribution gaps."
+    },
+    {
+      "line_title": "Price Parity Decline",
+      "line_content": "Price-match frequency fell to 29.3% last week, decreasing 2.7% WoW and 6.8% MoM, reflecting reduced on-channel parity."
+    },
+    {
+      "line_title": "Lower-Fare Incidence",
+      "line_content": "12.7% of itineraries showed lower MSE fares last week, down 1.0% WoW and 1.9% MoM, with an average –0.10% price gap."
+    },
+    {
+      "line_title": "Negligible Premium",
+      "line_content": "MSE fares were higher than website prices in just 0.04% of cases last week, holding at a +0.24% average premium."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Mirror",
+      "line_content": "Short-haul saw 58.0% N/A trips (+3.6% WoW, +8.8% MoM) with parity at 29.8% (–2.7% WoW, –7.0% MoM) and 12.2% lower fares."
+    },
+    {
+      "line_title": "Long-Haul Gap Surge",
+      "line_content": "Long-haul N/A share jumped to 55.3% (+6.0% WoW, +9.0% MoM) while lower-fare incidence dipped to 26.8% (–2.2% WoW, –7.5% MoM)."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic Coverage Worsening",
+      "line_content": "Turkey ODs missing on MSE rose to 59.2% last week (+3.5% WoW, +10.1% MoM), with parity down to 35.9% and lower-fare share at 4.8%."
+    },
+    {
+      "line_title": "Non-TR Undercuts",
+      "line_content": "Non-Turkey ODs had 53.5% N/A share (+4.3% WoW, +4.3% MoM) and a high lower-fare rate of 39.3%, despite parity at just 7.3%."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in tickets saw 55.9% unavailable on MSE last week (+3.6% WoW, +6.8% MoM), price parity at 31.8%, and 12.2% lower fares."
+    },
+    {
+      "line_title": "Far-Out Underrepresentation",
+      "line_content": "Far-out itineraries faced a 61.8% N/A rate (+4.0% WoW, +12.5% MoM) with dwindling parity at 24.3% and a 13.9% lower-fare share."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Rising GDS Unavailability",
+      "line_content": "GDS listings were unavailable for 51.3% of itineraries last week, a 4.1 pp WoW and 5.3 pp MoM increase, signaling broader coverage gaps."
+    },
+    {
+      "line_title": "Persistent GDS Premium",
+      "line_content": "Nearly 48% of itineraries on GDS are priced above the website with a 1.65% average markup, though the share of overpriced offers eased by ~4 pp WoW."
+    },
+    {
+      "line_title": "Negligible GDS Discounts",
+      "line_content": "Discounted GDS fares represent under 1% of itineraries, delivering an average discount below 0.6%, indicating minimal downward price pressure."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A Trend",
+      "line_content": "Unavailability on GDS grew from 47.1% to 51.3% WoW and from 46.0% to 51.3% MoM."
+    },
+    {
+      "line_title": "Stable ‘Same’ Pricing",
+      "line_content": "Identical pricing occurrences remain negligible at 0.01%, with virtually no WoW or MoM movement."
+    },
+    {
+      "line_title": "Prevalent GDS Markups",
+      "line_content": "GDS higher-price share fell from 52.1% to 48.0% WoW and from 53.3% to 48.0% MoM, averaging a 1.65% premium."
+    },
+    {
+      "line_title": "Minimal GDS Discounts",
+      "line_content": "Lower-priced GDS offers dipped slightly to 0.76% last week, with an average discount of just 0.58%."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Premiums",
+      "line_content": "Short-haul routes see 47.9% of itineraries priced higher on GDS with a 1.71% average markup, down 4.1 pp WoW."
+    },
+    {
+      "line_title": "Long-Haul Near-Parity",
+      "line_content": "Long-haul routes feature a 49.3% share of higher-priced listings but only a 0.04% average premium, indicating near-parity with website rates."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "TR Origins Overpriced",
+      "line_content": "Itineraries originating in Turkey are overpriced on GDS 49.2% of the time at a 2.06% average markup, outpacing non-TR origins."
+    },
+    {
+      "line_title": "Non-TR Origins Balanced",
+      "line_content": "Non-TR itineraries show a 43.9% higher-price share on GDS with a nominal 0.09% markup and a 2.6% share of discounted fares."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Premium",
+      "line_content": "Close-in bookings exhibit a 48.2% share of higher GDS fares with a 1.64% average markup, consistent with recent weeks."
+    },
+    {
+      "line_title": "Far-Out Booking Dynamics",
+      "line_content": "Far-out bookings carry a 47.4% higher-fare share on GDS, averaging a 1.66% premium that rose to 1.77% MoM."
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Channel Premium",
+      "line_content": "Over 91% of itineraries on OTAs carried higher fares than Vietnam Airlines’ website last week, maintaining a 0.85% average premium."
+    },
+    {
+      "line_title": "MSE Parity Growth",
+      "line_content": "MSE parity climbed to 31.98%, up 9.37 pp week-over-week, even as over half of itineraries still showed higher MSE fares."
+    },
+    {
+      "line_title": "GDS Coverage Gap",
+      "line_content": "The GDS channel lacked offers for 93.0% of itineraries last week, highlighting a substantial coverage shortfall."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "OTA Premium Prevalence",
+      "line_content": "Over 91% of itineraries on the OTA channel were priced above the airline’s website last week, sustaining a consistent premium of approximately 0.85% month-over-month."
+    },
+    {
+      "line_title": "Long-Haul Pricing Parity",
+      "line_content": "Long-haul routes saw 75% of fares matching website prices and only 23% priced higher on OTAs, reflecting a minimal average premium of 0.05%."
+    },
+    {
+      "line_title": "Non-Vietnam Origin Shifts",
+      "line_content": "Non-VN markets experienced an 18 pp week-over-week drop in OTA-higher share to 33%, while same-price listings surged by 16 pp to 63%."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Missing OTA Listings",
+      "line_content": "2.93% of OD pairs lacked OTA offers last week, unchanged month-over-month and up just 0.06 pp week-over-week."
+    },
+    {
+      "line_title": "Price Parity Growth",
+      "line_content": "Parity listings rose to 5.42% last week, up 0.55 pp week-over-week and 1.91 pp month-over-month."
+    },
+    {
+      "line_title": "OTA Price Premium",
+      "line_content": "OTAs were higher for 91.61% of routes, down 0.65 pp versus prior week and 1.82 pp versus prior month, with the average premium steady at 0.85%."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Premium Distribution",
+      "line_content": "Short-haul itineraries saw 93.38% priced higher on OTAs last week, a 0.76 pp decrease week-over-week, with an average premium of 0.85%."
+    },
+    {
+      "line_title": "Long-Haul Price Parity",
+      "line_content": "Long-haul routes matched website prices for 75.44% of itineraries last week, up 2.89 pp month-over-month, with only 22.81% priced higher at a 0.05% premium."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Vietnam Origin Premium",
+      "line_content": "For VN-origin routes, 93.78% were priced higher on OTAs last week, stable week-over-week, carrying an average 0.86% premium."
+    },
+    {
+      "line_title": "Non-VN Parity Shift",
+      "line_content": "Non-VN origins saw same-price listings rise 15.9 pp to 63.29% last week, while OTA-higher share tumbled 18.4 pp to 32.91%."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Premium",
+      "line_content": "Close-in bookings held 91.38% share of higher fares last week, down 1.31 pp week-over-week, with the average premium steady at 0.86%."
+    },
+    {
+      "line_title": "Advance Booking Dynamics",
+      "line_content": "Far-out bookings saw OTA-higher frequency increase 0.76 pp to 92.05% last week, with a slightly lower average premium of 0.81%."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Price Parity Uptick",
+      "line_content": "MSE price parity reached 31.98% last week, a 9.37 pp increase from the prior week, signaling stronger alignment with the airline’s site."
+    },
+    {
+      "line_title": "Majority Higher Prices",
+      "line_content": "Over half of itineraries (50.79%) displayed higher MSE prices last week, though this share declined by 11.16 pp week-over-week and 3.76 pp month-over-month."
+    },
+    {
+      "line_title": "Discount Share Rising",
+      "line_content": "Itineraries with lower MSE prices grew to 15.20% last week, up 1.97 pp from the previous week and 3.03 pp month-over-month."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A Availability",
+      "line_content": "Only 2.03% of itineraries had no MSE offer last week, a slight decline from 2.21% the prior week and 2.53% last month."
+    },
+    {
+      "line_title": "SAME Frequency",
+      "line_content": "Price parity accounted for 31.98% of itineraries last week, up 9.37 pp versus the prior week and modestly above last month’s 30.74%."
+    },
+    {
+      "line_title": "MSE HIGHER Frequency",
+      "line_content": "Higher MSE pricing applied to 50.79% of itineraries last week, down 11.16 pp week-over-week and 3.76 pp month-over-month."
+    },
+    {
+      "line_title": "MSE LOWER Frequency",
+      "line_content": "Lower MSE pricing covered 15.20% of itineraries last week, increasing by 1.97 pp from the prior week and 3.03 pp over the past month."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Trends",
+      "line_content": "Short-haul routes saw 32.35% price parity last week (+9.49 pp), 52.11% higher MSE pricing (−11.50 pp), and 13.47% lower pricing (+2.20 pp)."
+    },
+    {
+      "line_title": "Long-Haul Trends",
+      "line_content": "Long-haul itineraries were predominantly lower on MSE at 82.14% last week, down 2.86 pp, while parity rose to 17.86% (+2.86 pp)."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic (VN) Origins",
+      "line_content": "VN origins mirrored overall MSE trends with 32.88% parity (+9.69 pp), 52.62% higher pricing (−11.54 pp), and 12.39% lower pricing (+2.04 pp)."
+    },
+    {
+      "line_title": "International (Non-VN) Origins",
+      "line_content": "Non-VN itineraries saw 91.14% lower MSE pricing last week, a slight dip of 1.17 pp, and only 7.59% price parity."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in bookings had 34.08% price parity (+9.88 pp), 47.07% higher pricing (−12.58 pp), and 16.35% lower pricing (+2.84 pp)."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings featured 26.46% parity (+7.79 pp), 60.39% higher pricing (−7.49 pp), and 12.34% lower pricing (flat)."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "High Unmatched Offer Rate",
+      "line_content": "In the GDS channel, 93.0% of itineraries last week had no corresponding offer, largely unchanged from the prior week."
+    },
+    {
+      "line_title": "Rising Price Parity",
+      "line_content": "Instances where GDS fares matched website prices grew to 5.9%, up 0.4 pp week-over-week and 1.5 pp month-over-month."
+    },
+    {
+      "line_title": "Reduced Higher GDS Fares",
+      "line_content": "GDS fares exceeding website prices dipped to 1.1% of itineraries, down 0.6 pp week-over-week, maintaining a 2% average premium."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Unmatched Offers Dominant",
+      "line_content": "93.0% of itineraries lacked a GDS equivalent offer last week, up 0.2 pp week-over-week and down 1.1 pp month-over-month."
+    },
+    {
+      "line_title": "Price Parity Share",
+      "line_content": "Price parity occurrences rose to 5.9% last week, a 0.4 pp increase week-over-week and 1.5 pp gain month-over-month."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Consistency",
+      "line_content": "Short-haul routes maintained a 95.1% unmatched rate, with matched fares climbing to 4.0% (+0.5 pp WoW) and higher-priced offers at 0.8%."
+    },
+    {
+      "line_title": "Long-Haul Volatility",
+      "line_content": "Long-haul routes saw unmatched offerings surge to 12.3% (+5.6 pp WoW, +10.3 pp MoM) while price parity dipped to 75.4% (−2.9 pp WoW, −8.6 pp MoM)."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic Origin Stability",
+      "line_content": "Offers from Vietnam origins remained largely unmatched at 96.2%, with a 3.8% parity rate and negligible premium fares."
+    },
+    {
+      "line_title": "International Origin Shifts",
+      "line_content": "Non-VN origins experienced matched fares drop to 59.5% (−13.3 pp WoW) despite a month-over-month rebound, with 30.4% higher-priced offers."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Dynamics",
+      "line_content": "Close-in bookings had a 93.8% unmatched rate, 5.2% price parity (+0.6 pp WoW), and 1.0% higher-priced GDS fares (−0.6 pp WoW)."
+    },
+    {
+      "line_title": "Far-Out Booking Stability",
+      "line_content": "Far-out bookings saw unmatched offers at 90.9% (+0.7 pp WoW), matched fares at 7.6%, and higher-priced fares at 1.3% (−0.8 pp WoW)."
+    }
+  ]
+}

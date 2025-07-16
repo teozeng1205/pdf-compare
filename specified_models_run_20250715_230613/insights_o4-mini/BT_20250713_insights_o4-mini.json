@@ -1,0 +1,200 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Consistent Premium",
+      "line_content": "96.55% of itineraries carry a 0.11% markup on OTA, reflecting a stable channel premium with minimal month-over-month change."
+    },
+    {
+      "line_title": "MSE Discount Erosion",
+      "line_content": "45.4% of fares on MSE were lower than the website last week, down 15.1% month-over-month as channel prices converge."
+    },
+    {
+      "line_title": "GDS Near-Universal Markups",
+      "line_content": "98.84% of itineraries on GDS were priced above the website with a contained 0.10% average uplift, signaling broad premium positioning."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Consistent OTA Premium",
+      "line_content": "96.55% of itineraries on OTA carry a markup versus the website, with an average uplift of 0.11%, underscoring a persistent channel price differential."
+    },
+    {
+      "line_title": "Stable Pricing Trends",
+      "line_content": "Week-on-week incidence of OTA markups held steady at 96.55%, and month-on-month variance is minimal (±1 basis point), indicating controlled pricing shifts."
+    },
+    {
+      "line_title": "Near-Complete OTA Coverage",
+      "line_content": "Only 3.45% of ODs lacked OTA listings last week, unchanged versus the prior week and down 0.04 percentage points month-on-month, reflecting robust distribution."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Offers Missing on OTA",
+      "line_content": "3.45% of last-week itineraries had no OTA offer, flat week-over-week and 0.04pp lower than one month ago."
+    },
+    {
+      "line_title": "Identical-Price Matches",
+      "line_content": "No cases of price parity were recorded on OTA over the latest week or month, indicating consistent premium positioning."
+    },
+    {
+      "line_title": "OTA Higher Pricing",
+      "line_content": "96.55% of ODs were priced higher on OTA last week with an average markup of 0.11%, steady week-on-week and up 0.04pp month-on-month."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Performance",
+      "line_content": "Short-haul routes reflect overall OTA behavior: 96.55% priced higher by 0.11% on average, with stable week-over-week and a 0.04pp month-over-month uptick."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Latvia Origins",
+      "line_content": "Latvia ODs saw 4.55% unlisted on OTA last week (up 2.27pp W/W) while 95.45% carried a 0.09% average markup."
+    },
+    {
+      "line_title": "Non-Latvia Origins",
+      "line_content": "Other origins had only 2.33% of ODs missing on OTA (down 2.33pp W/W) and 97.67% priced higher by 0.12%."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in itineraries had 5.08% missing OTA coverage (flat W/W) and 94.92% at a 0.07% markup."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings achieved 100% OTA coverage with an average 0.17% markup, unchanged across all periods."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Dominant Lower-Price Trend Easing",
+      "line_content": "Last week 45.4% of MSE fares were lower than the website, but that share has fallen 15.1% month-over-month as channel prices converge."
+    },
+    {
+      "line_title": "Rising Channel Premiums",
+      "line_content": "MSE fares higher than the website climbed to 29.1% last week, up 9.3% month-over-month, signaling growing instances of channel premiums."
+    },
+    {
+      "line_title": "Far-Out Booking Premium",
+      "line_content": "For far-out bookings, 53.6% of MSE fares exceed website prices—up 22.5% month-over-month—underscoring pronounced premiums on early purchases."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A Coverage",
+      "line_content": "No itineraries were unavailable on MSE last week, maintaining 0% across all periods."
+    },
+    {
+      "line_title": "Price Parity (SAME)",
+      "line_content": "Parity holds at 25.6% last week, with slight weekly growth (+0.3%) and a 5.8% month increase."
+    },
+    {
+      "line_title": "Channel Premiums (MSE HIGHER)",
+      "line_content": "29.1% of fares on MSE were higher than the website last week, rising 2.6% week-over-week and 9.3% month-over-month."
+    },
+    {
+      "line_title": "Channel Discounts (MSE LOWER)",
+      "line_content": "45.4% of fares were lower on MSE last week, down 2.9% week-over-week and 15.1% month-over-month."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Dynamics",
+      "line_content": "Short-haul routes mirror overall trends: 45.4% lower fares last week but a 15.1% month-over-month decline in discount share while premiums rose to 29.1%."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Latvia (LV) Origins",
+      "line_content": "LV routes show 53.5% of fares lower on MSE last week—flat week-over-week but down 18.6% month-over-month—while higher-fare share climbed to 20.9%."
+    },
+    {
+      "line_title": "Non-LV Origins",
+      "line_content": "Non-LV routes split evenly: 37.2% of fares higher and 37.2% lower last week, with discount share down 11.6% and premium share up 7.0% month-over-month."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in fares are 56.9% lower on MSE last week (down 13.3% month-over-month) while higher-fare incidence is modest at 17.2%."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings show 53.6% of MSE fares above website prices last week, a 22.5% month-over-month increase, and only 21.4% lower fares."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Dominant GDS Markups",
+      "line_content": "Nearly all itineraries (98.84%) on the GDS channel were priced above the website last week, marking a 1.14-percentage-point increase from the prior week."
+    },
+    {
+      "line_title": "Modest Average Premium",
+      "line_content": "The average GDS uplift remains contained at approximately 0.10%, unchanged month-over-month and signaling a stable, low-impact markup strategy."
+    },
+    {
+      "line_title": "Booking-Window Variance",
+      "line_content": "Far-out bookings carry the highest average GDS premium at 0.17%, more than double the 0.07% markup observed on close-in bookings."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Higher Prevalence",
+      "line_content": "98.84% of routes were priced higher on GDS last week, continuing a week-over-week gain of 1.14 percentage points."
+    },
+    {
+      "line_title": "GDS N/A Share",
+      "line_content": "Only 1.16% of routes lacked a GDS offering last week, down 1.14 percentage points from the prior week."
+    },
+    {
+      "line_title": "Identical Pricing (Same)",
+      "line_content": "No itineraries matched website fares on the GDS channel, indicating full divergence in distribution pricing."
+    },
+    {
+      "line_title": "No Lower Pricing",
+      "line_content": "There were zero instances of GDS fares undercutting the website, confirming that all displayed GDS fares are at or above site rates."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Dynamics",
+      "line_content": "Short-haul routes mirror overall trends with 98.84% priced higher on GDS at a steady 0.10% premium, up 1.14 percentage points week-over-week."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Latvia Origins",
+      "line_content": "All Latvia origin routes (100%) were priced higher on GDS last week with a modest 0.09% average uplift and no week-over-week change."
+    },
+    {
+      "line_title": "Non-Latvia Origins",
+      "line_content": "97.67% of non-Latvia routes carried a GDS markup averaging 0.12%, reflecting a 2.22 percentage-point increase in higher-pricing prevalence week-over-week."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "98.31% of close-in itineraries were priced higher on GDS with a 0.07% average premium, up 1.75 percentage points from the previous week."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out itineraries saw 100% GDS higher pricing and the highest average premium of 0.17%, consistent with prior periods."
+    }
+  ]
+}

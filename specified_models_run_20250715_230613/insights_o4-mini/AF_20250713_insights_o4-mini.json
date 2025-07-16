@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Competitive Discounts",
+      "line_content": "OTAs offered lower fares on 48.6% of itineraries last week—up 1.8%—with a modest 0.03% average discount versus AF’s direct site."
+    },
+    {
+      "line_title": "MSE Price Dominance",
+      "line_content": "MSE provided cheaper fares in 79.5% of itineraries, maintaining an average 0.06% discount and minimal 0.12% premium presence."
+    },
+    {
+      "line_title": "GDS Premium Positioning",
+      "line_content": "A substantial 79.53% of fares on GDS were priced above the website last week, carrying an average 0.11% markup and minimal discount offerings."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "OTAs Lead with Lower Fares",
+      "line_content": "In the latest week OTAs offered lower fares in 48.6% of itineraries—up 1.8% W/W—with a 0.03% average discount versus the direct site."
+    },
+    {
+      "line_title": "OTA Premiums Are Limited",
+      "line_content": "OTAs priced higher in 19.7% of cases, down 0.4% W/W, with an average 0.19% markup over the website."
+    },
+    {
+      "line_title": "Price Parity Declining",
+      "line_content": "Exact price matches occurred in 26.9% of itineraries, down 0.9% W/W and 0.6% M/M."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Listing Gaps Decline",
+      "line_content": "OTAs not listed in only 4.8% of itineraries, decreasing 0.48% W/W and 0.65% M/M."
+    },
+    {
+      "line_title": "Parity Retreat",
+      "line_content": "Price parity dipped to 26.9%, down 0.92% W/W and 0.63% M/M."
+    },
+    {
+      "line_title": "Premium Stability",
+      "line_content": "Premium share held at 19.7%, down 0.41% W/W but up 0.24% M/M, with a 0.19% average markup."
+    },
+    {
+      "line_title": "Discount Growth",
+      "line_content": "Lower‐fare share rose to 48.6%, up 1.82% W/W and 1.05% M/M, at a 0.03% average discount."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Discounting",
+      "line_content": "OTAs undercut short‐haul fares in 61.9% of itineraries—up 1.93% W/W—with a consistent 0.03% average discount."
+    },
+    {
+      "line_title": "Long Haul Markups Common",
+      "line_content": "OTAs priced long‐haul itineraries higher in 41.5% of cases, applying a 0.09% average premium and undercutting only 0.4%."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic (FR) Underpricing",
+      "line_content": "Origins in France saw OTAs offering lower fares 71.3% of the time (up 2.1%), with minimal 0.11% average markup when higher."
+    },
+    {
+      "line_title": "International Markup Bias",
+      "line_content": "Non‐FR origins had OTAs pricing higher in 58.7% of itineraries, with a 0.19% average premium and only 1.3% showing lower fares."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close‐In Discount Share",
+      "line_content": "In close‐in bookings OTAs offered lower fares in 43.3% of cases—up 0.9%—with a 0.03% discount and 22.5% showing a 0.17% premium."
+    },
+    {
+      "line_title": "Far‐Out Discount Surge",
+      "line_content": "Far‐out bookings saw a 57.9% lower‐fare share—up 3.4%—alongside a 14.8% premium share at a 0.22% markup."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Predominant MSE Discounts",
+      "line_content": "Last week 79.5% of itineraries on MSE were priced below the website, down 3.6% W/W but holding a 0.06% average discount."
+    },
+    {
+      "line_title": "Increasing Price Parity",
+      "line_content": "18.1% of itineraries matched website fares, up 4.0% W/W and 5.4% M/M, reflecting growing channel consistency."
+    },
+    {
+      "line_title": "Minimal MSE Premiums",
+      "line_content": "Only 0.12% of itineraries were more expensive on MSE, stable W/W, with average markups around 0.16%."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Listing Gaps Decrease",
+      "line_content": "2.33% of itineraries lacked MSE listings, down 0.42% W/W and 0.59% M/M."
+    },
+    {
+      "line_title": "Parity Increases",
+      "line_content": "18.06% of itineraries showed price parity, rising 4.00% W/W and 5.38% M/M."
+    },
+    {
+      "line_title": "Cheaper MSE",
+      "line_content": "79.50% of itineraries were cheaper, easing 3.58% W/W and 4.83% M/M, with average savings of 0.06%."
+    },
+    {
+      "line_title": "Minimal Premiums",
+      "line_content": "1.2‰ of itineraries carried higher prices, stable W/W, with a 0.16% average premium."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Discounts",
+      "line_content": "90.60% of short‐haul itineraries were cheaper on MSE—down 5.17% W/W—with 0.07% average savings."
+    },
+    {
+      "line_title": "Long Haul Parity & Discounts",
+      "line_content": "50.36% of long‐haul itineraries matched website fares, 39.39% were cheaper (up 0.74% W/W), and 0.18% priced higher at a 0.25% markup."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "French Origins",
+      "line_content": "94.38% of France‐origin itineraries were cheaper on MSE, unchanged W/W, with a 0.06% average discount."
+    },
+    {
+      "line_title": "Non‐French Origins",
+      "line_content": "48.56% of non‐FR itineraries were cheaper—down 10.84% W/W—while parity rose to 47.49% (up 11.54%)."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close‐In Bookings",
+      "line_content": "77.15% of close‐in itineraries were cheaper—down 4.06% W/W—with a 0.05% average discount."
+    },
+    {
+      "line_title": "Far‐Out Bookings",
+      "line_content": "83.71% of far‐out itineraries offered lower fares—down 2.62% W/W—with a 0.07% average saving."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Predominant Higher Fares",
+      "line_content": "79.53% of itineraries on GDS were priced above the website, up 1.0% W/W with a 0.11% average markup."
+    },
+    {
+      "line_title": "Minimal Discounted Offers",
+      "line_content": "Only 0.58% of fares on GDS were lower, yielding a 0.16% average discount with negligible week-to-month movement."
+    },
+    {
+      "line_title": "Stable Parity Decline",
+      "line_content": "Price parity was 14.22%, down 0.42% W/W and 1.15% M/M, indicating modest erosion of same-price listings."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Listing Availability",
+      "line_content": "5.66% of itineraries were not found on GDS, decreasing 0.49% W/W and 0.22% M/M."
+    },
+    {
+      "line_title": "Parity Erosion",
+      "line_content": "14.22% matched website prices, down 0.42% W/W and 1.15% M/M."
+    },
+    {
+      "line_title": "Higher Fare Prevalence",
+      "line_content": "79.53% of GDS fares were higher—up 1.0% W/W and 1.33% M/M—with a 0.11% average markup."
+    },
+    {
+      "line_title": "Scant Discounts",
+      "line_content": "Only 0.58% of fares were lower, holding flat with a 0.16% average discount."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Premiums",
+      "line_content": "Short-haul itineraries saw 89.22% higher fares—up 0.44% W/W—with parity at 6.58% and discounts at 0.59%."
+    },
+    {
+      "line_title": "Long-Haul Balance",
+      "line_content": "Long-haul listings had 44.52% higher fares—up 2.12% W/W with a 0.05% markup—parity at 41.83% and 0.72% discounts."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "France-Origin Premiums",
+      "line_content": "76.38% of France departures carried higher fares—up 0.94% W/W—with a 0.13% average markup and 20.76% parity."
+    },
+    {
+      "line_title": "Non-France-Origin Premiums",
+      "line_content": "86.23% of non-FR itineraries had higher fares—up 1.38% W/W—with a 0.08% markup and only 0.60% parity."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Premiums",
+      "line_content": "Close-in bookings showed 76.97% higher fares—up 1.38% W/W—with parity at 16.45% and discounts at 0.61%."
+    },
+    {
+      "line_title": "Far-Out Premiums",
+      "line_content": "Far-out bookings exhibited 84.03% higher fares—up 0.39% W/W—with parity at 10.33% and a 0.19% average markup."
+    }
+  ]
+}

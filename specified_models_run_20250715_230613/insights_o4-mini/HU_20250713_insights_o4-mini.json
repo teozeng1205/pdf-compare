@@ -1,0 +1,212 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Pricing Balance",
+      "line_content": "While OTA pricing maintained over 90% parity with Hainan Airlines' website, parity dipped month-on-month and week-on-week, accompanied by rising missing offers and a growing share of OTA premiums."
+    },
+    {
+      "line_title": "MSE Lower Pricing Dominance",
+      "line_content": "MSE undercut Hainan Airlines' website in nearly 99% of itineraries with an average 0.50% discount, showing minimal parity occurrences and improving overall channel coverage."
+    },
+    {
+      "line_title": "GDS Diverging Prices",
+      "line_content": "GDS parity weakened to 85.2% last week as channel premiums surged to 6.9%, with a modest rise in missing listings and negligible undercut instances."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "High OTA Parity with Recent Dip",
+      "line_content": "90.8% of fares matched website pricing last week, though parity fell 7.9% week-on-week and 5.4% month-on-month."
+    },
+    {
+      "line_title": "Rising Missing Offers",
+      "line_content": "OTA lacked 1.6% of website offers last week, marking a 49% week-on-week increase despite a 2% month-on-month decline."
+    },
+    {
+      "line_title": "Growth in OTA Premiums",
+      "line_content": "7.7% of fares were higher on OTA last week, up from 0.3% week-on-week, with an average surcharge of 0.01%."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offers Not Found",
+      "line_content": "Last week 1.55% of fares were unavailable on OTA—a 49% increase week-on-week and a 2% decrease month-on-month."
+    },
+    {
+      "line_title": "Price Parity (SAME)",
+      "line_content": "Price parity held for 90.8% of itineraries last week, declining 7.9% week-on-week and 5.4% month-on-month."
+    },
+    {
+      "line_title": "Channel Higher",
+      "line_content": "7.7% of OTA fares were above website pricing last week, up 7.4% week-on-week, with an average markup of 0.01%."
+    },
+    {
+      "line_title": "Channel Lower",
+      "line_content": "There were no instances of OTA fares undercutting the airline’s website, indicating zero occurrences of lower channel pricing."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Short-haul itineraries saw 90.96% parity last week with 8.29% priced higher on OTA and missing offers under 1%."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "Long-haul routes held 88.8% parity, with 2.9% of fares higher on OTA and an average surcharge of 0.03%."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "China Origins (CN)",
+      "line_content": "China-origin routes achieved 91.2% parity, 7.6% OTA premiums averaging 0.01%, and 1.17% missing offers."
+    },
+    {
+      "line_title": "Non-China Origins",
+      "line_content": "Non-CN origins (2 ODs) showed no parity, 31.3% priced higher on OTA, 68.8% missing offers, and a 0.02% average premium."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in reservations had 90.1% parity, 8.0% OTA premiums, and 1.9% missing offers last week."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings saw 91.8% parity, 7.2% priced higher on OTA, and just 1.0% of offers missing."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Dominant Lower Pricing",
+      "line_content": "MSE offers were lower than the website in 98.73% of itineraries last week, with an average price gap of –0.50%; incidence dipped 0.20 ppt week-on-week but rose 2.63 ppt month-on-month."
+    },
+    {
+      "line_title": "Negligible Price Parity",
+      "line_content": "Same-price listings accounted for only 0.14% of routes and remained flat versus both the prior week and prior month, indicating minimal parity occurrences."
+    },
+    {
+      "line_title": "Limited Missing Offers",
+      "line_content": "Only 1.13% of ODs had no MSE offer last week, up 0.24 ppt from the week before but down 2.59 ppt from last month, reflecting improving channel coverage."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Offers Not Found",
+      "line_content": "Last-week MSE non-availability stood at 1.13%, up 0.24 ppt week-on-week and down 2.59 ppt month-on-month, showing a tightening gap in coverage."
+    },
+    {
+      "line_title": "Price Parity Stability",
+      "line_content": "Same-price listings held steady at 0.14% across last week, previous week, and previous month, indicating persistent price alignment at a minimal level."
+    },
+    {
+      "line_title": "Prevalence of Lower Pricing",
+      "line_content": "Lower-priced MSE offers occurred in 98.73% of cases last week, with incidence slightly down 0.20 ppt week-on-week and up 2.63 ppt month-on-month and an average discount of 0.50%."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Pricing Edge",
+      "line_content": "MSE offered lower prices in 99.60% of short-haul ODs last week (avg. –0.49%), with incidence down 0.28 ppt week-on-week but up 2.87 ppt month-on-month."
+    },
+    {
+      "line_title": "Long-Haul Discount Dynamics",
+      "line_content": "Lower pricing appeared in 91.67% of long-haul routes last week, improving 0.49 ppt week-on-week and 0.61 ppt month-on-month, with a deeper average gap of –0.54%."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic (CN) Discounts",
+      "line_content": "For CN origins, 99.11% of ODs featured MSE-lower pricing last week (avg. –0.50%), with incidence down 0.21 ppt week-on-week but up 2.65 ppt month-on-month."
+    },
+    {
+      "line_title": "International (Non-CN) Coverage Gaps",
+      "line_content": "Non-CN origins saw only 31.25% lower-priced offers and 68.75% missing MSE listings, with a negligible average discount of 0.03%, all metrics flat over the period."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Discounts",
+      "line_content": "Close-in itineraries showed lower pricing in 98.76% of cases (avg. –0.60%), with incidence down 0.13 ppt week-on-week but up 3.19 ppt month-on-month."
+    },
+    {
+      "line_title": "Far-Out Booking Trends",
+      "line_content": "Far-out bookings had lower MSE prices in 98.67% of cases (avg. –0.30%), with incidence down 0.34 ppt week-on-week and up 1.61 ppt month-on-month."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Eroding Price Parity",
+      "line_content": "GDS fares matched the website in 85.20% of ODs last week, a decline of 5.9 pp WoW and 4.2 pp MoM, signaling growing divergence."
+    },
+    {
+      "line_title": "Surge in Channel Premiums",
+      "line_content": "Instances of GDS fares exceeding the website rose to 6.92% of ODs last week, up about 5.9 pp WoW and 6.1 pp MoM with an average 1% markup."
+    },
+    {
+      "line_title": "Negligible Undercuts",
+      "line_content": "No routes were priced lower on GDS last week, maintaining the trend of minimal undercuts (0.07% of ODs prior week) despite average markdowns of –0.75% when they occur."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Missing Listings (GDS N/A)",
+      "line_content": "7.87% of ODs lacked a website offer on GDS last week, a slight 0.09 pp WoW increase but a 1.83 pp decrease MoM."
+    },
+    {
+      "line_title": "Price Parity (SAME)",
+      "line_content": "85.20% of routes showed identical fares on GDS last week, down 5.88 pp WoW and 4.18 pp MoM, reflecting weakening alignment."
+    },
+    {
+      "line_title": "Channel Premiums (GDS HIGHER)",
+      "line_content": "6.92% of ODs carried higher GDS fares last week, up 5.86 pp WoW and 6.08 pp MoM, with an average 1% price premium."
+    },
+    {
+      "line_title": "Channel Discounts (GDS LOWER)",
+      "line_content": "0% of routes were priced lower on GDS last week, following a marginal 0.07% frequency in prior periods and average discounts of –0.75%."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Divergence",
+      "line_content": "Short-haul parity stood at 85.3% last week (–6.8 pp WoW), with 6.6% of fares on GDS at a premium and 8.1% missing listings."
+    },
+    {
+      "line_title": "Long-Haul Premiums",
+      "line_content": "Long-haul routes saw 9.3% of fares priced above the website last week (vs. 9.8% WoW), driving an average 3% markup while parity held at 84.6%."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Mainland China Origins",
+      "line_content": "CN-origin itineraries achieved 85.7% parity last week, with 6.4% premiums and 7.9% missing on GDS, mirroring overall trends."
+    },
+    {
+      "line_title": "Non-China Origins",
+      "line_content": "All Non-CN routes (2 ODs) carried GDS premiums last week (100%), up from 68.8% MoM, with an average 3% markup."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in fares matched the website in 81.2% of itineraries last week (–5.6 pp WoW), while 6.9% carried GDS premiums and 12.0% were unavailable."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out itineraries showed 92.8% parity last week (–6.1 pp WoW), alongside 6.97% premiums and negligible missing listings (0.2%)."
+    }
+  ]
+}

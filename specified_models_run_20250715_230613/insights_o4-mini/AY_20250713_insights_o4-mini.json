@@ -1,0 +1,200 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Availability & Markup",
+      "line_content": "OTA listings were unmatched with website fares for 52.3% of itineraries last week, and matched fares carried a steady 0.44% premium, indicating constrained availability and consistent OTA markup."
+    },
+    {
+      "line_title": "MSE Strong Parity",
+      "line_content": "MSE achieved 63.8% fare parity with Finnair.com last week while undercuts fell to 32.9%, reflecting robust alignment and minimal price variance."
+    },
+    {
+      "line_title": "GDS Coverage Gaps",
+      "line_content": "GDS exhibited missing listings for 52.2% of routes and priced 47.4% of listed itineraries at a 0.45% premium, underscoring distribution limitations."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Rising Web-Unmatched Share",
+      "line_content": "Last week, 52.3% of itineraries on the OTA had no matching website offer, up 1.9% week-over-week and 1.8% month-over-month, signaling reduced OTA availability of website fares."
+    },
+    {
+      "line_title": "Steady OTA Premium",
+      "line_content": "For listings where the fare is present, OTA prices averaged a 0.44% premium last week, consistent with the prior week and month."
+    },
+    {
+      "line_title": "Booking-Window Markup Gap",
+      "line_content": "OTA markups vary by purchase timing: far-out bookings carry a 0.53% average premium versus 0.38% for close-in itineraries, highlighting stronger OTA pricing power on advanced-purchase fares."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Website-Unmatched Share",
+      "line_content": "52.3% of itineraries lacked a website-channel match on OTA last week, increasing 1.9% from the previous week and 1.8% from the previous month."
+    },
+    {
+      "line_title": "OTA Higher-Price Prevalence",
+      "line_content": "47.7% of itineraries were priced higher on OTA, with an average 0.44% markup and the share of premium fares down 1.9% week-over-week."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Dynamics",
+      "line_content": "OTA listings for short-haul routes matched only 45.5% of website fares last week at a 0.46% average premium, while unmatched itineraries rose 1.9% week-over-week."
+    },
+    {
+      "line_title": "Long-Haul Premium Consistency",
+      "line_content": "All long-haul itineraries on OTA were priced 0.17% above the website last week, maintaining full premium coverage versus the prior week."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Finnish Origins",
+      "line_content": "67.97% of Finland-origin routes were unavailable on OTA last week; the remaining 32.03% carried a 0.45% average premium."
+    },
+    {
+      "line_title": "Non-Finnish Origins",
+      "line_content": "Non-Finland origins appeared on OTA for 97.66% of itineraries at a 0.42% markup, with unmatched share near 2.3%."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "49.36% of close-in itineraries lacked a website match on OTA, while the rest carried a 0.38% average premium, slightly easing week-over-week."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "56.70% of far-out itineraries were unmatched on OTA, and the matched fares held a 0.53% average premium, down 3.4% in share week-over-week."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "High Parity Rates",
+      "line_content": "Last week, 63.8% of MSE fares matched Finnair.com prices, marking a 9.2 percentage-point increase from the prior week and underscoring strong price alignment."
+    },
+    {
+      "line_title": "Declining Undercuts",
+      "line_content": "Channel undercuts occurred in 32.9% of ODs last week but fell by 9.8 points week-over-week and 3.1 points month-over-month, signaling reduced discounting on MSE."
+    },
+    {
+      "line_title": "Minimal Price Variance",
+      "line_content": "When MSE fares were higher, they averaged just +0.05% above website rates; lower fares averaged –0.08%, reflecting tight price consistency."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Availability (MSE N/A)",
+      "line_content": "Unlisted fares on MSE were rare at 0.37% last week and continued to decrease by 0.18 points versus the prior week and 0.93 points versus last month."
+    },
+    {
+      "line_title": "Price Parity (Same)",
+      "line_content": "Match rates rose to 63.8% last week, up 9.2 points from the previous week and 3.7 points month-over-month, highlighting improved parity."
+    },
+    {
+      "line_title": "Channel Premiums (Higher)",
+      "line_content": "Only 3.0% of routes showed higher MSE fares last week, up by 0.8 points week-over-week, with an average premium of +0.05%."
+    },
+    {
+      "line_title": "Channel Discounts (Lower)",
+      "line_content": "Discounted fares on MSE comprised 32.9% last week but dropped 9.8 points week-over-week and 3.1 points month-over-month, at an average concession of –0.08%."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Parity",
+      "line_content": "Short-haul parity climbed to 64.9% last week (+9.4 points week-over-week) while undercuts eased to 31.6% (–10.0 points), with discounts averaging –0.07%."
+    },
+    {
+      "line_title": "Long-Haul Discounts",
+      "line_content": "Long-haul routes saw 65.0% undercuts last week, a 3.2 point decrease from the prior week, at a deeper average discount of –0.18%."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic Origins (FI)",
+      "line_content": "For Finland departures, parity reached 78.9% last week (+11.1 points), while MSE discounts fell to 18.3% (–12.3 points) with an average –0.08% differential."
+    },
+    {
+      "line_title": "International Origins (Non-FI)",
+      "line_content": "Non-FI origins exhibited 79.7% of routes with lower MSE fares last week, holding steady versus the prior week, at an average –0.08% deviation."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in parity was 59.4% last week (+4.6 points) and discounts were 36.1% (–6.3 points), with higher fares at 4.2% averaging +0.06%."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out parity peaked at 69.6% (+15.7 points) and undercuts fell to 28.6% (–14.6 points), with minimal premiums of +0.02% when higher."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Distribution Gaps Persist",
+      "line_content": "GDS listings were missing for 52.2% of routes last week, rising 1.8% week-on-week and 1.7% month-on-month, signaling growing coverage gaps."
+    },
+    {
+      "line_title": "Dominance of Higher GDS Fares",
+      "line_content": "47.4% of routes carried higher fares on GDS last week, down 2.0% week-on-week and 1.3% month-on-month, with an average premium of 0.45% over website prices."
+    },
+    {
+      "line_title": "Negligible Lower-fare Share",
+      "line_content": "Only 0.4% of routes saw lower GDS fares last week, a stable share month-on-month, delivering an average discount of just 0.15%."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Listings Missing Growth",
+      "line_content": "52.2% of ODs lacked GDS listings last week, up 1.8% from the prior week and 1.7% from the prior month."
+    },
+    {
+      "line_title": "Higher-fare Frequency Decline",
+      "line_content": "Routes priced higher on GDS dropped to 47.4% last week, down 2.0% week-on-week and 1.3% month-on-month, at a 0.45% average premium."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-haul Listing & Premiums",
+      "line_content": "Short-haul routes were unlisted on GDS 54.4% last week (+1.8% week-on-week) and 45.2% were priced 0.47% above website fares."
+    },
+    {
+      "line_title": "Long-haul Uniform Premium",
+      "line_content": "All long-haul routes on GDS last week were 0.18% above website fares, with a 9.5% month-on-month increase in appearance frequency."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Finnish Origins Coverage",
+      "line_content": "For FI origins, 68.1% of routes were missing on GDS last week (+1.6% week-on-week), while 31.6% carried fares averaging 0.45% above website."
+    },
+    {
+      "line_title": "International Origins Premiums",
+      "line_content": "Non-FI origins saw 97.7% of routes on GDS priced 0.44% above website fares last week, marginally down from 99.2% week-ago."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-in Itinerary Trends",
+      "line_content": "49.0% of close-in itineraries were unlisted on GDS last week, while 50.3% carried a 0.40% premium, down 0.9% week-on-week."
+    },
+    {
+      "line_title": "Far-out Booking Premium",
+      "line_content": "Far-out bookings had 56.4% unlisted on GDS (+2.9% week-on-week) and 43.1% priced 0.53% above website fares last week."
+    }
+  ]
+}

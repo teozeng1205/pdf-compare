@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Price Parity Dominance",
+      "line_content": "46.6% of OTA fares exactly match UA.com pricing, demonstrating strong alignment while OTA premiums remain limited."
+    },
+    {
+      "line_title": "MSE Coverage Gains",
+      "line_content": "MSE offers improved with coverage for 48.93% of itineraries, and 47.58% of fares matched UA.com, reflecting steady parity growth."
+    },
+    {
+      "line_title": "GDS Premium Prevalence",
+      "line_content": "34.49% of GDS itineraries are priced above UA.com with an average 0.29% markup, highlighting a significant premium tendency."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Prevalent Price Parity",
+      "line_content": "46.6% of OTA fares exactly match UA’s website pricing for the latest week, holding steady week-over-week and month-over-month."
+    },
+    {
+      "line_title": "Long-Haul Premium Concentration",
+      "line_content": "Long-haul routes exhibit OTA markups on 2.31% of origin-destination pairs, averaging a +0.21% premium—nearly double the short-haul markup frequency."
+    },
+    {
+      "line_title": "Regional Premium Divergence",
+      "line_content": "Non-US origin markets show OTA premiums on 7.05% of routes (average +0.08%), compared with just 0.95% for US departures."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Unavailable (OTA N/A)",
+      "line_content": "OTA channel did not list 51.6% of UA itineraries last week, a slight increase of 0.21% WoW and 0.24% MoM."
+    },
+    {
+      "line_title": "Price Parity (SAME)",
+      "line_content": "46.60% of OTA listings match UA site prices exactly, with frequency down just 0.27% from the prior week."
+    },
+    {
+      "line_title": "OTA Premiums (Higher)",
+      "line_content": "1.74% of itineraries carry OTA premiums averaging +0.14%, effectively flat versus last month."
+    },
+    {
+      "line_title": "OTA Discounts (Lower)",
+      "line_content": "Only 0.09% of listings are cheaper on OTA, with an average -0.11% discount, unchanged month-over-month."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Pricing",
+      "line_content": "Short-haul OTA markups appear on 1.65% of ODs at an average +0.13%, stable compared to prior month."
+    },
+    {
+      "line_title": "Long-Haul Pricing",
+      "line_content": "Long-haul OTA premiums occur on 2.31% of ODs with an average +0.21%, reflecting higher markup concentration on longer routes."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "US-Origin Markets",
+      "line_content": "US departures see OTA premiums on 0.95% of routes, averaging +0.21%, while discounts remain negligible."
+    },
+    {
+      "line_title": "Non-US-Origin Markets",
+      "line_content": "Non-US origins carry OTA premiums on 7.05% of routes, averaging +0.08%, indicating stronger premium incidence abroad."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in itineraries feature OTA premiums on 1.87% of bookings, averaging +0.15%, slightly down from last month."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings show OTA premiums on 1.47% of itineraries at +0.11% average, highlighting marginally lower early-cycle markups."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Coverage Above 50% With Gradual Improvement",
+      "line_content": "MSE lacked offers for 51.07% of itineraries last week, but coverage improved by 0.25 percentage points versus the prior month."
+    },
+    {
+      "line_title": "Stable Price Parity",
+      "line_content": "47.58% of fares on MSE matched UA.com last week, rising 0.34 percentage points month over month, underscoring sustained alignment."
+    },
+    {
+      "line_title": "Regional Overpricing Disparity",
+      "line_content": "Non-US itineraries showed a 7.47% incidence of MSE premiums versus just 0.41% for US routes, highlighting significant geographic variance."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A",
+      "line_content": "Over half (51.07%) of itineraries lacked an MSE offer last week, improving 0.25 percentage points month over month."
+    },
+    {
+      "line_title": "SAME",
+      "line_content": "Nearly 47.58% of fares matched UA.com, up 0.34 percentage points versus the prior month, indicating stable parity."
+    },
+    {
+      "line_title": "MSE HIGHER",
+      "line_content": "1.33% of itineraries were priced above UA.com by an average of 0.14%, with minimal week-to-week variation."
+    },
+    {
+      "line_title": "MSE LOWER",
+      "line_content": "MSE undercuts remained negligible at 0.02% of itineraries, averaging a 0.07% discount week over week."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Short-haul routes saw 48.49% parity last week, up 0.36 pp month over month, with 1.46% of fares at a 0.14% MSE premium."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "Long-haul itineraries faced the highest no-offer rate at 57.69%, while only 0.47% showed MSE price premiums averaging +0.18%."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "US Origins",
+      "line_content": "US-origin routes achieved 48.81% price parity, with just 0.41% of itineraries at a 0.22% MSE markup."
+    },
+    {
+      "line_title": "Non-US Origins",
+      "line_content": "Non-US itineraries exhibited a 7.47% incidence of MSE premiums, averaging a 0.11% markup month over month."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in itineraries matched UA.com 48.07% of the time, up 0.65 pp versus last month, with 1.28% at a 0.16% premium."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings saw 46.62% parity, down 0.27 pp month over month, and 1.42% priced above UA.com by 0.10%."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS Coverage Slightly Improved",
+      "line_content": "Last week 51.04% of UA routes had no fares on GDS, a 0.12% decline from prior week, indicating minor restoration of inventory visibility."
+    },
+    {
+      "line_title": "Prevalence of GDS Premiums",
+      "line_content": "34.49% of itineraries were pricier on GDS than on UA.com last week, averaging a 0.29% markup and marking a 0.17% week-over-week uptake."
+    },
+    {
+      "line_title": "Negligible GDS Discounts",
+      "line_content": "Fares lower than UA.com comprised under 0.01% of routes, delivering an average discount of only 0.15%."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A Share",
+      "line_content": "Routes without GDS fares held steady at 51.04% last week, edging down 0.12% from the prior week."
+    },
+    {
+      "line_title": "Price Parity",
+      "line_content": "14.47% of itineraries matched UA.com pricing on GDS, unchanged in average difference and virtually flat week-to-week."
+    },
+    {
+      "line_title": "Higher GDS Fares",
+      "line_content": "GDS fares exceeded UA.com on 34.49% of routes with a 0.29% average premium, up 0.17% week-over-week."
+    },
+    {
+      "line_title": "Lower GDS Fares",
+      "line_content": "Sub-0.01% of routes saw GDS fares below UA.com, yielding an average 0.15% discount."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Premiums",
+      "line_content": "On short-haul routes, 36.12% priced higher on GDS last week, averaging a 0.30% markup and rising 0.16% versus the prior week."
+    },
+    {
+      "line_title": "Long Haul Trends",
+      "line_content": "Long-haul routes saw 24.01% GDS premium share with a 0.23% average markup, up 0.22% week-over-week."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "US Origins",
+      "line_content": "US-origin itineraries had 37.42% priced higher on GDS, averaging a 0.30% markup and climbing 0.29% from the previous week."
+    },
+    {
+      "line_title": "Non-US Origins",
+      "line_content": "Non-US origins recorded 14.78% GDS premiums at a 0.12% average, down 0.57% week-over-week."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in bookings showed 31.15% GDS premiums with a 0.24% markup, up 0.24% from prior week."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings exhibited the highest GDS premium share at 41.09% and a 0.37% markup, marginally up 0.05% week-over-week."
+    }
+  ]
+}

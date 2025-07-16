@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Price Alignment Strengthens",
+      "line_content": "OTA listings matched Air Canada’s website rates 71.7% of the time last week, reflecting improved parity alongside reduced premiums and selective discounts."
+    },
+    {
+      "line_title": "MSE Robust Parity Gains",
+      "line_content": "MSE fares matched the website in over 78% of cases, driven by week-on-week growth, fewer premium offers, and modest discount upticks."
+    },
+    {
+      "line_title": "GDS Premium Gap Narrows",
+      "line_content": "GDS parity climbed to 52.1% last week as premium offerings contracted sharply, though discounts remain negligible."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Parity Rate Strengthens",
+      "line_content": "OTA listings matched Air Canada’s website rates 71.7% of the time last week, a notable 5.8 percentage-point increase from the prior week."
+    },
+    {
+      "line_title": "Premium Price Incidence Drops",
+      "line_content": "Share of OTA fares above website levels fell to 18.2% last week (down 11.7 pp week-on-week), with the average markup just +0.09%."
+    },
+    {
+      "line_title": "Discounting Accelerates",
+      "line_content": "OTA undercut the website on 9.0% of itineraries last week (up 5.7 pp week-on-week), offering an average discount of −0.08%."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Parity Consistency",
+      "line_content": "‘Same’ status held at 71.7% last week, up 5.8 pp from the prior week and only 1.2 pp below the monthly average."
+    },
+    {
+      "line_title": "Premium Reduction",
+      "line_content": "‘OTA Higher’ share dropped sharply to 18.2% (−11.7 pp week-on-week, −3.8 pp month-on-month), reflecting tighter price alignment."
+    },
+    {
+      "line_title": "Discount Uplift",
+      "line_content": "‘OTA Lower’ frequency climbed to 9.0% last week, rising 5.7 pp weekly and 5.2 pp monthly, driven by modest average discounts."
+    },
+    {
+      "line_title": "Missing Offers Stable",
+      "line_content": "Listings flagged as ‘Offer Not Found’ remained minimal at 1.1%, showing negligible change week-on-week."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Alignment",
+      "line_content": "Short-haul routes saw rate matches of 70.3% last week (+6.2 pp week-on-week) and OTA premiums at 19.1% (−12.3 pp)."
+    },
+    {
+      "line_title": "Long-Haul Consistency",
+      "line_content": "Long-haul itineraries maintained very high parity at 94.2% and low premium incidence of 3.9%, with only modest weekly variation."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic Origin Trends",
+      "line_content": "For Canadian origins, parity rose to 75.1% (+6.7 pp week-on-week) while OTA premiums plunged to 16.1% (−14.8 pp) and discounts increased to 8.4%."
+    },
+    {
+      "line_title": "International Origin Patterns",
+      "line_content": "Non-Canada markets held lower parity at 59.1%, with higher premiums at 26.2% and moderate discounts of 11.2%, showing stable weekly rates."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in fares matched 68.5% of the time, with premiums at 19.2% and discounts at 10.9%, each moving toward tighter alignment."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings exhibited the strongest parity at 78.1% (+13.0 pp week-on-week), alongside a 16.2% premium rate and only 5.1% discounts."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Robust Fare Parity",
+      "line_content": "Matching fares on MSE now exceed 78% of all offers, rising steadily week-over-week (+2.5 pp) and month-over-month (+5.1 pp), highlighting strong price alignment."
+    },
+    {
+      "line_title": "Decline in Higher-Priced Listings",
+      "line_content": "Instances of MSE listing higher fares have contracted across key segments—falling nearly 3 pp overall, about 3 pp on short-haul, and 6.6 pp for close-in bookings—signalling reduced premium pricing."
+    },
+    {
+      "line_title": "Divergent Dynamics by Origin and Lead Time",
+      "line_content": "Canadian origins maintain the highest parity at 85.0%, while far-out bookings show a countertrend with higher fares rising to 20.1%, reflecting different competitive pressures."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Minimal Non-Present Offers",
+      "line_content": "Offers unavailable on MSE remained under 0.2% last week, with negligible week-over-week (+0.03 pp) and month-over-month (−0.68 pp) shifts."
+    },
+    {
+      "line_title": "Predominance of Identical Fares",
+      "line_content": "Fares matching the website made up 78.4% of MSE listings in the latest week, up 2.48 pp WoW and 5.10 pp MoM, reinforcing fare parity."
+    },
+    {
+      "line_title": "Decrease in Higher Fares",
+      "line_content": "MSE-listed fares above the website dropped to 16.6% last week, down 2.89 pp WoW and 4.90 pp MoM, reflecting reduced price premiums."
+    },
+    {
+      "line_title": "Slight Uptick in Lower Fares",
+      "line_content": "Lower-priced instances on MSE edged up to 4.82% in the latest week, increasing 0.39 pp WoW and 0.48 pp MoM, indicating modest competitiveness."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Trends",
+      "line_content": "Short-haul routes recorded 79.9% parity last week, climbing 2.51 pp WoW and 5.24 pp MoM, while higher-priced offers eased by 3.04 pp WoW."
+    },
+    {
+      "line_title": "Long-Haul Dynamics",
+      "line_content": "Long-haul itineraries split between 52.7% matching fares and 47.3% lower fares on MSE, with the lower share dipping 1.23 pp WoW."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Canada Origins",
+      "line_content": "Canadian-origin flights achieved 85.0% parity on MSE last week, up 2.33 pp WoW and 6.0 pp MoM, and only 13.7% higher-priced listings."
+    },
+    {
+      "line_title": "Non-Canada Origins",
+      "line_content": "Non-Canada origins saw 54.0% matching fares, 27.2% higher fares, and a notable 18.6% lower-fare share, underscoring greater dispersion outside Canada."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in itineraries posted 79.6% parity, up 5.85 pp WoW, with higher-priced offers down 6.62 pp and lower-priced up slightly to 5.42%."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings saw parity at 75.9%, down 4.60 pp WoW, while higher-priced offers rose 4.69 pp to 20.1%, signalling shifting early-purchase dynamics."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Growing Price Parity",
+      "line_content": "Last week GDS price parity on AC fares reached 52.1% of itineraries, up 11.1 pp from the prior week and 7.6 pp month-over-month."
+    },
+    {
+      "line_title": "Premium Share Contracting",
+      "line_content": "Offers priced higher on GDS accounted for 47.2% last week, down 10.7 pp week-over-week and 6.8 pp month-over-month, indicating a narrowing premium gap."
+    },
+    {
+      "line_title": "Discounts Remain Negligible",
+      "line_content": "GDS discounts occurred on only 0.6% of itineraries last week, a 0.4 pp weekly decline, with an average discount of 0.13%."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Unavailable on GDS",
+      "line_content": "AC site fares missing from GDS are minimal at 0.08% of itineraries last week, unchanged week-over-week but down from 0.60% month-over-month."
+    },
+    {
+      "line_title": "Price Parity",
+      "line_content": "GDS parity stands at 52.11% last week, rising 11.06 pp from the prior week and 7.63 pp from the previous month."
+    },
+    {
+      "line_title": "GDS Premium Incidence",
+      "line_content": "Premium offers on GDS represent 47.24% of itineraries last week, contracting 10.68 pp week-over-week and 6.78 pp month-over-month with an average markup of 0.28%."
+    },
+    {
+      "line_title": "GDS Discounts Scarce",
+      "line_content": "Discounted fares on GDS account for 0.56% of itineraries last week, down 0.38 pp week-over-week and 0.33 pp month-over-month, averaging a 0.13% reduction."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Parity & Premium",
+      "line_content": "On short-haul routes, GDS parity climbed to 50.8% last week (+11.6 pp weekly, +7.9 pp monthly) while premium share eased to 48.5% (−11.2 pp week-over-week)."
+    },
+    {
+      "line_title": "Long-Haul Stability",
+      "line_content": "Long-haul GDS parity held at 73.8% last week, up 2.4 pp both week-over-week and month-over-month; premium offers softened slightly to 25.7%."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic Origin Trends",
+      "line_content": "For Canadian-origin itineraries, parity rose to 50.6% last week (+12.9 pp) while premium offers declined to 49.2% (−12.9 pp) with an average markup of 0.32%."
+    },
+    {
+      "line_title": "International Origin Dynamics",
+      "line_content": "International origins saw parity at 57.6% last week (+4.0 pp) and premium offers at 40.2%, underpinned by a modest average markup of 0.07%."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Last-week close-in parity reached 59.7% (+15.1 pp), premium share fell to 39.6% (−14.6 pp), and average GDS markup was 0.21%."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "For far-out bookings, premium offers dominate at 62.8% last week despite a 2.8 pp weekly dip, with an average markup of 0.36% while parity accounts for 36.7%."
+    }
+  ]
+}

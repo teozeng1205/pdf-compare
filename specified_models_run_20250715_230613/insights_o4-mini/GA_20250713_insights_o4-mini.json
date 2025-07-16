@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Channel Listing Gap",
+      "line_content": "All 19 monitored routes are unlisted on OTAs, resulting in 100% 'OTA N/A' status with no comparable fares."
+    },
+    {
+      "line_title": "Predominant MSE Discounting",
+      "line_content": "MSE offers on 63.66% of itineraries are priced lower than the website, up 2.16 pp week-over-week and 14.58 pp month-over-month, while 30.78% match and just 5.18% carry a premium."
+    },
+    {
+      "line_title": "Sustained GDS Premium",
+      "line_content": "GDS fares exceed website prices for 55.7% of itineraries, though this premium share has declined by 2.4% week-over-week and 14.7% month-over-month with a modest average markup of 0.20%."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Complete OTA Listing Gap",
+      "line_content": "All 19 origin-destination pairs registered as 'OTA N/A' in the latest week, indicating the OTA channel lacks any of the airline’s direct website offers."
+    },
+    {
+      "line_title": "No Price Parity Detected",
+      "line_content": "Zero routes show matching fares between OTA and the website, underscoring the absence of comparable offerings across the channel."
+    },
+    {
+      "line_title": "Stable Channel Presence",
+      "line_content": "Frequency for 'OTA N/A' remains at 100% with 0% week-over-week and month-over-month change, highlighting no new listings or delistings."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A Dominance",
+      "line_content": "100% of 19 routes are marked 'OTA N/A' in the latest week, unchanged from the previous week and month."
+    },
+    {
+      "line_title": "No Same-Price Routes",
+      "line_content": "No routes display price parity, confirming absence of mirrored website fares on the OTA channel."
+    },
+    {
+      "line_title": "No Lower OTA Prices",
+      "line_content": "There are zero instances where OTA prices undercut website fares, reflecting no channel-based discounts."
+    },
+    {
+      "line_title": "No Higher OTA Prices",
+      "line_content": "OTA does not charge premiums above website prices on any route, with 0 occurrences of higher OTA rates."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Listing Gap",
+      "line_content": "All 19 short-haul routes show 'OTA N/A' status with no price comparison data available and stable frequency metrics."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Indonesia Origin Absence",
+      "line_content": "All 19 itineraries from Indonesia are missing on the OTA channel, consistent across the latest week and historical comparisons."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Window Gap",
+      "line_content": "All 655 close-in bookings lack OTA listings ('OTA N/A'), with frequency and status unchanged week-over-week and month-over-month."
+    },
+    {
+      "line_title": "Far-Out Window Gap",
+      "line_content": "All 388 far-out bookings are absent from the OTA channel, showing steady 'OTA N/A' presence without any price data."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Predominant Lower Fares",
+      "line_content": "In the latest week, 63.66% of itineraries on MSE are priced lower than Garuda’s website, up 2.16 pp from the prior week and up 14.58 pp from last month."
+    },
+    {
+      "line_title": "Minimal Higher Fares",
+      "line_content": "Only 5.18% of offers on MSE carry a premium over the website, with a modest 0.50 pp weekly increase and an average 0.08% fare higher."
+    },
+    {
+      "line_title": "Declining Parity",
+      "line_content": "Exact fare matches account for 30.78% of listings, declining by 2.85 pp week-over-week and 14.14 pp month-over-month."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Unavailable Offers",
+      "line_content": "MSE lacks 0.38% of website fares, a stable share from the prior week (+0.19 pp) and down slightly versus last month (–0.49 pp)."
+    },
+    {
+      "line_title": "Price Parity",
+      "line_content": "30.78% of itineraries show identical fares on MSE, decreasing by 2.85 pp versus the previous week and 14.14 pp against the previous month."
+    },
+    {
+      "line_title": "Lower-Fare Share",
+      "line_content": "63.66% of itineraries are cheaper on MSE, marking a 2.16 pp weekly gain and a 14.58 pp monthly gain, with an average discount of 0.06%."
+    },
+    {
+      "line_title": "Higher-Fare Share",
+      "line_content": "5.18% of itineraries carry a MSE premium averaging 0.08%, up 0.50 pp week-over-week and 0.05 pp month-over-month."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Consistency",
+      "line_content": "Short-haul routes mirror the overall pattern with 63.66% lower fares on MSE (up 2.16 pp week-over-week), 5.18% higher and 30.78% identical matches."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Indonesian Origins",
+      "line_content": "For Indonesian origin itineraries, 63.66% of MSE listings are lower priced and only 5.18% are higher, matching the channel’s overall distribution."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "MSE offers lower fares on 61.77% of close-in itineraries (–0.32 pp week-over-week; +22.11 pp month-over-month), while the higher-fare share rose to 6.57%."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "For bookings made far in advance, 66.84% of MSE fares undercut the website (up 6.32 pp week-over-week) and only 2.83% are higher (down 2.37 pp week-over-week)."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Predominant GDS markup",
+      "line_content": "Last week, 55.7% of itineraries on GDS were priced above the website, indicating a sustained channel premium."
+    },
+    {
+      "line_title": "Markup share easing",
+      "line_content": "The share of higher GDS fares declined by 2.4% week-over-week and 14.7% month-over-month, signalling a narrowing gap."
+    },
+    {
+      "line_title": "Modest average premium",
+      "line_content": "When GDS fares exceed the website, the average markup is just 0.20%, down from 0.27% a month ago."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A incidence",
+      "line_content": "Less than 0.2% of itineraries lacked a GDS offer last week, with this gap narrowing by 0.10% WoW and 0.58% MoM."
+    },
+    {
+      "line_title": "Parity (SAME)",
+      "line_content": "44.2% of itineraries matched website fares in GDS last week, driven by a 2.5% weekly rise and a 15.3% monthly gain."
+    },
+    {
+      "line_title": "GDS higher fares",
+      "line_content": "55.7% of itineraries on GDS were priced above the website last week, though this share fell 2.4% WoW and 14.7% MoM."
+    },
+    {
+      "line_title": "No lower fares",
+      "line_content": "There were no instances of GDS fares falling below website prices across any time frame."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-haul premium prevalence",
+      "line_content": "On short-haul routes, 55.7% of GDS fares exceeded website prices last week (down 2.4% WoW and 14.7% MoM), while 44.2% matched exactly."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "ID-origin fare comparison",
+      "line_content": "GDS fares from Indonesia origins were higher than website prices on 55.7% of itineraries last week (a 2.4% weekly dip), with an average markup of 0.20%."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-in booking window",
+      "line_content": "For close-in bookings, 54.4% of GDS fares exceeded website prices last week (down 2.2% WoW and 18.1% MoM) with an average premium of 0.19%."
+    },
+    {
+      "line_title": "Far-out booking window",
+      "line_content": "Far-out itineraries saw 57.7% of GDS fares above website prices last week (down 2.7% WoW and 8.9% MoM), with a slightly larger markup of 0.22%."
+    }
+  ]
+}

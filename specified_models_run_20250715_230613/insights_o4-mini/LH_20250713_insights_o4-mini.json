@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Parity Strength",
+      "line_content": "OTA parity reached 88.3% last week, up 1.4 ppt from the prior week and 3.8 ppt month-over-month, highlighting strong alignment with Lufthansa’s website fares."
+    },
+    {
+      "line_title": "MSE Undercut Dominance",
+      "line_content": "MSE listings undercut Lufthansa’s site on 91.22% of itineraries last week, up 0.28 ppt week-on-week, delivering a consistent 0.07% average discount."
+    },
+    {
+      "line_title": "GDS Premium Prevalence",
+      "line_content": "GDS fares exceeded Lufthansa’s website prices on 89.24% of itineraries last week, rising 0.26 ppt week-on-week and sustaining a 0.20% average premium."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Dominant Parity",
+      "line_content": "OTA parity climbed to 88.3% last week, reflecting a 1.4-ppt week-over-week gain and a 3.8-ppt month-over-month increase."
+    },
+    {
+      "line_title": "Stable Missing Offers",
+      "line_content": "Approximately 7.2% of itineraries had no OTA offer last week, up 0.18 ppt vs. the prior week and flat vs. last month."
+    },
+    {
+      "line_title": "Minimal Discrepancies",
+      "line_content": "Only 2.5% of routes showed higher OTA fares and 2.0% lower fares, both frequencies declining vs. prior periods."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A Trends",
+      "line_content": "OTA offers were missing for 7.20% of routes last week, a slight 0.18 ppt uptick from the previous week and stable vs. last month."
+    },
+    {
+      "line_title": "Fare Parity Prevalence",
+      "line_content": "88.27% of itineraries matched website fares on OTA last week, marking a 1.40 ppt increase week-over-week and a 3.80 ppt rise month-over-month."
+    },
+    {
+      "line_title": "Higher OTA Fares Decline",
+      "line_content": "Routes with higher OTA fares fell to 2.52% last week, down 0.93 ppt from the prior week and 2.25 ppt from the previous month, averaging a 0.13% premium."
+    },
+    {
+      "line_title": "Lower OTA Fares Decline",
+      "line_content": "Routes with lower OTA fares decreased to 2.01% last week, a 0.65 ppt week-over-week drop and a 0.75 ppt month-over-month decline, averaging a 0.07% discount."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Improvement",
+      "line_content": "Short-haul parity rose to 88.44% last week (+0.61 ppt WoW, +3.54 ppt MoM) while higher OTA fares dipped to 2.40%."
+    },
+    {
+      "line_title": "Long-Haul Parity Surge",
+      "line_content": "Long-haul parity jumped to 86.03% last week, a 10.72 ppt increase week-over-week, as higher-fare frequency halved to 3.92%."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "German Origins Stable",
+      "line_content": "Departures from DE saw 91.53% OTA parity last week, with higher-fare instances easing to 2.38% and lower to 0.56%."
+    },
+    {
+      "line_title": "Non-DE Origins Recovering",
+      "line_content": "Non-DE origins achieved 82.64% parity last week (+1.91 ppt WoW, +8.27 ppt MoM), while higher fares declined to 2.70%."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Dynamics",
+      "line_content": "Close-in bookings matched site fares 86.93% last week (+1.25 ppt WoW, +3.77 ppt MoM) as higher-fare share fell to 2.86%."
+    },
+    {
+      "line_title": "Far-Out Strength",
+      "line_content": "Far-out bookings reached 91.00% parity last week (+1.78 ppt WoW, +3.84 ppt MoM) with higher OTA fares under 1.75%."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Predominant Undercutting",
+      "line_content": "Last week MSE prices undercut Lufthansa’s site for 91.22% of itineraries, yielding an average 0.07% discount per listing."
+    },
+    {
+      "line_title": "Growing Undercut Trend",
+      "line_content": "The share of undercut listings rose by 0.28 percentage points versus the prior week and by 0.76 points versus the previous month, highlighting an accelerating discount pattern."
+    },
+    {
+      "line_title": "Minimal Premium Offers",
+      "line_content": "MSE-listed fares are almost never higher—0% share last week—with only a 0.19-point drop in rare cases month-over-month, though those few premiums averaged a 54.7% higher price."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A Stability",
+      "line_content": "Non-matched itineraries held at 3.71% last week, up slightly 0.02 points from the week before and down 0.41 points month-over-month, indicating stable coverage gaps."
+    },
+    {
+      "line_title": "Price Parity Decline",
+      "line_content": "Exact-match fares represented 5.07% of listings last week, down 0.31 points week-on-week and 0.17 points versus last month, reflecting a modest decrease in parity."
+    },
+    {
+      "line_title": "Undercut Dominance",
+      "line_content": "MSE undercuts applied to 91.22% of fares last week, increasing by 0.28 points from prior week and 0.76 points from prior month, with consistent average discounts of 0.07%."
+    },
+    {
+      "line_title": "Scarce Premiums",
+      "line_content": "Listings priced higher on MSE remain negligible at 0%, though the rare higher-fare cases showed a 54.7% average premium versus Lufthansa’s site last month."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Undercuts",
+      "line_content": "For short-haul routes, 91.06% of fares were lower on MSE last week, up 0.47 points week-on-week and 0.62 points month-over-month, with a consistent 0.06% average discount."
+    },
+    {
+      "line_title": "Long-Haul Parity Uptick",
+      "line_content": "Long-haul listings saw a 1.96-point rise in exact-match fares to 6.85% last week, while undercuts dipped 2.20 points to 92.91%, with deeper discounts averaging 0.17%."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Strong Undercuts in DE",
+      "line_content": "German-origin routes displayed the highest undercut rate at 94.06% last week, slightly up 0.21 points week-on-week, averaging a 0.08% discount despite a 0.19-point monthly dip."
+    },
+    {
+      "line_title": "Mixed Trends Non-DE",
+      "line_content": "Non-DE markets showed lower undercut share at 86.30% but a 2.65-point gain month-over-month, alongside 8.81% parity listings and stable 0.06% average discounts."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Discounts",
+      "line_content": "Bookings within 0–7 days held a 90.99% undercut rate last week, up 0.15 points week-on-week and 0.84 points month-over-month, with the deepest average discount of 0.09%."
+    },
+    {
+      "line_title": "Far-Out Variability",
+      "line_content": "Far-out bookings (>30 days) showed a 91.62% undercut share last week and smaller average discount of 0.04%, plus isolated premium cases last month that surged 73% higher."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS Higher Dominance",
+      "line_content": "GDS fares exceeded website prices in 89.24% of itineraries last week, a 0.26 percentage-point increase week-on-week and a 0.92 point rise month-on-month, indicating growing reliance on pricier GDS listings."
+    },
+    {
+      "line_title": "Modest GDS Premium",
+      "line_content": "Average GDS fares were 0.20% above website prices last week, matching the prior week and down from a 0.36% premium one month ago."
+    },
+    {
+      "line_title": "Decline in GDS Discounts",
+      "line_content": "Only 0.62% of itineraries on GDS were cheaper than the website last week, down 0.43 percentage points week-on-week and 0.41 points month-on-month, with an average discount of 0.15%."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Offers Missing on GDS",
+      "line_content": "6.80% of Lufthansa itineraries were not listed on GDS last week, stable week-on-week and down 0.79 percentage points from last month."
+    },
+    {
+      "line_title": "Price Parity Cases",
+      "line_content": "3.34% of fares matched website rates last week, up 0.08 points week-on-week and 0.27 points month-on-month."
+    },
+    {
+      "line_title": "GDS Fares Higher",
+      "line_content": "89.24% of GDS fares exceeded website prices in the latest week, up 0.26 points versus the prior week and 0.92 points versus last month, with an average premium of 0.20%."
+    },
+    {
+      "line_title": "GDS Fares Lower",
+      "line_content": "Only 0.62% of GDS fares were cheaper than the website last week, down 0.43 points week-on-week and 0.41 points month-on-month, averaging a 0.15% discount."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Pricing",
+      "line_content": "In short-haul markets, 92.33% of GDS fares were higher than website prices last week, a marginal 0.01 point increase week-on-week and 0.91 points month-on-month, with an average premium of 0.21%."
+    },
+    {
+      "line_title": "Long Haul Pricing",
+      "line_content": "Long-haul itineraries saw 51.96% of GDS fares above website prices last week, up 3.43 points week-on-week; the share of cheaper GDS fares fell by 5.15 points to 6.86%, reflecting reduced GDS discounts."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "DE Origins Pricing",
+      "line_content": "GDS fares from Germany were higher in 89.41% of itineraries last week, down 0.13 points week-on-week but up 0.57 points month-on-month, with a 0.16% average premium."
+    },
+    {
+      "line_title": "Non-DE Origins Pricing",
+      "line_content": "Non-German origins recorded 88.95% GDS fare premiums last week, a 0.94 point increase week-on-week and 1.50 points month-on-month, and an average markup of 0.26%."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Trends",
+      "line_content": "Close-in bookings saw 88.02% of GDS fares higher than the website last week, up 0.35 points versus prior week and 0.49 points versus last month, with an average premium of 0.17%."
+    },
+    {
+      "line_title": "Far-Out Booking Trends",
+      "line_content": "Far-out bookings had 91.74% of GDS fares above website prices last week, largely unchanged week-on-week (+0.07 points) and up 1.78 points month-on-month, with a 0.25% average premium."
+    }
+  ]
+}

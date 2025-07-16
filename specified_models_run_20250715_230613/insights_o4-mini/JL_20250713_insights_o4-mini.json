@@ -1,0 +1,200 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Divergence",
+      "line_content": "OTA listings show growing gaps with over 20% of itineraries unlisted and price parity falling below 63%, while OTA premiums are edging upward."
+    },
+    {
+      "line_title": "MSE Discount Strength",
+      "line_content": "MSE maintains stable parity at about 49% and delivers discounts on over 47% of itineraries, with long-haul routes seeing discounts on nearly 78% of listings."
+    },
+    {
+      "line_title": "GDS Premium Dominance",
+      "line_content": "GDS fares are priced higher on nearly 79% of itineraries with an average markup of 1.49%, though parity is gradually rising to 18.4%."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Rising Listing Gaps",
+      "line_content": "Last week 20.6% of ODs were unlisted on OTA, marking a 2.2% week-over-week and 1.9% month-over-month increase in missing listings."
+    },
+    {
+      "line_title": "Eroding Price Parity",
+      "line_content": "Price-match occurrences fell to 62.7% last week, down 3.8% from the prior week and 4.3% from the previous month, signaling growing channel divergence."
+    },
+    {
+      "line_title": "Increasing OTA Premiums",
+      "line_content": "OTA offered higher fares on 11.95% of itineraries last week, up 0.51% week-over-week and 1.00% month-over-month, with an average markup of 0.71%."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Listings Not Found",
+      "line_content": "OTA N/A share rose to 20.61% last week (+2.20% week-over-week, +1.91% month-over-month), indicating more gaps in OTA coverage."
+    },
+    {
+      "line_title": "Price Parity",
+      "line_content": "‘Same’ pricing dropped to 62.72% last week, decreasing 3.80% week-over-week and 4.30% month-over-month, reflecting reduced parity."
+    },
+    {
+      "line_title": "OTA Premiums",
+      "line_content": "OTA Higher share reached 11.95% last week (+0.51% week-over-week, +1.00% month-over-month) with an average premium of 0.71%, indicating modest upward bias."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Short-haul listings missing rose to 21.85% last week (+2.33% week-over-week) while parity slipped to 60.54% and OTA premiums hit 12.69%."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "Long-haul itineraries maintained 98.12% price parity with minimal unlisted (0.63%) and discount (1.25%) occurrences."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Japan Origins",
+      "line_content": "JP point-of-origin saw 21.52% unlisted listings last week (+2.27% week-over-week) and parity at 61.10% (down 3.87% week-over-week), with OTA premiums at 12.52%."
+    },
+    {
+      "line_title": "Non-Japan Origins",
+      "line_content": "Non-JP routes held strong parity at 96.77% last week with negligible gaps and discount rates."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in itineraries had 27.64% missing listings (+2.59% week-over-week), parity at 56.28% (down 4.89% week-over-week), and OTA premiums at 13.79%."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings showed stronger parity at 75.13% last week, with discounts (9.39%) slightly exceeding premiums (8.32%)."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Stable Pricing Parity",
+      "line_content": "Pricing parity held firm at 49.03% last week, marking a 1.36pp week-over-week gain and only a modest 1.19pp dip month-over-month."
+    },
+    {
+      "line_title": "Significant Discount Penetration",
+      "line_content": "The MSE channel offered lower fares on 47.31% of itineraries, a slight 1.16pp decrease week-over-week but a 2.11pp increase month-over-month, with an average markdown of 0.16%."
+    },
+    {
+      "line_title": "Deep Discounts on Long-Haul",
+      "line_content": "Long-haul routes saw discounts on 77.99% of listings—their highest share—up 3.14pp week-over-week and 8.54pp month-over-month, averaging a 0.09% price cut."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Unmatched Offers Low",
+      "line_content": "Unmatched itineraries comprised only 1.75% of listings last week, up 0.48pp week-over-week but down 0.53pp month-over-month, indicating strong feed coverage."
+    },
+    {
+      "line_title": "Parity Dominates",
+      "line_content": "Identical fares represented 49.03% of listings, a 1.36pp week-over-week lift and slight 1.19pp month-over-month decline, reflecting stable alignment."
+    },
+    {
+      "line_title": "Discount Frequency",
+      "line_content": "Discounted offers appeared in 47.31% of cases—a 1.16pp week-over-week decrease but a 2.11pp month-over-month increase—yielding an average 0.16% reduction."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Trends",
+      "line_content": "On short-haul routes, parity climbed to 50.70% last week (+1.60pp week-over-week) while 45.42% of fares were discounted by 0.16% on average."
+    },
+    {
+      "line_title": "Long-Haul Discounts",
+      "line_content": "Long-haul itineraries posted discounts on 77.99% of listings, up 3.14pp week-over-week and 8.54pp month-over-month, averaging a 0.09% cut."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic (JP) Patterns",
+      "line_content": "Japan-origin itineraries matched website prices 50.82% of the time, saw discounts on 45.42% of listings with a 0.16% average markdown, and experienced premiums in just 1.91% of cases."
+    },
+    {
+      "line_title": "International (Non-JP) Patterns",
+      "line_content": "Non-Japan origins exhibited discounts on 87.90% of listings—a month-over-month gain of 8.91pp—with parity at 11.29% and minimal premiums at 0.81%."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in itineraries matched website fares 37.52% last week (+1.98pp week-over-week) while 58.20% were priced lower on MSE at a 0.17% average discount."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings maintained 71.08% parity (down 0.06pp week-over-week) and saw 26.47% priced lower with an average discount of 0.09%."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS Premium Dominance",
+      "line_content": "In the latest week, 78.8% of itineraries are priced higher on GDS versus the website, with an average premium of 1.49%."
+    },
+    {
+      "line_title": "Far-Out Booking Impact",
+      "line_content": "Far-out bookings show the highest GDS premium incidence at 87.5% last week and a 2.37% markup, underscoring distribution channel skews on longer planning horizons."
+    },
+    {
+      "line_title": "Long-Haul Price Parity",
+      "line_content": "Over 98% of long-haul itineraries maintain price parity on GDS, reflecting minimal channel distortion for intercontinental routes."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Premium Uptick Moderating",
+      "line_content": "Although GDS premiums cover 78.8% of itineraries, the share dipped 1.5% week-over-week and 2.3% month-over-month, indicating slight normalization."
+    },
+    {
+      "line_title": "Rising Price Parity",
+      "line_content": "GDS price parity grew to 18.4% of itineraries (+1.5% week-over-week, +3.0% month-over-month), showing incremental alignment."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Premiums Persist",
+      "line_content": "Short-haul itineraries carried an 83.7% GDS premium share last week with a consistent 1.49% markup despite a 1.6% week-over-week decline."
+    },
+    {
+      "line_title": "Long-Haul Parity Dominates",
+      "line_content": "Long-haul bookings held 98.7% parity last week, with GDS premiums at 4.1% of itineraries month-over-month at a 1.75% markup when present."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic Origin Premiums",
+      "line_content": "Japan-origin itineraries showed 82.6% GDS premiums averaging 1.49%, though incidence eased 1.6% week-over-week."
+    },
+    {
+      "line_title": "International Origin Parity",
+      "line_content": "Non-Japan origins were 96.8% price-aligned on GDS last week, with minimal premium exposure at 3.4% month-over-month and a 1.24% markup."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Margins",
+      "line_content": "Close-in bookings saw 74.3% GDS premiums at a 0.96% markup, with premium share down 1.6% week-over-week."
+    },
+    {
+      "line_title": "Far-Out Booking Premiums",
+      "line_content": "Far-out bookings carried the highest GDS premium incidence at 87.5% last week with a 2.37% markup, modestly down 1.5% week-over-week."
+    }
+  ]
+}

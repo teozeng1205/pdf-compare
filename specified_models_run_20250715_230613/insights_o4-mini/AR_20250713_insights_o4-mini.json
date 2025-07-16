@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Discounting and Premiums",
+      "line_content": "OTA fares undercut AR’s website on 41.0% of itineraries last week and exceeded website rates on 33.4%, with average price deviations within ±0.1%, indicating tight alignment but consistent channel discounting and markups."
+    },
+    {
+      "line_title": "Predominant MSE Discounts",
+      "line_content": "MSE listings were cheaper than AR’s site on 88.3% of itineraries last week with an average 0.29% discount, though discount frequency fell 3.1pp w/w as missing offers rose to 3.94%."
+    },
+    {
+      "line_title": "GDS Undercutting with Growing Gaps",
+      "line_content": "GDS undercut AR’s site on 86.31% of itineraries with a 0.13% average discount, while overpricing incidents doubled to 0.62% and long-haul coverage gaps widened to 11.3% absence."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "OTA Lower Pricing Dominance",
+      "line_content": "OTA fares undercut AR’s website on 41.0% of itineraries last week, despite a 5.7pp week-over-week decline, showing persistent channel discounting versus a month ago."
+    },
+    {
+      "line_title": "Increase in OTA Premiums",
+      "line_content": "OTA prices exceeded website rates on 33.4% of routes, up 8.2pp week-over-week but down 7.6pp month-over-month, indicating a rebound in channel markups."
+    },
+    {
+      "line_title": "Minimal Price Gaps",
+      "line_content": "When fares diverge, OTA prices average a mere ±0.1% difference from AR’s site, suggesting tight cross-channel price alignment."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Coverage Gaps",
+      "line_content": "OTA N/A instances reached 3.5% last week, up from 2.8% week-over-week and 3.0% month-over-month, signaling slight channel availability issues."
+    },
+    {
+      "line_title": "Price Parity",
+      "line_content": "22.1% of itineraries matched the website fare, down 3.2pp versus the previous week but up 1.6pp from last month, pointing to moderating volatility."
+    },
+    {
+      "line_title": "Lower-Priced OTA Offers",
+      "line_content": "41.0% of fares were cheaper on OTA last week, a 5.7pp drop week-over-week yet a 5.5pp increase month-over-month, highlighting continued discounting."
+    },
+    {
+      "line_title": "Higher-Priced OTA Offers",
+      "line_content": "33.4% of itineraries featured higher OTA rates, rising 8.2pp week-over-week but falling 7.6pp month-over-month, indicating a cautious uptick in channel premiums."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Discount Volatility",
+      "line_content": "Short-haul OTA fares were 41.8% lower than the website last week—a 6.2pp drop from the prior week but 6.1pp above the month-ago level—while higher-priced share climbed to 35.4%."
+    },
+    {
+      "line_title": "Long-Haul Pricing Parity",
+      "line_content": "Long-haul OTA fares matched website rates 25.9% of the time, the highest among hauls, with 37.2% priced lower last week and an average discount deepening to 0.14%."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "AR-Origin Discounting",
+      "line_content": "Itineraries originating in Argentina saw 45.7% priced lower on OTA last week—a 6.3pp correction week-over-week but 6.1pp above the month-ago level—while 37.3% carried a premium."
+    },
+    {
+      "line_title": "Non-AR Parity",
+      "line_content": "Routes with non-AR origins achieved 100% fare parity on OTA last week, with no instances of higher or lower channel pricing recorded."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Window Dynamics",
+      "line_content": "Close-in bookings saw OTA prices lower in 39.3% of itineraries (down 3.9pp week-over-week) and higher in 35.7% (up 8.1pp), reflecting narrowing discount margins."
+    },
+    {
+      "line_title": "Far-Out Booking Discounts",
+      "line_content": "Far-out itineraries recorded the highest OTA discount rate at 44.0%, a 9.7pp correction week-over-week, and maintained a modest average premium of +0.14% when above website rates."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Predominant Channel Discount",
+      "line_content": "MSE listings are cheaper than the website for 88.3% of itineraries, with an average last-week discount of 0.29%."
+    },
+    {
+      "line_title": "Decline in Discount Frequency",
+      "line_content": "The share of itineraries where MSE is lower fell by 3.1pp week-over-week, indicating a narrowing advantage on MSE."
+    },
+    {
+      "line_title": "Rising Missing Offers",
+      "line_content": "Offers not found on MSE rose to 3.94% last week, up from 2.62% the prior week, suggesting gaps in channel coverage."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Missing Offers (MSE N/A)",
+      "line_content": "3.94% of ODs lacked MSE offers last week, a 1.33pp increase from the previous week and 0.72pp above the prior month."
+    },
+    {
+      "line_title": "Price Parity (SAME)",
+      "line_content": "Listings matched the website on 5.96% of itineraries last week, up 0.80pp week-over-week and modestly below the month-ago level by 0.41pp."
+    },
+    {
+      "line_title": "MSE Premiums (MSE HIGHER)",
+      "line_content": "1.78% of itineraries were priced higher on MSE, nearly doubling week-over-week (+93% rel.), with an average premium of 4% vs. the site."
+    },
+    {
+      "line_title": "MSE Discounts (MSE LOWER)",
+      "line_content": "88.32% of itineraries were cheaper on MSE last week, though this share down-shifted by 3.06pp, delivering a 0.29% average discount."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Discounts",
+      "line_content": "Short-haul itineraries saw an 88.9% MSE lower rate last week (–3.74pp w/w) with a 0.30% average discount vs. the site."
+    },
+    {
+      "line_title": "Long Haul Coverage",
+      "line_content": "Long-haul routes had 11.25% missing MSE offers (up 1.75pp) and an 85.4% lower-rate (flat w/w) with a 0.27% average discount."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "AR-Origin Trends",
+      "line_content": "For AR origin ODs, 90.6% were cheaper on MSE last week (–2.64pp w/w), averaging a 0.31% discount versus the website."
+    },
+    {
+      "line_title": "Non-AR Origins",
+      "line_content": "Non-AR origins had 31.3% parity on MSE last week (+6.16pp) and 68.7% lower-priced listings, with a small 0.06% average discount."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in itineraries saw an 87.98% lower rate on MSE (–3.25pp w/w) and a 0.32% average discount last week."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings maintained an 88.96% lower share (–2.29pp w/w) with a more modest 0.24% average discount on MSE."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Consistent GDS Undercutting",
+      "line_content": "GDS fares undercut the website on 86.31% of itineraries last week, delivering an average 0.13% discount, though this share dipped 0.69pp week-over-week."
+    },
+    {
+      "line_title": "Rising Overpricing Incidents",
+      "line_content": "Instances where GDS prices exceed the website doubled to 0.62% of itineraries week-over-week, with the average premium rising to 0.35%."
+    },
+    {
+      "line_title": "Long-Haul Coverage Gaps",
+      "line_content": "Long-haul routes show the highest absence rate in GDS at 11.30%, up 1.79pp from the prior week, indicating material inventory gaps."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS LOWER Dominance",
+      "line_content": "On 86.31% of itineraries GDS delivers lower fares than the website, offering an average 0.13% discount versus a 0.12% discount month-to-date."
+    },
+    {
+      "line_title": "Stable Price Parity",
+      "line_content": "10.21% of itineraries show identical fares in GDS and on the website, with no average price variance and negligible week-to-week shifts."
+    },
+    {
+      "line_title": "GDS HIGHER Growth",
+      "line_content": "0.62% of fares on GDS exceed the website, up from 0.31% week-ago, with average premiums of 0.35% compared to 0.28% last month."
+    },
+    {
+      "line_title": "Inventory Gaps Expand",
+      "line_content": "2.86% of itineraries were not found in GDS last week, a 0.40pp increase over the prior week, signaling growing distribution gaps."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Pricing",
+      "line_content": "GDS undercuts 90.23% of short-haul itineraries by an average 0.14%, though this penetration eased 0.60pp from the prior week."
+    },
+    {
+      "line_title": "Long Haul Coverage",
+      "line_content": "11.30% of long-haul itineraries were missing in GDS, up 1.79pp week-over-week, while 69.04% were priced lower by 0.08% on average."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic (AR) Markets",
+      "line_content": "In AR origin markets, GDS undercuts 96.20% of itineraries by 0.13% on average, with only 3.19% of offers missing from the channel."
+    },
+    {
+      "line_title": "International (Non-AR) Markets",
+      "line_content": "For non-AR origins, 98.50% of fares match website prices, with minimal undercuts and only 0.75% of itineraries priced lower or higher."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "86.79% of close-in itineraries are priced lower on GDS by 0.12% on average, though this share slipped 0.57pp week-over-week."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "For far-out bookings, 85.43% of fares are lower on GDS with a 0.14% average discount, while 4.42% of itineraries remain unlisted in the channel."
+    }
+  ]
+}

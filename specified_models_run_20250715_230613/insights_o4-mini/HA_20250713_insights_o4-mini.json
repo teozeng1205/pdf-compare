@@ -1,0 +1,204 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Price Alignment",
+      "line_content": "OTA maintained 97.37% price parity with Hawaiian’s website last week but saw availability gaps rise to 1.88% and modest premiums on 0.75% of itineraries at an average +0.18% markup."
+    },
+    {
+      "line_title": "MSE Discount Leadership",
+      "line_content": "MSE delivered lower prices on 60.37% of itineraries with an average discount of 0.13%, while same-price listings climbed to 38.3% and missing coverage remained negligible at 0.54%."
+    },
+    {
+      "line_title": "GDS Stability",
+      "line_content": "GDS exhibited strong price alignment at 97.90% parity last week, with only 1.24% missing offers and a small 0.81% of itineraries priced above the website at a +0.17% premium."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Strong Parity Dominance",
+      "line_content": "OTA fares matched Hawaiian Airlines site pricing for 97.37% of itineraries last week, a slight 0.86-percentage-point dip from the prior week but consistent with monthly levels."
+    },
+    {
+      "line_title": "Rising Availability Gaps",
+      "line_content": "Offers not found on OTA grew to 1.88% last week, up 0.75 pp from the week before and 0.15 pp month-on-month, signaling modest coverage gaps during close-in booking periods."
+    },
+    {
+      "line_title": "Modest OTA Premiums",
+      "line_content": "Instances where OTA rates exceeded website fares rose to 0.75% of itineraries last week (up 16% vs. prior week) with an average markup of +0.18%."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A Coverage",
+      "line_content": "Listings unavailable on OTA represented 1.88% of itineraries last week, increasing 0.75 pp from the prior week and 0.15 pp from last month."
+    },
+    {
+      "line_title": "Price Parity (SAME)",
+      "line_content": "Price parity held at 97.37% of itineraries last week, down 0.86 pp vs. prior week and down 0.21 pp vs. last month."
+    },
+    {
+      "line_title": "OTA Higher Prices",
+      "line_content": "OTA fares were higher on 0.75% of itineraries last week, a 16% uptick from the previous week and 10% above last month, with an average premium of +0.18%."
+    },
+    {
+      "line_title": "OTA Lower Prices",
+      "line_content": "Instances of OTA undercutting site fares fell to 0% last week (from 0.05% prior week), with an average discount of -0.10%."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Dynamics",
+      "line_content": "Short-haul ODs maintained 98.23% parity last week (−0.83 pp vs. prior week), with OTA higher in 0.47% of cases at an average +0.14% markup."
+    },
+    {
+      "line_title": "Long Haul Variance",
+      "line_content": "Long-haul routes showed more volatility: parity at 88.89% (−1.23 pp vs. week prior), OTA higher in 3.51% of cases with an average +0.22% uplift."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "US Origin Trends",
+      "line_content": "US-origin itineraries mirrored overall OTA performance: 97.37% parity last week, 0% undercut, 0.75% higher fares at +0.18% avg, and 1.88% unavailable on OTA."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in itineraries saw 96.51% parity last week (−1.10 pp vs. prior week), 0.87% OTA higher at an average +0.17% markup, and 2.62% unavailable on OTA."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings held 99.33% parity last week (−0.17 pp vs. prior week), with OTA higher in 0.33% of cases at +0.21% avg and a 0.33% N/A rate."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Majority Lower-Priced",
+      "line_content": "Approximately 60% of MSE listings last week were priced below Hawaiian’s website, delivering an average discount of 0.13%."
+    },
+    {
+      "line_title": "Rising Price Alignment",
+      "line_content": "Same-price listings on MSE climbed to 38.3% last week, up 2.8 percentage points from the prior week and 7.0 points month-over-month."
+    },
+    {
+      "line_title": "Deepest Discounts on Long Haul",
+      "line_content": "Long-haul itineraries saw the highest MSE discount penetration at 87.6% last week with an average markdown of 0.20%."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Coverage Gaps Negligible",
+      "line_content": "Only 0.54% of all itineraries were missing on MSE last week, down 5 basis points week-over-week."
+    },
+    {
+      "line_title": "Stable Same-Price Share",
+      "line_content": "Same-price listings accounted for 38.29% of itineraries last week, growing by 2.84% versus the previous week and 7.03% versus last month."
+    },
+    {
+      "line_title": "Predominant Lower-Pricing",
+      "line_content": "60.37% of listings were lower-priced on MSE last week, with a slight decline of 1.71% from the prior week and an average discount of 0.13%."
+    },
+    {
+      "line_title": "Minimal Higher-Pricing",
+      "line_content": "Just 0.81% of listings were higher-priced on MSE last week, down from 1.88% the week before and averaging a 0.10% premium."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Discounts",
+      "line_content": "57.6% of short-haul itineraries were lower-priced last week, with an average markdown of 0.12% and a 1.65% week-over-week drop in discount share."
+    },
+    {
+      "line_title": "Long-Haul Discounts",
+      "line_content": "87.6% of long-haul itineraries were lower-priced on MSE last week, delivering the deepest average discount of 0.20% and a 1.95% week-over-week decrease in share."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "US Origin Trends",
+      "line_content": "For US origins, 60.37% of itineraries were lower-priced last week with a 0.13% average discount, while same-price share rose by 2.84% week-over-week."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Window",
+      "line_content": "Close-in bookings saw lower-priced share fall to 59.08% last week (−3.60% week-over-week, −9.02% month-over-month), while same-price listings jumped 5.76% week-over-week."
+    },
+    {
+      "line_title": "Far-Out Window",
+      "line_content": "Far-out bookings maintained a stable 63.0% lower-priced share last week (up 2.17% week-over-week) and saw higher-priced listings increase from 0.33% to 1.33% week-over-week."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Dominant Price Parity",
+      "line_content": "97.90% of itineraries displayed exact price parity between GDS and the website last week, underscoring stable alignment across channels."
+    },
+    {
+      "line_title": "Rising GDS Premiums",
+      "line_content": "The share of GDS itineraries priced higher climbed to 0.81% last week (+0.16 ppt week-over-week), with an average premium of 0.17% versus the website."
+    },
+    {
+      "line_title": "Long-Haul Discrepancies",
+      "line_content": "Long-haul routes saw 7.02% of website offers missing on GDS—well above the 1.24% overall—and a 4.09% GDS-higher share after a 1.77 ppt weekly increase."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Not Found",
+      "line_content": "Last week 1.24% of itineraries had no website offer on GDS, up 0.11 ppt week-over-week and down 0.43 ppt month-over-month."
+    },
+    {
+      "line_title": "Price Parity",
+      "line_content": "97.90% of itineraries matched website fares last week, a 0.27 ppt week-over-week decline and a 0.44 ppt month-over-month gain."
+    },
+    {
+      "line_title": "GDS Higher",
+      "line_content": "0.81% of itineraries were priced higher on GDS last week, reflecting a 0.16 ppt weekly increase and a 0.17% average fare premium."
+    },
+    {
+      "line_title": "GDS Lower",
+      "line_content": "0.05% of itineraries were lower on GDS last week, unchanged week-over-week and month-over-month, with an average 0.14% discount."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Short-haul routes achieved 98.76% parity last week (−0.29 ppt week-over-week), with GDS-higher pricing on 0.53% of itineraries at a 0.12% average premium."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "Long-haul itineraries saw 7.02% missing offers on GDS, parity fell to 88.30% (−1.23 ppt), and the GDS-higher share jumped 1.77 ppt to 4.09%."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "US Origin",
+      "line_content": "US origins mirrored overall trends with 97.90% price matches, 1.24% missing offers (+0.11 ppt week-over-week) and a 0.81% GDS-higher share."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in bookings had 1.67% missing offers last week (+0.23 ppt), 97.22% parity and a 1.03% GDS-higher share averaging a 0.16% premium."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings showed 99.33% parity, a 0.33% GDS-higher share and just 0.33% missing offers (−1.50 ppt month-over-month)."
+    }
+  ]
+}

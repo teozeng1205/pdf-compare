@@ -1,0 +1,212 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Undercut Surge",
+      "line_content": "OTA undercuts jumped to 11.60% last week, up 5.78 p.p. WoW and 4.29 p.p. MoM, driven by short-haul and close-in segments."
+    },
+    {
+      "line_title": "MSE Discount Prevalence",
+      "line_content": "MSE offered lower fares on 90.8% of routes last week, demonstrating stable discount depth with an average 0.06% gap despite a 4.75 p.p. WoW decrease."
+    },
+    {
+      "line_title": "GDS Coverage and Upsell",
+      "line_content": "GDS has a persistent coverage gap in 24 ODs and marks up fares on 40.8% of itineraries, highlighting mixed parity and upsell trends."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Rising OTA Undercuts",
+      "line_content": "OTA LOWER share jumped to 11.60% last week, up 5.78 p.p. week-over-week and 4.29 p.p. month-over-month, driven primarily by short-haul and close-in segments."
+    },
+    {
+      "line_title": "Parity Erosion",
+      "line_content": "SAME status declined to 55.29% last week (−5.67 p.p. WoW, −3.25 p.p. MoM), signaling weakening price parity on the OTA channel."
+    },
+    {
+      "line_title": "Minimal Price Gaps",
+      "line_content": "Average price discrepancies remain marginal (0.03–0.06%), indicating tactical under- and over-pricing rather than sizable fare misalignments."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA LOWER Trends",
+      "line_content": "At 11.60% of routes, OTA LOWER frequency rose 5.78 p.p. WoW and 4.29 p.p. MoM, marking the strongest undercut activity on OTAs this period."
+    },
+    {
+      "line_title": "Price Parity Trends",
+      "line_content": "SAME status represents 55.29% of listings, down 5.67 p.p. WoW and 3.25 p.p. MoM, reflecting a clear parity pullback."
+    },
+    {
+      "line_title": "OTA HIGHER Stability",
+      "line_content": "OTA HIGHER holds at 24.57%, with slight declines of 0.43 p.p. WoW and 1.56 p.p. MoM, maintaining roughly a quarter of routes above web fares."
+    },
+    {
+      "line_title": "Missing OTA Matches",
+      "line_content": "OTA N/A stands at 8.53%, with modest upticks of 0.31 p.p. WoW and 0.52 p.p. MoM, indicating limited availability gaps."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Dynamics",
+      "line_content": "Short-haul routes saw OTA LOWER climb to 13.53% (+12.30 p.p. WoW, +11.64 p.p. MoM) as SAME share plunged 13.44 p.p. WoW."
+    },
+    {
+      "line_title": "Long Haul Dynamics",
+      "line_content": "Long-haul routes maintain a 36.29% OTA HIGHER share (−1.21 p.p. WoW, −3.08 p.p. MoM) while SAME rose to 54.03%."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Canada POO Insights",
+      "line_content": "Canadian-origin routes experienced OTA LOWER at 19.62%, up 10.76 p.p. WoW, with parity slipping to 65.19%."
+    },
+    {
+      "line_title": "Non-Canada POO Insights",
+      "line_content": "Non-Canada origins show OTA HIGHER dominance at 52.59%, outpacing SAME (43.70%) and reflecting minimal undercutting."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Trends",
+      "line_content": "Close-in bookings saw OTA LOWER rise to 13.93% (+8.46 p.p. WoW) as SAME fell to 51.24%."
+    },
+    {
+      "line_title": "Far-Out Booking Trends",
+      "line_content": "Far-out bookings maintain parity at 63.04%, with OTA LOWER muted at 6.52% and OTA HIGHER at 23.91%."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "MSE Dominates with Lower Fares",
+      "line_content": "Last week, 90.8% of routes on MSE showed lower fares than the website, reflecting a slight decrease from 95.5% in the prior week but maintaining overwhelming discount prevalence."
+    },
+    {
+      "line_title": "Parity on the Rise",
+      "line_content": "Parity cases where MSE prices matched the website climbed to 9.2% last week, up 4.8 percentage points week-over-week, indicating growing alignment on select itineraries."
+    },
+    {
+      "line_title": "Consistent Discount Depth",
+      "line_content": "Across lower-fare scenarios, the average discount on MSE held steady at about 0.06% month-over-month, signaling stable competitive pricing depth."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Parity Frequency",
+      "line_content": "MSE parity occurred on 9.22% of routes last week, up 4.75 ppt week-over-week, with an average price gap near −0.01%."
+    },
+    {
+      "line_title": "Lower-Fare Prevalence",
+      "line_content": "MSE offered lower fares on 90.78% of routes last week, down 4.75 ppt from the prior week and 1.87 ppt month-over-month, delivering an average discount of 0.06%."
+    },
+    {
+      "line_title": "No Higher-Fare Instances",
+      "line_content": "There were no routes where MSE fares exceeded the website in the latest week, underscoring consistent price competitiveness."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Pricing",
+      "line_content": "Short-haul routes saw MSE undercut the website on 92.35% of ODs last week (−3.35 ppt WoW) with an average discount of 0.05%."
+    },
+    {
+      "line_title": "Long-Haul Pricing",
+      "line_content": "Long-haul routes recorded a lower-fare share of 88.71% last week (−6.60 ppt WoW) and deeper average discounts of 0.07%."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Canada POO Trends",
+      "line_content": "For Canadian origins, MSE lower-fare share fell by 7.59 ppt to 84.18% last week, while parity rose to 15.82%, with discounts around 0.04%."
+    },
+    {
+      "line_title": "Non-Canada POO Trends",
+      "line_content": "Non-Canadian origins saw MSE undercut the site on 98.52% of routes (−1.48 ppt WoW), with parity minimal at 1.48% and average discount near 0.08%."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "MSE lower-fare share for close-in bookings was 90.05% last week (−5.47 ppt WoW), with parity increasing to 9.95% and a stable 0.06% discount."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings showed 92.47% lower-fare share (−3.13 ppt WoW), parity at 7.53%, and an average discount of 0.06%."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Coverage Gap on GDS",
+      "line_content": "24 origin-destination pairs remain unlisted on GDS, indicating a persistent distribution gap for Air Transat."
+    },
+    {
+      "line_title": "Stable Price Parity",
+      "line_content": "Approximately 55% of itineraries show identical fares on GDS and the website, with only a 0.7% week-on-week dip and 1.3% month-on-month gain."
+    },
+    {
+      "line_title": "High Incidence of GDS-Upsell",
+      "line_content": "GDS fares exceed website prices on 40.8% of itineraries, marking a 1.1% increase versus the prior week, with an average markup of 0.03%."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A (Unlisted)",
+      "line_content": "24 ODs are not found on GDS, representing a steady coverage gap across comparisons."
+    },
+    {
+      "line_title": "Parity (SAME)",
+      "line_content": "55.44% of ODs have matching fares, down 0.72% vs last week but up 1.25% vs last month."
+    },
+    {
+      "line_title": "GDS Higher",
+      "line_content": "40.82% of ODs list higher GDS fares, up 1.09% week-on-week and down 0.79% month-on-month, with a +0.03% average difference."
+    },
+    {
+      "line_title": "GDS Lower",
+      "line_content": "Only 3.74% of ODs show lower GDS fares, a 0.37% week-on-week decrease and average discount of 0.06%."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Upsell Trend",
+      "line_content": "56.47% parity on short-haul routes with GDS higher fares at 38.82% (up 2.01% WoW) and declining lower-fare incidence at 4.71%."
+    },
+    {
+      "line_title": "Long-Haul Markup Prevalence",
+      "line_content": "GDS lists higher fares on 43.90% of long-haul ODs (up 0.15% vs prior week), while parity holds at 54.47% and discounts remain negligible at 1.63%."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Canadian Origins Parity",
+      "line_content": "Routes originating in Canada exhibit 97.47% fare parity, with only 1.27% of itineraries showing higher or lower GDS fares."
+    },
+    {
+      "line_title": "Non-CA Upsell Dominance",
+      "line_content": "For non-Canada origins, GDS upsell occurs on 86.67% of itineraries, versus 6.67% parity and 6.67% discounted listings."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Stability",
+      "line_content": "Close-in bookings show 57.21% parity and 41.29% higher GDS fares (up 0.50% WoW), with only 1.49% of fares lower."
+    },
+    {
+      "line_title": "Far-Out Booking Variance",
+      "line_content": "Far-out itineraries have lower parity at 52.17%, 39.13% upsell (up 1.35% vs last week) and higher discount incidence at 8.70%."
+    }
+  ]
+}

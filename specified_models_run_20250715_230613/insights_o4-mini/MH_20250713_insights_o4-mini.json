@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Premium Prevalence",
+      "line_content": "84.47% of itineraries were priced higher on OTAs than Malaysia Airlines’ website last week, indicating sustained markup pressure."
+    },
+    {
+      "line_title": "MSE Discount Dominance",
+      "line_content": "97.1% of itineraries on metasearch engines offered lower fares than Malaysia Airlines’ website, underscoring MSE’s competitive positioning."
+    },
+    {
+      "line_title": "GDS Consistent Premium",
+      "line_content": "95.7% of GDS listings carried fares above the website, reflecting a steady +0.09% average premium across itineraries."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Predominance of Higher OTA Fares",
+      "line_content": "84.47% of itineraries on the OTA channel were priced above Malaysia Airlines’ website in the latest week, underscoring a persistent markup trend."
+    },
+    {
+      "line_title": "Slight Reduction in Premiums",
+      "line_content": "The week-over-week frequency of OTA higher fares declined by 1.32 pp, while the average price premium narrowed from +0.15% to +0.09%."
+    },
+    {
+      "line_title": "Markup Varies by Booking Window",
+      "line_content": "Far-out bookings carry the highest OTA premium at +0.12%, compared with a more moderate +0.07% for close-in purchases."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA Not Found",
+      "line_content": "13.47% of itineraries were not available on OTA last week, up 1.20 pp week-over-week and 0.28 pp month-on-month."
+    },
+    {
+      "line_title": "Identical Pricing",
+      "line_content": "Only 1.94% of itineraries matched website fares, remaining flat week-over-week and month-on-month."
+    },
+    {
+      "line_title": "OTA Higher",
+      "line_content": "84.47% of itineraries exhibited higher OTA fares last week, with the average markup at +0.09%, down from +0.15% the prior week."
+    },
+    {
+      "line_title": "OTA Lower",
+      "line_content": "A mere 0.11% of itineraries were cheaper on OTA, reflecting a flat trend and an average discount of –0.09%."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Segments",
+      "line_content": "Short-haul routes saw 84.19% of fares higher on OTA with an average premium of +0.09%, down 1.06 pp week-over-week."
+    },
+    {
+      "line_title": "Long-Haul Segments",
+      "line_content": "Long-haul itineraries registered a 96.97% rate of OTA higher fares, carrying a +0.05% average premium, though frequency fell 3.03 pp from the prior week."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic (MY) Origins",
+      "line_content": "Domestic itineraries recorded a 93.06% incidence of higher OTA fares and maintained a +0.09% average markup."
+    },
+    {
+      "line_title": "International (Non-MY) Origins",
+      "line_content": "Non-MY origins had 16.84% of fares higher on OTA, 83.16% not listed, and a modest +0.05% average premium."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in purchases showed an 80.69% likelihood of higher OTA fares with a +0.07% average premium."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings exhibited a 91.10% rate of higher OTA fares and the highest average markup at +0.12%."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "MSE Predominantly Lower",
+      "line_content": "In the latest week MSE offered lower fares on 97.1% of itineraries, reflecting a dominant positioning compared to the airline website."
+    },
+    {
+      "line_title": "Share of Lower Offers Rising",
+      "line_content": "The proportion of lower-priced listings on MSE climbed by 9.4 percentage points week-over-week, indicating growing competitiveness."
+    },
+    {
+      "line_title": "Minimal Higher-Price Cases",
+      "line_content": "MSE higher-price occurrences remain negligible at 0.0% last week, while the average discount on lower fares held steady at around –0.20%."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A Stability",
+      "line_content": "No itineraries were missing on MSE in the latest week, maintaining full distribution coverage."
+    },
+    {
+      "line_title": "Same-Price Listings Decline",
+      "line_content": "Same-price listings dropped to 2.9% last week, down 9.2 points week-over-week and 6.2 points month-over-month."
+    },
+    {
+      "line_title": "Higher-Price Listings Negligible",
+      "line_content": "MSE higher-price listings remained at 0.0% frequency, slightly below prior-week levels and unchanged from the month trend."
+    },
+    {
+      "line_title": "Lower-Price Listings Prevalent",
+      "line_content": "Lower-price listings accounted for 97.1% of all fares last week, up from 87.7% the week before and 90.2% month-to-date."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Discount Uptick",
+      "line_content": "Short-haul lower-fare share rose to 97.0% last week, up 9.7 points week-over-week, with an average –0.20% price gap."
+    },
+    {
+      "line_title": "Long-Haul Consistent Discounts",
+      "line_content": "Long-haul segments saw 100% lower-price listings last week, up 3.0 points week-over-week, sustaining a –0.20% average discount."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic (MY) Discounts Strengthen",
+      "line_content": "Malaysia origin itineraries showed 97.6% lower-price listings last week (+6.7 points week-over-week) and an average –0.21% price difference."
+    },
+    {
+      "line_title": "International (Non-MY) Uptick",
+      "line_content": "Non-Malaysia itineraries saw lower-price share jump to 92.7% last week, a 31.0-point week-over-week rise, delivering a –0.13% average fare advantage."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings Highly Discounted",
+      "line_content": "Close-in bookings had 97.8% lower-price listings last week, up 12.3 points week-over-week, with an average –0.24% price gap."
+    },
+    {
+      "line_title": "Far-Out Bookings Stable Discounts",
+      "line_content": "Far-out bookings maintained 96.0% lower-price share last week, up 4.6 points week-over-week, at an average –0.14% discount."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Predominant GDS Premium",
+      "line_content": "In the latest week GDS fares exceeded website rates on 95.7% of itineraries, carrying a modest +0.09% average premium."
+    },
+    {
+      "line_title": "Minimal Discount Instances",
+      "line_content": "Only 1.3% of GDS fares were lower than the website last week, though this share rose by 0.69 points versus the prior week with an average –0.14% discount."
+    },
+    {
+      "line_title": "Stable Parity Segment",
+      "line_content": "Price parity (SAME status) held steady at 2.4% of offerings last week, with zero average difference from the website rate."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A Share",
+      "line_content": "Fare offers were unavailable in GDS for 0.69% of itineraries last week, down 0.22 points week-over-week and 0.82 points month-over-month."
+    },
+    {
+      "line_title": "Parity Consistency",
+      "line_content": "SAME-status itineraries comprised 2.40% of GDS listings, flat versus the prior week and delivering zero price variance."
+    },
+    {
+      "line_title": "Higher Fare Frequency",
+      "line_content": "GDS HIGHER frequency stood at 95.66% last week, dipping 0.48 points versus prior week but up 0.86 points month-over-month, with prices +0.09% above website levels."
+    },
+    {
+      "line_title": "Lower Fare Incidence",
+      "line_content": "GDS LOWER bookings represented 1.26% of listings last week, rising 0.69 points week-over-week, with an average –0.14% price advantage."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Trends",
+      "line_content": "Short-haul routes saw 95.72% GDS HIGHER share last week (avg +0.09% premium), down 0.38 points week-over-week but up 0.78 points month-over-month."
+    },
+    {
+      "line_title": "Long-Haul Variability",
+      "line_content": "Long-haul listings showed 94.12% GDS HIGHER share last week (avg +0.11% premium), down 5.88 points versus prior week; GDS LOWER jumped to 5.88%."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic (MY) Patterns",
+      "line_content": "Malaysia-origin itineraries posted a 96.28% GDS HIGHER rate last week (+0.09% avg premium), improving 0.09 points week-over-week and 0.94 points month-over-month."
+    },
+    {
+      "line_title": "International (Non-MY) Shifts",
+      "line_content": "Non-Malaysia origins had 89.69% GDS HIGHER share last week, down 6.05 points week-over-week, while GDS LOWER surged to 8.25% (up 5.06 points)."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in bookings recorded 93.62% GDS HIGHER share last week (avg +0.07% premium), slipping 1.13 points week-over-week but rising 0.41 points month-over-month."
+    },
+    {
+      "line_title": "Far-Out Reservations",
+      "line_content": "Far-out bookings exhibited 99.08% GDS HIGHER frequency last week with an average +0.12% premium, up 0.30 points week-over-week and 1.88 points month-over-month."
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Premium Growth",
+      "line_content": "OTA fares now exceed website prices on over one-third of routes, up week-over-week and month-over-month, indicating a sustained channel markup and declining parity."
+    },
+    {
+      "line_title": "Strong MSE Alignment",
+      "line_content": "MSE shows 62% price parity with the website—a gain week-over-week and month-over-month—paired with fewer discounts and clear divergence between far-out and close-in bookings."
+    },
+    {
+      "line_title": "GDS Consistent Premium",
+      "line_content": "GDS fares carry a premium on 94.9% of itineraries with virtually no discounts, peaking in the far-out booking window, underscoring a premium-focused strategy."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Rising OTA Premium",
+      "line_content": "OTA fares exceed website prices on 33.6% of routes, increasing by 5.8% week-over-week and 5.6% month-over-month, indicating a sustained channel markup."
+    },
+    {
+      "line_title": "Fewer Price Parity Cases",
+      "line_content": "Unchanged fares represent 30.6% of offers but have fallen by over 8% compared to last week and 7.5% versus last month, pointing to declining parity."
+    },
+    {
+      "line_title": "Far-Out Overpricing Spike",
+      "line_content": "In the Far-Out booking window, OTA prices are higher on 69.3% of itineraries—up 16.2% week-over-week—highlighting pronounced channel overpricing early in the booking cycle."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A Frequency",
+      "line_content": "Website offers missing on OTA appear in 34.99% of cases, rising 2.19% from last week and 1.94% from last month."
+    },
+    {
+      "line_title": "Price Parity (Same)",
+      "line_content": "Exact-match fares account for 30.58% of listings, down 8.13% week-over-week and 7.49% month-over-month."
+    },
+    {
+      "line_title": "OTA Higher Shares",
+      "line_content": "OTA fares are higher on 33.60% of routes with an average premium of 0.69%, up 5.84% week-over-week and 5.57% month-over-month."
+    },
+    {
+      "line_title": "OTA Lower Shares",
+      "line_content": "OTA fares undercut the website on just 0.83% of routes, with a modest –0.13% average discount and negligible frequency change."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Markup Trends",
+      "line_content": "For short-haul routes, OTA fares exceed the website on 33.5% of itineraries (0.71% premium), up 5.9% from last week."
+    },
+    {
+      "line_title": "Long-Haul Parity Decline",
+      "line_content": "On long-haul routes, unchanged fares dominate at 50.7% but have slipped 4.7% week-over-week, while OTA markups cover 35.7% (0.24% premium)."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic (JP) Channel Premium",
+      "line_content": "For Japan-origin routes, OTA fares are higher on 32.8% of itineraries with a 0.71% premium, up 5.8% week-over-week."
+    },
+    {
+      "line_title": "International (Non-JP) Overpricing",
+      "line_content": "Non-JP routes see OTA fares higher on 72.5% of listings, rising 8.7% week-over-week with a 0.24% average markup."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Window Dynamics",
+      "line_content": "In the Close-In window, OTA markups appear on 15.9% of itineraries (0.42% premium), up 1.1% week-over-week, while parity holds at 39.8%."
+    },
+    {
+      "line_title": "Far-Out Window Overcharges",
+      "line_content": "For Far-Out bookings, OTA fares exceed website prices on 69.3% of itineraries with an 0.81% average premium, up 16.2% week-over-week."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Rising Price Parity",
+      "line_content": "Last week, 62% of fares on MSE matched All Nippon’s website, marking a 1.15 ppt increase versus the prior week and a 1.92 ppt gain month-on-month, underscoring stronger rate alignment."
+    },
+    {
+      "line_title": "Decline in Undercuts",
+      "line_content": "The share of MSE fares lower than the website fell to 28.2% last week, down 1.29 ppt week-on-week and 1.36 ppt month-on-month, indicating fewer discount-driven discrepancies."
+    },
+    {
+      "line_title": "Booking Window Split",
+      "line_content": "Far-out bookings show 87% parity and just 2.4% MSE-higher rates, whereas close-in bookings deliver only 50% parity and 11.4% premiums, highlighting timing-based pricing divergence."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "N/A Status Low Impact",
+      "line_content": "Website offers not found on MSE represent just 1.48% of itineraries last week, exhibiting marginal declines of 0.01 ppt week-on-week and 0.77 ppt month-on-month."
+    },
+    {
+      "line_title": "Parity Dominates",
+      "line_content": "‘Same’ status comprises 61.96% of MSE fares last week, up from 60.82% prior week and 60.05% prior month, reflecting persistent price alignment."
+    },
+    {
+      "line_title": "Fewer MSE Discounts",
+      "line_content": "MSE-lower fares account for 28.19% of itineraries, down from 29.48% week-on-week and 29.54% month-on-month, showing a pullback in channel undercutting."
+    },
+    {
+      "line_title": "Stable Premium Share",
+      "line_content": "MSE-higher fares hold steady at 8.37%, a slight uptick from 8.22% week-on-week and 8.17% month-on-month, representing a consistent premium segment."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Parity Up",
+      "line_content": "Short-haul itineraries saw 64.24% parity last week, up 1.19 ppt week-on-week and 2.34 ppt month-on-month, while underpriced fares declined to 25.49%."
+    },
+    {
+      "line_title": "Long-Haul Underpricing",
+      "line_content": "Long-haul fares remain heavily undercut on MSE at 91.37% of itineraries, rebounding 8.03 ppt month-on-month despite a modest 0.72 ppt week-on-week decrease."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Japan Market Trends",
+      "line_content": "JP origin flights mirror overall trends with 62.87% parity (up 1.02 ppt week-on-week), 27.08% undercuts and 8.54% premiums last week."
+    },
+    {
+      "line_title": "Non-JP Heavy Discounts",
+      "line_content": "Non-JP origins exhibit 82.35% of fares undercutting the website versus only 17.65% parity, signaling a pronounced MSE discount strategy."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Pricing Mix",
+      "line_content": "Close-in bookings delivered 49.54% parity (up 0.33 ppt week-on-week) with 37.18% discounts and an elevated 11.38% of MSE-higher fares."
+    },
+    {
+      "line_title": "Far-Out Stable Parity",
+      "line_content": "Far-out bookings show strong alignment at 86.99% parity, up 3.71 ppt week-on-week, alongside just 9.98% undercuts and 2.41% premiums."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Dominant GDS Premium",
+      "line_content": "GDS fares exceed website prices on 94.94% of itineraries last week, reflecting a consistent 2.32% average markup across all routes."
+    },
+    {
+      "line_title": "Scarce Lower Fares",
+      "line_content": "Instances of GDS pricing below website levels are effectively zero last week, underscoring negligible discounting in this channel."
+    },
+    {
+      "line_title": "Booking Window Impact",
+      "line_content": "Far-out bookings carry the highest GDS premium at 3.86% last week, compared to a 1.54% markup on close-in reservations."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Coverage Gaps",
+      "line_content": "Only 1.42% of itineraries were unavailable in GDS last week, a stable share versus the previous month (–0.04%)."
+    },
+    {
+      "line_title": "Price Parity",
+      "line_content": "Parity fares appear on 3.64% of itineraries last week, down 0.41% versus the week before and 0.15% versus the month before."
+    },
+    {
+      "line_title": "GDS Lower",
+      "line_content": "No itineraries registered lower GDS fares last week, consistent with the previous month’s 0% frequency."
+    },
+    {
+      "line_title": "GDS Higher",
+      "line_content": "Premium fares dominate at 94.94% of itineraries last week, virtually unchanged week-on-week (–0.01%) and modestly up month-on-month (+0.19%)."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Premium",
+      "line_content": "Short-haul routes show a 98.52% GDS higher frequency last week, carrying a 2.33% average markup."
+    },
+    {
+      "line_title": "Long Haul Parity",
+      "line_content": "Long-haul itineraries remain largely at parity (88.49% same pricing), with only 11.51% showing a minor 0.01% GDS markup last week."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Japan Origins",
+      "line_content": "Routes originating in Japan exhibit a 96.41% frequency of GDS premiums last week, averaging a 2.33% higher price."
+    },
+    {
+      "line_title": "Non-Japan Origins",
+      "line_content": "Non-Japan routes are priced on par 76.47% of the time, with the remaining 23.53% carrying a minimal 0.01% GDS markup."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in reservations see GDS premiums on 94.33% of itineraries last week, averaging a 1.54% increase over site fares."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings carry GDS markups in 96.26% of cases, with an average 3.86% premium last week."
+    }
+  ]
+}

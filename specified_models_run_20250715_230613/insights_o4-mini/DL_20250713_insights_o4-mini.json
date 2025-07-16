@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Parity with Rising Gaps",
+      "line_content": "OTA achieved price parity on 97.35% of routes last week but saw missing offers rise 43% week-over-week to 0.92%, highlighting distribution risk."
+    },
+    {
+      "line_title": "MSE Near-Universal Alignment",
+      "line_content": "MSE matched Delta’s site fares on 99.92% of routes last week, though far-out bookings had a 0.24% missing-offer rate and isolated long-haul surcharges of 25%."
+    },
+    {
+      "line_title": "GDS Strong Parity, Growing Premiums",
+      "line_content": "GDS listings matched Delta’s website on 98.3% of itineraries, while higher-fare instances rose 0.36 pp to 1.25%, driven by non-US and long-haul routes."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Price Parity Dominance",
+      "line_content": "OTA matched Delta’s web fares on 97.35% of routes last week, underscoring broad pricing consistency with minimal variance."
+    },
+    {
+      "line_title": "Distribution Gaps Increasing",
+      "line_content": "Offer absences on OTA rose 43% week-over-week to 0.92% of itineraries and climbed 16% month-over-month, signaling growing listing gaps."
+    },
+    {
+      "line_title": "Far-Out Premium Spike",
+      "line_content": "Far-out bookings recorded the highest OTA premium frequency at 0.81%, averaging a 0.41% uplift despite a 38% week-over-week decline."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found",
+      "line_content": "Listings missing on OTA accounted for 0.92% of itineraries last week, up from 0.49% week-over-week and 0.77% month-over-month."
+    },
+    {
+      "line_title": "Price Parity",
+      "line_content": "OTA held parity on 97.35% of itineraries last week, a slight dip from 97.77% the prior week."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Pricing",
+      "line_content": "Short-haul itineraries saw parity in 97.83% of cases, with OTA premiums at 1.07% averaging a 0.19% uplift, down 21% week-over-week."
+    },
+    {
+      "line_title": "Long-Haul Premiums",
+      "line_content": "Long-haul routes posted OTA premiums on 2.37% of itineraries, steady week-over-week, averaging a 0.34% markup while parity held at 94.95%."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "US Market Parity",
+      "line_content": "US itineraries maintained parity on 97.65% of routes, with OTA premiums at 1.11% averaging a 0.18% uplift, up 8% week-over-week."
+    },
+    {
+      "line_title": "Non-US Premium Volatility",
+      "line_content": "Non-US routes saw OTA premiums on 3.23% of itineraries, down from 6.24% the prior week, averaging a 0.45% markup and parity at 94.06%."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Pricing",
+      "line_content": "Close-in bookings held parity on 96.78% of itineraries, with OTA premiums at 1.49% averaging a 0.19% uplift, slightly below last week."
+    },
+    {
+      "line_title": "Far-Out Premiums",
+      "line_content": "Far-out bookings exhibited 98.64% parity, with OTA premiums on 0.81% of itineraries averaging a 0.41% uplift, down from 1.30% prior week."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Strong Price Parity",
+      "line_content": "MSE fares matched Delta’s website on 99.92% of routes last week, demonstrating near-universal alignment."
+    },
+    {
+      "line_title": "Far-Out Inventory Gaps",
+      "line_content": "Far-out bookings had the highest missing-offer incidence at 0.24% of itineraries, up from 0.05% a month ago."
+    },
+    {
+      "line_title": "Long-Haul Premium Instances",
+      "line_content": "Long-haul routes accounted for all MSE surcharges, affecting 0.05% of itineraries with an average 25% markup."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Price Parity Dominance",
+      "line_content": "MSE matched website fares on 99.92% of routes last week, with alignment holding steady week-over-week."
+    },
+    {
+      "line_title": "Minimal Missing Offers",
+      "line_content": "Only 0.08% of routes lacked website offers on MSE last week, slightly above 0.03% prior week but below 0.10% month-over-month."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Parity",
+      "line_content": "Short-haul routes saw 99.92% parity on MSE, with 0.08% missing offers and no premium or undercut cases."
+    },
+    {
+      "line_title": "Long-Haul Surcharges",
+      "line_content": "Long-haul itineraries maintained 99.89% parity, with 0.05% missing offers and 0.05% priced 25% above the website."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "US Origin Alignment",
+      "line_content": "US-origin routes achieved 99.92% price parity, 0.07% missing offers, and 0.01% surcharges averaging +25%."
+    },
+    {
+      "line_title": "Non-US Origin Consistency",
+      "line_content": "Non-US origins maintained 100% parity last week with zero missing offers or fare discrepancies."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Window Stability",
+      "line_content": "Close-in bookings matched the website on 99.99% of itineraries, with 0.01% premium listings at a 25% markup."
+    },
+    {
+      "line_title": "Far-Out Gaps",
+      "line_content": "Far-out bookings saw 99.76% parity alongside the highest missing-offer rate of 0.24%, with no surcharges or undercuts."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Price Parity Dominance",
+      "line_content": "GDS listings matched Delta’s website prices on 98.3% of itineraries last week, underscoring near-complete parity."
+    },
+    {
+      "line_title": "Rising GDS Premiums",
+      "line_content": "The share of GDS fares above the website rose by 0.36 pp week-over-week to 1.25%, with an average markup of 0.23%."
+    },
+    {
+      "line_title": "International and Long-Haul Skews",
+      "line_content": "Long-haul and non-US routes exhibit higher GDS premiums—2.42% of itineraries at +0.34% and 3.23% at +0.46%, respectively."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Price Parity (SAME)",
+      "line_content": "Paritized rates accounted for 98.30% of itineraries last week, a slight 0.42 pp decline week-over-week but up 0.23 pp month-over-month."
+    },
+    {
+      "line_title": "GDS Higher",
+      "line_content": "Fares higher on GDS grew to 1.25% of listings (+0.36 pp week-over-week) with a modest average premium of 0.23%."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Stability",
+      "line_content": "Short-haul routes showed 98.57% parity, with 1.02% of fares higher on GDS averaging a 0.18% premium and 0.30% lower averaging a 0.18% discount."
+    },
+    {
+      "line_title": "Long Haul Premiums",
+      "line_content": "Long-haul routes recorded 96.90% parity, with 2.42% higher averaging a 0.34% premium and 0.58% lower averaging a 0.11% discount."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "US Origin Parity",
+      "line_content": "US-origin itineraries maintained 98.49% parity, with 1.06% of fares higher on GDS at a 0.17% premium and 0.34% lower at a 0.15% discount."
+    },
+    {
+      "line_title": "Non-US Volatility",
+      "line_content": "Non-US origins saw 3.23% of fares higher on GDS averaging a 0.46% premium (down from 6.66% prior week) and 0.52% lower averaging a 0.22% discount."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in bookings showed 97.98% parity, 1.44% higher on GDS with a 0.18% premium, and 0.43% lower with a 0.18% discount."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings achieved 99.02% parity, with 0.79% higher on GDS at a 0.42% premium and 0.19% lower at a 0.06% discount."
+    }
+  ]
+}

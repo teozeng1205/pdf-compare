@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Dominant Parity with Rising Gaps",
+      "line_content": "80.41% of OTA itineraries matched the website fares last week, but 11.63% of routes lacked OTA offers, indicating growing availability gaps."
+    },
+    {
+      "line_title": "MSE Strong Value but Missing Offers",
+      "line_content": "85.7% of itineraries on MSE were priced below the website rate despite a 7.2 pp week-over-week decline, while missing offers surged to 8.37%."
+    },
+    {
+      "line_title": "GDS Parity Erosion and Direct Gaps",
+      "line_content": "GDS rate parity fell to 82.7% with website-exclusive offers rising to 8.6%, even as GDS premiums remained modest at 0.18%."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Dominant Price Parity",
+      "line_content": "Last week, 80.41% of OTA itineraries matched Air Europa’s website fares, underscoring parity as the prevailing outcome."
+    },
+    {
+      "line_title": "Rising Availability Gaps",
+      "line_content": "11.63% of ODs lacked OTA offers in the latest week, marking a 9.42% week-over-week increase and a 9.63% month-over-month rise."
+    },
+    {
+      "line_title": "Modest OTA Premiums",
+      "line_content": "7.35% of itineraries were priced higher on OTA last week, carrying an average premium of 0.19%, though this share dipped slightly from the prior week."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Price Parity Trends",
+      "line_content": "80.41% of itineraries showed identical fares on OTA last week, but parity fell 9.19% from the previous week and 6.93% from last month."
+    },
+    {
+      "line_title": "OTA-Only Gaps",
+      "line_content": "Offers were missing on OTA for 11.63% of itineraries last week, up 9.42% versus the prior week and 9.63% versus last month."
+    },
+    {
+      "line_title": "OTA Higher Fares",
+      "line_content": "7.35% of itineraries carried higher fares on OTA last week, a 0.18% decline in share week-over-week, with an average markup of 0.19%."
+    },
+    {
+      "line_title": "OTA Lower Fares",
+      "line_content": "Only 0.61% of itineraries were cheaper on OTA last week, reflecting a small share decline of 0.05% week-over-week and an average discount of 0.14%."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Pricing",
+      "line_content": "On short-haul routes, 80.41% of fares on OTA matched the website last week, with 7.35% higher and 0.61% lower; parity decreased 9.19% week-over-week."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Spain Origination",
+      "line_content": "For Spain-origin itineraries, 80.41% had matching OTA fares last week, while 7.35% were higher and 0.61% lower, mirroring overall OTA trends."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in itineraries saw 16.76% missing on OTA last week (up 13.79% WoW), with parity at 73.82% (down 12.98%) and 8.53% priced higher."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out itineraries maintained 95.33% parity on OTA last week (flat week-over-week), with 4.67% priced higher and negligible lower-fare incidence."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Predominantly Lower Pricing",
+      "line_content": "Last week 85.7% of itineraries on MSE were priced below the website rate, underlining strong value positioning despite a 7.2 pp week-over-week decline."
+    },
+    {
+      "line_title": "Spike in Missing Offers",
+      "line_content": "The share of routes not found on MSE jumped to 8.37% last week, up 7.71 pp from the prior week, signaling potential distribution or listing issues."
+    },
+    {
+      "line_title": "Minimal Premium Pricing",
+      "line_content": "Only 0.20% of itineraries were priced higher on MSE, with average uplifts remaining modest at 0.32% last week."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Missing Offers (MSE N/A)",
+      "line_content": "8.37% of itineraries were unavailable on MSE last week, a 7.71 pp rise from the previous week."
+    },
+    {
+      "line_title": "Price Parity (SAME)",
+      "line_content": "5.71% of itineraries matched website pricing last week, edging down 0.47 pp week-over-week."
+    },
+    {
+      "line_title": "Lower on MSE",
+      "line_content": "85.71% of itineraries were cheaper on MSE last week, marking a 7.22 pp decrease from the prior week."
+    },
+    {
+      "line_title": "Higher on MSE",
+      "line_content": "0.20% of itineraries were more expensive on MSE last week, a marginal 0.02 pp drop week-over-week."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Dynamics",
+      "line_content": "Short-haul routes mirrored overall trends: 85.7% priced lower, 8.4% not listed, and just 0.2% priced higher on MSE last week."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Spain Origins",
+      "line_content": "From Spain, 85.7% of ODs on MSE were lower-priced, 8.37% were missing, and only 0.20% were higher last week."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in itineraries saw availability gaps rise to 12.06% last week, with 80.00% priced lower (down 10.76 pp) and 0.29% priced higher on MSE."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out itineraries remained highly competitive on MSE: 98.67% were cheaper last week, a 0.68 pp increase, with negligible missing or premium pricing."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Rising Web-Only Gaps",
+      "line_content": "Offers found on Air Europa’s website but missing in GDS jumped to 8.6% last week, up ~7.7% versus both the prior week and month, indicating growing direct-channel exclusivity."
+    },
+    {
+      "line_title": "Declining Offer Parity",
+      "line_content": "Rate parity between Air Europa’s site and GDS fell to 82.7% last week, marking an 8.1% week-over-week drop and a 5.8% decrease month-over-month."
+    },
+    {
+      "line_title": "Stable GDS Premiums",
+      "line_content": "GDS fares carrying a premium averaged +0.18% last week, virtually unchanged week-over-week and down 2.5% month-over-month, reflecting modest and stabilizing distributor surcharges."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Website-Only Frequency Surge",
+      "line_content": "The share of itineraries available exclusively on Air Europa’s site jumped to 8.6% in the latest week, reflecting a 7.7% increase both week-over-week and month-over-month."
+    },
+    {
+      "line_title": "Offer Parity Erosion",
+      "line_content": "Identical pricing between the website and GDS fell to 82.7% last week, down 8.1% versus the previous week and 5.8% versus last month."
+    },
+    {
+      "line_title": "Modest GDS Premium",
+      "line_content": "GDS fares above website rates accounted for 7.8% of itineraries last week, with an average premium of +0.18%, holding steady week-over-week and improving versus one month ago."
+    },
+    {
+      "line_title": "Increasing GDS Discounts",
+      "line_content": "Although rare, GDS rates below site prices rose to 1.0% of itineraries last week, delivering an average discount of -0.13%, up from minimal levels in the prior month."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Parity Decline",
+      "line_content": "Short-haul parity mirrored overall trends: 82.7% aligned last week (down 8.1% week-over-week), with website-only cases at 8.6% and GDS premiums at 7.8%."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Spanish Origin Alignment",
+      "line_content": "For Spain-origin itineraries, 82.7% of fares matched the website last week, while site-exclusive offers reached 8.6% and GDS premiums were 7.8%, consistent with overall performance."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In GDS Gaps",
+      "line_content": "Close-in bookings saw website-exclusive fares climb to 12.4% last week (up 11.0% week-over-week) and parity fall to 77.1%, underscoring a widening direct-channel gap for late-planned travel."
+    },
+    {
+      "line_title": "Far-Out Parity Strength",
+      "line_content": "Far-out bookings maintained high alignment at 96.0% last week (up 0.6% week-over-week), with GDS premiums at 4.0% and no discounted GDS fares, highlighting stable distributor consistency for early travel."
+    }
+  ]
+}

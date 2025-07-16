@@ -1,0 +1,188 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Price Consistency",
+      "line_content": "OTAs matched Brussels Airlines website fares on over 93% of itineraries last week, with minimal deviations in both premium and discount instances."
+    },
+    {
+      "line_title": "MSE Channel Advantage",
+      "line_content": "MSE listings were lower than website fares in 92.7% of cases, offering a small average discount of 0.03% but persistent price leadership."
+    },
+    {
+      "line_title": "GDS Premium Dominance",
+      "line_content": "GDS fares exceeded website prices on 98.55% of itineraries, carrying an average markup of 0.37% and stable month-over-month trends."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Strong Overall Parity",
+      "line_content": "OTA prices matched Brussels Airlines’ website fares in over 93% of itineraries last week, underscoring high consistency in the OTA channel."
+    },
+    {
+      "line_title": "Slight Uptick in OTA Premiums",
+      "line_content": "Instances where OTAs priced higher rose by 0.61 percentage points week-over-week to 3.19%, albeit down sharply by 11.14 points versus the prior month."
+    },
+    {
+      "line_title": "Minimal Discount Deviations",
+      "line_content": "Only 1.45% of itineraries showed lower OTA fares last week, with average price differences around –0.09%, indicating limited undercutting."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Missing OTA Offers",
+      "line_content": "OTA listing gaps occurred on 2.03% of ODs last week, up 0.60 points from the prior week and 0.31 points month-over-month."
+    },
+    {
+      "line_title": "Price Parity Rate",
+      "line_content": "Fare parity slipped slightly week-over-week to 93.33% (–1.80 points) but improved 11.67 points versus last month."
+    },
+    {
+      "line_title": "OTA Higher Frequency",
+      "line_content": "OTA fares exceeded website rates on 3.19% of routes last week, up from 2.58% week-over-week but down from 14.33% month-over-month."
+    },
+    {
+      "line_title": "OTA Lower Frequency",
+      "line_content": "OTAs undercut by 1.45% last week, rising 0.59 points week-over-week but down 0.84 points versus the prior month."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Alignment",
+      "line_content": "Short-haul routes mirrored overall channel trends, with 93.33% fare parity, 3.19% higher OTA premiums and 1.45% OTA discounts last week."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Belgium Origin Trends",
+      "line_content": "BE-origin ODs saw 93.33% parity last week and a sharp drop in higher OTA fares from 18.24% to 3.03% month-over-month."
+    },
+    {
+      "line_title": "Non-BE Origin Dynamics",
+      "line_content": "Non-BE origins maintained 93.85% parity last week, with higher OTA occurrences at 3.35% (up slightly week-over-week), then easing from 11.11% month-over-month."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in itineraries held 91.23% parity, with higher OTA fares at 3.95% (up 0.88 points week-over-week) and discounts at 1.75% last week."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings achieved 98.29% parity and only 0.85% lower OTA fares, while higher OTA premiums stood at 0.85%, down significantly from 14.05% month-over-month."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Dominant Channel Discount",
+      "line_content": "Brussels Airlines fares on the MSE channel were lower than on the website in 92.7% of cases last week, confirming a strong channel price advantage."
+    },
+    {
+      "line_title": "Minimal Average Margin",
+      "line_content": "The average price gap on discounted MSE offers is a mere 0.03%, indicating limited arbitrage potential."
+    },
+    {
+      "line_title": "Greater Benefit on Far-Out Bookings",
+      "line_content": "Offers booked far in advance show a 95.8% incidence of lower MSE pricing versus 90.8% for last-minute bookings, highlighting deeper early-purchase discounts."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A Frequency",
+      "line_content": "Unavailable offers on MSE accounted for only 0.6% last week, remaining stable week-over-week and down 28 basis points month-over-month."
+    },
+    {
+      "line_title": "MSE Discounts (Lower)",
+      "line_content": "Discounted fares prevailed in 92.73% of listings, a slight decline of 0.98% week-over-week and 0.68% month-over-month, at an average discount of -0.03%."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Routes",
+      "line_content": "On short-haul itineraries, 92.73% of MSE offers were cheaper than website prices, mirroring the overall channel trend with a -0.03% average discount."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Belgian Origins (BE)",
+      "line_content": "For BE departures, 93.94% of MSE fares were lower last week (up 1.77% week-over-week) at an average discount of -0.04%."
+    },
+    {
+      "line_title": "Non-BE Origins",
+      "line_content": "Non-BE departures saw 91.62% discounted MSE fares last week, down 4.01% week-over-week, with an average discount of -0.03%."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Last-minute itineraries posted a 90.75% share of lower MSE fares (down 0.92% week-over-week) at an average -0.04% discount."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Advance bookings yielded a 95.76% incidence of lower MSE pricing (down 1.78% week-over-week) with an average -0.03% discount."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Dominant GDS Premium",
+      "line_content": "In the last week, 98.55% of itineraries on GDS were priced higher than the airline’s website, with an average markup of 0.37%."
+    },
+    {
+      "line_title": "Minimal GDS Discounts",
+      "line_content": "Only 0.29% of listings showed lower GDS fares, delivering a modest average discount of 0.08%."
+    },
+    {
+      "line_title": "Stable Price Trends",
+      "line_content": "Week-over-week and month-over-month shifts in premium incidence remained under 0.3 percentage points, indicating steady pricing dynamics."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Higher Prevalence",
+      "line_content": "98.55% of listings were priced higher on GDS last week, essentially flat compared to the prior week."
+    },
+    {
+      "line_title": "GDS Lower Scarcity",
+      "line_content": "Lower GDS fares appeared in just 0.29% of cases, with average discounts near 0.08%."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Alignment",
+      "line_content": "Short-haul routes mirrored overall trends: 98.55% priced higher on GDS (0.37% avg premium) with stable week-over-week patterns."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Belgium-Origin Premiums",
+      "line_content": "BE routes saw 98.19% of fares higher on GDS, averaging a 0.34% markup and rising 0.59pp week-over-week."
+    },
+    {
+      "line_title": "Non-BE Routes Uptick",
+      "line_content": "Non-BE origins had 98.89% of listings priced higher (0.40% avg markup), up 0.56pp from the prior week."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Stability",
+      "line_content": "98.24% of close-in bookings were pricier on GDS (0.33% avg premium), with no change versus prior periods."
+    },
+    {
+      "line_title": "Far-Out Premium Spike",
+      "line_content": "100% of far-out bookings carried higher GDS fares last week, averaging a 0.46% markup and a 1.64pp monthly increase."
+    }
+  ]
+}

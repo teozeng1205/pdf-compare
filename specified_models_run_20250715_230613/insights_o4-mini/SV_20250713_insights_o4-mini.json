@@ -1,0 +1,212 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Channel Dynamics",
+      "line_content": "OTAs maintain 67.8% price parity despite a 4.3 pp weekly decline, with undercuts rising to 16.1%, indicating growing discount activity."
+    },
+    {
+      "line_title": "MSE Undercut Dominance",
+      "line_content": "MSE delivered lower fares in 95.6% of itineraries last week, with only 4.2% parity and a minimal 0.11% average price gap."
+    },
+    {
+      "line_title": "GDS Parity Softening",
+      "line_content": "GDS parity fell to 68.6% WoW amid both increased 12.2% discounts and 15.7% premiums, highlighting widening channel discrepancies."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Parity Remains Prevalent",
+      "line_content": "Price parity on OTA stands at 67.8% last week, though it declined by 4.3 pp week-over-week and 2.7 pp month-over-month, indicating slight channel misalignments."
+    },
+    {
+      "line_title": "Rising Undercuts",
+      "line_content": "OTA undercuts grew to 16.1% of listings last week, up 2.0 pp from the prior week and 2.9 pp versus the previous month, showing intensifying discount strategies."
+    },
+    {
+      "line_title": "Minimal Price Gaps",
+      "line_content": "Average price differentials remain tight—OTAs charge just +0.08% on higher listings and offer −0.07% on lower ones—underscoring competitive alignment."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Low Missing Coverage",
+      "line_content": "OTA listings not found are negligible at 1.8% last week, with a slight weekly increase of 0.3 pp and flat monthly trend, reflecting consistent content availability."
+    },
+    {
+      "line_title": "Price Parity Shift",
+      "line_content": "Price parity dropped to 67.8% last week, down 4.3 pp from the prior week and 2.7 pp month-over-month, signaling small deviations in alignment."
+    },
+    {
+      "line_title": "Modest OTA Premiums",
+      "line_content": "OTAs list higher prices in 14.3% of cases last week (up 2.0 pp weekly) with an average markup of 0.08%, indicating limited channel surcharges."
+    },
+    {
+      "line_title": "Growing OTA Discounts",
+      "line_content": "Undercuts account for 16.1% of OTA offers last week, rising 2.0 pp week-over-week and 2.9 pp month-over-month, delivering average discounts of 0.07%."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Variability",
+      "line_content": "Short-haul parity declined to 67.3% last week (−5.0 pp pw), while undercuts rose to 16.7% (+2.5 pp), with average discount of 0.07%."
+    },
+    {
+      "line_title": "Long-Haul Stability",
+      "line_content": "Long-haul saw parity strengthen to 74.5% last week (+5.0 pp pw) as undercuts fell to 8.3% (−4.9 pp), highlighting steadier pricing on longer routes."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Saudi Origins",
+      "line_content": "For Saudi origin ODs, price parity slipped to 68.3% last week (−5.3 pp pw) and undercuts rose to 14.2% (+2.7 pp), averaging a 0.08% discount."
+    },
+    {
+      "line_title": "Non-Saudi Origins",
+      "line_content": "Non-Saudi origins maintain parity at 64.9% last week (+1.2 pp pw) with undercuts at 27.5% (−1.9 pp), offering an average 0.04% discount."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Dynamics",
+      "line_content": "Close-in bookings show parity retreat to 65.5% last week (−7.0 pp pw) as undercuts climb to 17.5% (+2.8 pp) and premiums average 0.09%."
+    },
+    {
+      "line_title": "Far-Out Consistency",
+      "line_content": "Far-out bookings sustain high parity at 72.2% last week (+0.9 pp pw), with undercuts steady at 13.3% and average premium of 0.07%."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Widespread MSE Undercut",
+      "line_content": "MSE offered lower fares in 95.60% of itineraries last week, maintaining dominance despite a slight 2.27 pp week-over-week decrease."
+    },
+    {
+      "line_title": "Modest Price Gap",
+      "line_content": "The average undercut on MSE was just 0.11% last week, consistent with prior periods and indicating marginal price differences."
+    },
+    {
+      "line_title": "Parity Remains Rare",
+      "line_content": "Only 4.21% of itineraries matched website fares on MSE last week, up from 1.94% WoW but still under 5% despite a 0.30 pp dip versus the prior month."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE Lower Dominance",
+      "line_content": "Saudia’s MSE channel featured lower fares in 95.6% of itineraries last week—a slight 2.27 pp decrease WoW and broadly in line with the 95.25% share month-to-date."
+    },
+    {
+      "line_title": "Price Parity Limited",
+      "line_content": "Parity occurred in just 4.21% of itineraries last week, up 2.27 pp WoW but down 0.30 pp versus the prior month, underscoring rare equal pricing."
+    },
+    {
+      "line_title": "Missing Offers Insignificant",
+      "line_content": "Just 0.19% of routes lacked a website offer on MSE, flat WoW and 0.06 pp lower MoM, reflecting near-complete channel coverage."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Undercut",
+      "line_content": "Short-haul itineraries saw MSE lower fares in 95.68% of cases last week, a 2.38 pp WoW decrease, with parity on 4.11% of routes."
+    },
+    {
+      "line_title": "Long Haul Consistency",
+      "line_content": "Long-haul routes experienced MSE undercuts in 94.44% of itineraries last week, down 0.73 pp WoW, while parity edged up to 5.56%."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic Origins",
+      "line_content": "Saudi-origin itineraries had MSE lower fares in 95.36% of cases last week—a 2.42 pp WoW drop—with parity at 4.42%."
+    },
+    {
+      "line_title": "International Origins",
+      "line_content": "Non-Saudi origins saw 97.03% of itineraries undercut by MSE last week, down 1.33 pp WoW, and parity on 2.97% of routes."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in bookings recorded MSE lower fares in 94.86% of itineraries last week, a 2.82 pp WoW decline, with parity at 5.07%."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings showed 97.05% lower MSE fares last week, a 1.30 pp WoW reduction, and parity at 2.52%."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Parity Softening",
+      "line_content": "Price parity in GDS fell 4.6 ppt WoW to 68.6%, as both discount and premium instances increased."
+    },
+    {
+      "line_title": "Rising Discounts",
+      "line_content": "GDS fares below the website rose to 12.2% of routes last week, up 2.8 ppt WoW, yielding an average 0.08% discount."
+    },
+    {
+      "line_title": "Growing Premiums",
+      "line_content": "GDS premiums climbed 1.6 ppt WoW to 15.7%, driven by short-haul and close-in bookings with average markups near 0.10%."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Coverage",
+      "line_content": "Only 3.5% of ODs lacked a GDS offer last week, slightly up 0.2 ppt WoW and down 0.6 ppt MoM."
+    },
+    {
+      "line_title": "Price Parity Trends",
+      "line_content": "Parity held for 68.6% of routes, down 4.6 ppt WoW but up 2.2 ppt MoM, indicating modest recovery over the month."
+    },
+    {
+      "line_title": "GDS Discounts",
+      "line_content": "Discounted GDS fares appeared on 12.2% of routes, rising 2.8 ppt WoW with an average 0.08% price reduction."
+    },
+    {
+      "line_title": "GDS Premiums",
+      "line_content": "Premiums on GDS accounted for 15.7% of routes, up 1.6 ppt WoW, with an average 0.09% markup."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Trends",
+      "line_content": "Parity dipped 5.2 ppt WoW to 68.6%, while GDS lower grew 3.3 ppt to 12.5% and higher rose 1.9 ppt to 15.8%."
+    },
+    {
+      "line_title": "Long-Haul Stability",
+      "line_content": "Parity increased 4.2 ppt WoW to 68.8% and 18.4 ppt MoM, as both premium and discount incidence moderated."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic Routes",
+      "line_content": "Parity softened 5.7 ppt WoW to 66.2%, with discounts up 3.3 ppt to 13.9% and premiums up 2.2 ppt to 16.0%."
+    },
+    {
+      "line_title": "International Routes",
+      "line_content": "Parity strengthened 2.0 ppt WoW to 82.9% and 18.4 ppt MoM, while discount and premium shares remained muted."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Parity fell 6.1 ppt WoW to 67.8%, as GDS lower jumped 3.4 ppt to 13.8% and higher climbed 2.9 ppt to 16.1%."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Parity edged down 1.6 ppt WoW to 70.3% but is up 5.4 ppt MoM, with GDS lower up 1.5 ppt to 9.1% and higher down 1.1 ppt to 14.7%."
+    }
+  ]
+}

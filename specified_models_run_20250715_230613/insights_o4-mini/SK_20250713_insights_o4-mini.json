@@ -1,0 +1,196 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Markup Dominance",
+      "line_content": "The OTA channel priced 96.33% of SK itineraries above the website last week, indicating consistent markup leadership."
+    },
+    {
+      "line_title": "MSE Discount Leadership",
+      "line_content": "MSE delivered fares below SK’s website on 97.91% of itineraries, reinforcing its position as the lowest-price channel."
+    },
+    {
+      "line_title": "GDS Premium Prevalence",
+      "line_content": "GDS pricing exceeded SK’s site on 96.76% of routes, reflecting pervasive premium positioning."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Markup Prevalence",
+      "line_content": "OTAs priced 96.33% of SK routes above the website last week, underscoring widespread markup practices."
+    },
+    {
+      "line_title": "Markup Momentum",
+      "line_content": "The share of higher OTA fares rose by 0.47pp week-over-week and 1.67pp month-over-month, signaling a strengthening premium trend."
+    },
+    {
+      "line_title": "Parity and Discounts Rare",
+      "line_content": "Price parity dropped to 1.79% (–0.39pp WoW) while discounts remained below 0.3%, averaging a –0.22% differential."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Parity Rates",
+      "line_content": "Only 1.79% of itineraries matched website prices, down 0.39pp WoW and 0.75pp MoM."
+    },
+    {
+      "line_title": "Higher-Fare Share",
+      "line_content": "OTAs carried higher fares on 96.33% of routes, up 0.47pp WoW, with an average 0.07% premium."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Premiums",
+      "line_content": "97.91% of short-haul routes were priced above the website, increasing 0.58pp WoW with a 0.07% average markup."
+    },
+    {
+      "line_title": "Long-Haul Parity Decline",
+      "line_content": "84.75% of long-haul routes held higher OTA fares, stable WoW, while parity fell 1.06pp to 10.28%."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Nordic Origins",
+      "line_content": "98.51% of Nordic itineraries were pricier on OTAs, up 0.97pp WoW, averaging a 0.06% premium; discounts remained under 0.11%."
+    },
+    {
+      "line_title": "Non-Nordic Origins",
+      "line_content": "94.87% of non-Nordic itineraries carried OTA markups, rising 0.27pp WoW, with parity at 2.64%."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "95.22% of close-in bookings showed OTA markups, up 0.90pp WoW, with parity at 2.19% and a 0.05% average premium."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "98.18% of far-out bookings were higher on OTAs, slightly down 0.07pp WoW, carrying a 0.09% average markup."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Dominant Discounts",
+      "line_content": "MSE fares were lower than the website on 97.91% of itineraries, up 0.81pp WoW and 1.85pp MoM, averaging a 0.13% discount."
+    },
+    {
+      "line_title": "Parity Listings Falling",
+      "line_content": "Only 1.45% of routes matched website prices, down 0.34pp WoW and 1.05pp MoM, reducing parity visibility."
+    },
+    {
+      "line_title": "Overpricing Eliminated",
+      "line_content": "Listings above website rates hit 0% last week, down from 0.21% WoW and 0.59pp MoM."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Missing Offers",
+      "line_content": "Only 0.64% of ODs lacked MSE offers, improving 0.26pp WoW and 0.21pp MoM, enhancing coverage."
+    },
+    {
+      "line_title": "Lower-Pricing Share",
+      "line_content": "97.91% of itineraries were discounted, up 0.81pp WoW and 1.85pp MoM, at a 0.13% average saving."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Savings",
+      "line_content": "98.11% of short-haul routes were priced below the website, up 0.34pp WoW and 1.37pp MoM, at a 0.12% discount."
+    },
+    {
+      "line_title": "Long-Haul Improvements",
+      "line_content": "96.44% of long-haul routes saw MSE discounts, rising 4.60pp WoW and 5.67pp MoM, averaging a 0.20% saving."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic (NO) Savings",
+      "line_content": "99.15% of Norwegian-origin routes were discounted, up 0.64pp WoW and 2.13pp MoM, at a 0.12% average saving."
+    },
+    {
+      "line_title": "International Savings",
+      "line_content": "97.08% of non-Norwegian routes carried discounts, up 0.98pp WoW and 1.73pp MoM, averaging 0.13% savings."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Savings",
+      "line_content": "97.95% of close-in bookings were priced below the website, up 1.53pp WoW and 2.58pp MoM, at a 0.13% discount."
+    },
+    {
+      "line_title": "Far-Out Savings",
+      "line_content": "97.84% of far-out bookings kept discounts, down 0.20pp WoW but up 0.66pp MoM, averaging a 0.13% saving."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Premium Prevalence",
+      "line_content": "96.76% of GDS itineraries were above the website last week, with an average 0.22% markup."
+    },
+    {
+      "line_title": "Far-Out Markup Intensity",
+      "line_content": "98.41% of far-out bookings carried a 0.30% average uplift, outpacing close-in segments."
+    },
+    {
+      "line_title": "Haul-Length Contrast",
+      "line_content": "Short-haul routes saw a 98.11% premium share at +0.23%, while long-haul premiums were 87.19% at +0.12%."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Unmatched Listings",
+      "line_content": "1.41% of ODs had no website offer in GDS, improving from 1.54% WoW and 2.16% MoM."
+    },
+    {
+      "line_title": "Price Parity Cases",
+      "line_content": "1.37% of itineraries matched site prices, up from 1.20% WoW and 1.23% MoM."
+    },
+    {
+      "line_title": "Premium Dominance",
+      "line_content": "96.76% of routes were pricier in GDS, a –0.13pp WoW shift and +0.66pp MoM, with a 0.22% average markup."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Premiums",
+      "line_content": "98.11% of short-haul routes were higher in GDS, commanding a 0.23% average uplift."
+    },
+    {
+      "line_title": "Long-Haul Gaps",
+      "line_content": "87.19% of long-haul routes carried a 0.12% markup and faced a 3.20% availability gap."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "North America Origins",
+      "line_content": "98.62% of North American itineraries were priced above the website, averaging a 0.21% premium; only 0.43% were cheaper."
+    },
+    {
+      "line_title": "Other Origins",
+      "line_content": "95.44% of non-North American itineraries carried a 0.23% markup, with 1.78% unmatched listings."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "95.83% of close-in tickets were higher in GDS, at +0.18% average markup; 1.92% lacked offers."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "98.41% of far-out tickets held GDS premiums, averaging +0.30% uplift with 0.45% unmatched."
+    }
+  ]
+}

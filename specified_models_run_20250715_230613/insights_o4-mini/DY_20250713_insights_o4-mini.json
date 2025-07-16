@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Pricing Premium",
+      "line_content": "73.4% of OTA fares carried a premium above the website last week, with rare discounting and narrowing offer gaps across routes."
+    },
+    {
+      "line_title": "MSE Deep Discounts",
+      "line_content": "85.5% of itineraries on MSE undercut website fares, driving strong lower-fare dominance while parity matches fell below 6%."
+    },
+    {
+      "line_title": "GDS Consistent Markups",
+      "line_content": "71.3% of GDS itineraries were priced above the website, with stable parity at 13.2% and minimal undercutting."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Dominant OTA Premium",
+      "line_content": "73.4% of OTA fares exceeded website prices last week, sustaining a 0.06% average premium and rising 2.1 percentage points week-over-week."
+    },
+    {
+      "line_title": "Minimal Discounting",
+      "line_content": "Only 0.9% of itineraries were cheaper on OTA, down from 1.6% the prior week, indicating rare undercutting."
+    },
+    {
+      "line_title": "Offer Gaps Shrinking",
+      "line_content": "OTA listings missed 12.4% of website offers last week, narrowing by 0.5 points week-over-week and 0.9 points month-over-month."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Routes Unavailable",
+      "line_content": "12.39% of routes lacked an OTA offering last week, down 0.48 points week-over-week and 0.91 points month-over-month."
+    },
+    {
+      "line_title": "Price Parity",
+      "line_content": "13.29% of OTA fares matched website prices, a 0.88-point week-over-week decline but 2.7 points above last month."
+    },
+    {
+      "line_title": "Channel Discounts",
+      "line_content": "Only 0.90% of fares were cheaper on OTA, down 0.74 points week-over-week and 0.21 points month-over-month."
+    },
+    {
+      "line_title": "Channel Premiums",
+      "line_content": "73.43% of fares carried an OTA premium, up 2.10 points week-over-week with an average markup of 0.06%."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Premiums",
+      "line_content": "75.63% of short-haul OTA routes were higher-priced, up 2.13 points week-over-week with a 0.06% average markup."
+    },
+    {
+      "line_title": "Long-Haul Availability",
+      "line_content": "29.48% of long-haul itineraries lacked OTA availability while 57.23% were priced higher with a 0.04% average premium."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic (NO) Dynamics",
+      "line_content": "On Norway-origin routes, 73.75% of fares on OTA carried a 0.05% premium, rising 0.63 points week-over-week."
+    },
+    {
+      "line_title": "International Origins",
+      "line_content": "Non-NO origins saw 72.51% of fares priced higher on OTA, up 6.27 points week-over-week with a 0.07% average markup."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking",
+      "line_content": "72.49% of last-minute OTA bookings were more expensive, though this share fell 4.39 points week-over-week; average premium was 0.06%."
+    },
+    {
+      "line_title": "Far-Out Booking",
+      "line_content": "75.35% of advance bookings carried OTA markups, up 13.40 points week-over-week with a 0.05% average premium."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Prevalence of Discounts",
+      "line_content": "85.5% of itineraries on MSE offered lower fares than the website, up 1.3 points week-over-week and 8.4 points month-over-month."
+    },
+    {
+      "line_title": "Falling Parity",
+      "line_content": "Identical fares on MSE fell to 5.4% of itineraries, down 1.3 points week-over-week and 7.4 points month-over-month."
+    },
+    {
+      "line_title": "Negligible Premiums",
+      "line_content": "Fares priced higher on MSE occurred in under 0.1% of itineraries, indicating virtually no premium risk."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Lower-Fare Dominance",
+      "line_content": "85.5% of fares were lower on MSE, compared with 84.1% the prior week and 77.1% a month ago."
+    },
+    {
+      "line_title": "Declining Parity",
+      "line_content": "Only 5.4% of fares matched website prices, down from 6.7% week-over-week and 12.8% month-over-month."
+    },
+    {
+      "line_title": "Stable Offer Gaps",
+      "line_content": "Itineraries without MSE offers held at 9.1%, flat week-over-week and slightly below 9.9% a month ago."
+    },
+    {
+      "line_title": "Minimal Overpricing",
+      "line_content": "Under 0.1% of fares were higher on MSE, decreasing marginally from both the previous week and month."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Discounting",
+      "line_content": "85.8% of short-haul itineraries had lower MSE fares, up 0.6 points week-over-week and 6.5 points month-over-month."
+    },
+    {
+      "line_title": "Long-Haul Surge",
+      "line_content": "83.2% of long-haul itineraries featured lower MSE fares, up 7.3 points week-over-week and 22.1 points month-over-month, while parity fell to 11.0%."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Norway Origins",
+      "line_content": "92.1% of Norway-origin itineraries had lower MSE fares, stable week-over-week and up 0.7 points month-over-month."
+    },
+    {
+      "line_title": "Non-Norway Origins",
+      "line_content": "66.9% of non-Norway itineraries were cheaper on MSE, rising from 61.9% week-over-week and 39.3% month-over-month."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "85.8% of close-in bookings had lower MSE fares, up 3.1 points week-over-week and 11.0 points month-over-month."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "84.9% of far-out bookings featured lower MSE fares, a 1.6-point week-over-week dip but a 3.7-point gain month-over-month."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Premium Frequency",
+      "line_content": "71.3% of itineraries on GDS were priced above the website, stable week-over-week and down 2.5 points month-over-month, with a 0.06% average premium."
+    },
+    {
+      "line_title": "Limited Undercutting",
+      "line_content": "Only 0.9% of routes on GDS offered lower fares, doubling week-over-week and ticking up month-over-month with a 0.02% average discount."
+    },
+    {
+      "line_title": "Stable Parity",
+      "line_content": "Price parity held for 13.2% of itineraries, dipping 0.7 points week-over-week but rising 3.0 points month-over-month."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Unavailability",
+      "line_content": "14.6% of itineraries lacked a GDS match, down 0.5 points week-over-week and 1.2 points month-over-month."
+    },
+    {
+      "line_title": "Price Parity",
+      "line_content": "13.2% of fares matched the website, down 0.7 points week-over-week but up 3.0 points month-over-month."
+    },
+    {
+      "line_title": "Premium Prevalence",
+      "line_content": "71.3% of itineraries were pricier on GDS, up 0.6 points week-over-week with a 0.06% average markup, but down 2.5 points month-over-month."
+    },
+    {
+      "line_title": "Undercutting",
+      "line_content": "Only 0.9% of fares were lower on GDS, up 0.6 points week-over-week and month-over-month with a modest 0.02% discount."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Premiums",
+      "line_content": "74.3% of short-haul itineraries were pricier on GDS, up 0.5 points week-over-week and down 2.6 points month-over-month, with a 0.06% average markup."
+    },
+    {
+      "line_title": "Long-Haul Variance",
+      "line_content": "49.1% of long-haul routes showed GDS premiums, up 0.5 points week-over-week and down 2.5 points month-over-month, while undercuts climbed to 3.5%."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Norway Origins",
+      "line_content": "73.7% of Norway-origin itineraries were costlier on GDS, up 0.5 points week-over-week and down 3.4 points month-over-month, with 17.1% matching website fares."
+    },
+    {
+      "line_title": "Non-Norway Origins",
+      "line_content": "64.8% of non-NO routes carried a GDS premium, up 0.5 points week-over-week and flat month-over-month, with minimal 2.4% parity."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "70.1% of close-in bookings were pricier on GDS, down 4.3 points week-over-week and 6.5 points month-over-month, as parity jumped 3.8 points week-over-week and 5.7 points month-over-month."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "73.8% of far-out itineraries carried higher GDS fares, surging 9.1 points week-over-week and 4.9 points month-over-month, while parity fell 7.8 points week-over-week."
+    }
+  ]
+}
