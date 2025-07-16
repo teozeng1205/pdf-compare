@@ -15,7 +15,7 @@ import re
 st.set_page_config(
     page_title="AI Models vs Images Comparison", 
     page_icon=None, 
-    layout="centered", # Changed to centered layout for more compactness
+    layout="wide",
     initial_sidebar_state="expanded"
 )
 
@@ -71,7 +71,7 @@ def get_available_images():
 def display_image(image_path):
     """Display an image in Streamlit"""
     if os.path.exists(image_path):
-        st.image(image_path, use_column_width=True)
+        st.image(image_path, use_container_width=True)
     else:
         st.warning(f"Image not found: {image_path}")
 
@@ -119,54 +119,57 @@ def display_insights_with_image(airline_data, section_name, section_title, airli
         image_type in available_images[airline_code][channel]):
         image_path = available_images[airline_code][channel][image_type]
     
-    # Layout: Image on left, AI insights on right
-    col1, col2 = st.columns([0.1, 1.9]) # Adjusted column ratio for maximum compactness
+    # Layout: Image on top, AI insights below
+    st.markdown("### 📊 Data Visualization")
+    if image_path:
+        display_image(image_path)
+        st.caption(f"{channel} Analysis - {image_type.replace('_', ' ').title()}")
+    else:
+        st.info(f"No visualization available for {airline_code} - {channel} - {image_type}")
     
-    with col1:
-        if image_path:
-            st.image(image_path, use_column_width=True)
-        else:
-            pass
+    st.subheader(f"AI Model Insights: {section_title}")
     
-    with col2:
-        # Get models with data for this section
-        models_with_data = []
-        for model, data in airline_data.items():
-            if data and section_name in data:
-                models_with_data.append(model)
-        
-        if not models_with_data:
-            pass # Removed warning for compactness
-        
-        # Display each model's insights
-        for model in models_with_data:
+    # Get models with data for this section
+    models_with_data = []
+    for model_name, data in airline_data.items():
+        if data and section_name in data:
+            models_with_data.append(model_name)
+    
+    if not models_with_data:
+        st.warning("No AI insights available for this section")
+        return
+    
+    # Create columns for each model's insights
+    cols = st.columns(len(models_with_data))
+    
+    for i, model in enumerate(models_with_data):
+        with cols[i]:
+            st.markdown(f"**Model: {model.upper()}**")
+            
             section_data = airline_data[model][section_name]
             
-            model_insights_text = []
             for item in section_data:
                 title = item.get('line_title', '')
                 content = item.get('line_content', '')
                 
                 insight_text = ""
                 if title:
-                    insight_text += f"{title}: "
+                    insight_text += f"**{title}**\n"
                 insight_text += content
-                model_insights_text.append(insight_text)
+                
+                st.write(insight_text)
             
-            # Display model name and insights on a single line where possible, or with minimal newlines
-            st.text(f"Model {model.upper()}: " + " ".join(model_insights_text).replace("\n", " "))
+            # st.markdown("\n---\n") # Removed separator for side-by-side view
 
 def main():
     # Header
-    # Removed header for compactness
-    # st.markdown("## AI Models vs Data Visualizations") 
+    st.title("AI Models vs Data Visualizations")
     
-    # Removed introductory markdown for compactness
-    # st.markdown("""
-    # **Compare AI model insights with actual data visualizations side-by-side**
-    # 
-    # This dashboard shows AI-generated insights alongside the corresponding charts and graphs for validation.
-    # """)
+    st.markdown("""
+    **Compare AI model insights with actual data visualizations side-by-side**
+    
+    This dashboard shows AI-generated insights alongside the corresponding charts and graphs for validation.
+    """)
     
     # Load data
     with st.spinner("Loading data and images..."):
@@ -174,52 +177,51 @@ def main():
         available_images = get_available_images()
     
     if not insights_data:
-        # st.error("No insights data found. Please check the data directory structure.") # Removed for compactness
+        st.error("No insights data found. Please check the data directory structure.")
         return
     
     if not available_images:
-        # st.error("No images found in cropped/ directory.") # Removed for compactness
+        st.error("No images found in cropped/ directory.")
         return
     
     # Find common airlines between insights and images
     common_airlines = set(airlines) & set(available_images.keys())
     if not common_airlines:
-        # st.error("No common airlines found between insights and images.") # Removed for compactness
+        st.error("No common airlines found between insights and images.")
         return
     
     # Sidebar
-    # st.sidebar.title("Controls") # Removed sidebar title for compactness
+    st.sidebar.title("🎛️ Controls")
     
     # Airline selection (only show airlines with both data and images)
     selected_airline = st.sidebar.selectbox(
-        "Select Airline",
+        "✈️ Select Airline",
         sorted(list(common_airlines)),
-        # help="Airlines with both AI insights and visualizations" # Removed help text
+        help="Airlines with both AI insights and visualizations"
     )
     
     # Show available channels for selected airline
-    # Removed for compactness
-    # if selected_airline and selected_airline in available_images:
-    #     available_channels = list(available_images[selected_airline].keys())
-    #     st.sidebar.markdown(f"**Available channels for {selected_airline}:** {', '.join(available_channels)}")
+    if selected_airline and selected_airline in available_images:
+        available_channels = list(available_images[selected_airline].keys())
+        st.sidebar.markdown(f"**Available channels for {selected_airline}:** {', '.join(available_channels)}")
     
     # Section selection - filter by available images
     all_sections = [
-        ("ota_highlights", "OTA Highlights"),
-        ("ota_summary_high_level_comparison", "OTA High-Level Comparison"),
-        ("ota_summary_by_region", "OTA by Region"),
-        ("ota_summary_by_point_of_origin", "OTA by Origin"),
-        ("ota_summary_by_booking_window", "OTA by Booking Window"),
-        ("mse_highlights", "MSE Highlights"),
-        ("mse_summary_high_level_comparison", "MSE High-Level Comparison"),
-        ("mse_summary_by_region", "MSE by Region"),
-        ("mse_summary_by_point_of_origin", "MSE by Origin"),
-        ("mse_summary_by_booking_window", "MSE by Booking Window"),
-        ("gds_highlights", "GDS Highlights"),
-        ("gds_summary_high_level_comparison", "GDS High-Level Comparison"),
-        ("gds_summary_by_region", "GDS by Region"),
-        ("gds_summary_by_point_of_origin", "GDS by Origin"),
-        ("gds_summary_by_booking_window", "GDS by Booking Window")
+        ("ota_highlights", "🌐 OTA Highlights"),
+        ("ota_summary_high_level_comparison", "📊 OTA High-Level Comparison"),
+        ("ota_summary_by_region", "🌍 OTA by Region"),
+        ("ota_summary_by_point_of_origin", "📍 OTA by Origin"),
+        ("ota_summary_by_booking_window", "⏰ OTA by Booking Window"),
+        ("mse_highlights", "🔍 MSE Highlights"),
+        ("mse_summary_high_level_comparison", "📊 MSE High-Level Comparison"),
+        ("mse_summary_by_region", "🌍 MSE by Region"),
+        ("mse_summary_by_point_of_origin", "📍 MSE by Origin"),
+        ("mse_summary_by_booking_window", "⏰ MSE by Booking Window"),
+        ("gds_highlights", "💼 GDS Highlights"),
+        ("gds_summary_high_level_comparison", "📊 GDS High-Level Comparison"),
+        ("gds_summary_by_region", "🌍 GDS by Region"),
+        ("gds_summary_by_point_of_origin", "📍 GDS by Origin"),
+        ("gds_summary_by_booking_window", "⏰ GDS by Booking Window")
     ]
     
     # Filter sections based on available images for selected airline
@@ -234,40 +236,42 @@ def main():
                 available_sections.append((section_code, section_title))
     
     if not available_sections:
-        # st.warning("No matching sections found for selected airline.") # Removed for compactness
+        st.warning("No matching sections found for selected airline.")
         return
     
     selected_section = st.sidebar.selectbox(
-        "Select Analysis Section",
+        "📋 Select Analysis Section",
         [s[0] for s in available_sections],
         format_func=lambda x: next(s[1] for s in available_sections if s[0] == x),
-        # help="Sections with both AI insights and visualizations" # Removed help text
+        help="Sections with both AI insights and visualizations"
     )
     
     # Model selection
     available_models = list(insights_data.keys())
     selected_models = st.sidebar.multiselect(
-        "Select AI Models",
+        "🤖 Select AI Models",
         available_models,
         default=available_models,
-        # help="Select one or more AI models to compare their insights" # Removed help text
+        help="Choose which AI models to include"
     )
-    
-    if not selected_airline or not selected_section or not selected_models:
-        # st.warning("Please select an Airline, Analysis Section, and at least one AI Model.") # Removed for compactness
-        return
     
     # Main content
-    section_title = next(s[1] for s in available_sections if s[0] == selected_section)
-    
-    # Display insights with image
-    display_insights_with_image(
-        {model: insights_data[model][selected_airline] for model in selected_models},
-        selected_section,
-        section_title,
-        selected_airline,
-        available_images
-    )
+    if selected_airline and selected_section and selected_models:
+        section_title = next(s[1] for s in available_sections if s[0] == selected_section)
+        
+        # Prepare data for selected airline and models
+        airline_data = {}
+        for model in selected_models:
+            airline_data[model] = insights_data.get(model, {}).get(selected_airline, None)
+        
+        # Display insights with corresponding image
+        display_insights_with_image(
+            airline_data, 
+            selected_section, 
+            section_title, 
+            selected_airline, 
+            available_images
+        )
     
     # Footer
     st.markdown("---")
