@@ -14,64 +14,10 @@ import re
 # Configure page
 st.set_page_config(
     page_title="AI Models vs Images Comparison", 
-    page_icon="✈️", 
+    page_icon=None, 
     layout="wide",
     initial_sidebar_state="expanded"
 )
-
-# Custom CSS
-st.markdown("""
-<style>
-    .main-header {
-        font-size: 2.5rem;
-        color: #1f4e79;
-        text-align: center;
-        margin-bottom: 2rem;
-        border-bottom: 3px solid #1f4e79;
-        padding-bottom: 1rem;
-    }
-    .model-tag {
-        display: inline-block;
-        padding: 0.3rem 0.8rem;
-        margin: 0.2rem;
-        border-radius: 20px;
-        font-size: 0.9rem;
-        font-weight: bold;
-        color: white;
-        text-transform: uppercase;
-    }
-    .gpt-4o { background: linear-gradient(135deg, #FF6B6B, #FF8E8E); }
-    .gpt-4o-mini { background: linear-gradient(135deg, #4ECDC4, #7ED7D1); }
-    .o1 { background: linear-gradient(135deg, #45B7D1, #73C5DE); }
-    .o3 { background: linear-gradient(135deg, #96CEB4, #AED6C7); }
-    .o3-mini { background: linear-gradient(135deg, #FFEAA7, #FFE4A7); color: #2d3436; }
-    
-    .insight-content {
-        background-color: #ffffff;
-        padding: 1rem;
-        border-radius: 8px;
-        margin: 0.5rem 0;
-        border-left: 4px solid #4CAF50;
-        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    }
-    .section-header {
-        color: #1565C0;
-        font-weight: bold;
-        font-size: 1.2rem;
-        margin: 1rem 0;
-        padding: 0.5rem;
-        background: linear-gradient(90deg, #e3f2fd 0%, #ffffff 100%);
-        border-radius: 5px;
-    }
-    .image-container {
-        border: 2px solid #e0e0e0;
-        border-radius: 10px;
-        padding: 1rem;
-        margin: 1rem 0;
-        background-color: #fafafa;
-    }
-</style>
-""", unsafe_allow_html=True)
 
 @st.cache_data
 def load_insights_data():
@@ -185,7 +131,7 @@ def display_insights_with_image(airline_data, section_name, section_title, airli
             st.info(f"No visualization available for {airline_code} - {channel} - {image_type}")
     
     with col2:
-        st.markdown(f"### 🤖 AI Model Insights: {section_title}")
+        st.subheader(f"AI Model Insights: {section_title}")
         
         # Get models with data for this section
         models_with_data = []
@@ -199,8 +145,7 @@ def display_insights_with_image(airline_data, section_name, section_title, airli
         
         # Display each model's insights
         for model in models_with_data:
-            st.markdown(f'<span class="model-tag {model.replace("-", "-")}">{model}</span>', 
-                       unsafe_allow_html=True)
+            st.markdown(f"**Model: {model.upper()}**")
             
             section_data = airline_data[model][section_name]
             
@@ -210,18 +155,16 @@ def display_insights_with_image(airline_data, section_name, section_title, airli
                 
                 insight_text = ""
                 if title:
-                    insight_text += f"**{title}**\n\n"
+                    insight_text += f"**{title}**\n"
                 insight_text += content
                 
-                st.markdown(f'<div class="insight-content">{insight_text}</div>', 
-                           unsafe_allow_html=True)
+                st.write(insight_text)
             
-            st.markdown("---")
+            st.markdown("\n---\n")
 
 def main():
     # Header
-    st.markdown('<h1 class="main-header">✈️ AI Models vs Data Visualizations</h1>', 
-                unsafe_allow_html=True)
+    st.title("AI Models vs Data Visualizations")
     
     st.markdown("""
     **Compare AI model insights with actual data visualizations side-by-side**
