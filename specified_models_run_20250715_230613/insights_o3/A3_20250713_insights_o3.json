@@ -1,0 +1,208 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Visibility Risk",
+      "line_content": "Website fares are absent on OTAs for one-in-five itineraries (20.7%) and gaps are widening fastest on long-haul and close-in searches."
+    },
+    {
+      "line_title": "MSE Undercut Still Material",
+      "line_content": "MSE prices remain lower than web on 76% of checks despite a 15-ppt week-on-week improvement; average gap −5%."
+    },
+    {
+      "line_title": "GDS Premium Universal",
+      "line_content": "98%+ of itineraries price higher in GDS, though the average uplift is only 0.36%, signalling broad but shallow mark-ups."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Coverage Gap Widens",
+      "line_content": "Website fares are missing on OTAs for 20.7% of itineraries, up 4 ppts WoW and 3 ppts MoM—visibility is slipping fastest on long-haul and close-in searches."
+    },
+    {
+      "line_title": "Parity Softening",
+      "line_content": "Exact fare matching still covers 76.6% of itineraries but fell 2.5 ppts WoW, driven by short-haul and non-GR markets."
+    },
+    {
+      "line_title": "Undercuts Near-Zero",
+      "line_content": "OTA-lower cases collapsed to 0.2% of records; remaining variance is minor mark-ups averaging +0.21%."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found",
+      "line_content": "At 20.7% frequency, OTA N/A is the largest exception and rose 4.2 ppts WoW—eroding distribution reach."
+    },
+    {
+      "line_title": "Exact Match",
+      "line_content": "Parity dominates (76.6%) but is trending downward; vigilance needed to prevent further drift below the 80% benchmark."
+    },
+    {
+      "line_title": "OTA Lower",
+      "line_content": "Undercut share is negligible at 0.22%, reducing revenue-dilution risk."
+    },
+    {
+      "line_title": "OTA Higher",
+      "line_content": "Premium cases at 2.44% show only a 0.21% uplift—unlikely to deter demand but worth monitoring."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Gaps",
+      "line_content": "22.8% of short-haul itineraries are absent and parity dropped to 74.5%, driving most of the overall decline."
+    },
+    {
+      "line_title": "Long-Haul Slide",
+      "line_content": "Parity strong at 91.7%, yet ‘not found’ rate jumped to 6.1% (+4.4 ppts WoW); early corrective action advised."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Greek Origins Solid",
+      "line_content": "81.3% parity and only 16% absence keep the home market tight."
+    },
+    {
+      "line_title": "International Shortfall",
+      "line_content": "Outside Greece, 35.7% of itineraries are missing and parity falls to 62.3%—urgent focus area."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Risk",
+      "line_content": "Last-minute searches show 23.9% absence and lowest parity (73.7%), threatening high-yield demand."
+    },
+    {
+      "line_title": "Far-Out Benchmark",
+      "line_content": ">14-day window enjoys 82.9% parity and 14.2% absence, setting the performance bar."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Undercutting Drops",
+      "line_content": "MSE lower-than-web share fell 15 ppts WoW to 76%, marking first notable parity gain."
+    },
+    {
+      "line_title": "Parity Triples",
+      "line_content": "Exact-match share climbed to 23%, reflecting early success of pricing controls."
+    },
+    {
+      "line_title": "Persistent Hotspots",
+      "line_content": "Long-haul and non-Greek origins still see MSE undercutting in ~97% of cases; targeted fixes required."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Fare Not Found Rare",
+      "line_content": "MSE N/A at only 0.16%; no distribution gap detected."
+    },
+    {
+      "line_title": "Same Price Up",
+      "line_content": "Parity grew 15 ppts WoW to 23%, improving customer price confidence."
+    },
+    {
+      "line_title": "MSE Lower Dominant",
+      "line_content": "Still 76% of flows at −5% vs web; closing this gap remains top priority."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Progress",
+      "line_content": "Undercut share down 17 ppts to 73%, delta −5%; further tightening needed."
+    },
+    {
+      "line_title": "Long-Haul Leakage",
+      "line_content": "97% of long-haul ODs cheaper on MSE; parity gains negligible."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Greek Origins Improve",
+      "line_content": "Lower-price incidence dropped 20 ppts to 70%, best network-wide gain."
+    },
+    {
+      "line_title": "Non-Greek Stagnant",
+      "line_content": "96% of itineraries still undercut; contractual review advised."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In",
+      "line_content": "Undercut at 78% (-14 ppts WoW) with stable −5% gap; tactical web adjustments helping."
+    },
+    {
+      "line_title": "Far-Out",
+      "line_content": "Improvement strongest: undercut share down 17 ppts to 72%, yet parity still below 28% goal."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Near-Universal Premium",
+      "line_content": "98.4% of itineraries price higher in GDS; average mark-up a shallow 0.36%."
+    },
+    {
+      "line_title": "Coverage Improves",
+      "line_content": "GDS N/A fell to 1.4% of ODs, a 0.56-ppt MoM gain."
+    },
+    {
+      "line_title": "Parity Absent",
+      "line_content": "True price parity effectively 0%, highlighting structural mis-alignment."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Higher",
+      "line_content": "Premium share stable at 98.4% with 0.36% average uplift—high frequency, low depth."
+    },
+    {
+      "line_title": "GDS N/A Shrinks",
+      "line_content": "Only 1.4% of ODs lack offers, down 0.56 ppt MoM."
+    },
+    {
+      "line_title": "GDS Lower Negligible",
+      "line_content": "Below-web cases at 0.16% and shrinking."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Premiums",
+      "line_content": "98.3% higher with 0.37% uplift; incidence edged down 0.08 ppt WoW."
+    },
+    {
+      "line_title": "Long-Haul Premiums",
+      "line_content": "99.1% higher, but lower uplift at 0.28%; incidence up 0.44 ppt WoW."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Greek Origins",
+      "line_content": "98.2% higher with 0.40% premium—the steepest uplift."
+    },
+    {
+      "line_title": "Non-Greek Origins",
+      "line_content": "99.1% higher with a slimmer 0.20% premium, showing tighter control abroad."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In",
+      "line_content": "97.7% higher at 0.33% premium; flat MoM."
+    },
+    {
+      "line_title": "Far-Out",
+      "line_content": "100% higher with 0.40% premium; coverage now complete after 1.28-ppt MoM gain."
+    }
+  ]
+}

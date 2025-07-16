@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Summary Insight",
+      "line_content": "Over 95% of itineraries were priced higher on OTA channels compared to GOL's direct site, indicating a marked pricing premium in this distribution channel."
+    },
+    {
+      "line_title": "MSE Summary Insight",
+      "line_content": "MSE channels show close price parity with GOL's website for a majority of itineraries, with approximately 41% of cases where MSE prices undercut the direct site."
+    },
+    {
+      "line_title": "GDS Summary Insight",
+      "line_content": "The GDS channel demonstrates significant fare availability issues with frequent 'not available' statuses and consistently higher pricing when fares are found."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Higher Prices on OTA",
+      "line_content": "95.71% of itineraries showed higher prices on the OTA channel compared to the GOL Linhas Aéreas website."
+    },
+    {
+      "line_title": "Price Visibility Improvement",
+      "line_content": "A slight increase in OTA offer visibility, indicated by a 0.42% decrease in 'not available' pricing."
+    },
+    {
+      "line_title": "Slight Competitive Price Increase",
+      "line_content": "The OTA's frequency of being lower priced compared to GOL's site edged up by 0.41%."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Predominant Higher OTA Pricing",
+      "line_content": "In 95.71% of cases, OTA fares were priced higher than GOL Linhas Aéreas on their direct site."
+    },
+    {
+      "line_title": "Minimal OTA Lower Offers",
+      "line_content": "OTA had lower fares than GOL's site in only 1.44% of analyzed cases."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Price Premium",
+      "line_content": "96.48% of short-haul itineraries showcased higher OTA pricing, maintaining previous trend levels."
+    },
+    {
+      "line_title": "Stabilized Long Haul Prices",
+      "line_content": "Despite stabilization, 78.70% of long-haul fares were higher on OTAs."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Higher Brazilian Origin Pricing",
+      "line_content": "In Brazil-originated markets, OTA pricing was higher 97.16% of the time, showing slightly increased competitiveness."
+    },
+    {
+      "line_title": "Rising Non-Brazilian OTA Pricing",
+      "line_content": "OTA fares were higher 62.50% of the time on non-Brazil routes, with a growing trend."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Price Trends",
+      "line_content": "Close-in bookings showed 95.14% higher pricing on OTA."
+    },
+    {
+      "line_title": "Far-Out Booking Consistency",
+      "line_content": "The OTA channel maintained a 96.68% higher price prevalence in far-out bookings."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Unavailability Low",
+      "line_content": "Offer unavailability on MSE was notably low at an average frequency of 0.0020."
+    },
+    {
+      "line_title": "Consistent Pricing Parity",
+      "line_content": "54.55% of itineraries had prices matching the airline's website."
+    },
+    {
+      "line_title": "Price Competitiveness",
+      "line_content": "41.37% of itineraries showed MSE channel fares lower than GOL's direct site."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Stable Price Matching",
+      "line_content": "Price parity across MSE and GOL's site persisted at 54.55%."
+    },
+    {
+      "line_title": "Lower MSE Pricing",
+      "line_content": "41.37% of itineraries had cheaper MSE prices, though slightly declining."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Price Dynamics",
+      "line_content": "54% price parity for short haul, with 42% offering cheaper MSE pricing."
+    },
+    {
+      "line_title": "Long Haul Advantage Decline",
+      "line_content": "MSE prices are often lower on long hauls, though this has declined to 27.78%."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Brazilian Origin Pricing",
+      "line_content": "55.70% price parity from Brazil markets, with 40.66% of fares cheaper on MSE."
+    },
+    {
+      "line_title": "Non-Brazil MSE Advantage",
+      "line_content": "57.69% of non-Brazil originating fares are lower on MSE, highlighting strong advantages."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In MSE Strategy",
+      "line_content": "Close-in bookings saw 48.28% lower prices on MSE channels."
+    },
+    {
+      "line_title": "Far-Out Pricing Parity",
+      "line_content": "Far-out fares mostly matched site prices, with 28.46% being cheaper on MSE."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Frequent GDS Unavailability",
+      "line_content": "Majority of GDS offers were unavailable, indicating distribution gaps."
+    },
+    {
+      "line_title": "Seldom Cheaper on GDS",
+      "line_content": "Instances of GDS fares being lower than the website are rare."
+    },
+    {
+      "line_title": "Higher GDS Pricing",
+      "line_content": "Available GDS fares were mostly higher than those listed on direct channels."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Availability Issues",
+      "line_content": "High incidence of GDS unavailability highlights distribution challenges for GOL Linhas Aéreas."
+    },
+    {
+      "line_title": "Minimal Match with Site Prices",
+      "line_content": "Only 0.02% price matches between the GDS and GOL's website."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Higher Pricing",
+      "line_content": "Persistent higher fares in short haul on GDS with minor decreases noted."
+    },
+    {
+      "line_title": "Long Haul Availability Gaps",
+      "line_content": "Significant fare unavailability on GDS for long-haul, with higher pricing observed."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Brazilian Origin Fare Gaps",
+      "line_content": "Almost complete lack of comparable fares on GDS for Brazil-originating itineraries."
+    },
+    {
+      "line_title": "Higher Non-Brazil GDS Pricing",
+      "line_content": "For non-Brazil departures, fares on GDS are predominantly at a premium."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Pricing Premiums",
+      "line_content": "GDS fares are frequently higher for close-in bookings compared to direct channels."
+    },
+    {
+      "line_title": "Far-Out Booking Stability",
+      "line_content": "GDS fares for far-out bookings show more stability but remain higher in many cases."
+    }
+  ]
+}

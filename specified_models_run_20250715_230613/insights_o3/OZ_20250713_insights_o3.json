@@ -1,0 +1,204 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Premium Concentrated",
+      "line_content": "OTAs priced above the website on 59 % of itineraries (avg +1.1 %), with the gap focused on short-haul routes."
+    },
+    {
+      "line_title": "MSE Undercuts Widespread",
+      "line_content": "Metasearch showed zero overpricing but undercut the site on 48 % of quotes, especially long-haul and non-KR markets."
+    },
+    {
+      "line_title": "GDS Still Highest",
+      "line_content": "GDS carried a 1.0 % average premium on 65 % of itineraries; slight week-over-week improvement yet remains the costliest channel."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Persistent OTA Premium",
+      "line_content": "OTAs priced 59 % of itineraries above the airline site last week, carrying a 1.1 % premium; exposure slipped only 1.7 pts week-over-week."
+    },
+    {
+      "line_title": "Region Imbalance",
+      "line_content": "Long-haul parity is strong (92 % price-matched) while short-haul shows 63 % OTA-higher cases, localising the parity gap to regional routes."
+    },
+    {
+      "line_title": "Overseas Discounting",
+      "line_content": "Non-Korean origins are twice as likely to see OTA-cheaper fares (17 % vs 5 % for KR), indicating tactical discounting outside the home market."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Coverage",
+      "line_content": "Website fare absent in only 5.1 % of OTA searches, essentially flat week-over-week—distribution reach is adequate."
+    },
+    {
+      "line_title": "OTA Higher",
+      "line_content": "Premium cases dominate at 59 %, down 1.7 pts WoW; average markup steady at 1.1 %."
+    },
+    {
+      "line_title": "OTA Lower Growing",
+      "line_content": "Discounted cases remain small (8 %) but rising (+1.7 pts WoW) with a modest 0.16 % average discount."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Exposure",
+      "line_content": "63 % OTA-higher with +1.1 % premium; discount share inching up yet remains below 10 %."
+    },
+    {
+      "line_title": "Long-Haul Stability",
+      "line_content": "92 % parity and only 0.07 % premium signal minimal long-haul risk."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Korea Origins",
+      "line_content": "65 % OTA-higher (avg +1.3 %); OTA-lower rare at 5 %."
+    },
+    {
+      "line_title": "Non-Korea Origins",
+      "line_content": "More balanced mix—43 % higher, 36 % parity, 17 % lower—with discounts up 3.6 pts WoW."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (≤14d)",
+      "line_content": "61 % premiums (+0.99 %); OTA-lower still limited at 7.6 %."
+    },
+    {
+      "line_title": "Far-Out (>14d)",
+      "line_content": "Premium share eases to 55 % but markup widens to 1.3 %; OTA-lower cases at 9.1 %."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "No Overpricing",
+      "line_content": "Zero MSE fares exceeded website prices last week, eliminating premium risk."
+    },
+    {
+      "line_title": "Undercut Common",
+      "line_content": "48 % of MSE quotes were cheaper (avg –0.09 %); share fell 1 pt WoW but remains above last month."
+    },
+    {
+      "line_title": "Geographic Imbalance",
+      "line_content": "Undercutting concentrated outside Korea (78 % of non-KR ODs) and on long-haul (100 %)."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Coverage",
+      "line_content": "Only 0.11 % searches lacked an OZ offer—operationally negligible."
+    },
+    {
+      "line_title": "Price Parity",
+      "line_content": "Parity on 51.9 % of itineraries, up 1 pt WoW but down 2.4 pts MoM."
+    },
+    {
+      "line_title": "Channel Lower",
+      "line_content": "Undercuts on 48 % of traffic, modest average discount (–0.09 %) yet enough to shift share."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "45 % lower, 55 % parity; undercut rate down 1.4 pts WoW."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "100 % lower on the two long-haul ODs (–0.06 %); exposure unchanged WoW."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Korea Origin",
+      "line_content": "62 % parity vs 38 % lower; slight 2 pt parity erosion MoM."
+    },
+    {
+      "line_title": "Non-Korea Origin",
+      "line_content": "78 % lower, 22 % parity; despite a 12 pt parity gain WoW, risk remains highest here."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (≤14d)",
+      "line_content": "Parity 54 %; 46 % lower with –0.09 % discount."
+    },
+    {
+      "line_title": "Far-Out (≥15d)",
+      "line_content": "52 % lower, 47 % parity; 0.9 pt WoW improvement in alignment."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Premium Persists",
+      "line_content": "65 % of itineraries higher on GDS with a 1.0 % average markup."
+    },
+    {
+      "line_title": "Marginal Convergence",
+      "line_content": "‘GDS Higher’ fell 0.7 pts and ‘GDS Lower’ rose 1.4 pts WoW, showing slow alignment."
+    },
+    {
+      "line_title": "Advance Sales Risk",
+      "line_content": "Far-out bookings show 61 % higher GDS fares and a larger 1.2 % premium."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Coverage",
+      "line_content": "Website fare missing in only 0.9 % of GDS queries; negligible operational gap."
+    },
+    {
+      "line_title": "GDS Higher",
+      "line_content": "Premium remains dominant at 65.1 %, avg +1.04 %, though down 0.68 pts WoW."
+    },
+    {
+      "line_title": "GDS Lower Growing",
+      "line_content": "Undercuts at 8.3 %, up 1.4 pts WoW and 3.1 pts MoM (avg –0.15 %)."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "66 % higher with +1.08 % premium; lower cases edged up to 8.7 %."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "51 % higher, 49 % parity, negligible +0.04 % premium—effectively neutral."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Korea Origin",
+      "line_content": "66 % higher, avg +1.35 %; discounts scarce at 5 %."
+    },
+    {
+      "line_title": "Non-Korea Origin",
+      "line_content": "61 % higher, 17 % lower, premium trimmed to 0.06 %."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-7d)",
+      "line_content": "67 % higher, premium down to 0.96 % (–0.76 pt MoM)."
+    },
+    {
+      "line_title": "Far-Out (8+d)",
+      "line_content": "60 % higher with +1.20 % premium; ‘GDS Lower’ still only 10 % of cases."
+    }
+  ]
+}

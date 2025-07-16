@@ -1,0 +1,180 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Stability",
+      "line_content": "The OTA channel aligns closely with Azerbaijan Airlines' website, maintaining the same pricing model 92.16% of the time, offering consistent customer experience."
+    },
+    {
+      "line_title": "MSE Competitive Edge",
+      "line_content": "The MSE channel predominantly offers lower prices than the airline's website, sustaining a 73.53% lower price presence, reinforcing a strong competitive strategy."
+    },
+    {
+      "line_title": "GDS Limitations",
+      "line_content": "GDS channel shows pricing consistency with the airline's site for only 50% of the itineraries, with limited competitiveness in offering lower prices."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "High Frequency of Same Prices",
+      "line_content": "Azerbaijan Airlines prices on the OTA channel closely align with airline website prices 92.16% of the time for short haul routes, demonstrating strong pricing consistency."
+    },
+    {
+      "line_title": "OTA Higher Trend",
+      "line_content": "OTAs have a higher offering than Azerbaijan's website 5.88% of the time, mainly impacting short haul and close-in bookings, with an average last-week price increase of 0.22%."
+    },
+    {
+      "line_title": "Minimal Impact from OTA Lower Prices",
+      "line_content": "Instances of OTA offering lower prices are rare (0.98%) and show a negligible last week average price discount of 0.15%."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Same Price Prevalence",
+      "line_content": "Across all dimensions, fares are predominantly the same on OTAs and J2's site (92.16% of data points last week)."
+    },
+    {
+      "line_title": "Marginal OTA Price Advantage",
+      "line_content": "OTAs occasionally offer slightly lower prices than J2's site, but only 0.98% of the time last week."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Focus on Short Haul",
+      "line_content": "All analyzed price discrepancies on the OTA channel concern short haul routes, with no data on long haul provided."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Azerbaijan Origin Driven",
+      "line_content": "Pricing consistency is slightly stronger for flights originating from Azerbaijan, where last week's 'Same' status frequency was 91.07%."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Dominant Consistency in 'Close In' Bookings",
+      "line_content": "In the close-in booking window, 89.33% of fares matched between J2's site and OTAs, with the OTAs higher 8.00% of the time."
+    },
+    {
+      "line_title": "Uniform Pricing in 'Far Out' Bookings",
+      "line_content": "Far-out bookings showcased absolute uniformity in pricing, with a 100% match between OTA and airline website prices."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Dominant Channel Presence",
+      "line_content": "A substantial proportion of flights on the MSE channel are priced lower than on the airline's website, with 73.53% in the latest week."
+    },
+    {
+      "line_title": "Stability in Price Comparison",
+      "line_content": "The frequency of 'same price' offers has slightly decreased over the previous period, showing -1.47% change from last week."
+    },
+    {
+      "line_title": "Negligible Increases",
+      "line_content": "Instances of prices being higher on the MSE are negligible, reflecting strong competitive pricing."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "No Website Offers Found",
+      "line_content": "A small portion of flights do not have corresponding offers on MSE, showing a 1.82% increase compared to the previous week."
+    },
+    {
+      "line_title": "Price Parity Decrease",
+      "line_content": "Price parity has slightly decreased, with a -1.47% change compared to last week."
+    },
+    {
+      "line_title": "Lower Prices on MSE",
+      "line_content": "Nearly 74% of price points remain lower than the airline's website, showing slight stability with only a -0.36% change from last week."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Focus",
+      "line_content": "All short-haul flights observed a significant presence of lower pricing through the MSE channel, at 73.53%."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "AZ Competitive Pricing",
+      "line_content": "Flights originating from AZ show a high percentage of lower pricing on the MSE channel, with a 92.59% rate for the latest week."
+    },
+    {
+      "line_title": "Non-AZ Dynamics",
+      "line_content": "For non-AZ origins, MSE shows a strong presence of lower prices at 52.08%."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-in Booking Trends",
+      "line_content": "Within close-in bookings, 73.33% turned in lower prices on MSE, maintaining competitive edge."
+    },
+    {
+      "line_title": "Far-out Bookings Adaptation",
+      "line_content": "Far-out bookings experienced a notable 14.5% increase in lower priced offerings on MSE, compared to the previous week."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Channel Pricing Challenges",
+      "line_content": "For the last week, GDS channel prices were identical to Azerbaijan Airlines' site for 50% of itineraries analyzed across all dimensions. This constancy reflects a negligible -0.01% average price change."
+    },
+    {
+      "line_title": "GDS Competitiveness",
+      "line_content": "The GDS offered lower prices only 0.98% of the time compared to the previous week, indicating limited competitiveness but with a slight upward trend compared to the month before."
+    },
+    {
+      "line_title": "Consistency in Price Patterns",
+      "line_content": "Prices being higher on GDS compared to the airline's site increased marginally by 0.29% from the previous week, maintaining a stable but growing pattern from the last month."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Same Pricing Prevalence",
+      "line_content": "GDS channel mirrored airline pricing 50% of the time last week, showing slight but continuous depreciation of alignment by 1.27% weekly and 2.67% monthly."
+    },
+    {
+      "line_title": "GDS Lower Infrequency",
+      "line_content": "GDS channel posted lower fares only in 0.98% of cases last week, showing an improvement from 0% in the prior week."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Stability",
+      "line_content": "Short haul routes exhibit same price consistency with the GDS and airline site, maintaining similar gaps of higher pricing on GDS as observed in the total data."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Home Market Observations",
+      "line_content": "For point-of-origin Azerbaijan, prices on GDS were higher than J2's site in 5.45% of cases, reflecting a nearly stable increase over the past month."
+    },
+    {
+      "line_title": "Non-native Market Consistency",
+      "line_content": "For non-Azerbaijani origins, GDS showed 1.45% of itineraries with higher pricing over the last month, highlighting a nearly ubiquitous higher pricing pattern."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-in Consistency",
+      "line_content": "Prices close-in matched the airline's in approximately 49.33% of observations, with GDS prices higher in just under another half, showing a historic 3.11% increase over the month."
+    },
+    {
+      "line_title": "Far-out Trends",
+      "line_content": "Far-out bookings showed a slight improvement in price matching, maintaining a relatively stable 1.34% shift to higher GDS pricing last week."
+    }
+  ]
+}

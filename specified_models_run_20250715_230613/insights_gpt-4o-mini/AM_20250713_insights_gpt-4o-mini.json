@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Pricing Stability",
+      "line_content": "Approximately 95% of offers on the OTA channel are priced the same as the airline's website, indicating competitive parity."
+    },
+    {
+      "line_title": "MSE Competitive Pricing",
+      "line_content": "Over half of MSE offers (53%) were priced lower than the airline's website last week, demonstrating a strong competitive edge."
+    },
+    {
+      "line_title": "GDS Price Consistency",
+      "line_content": "With 87% of GDS prices aligning with the airline's website, there is a solid foundation for pricing stability across the channel."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "OTA Channel Status Overview",
+      "line_content": "Overall, a significant majority of offers—approximately 95%—on the OTA channel are priced the same as the airline's website."
+    },
+    {
+      "line_title": "OTA Pricing Discrepancy",
+      "line_content": "Only 2.9% of itineraries are available at a lower price on the OTA channel, which reflects a stable pricing structure."
+    },
+    {
+      "line_title": "Visibility of Offers",
+      "line_content": "Offers without corresponding prices on the OTA channel are minimal, indicating strong alignment in product visibility."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Same Prices Dominant",
+      "line_content": "Around 95% of the itineraries on OTAs match the airline's prices, reinforcing competitive parity."
+    },
+    {
+      "line_title": "Limited Lower Pricing",
+      "line_content": "Only 2.9% of OTA bookings are priced lower than the airline's own offers, suggesting limited discounting in the channel."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Stability",
+      "line_content": "For short-haul routes, 95.2% of offers reflect the same price as the website, with 1.77% priced higher on OTAs."
+    },
+    {
+      "line_title": "Long Haul Pricing Conditions",
+      "line_content": "Long-haul routes show similar pricing conditions, with 96.5% of offers matching the airline's site."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Pricing for Mexico Originations",
+      "line_content": "Over 95% of offers for routes originating in Mexico are aligned with the airline's website, ensuring competitive consistency."
+    },
+    {
+      "line_title": "Non-Mexico Offers Variation",
+      "line_content": "Non-Mexico routes demonstrate slightly higher variability, with 23.7% reflecting higher prices on the OTA channel."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Insights",
+      "line_content": "For close-in bookings, approximately 93.5% of OTA prices match the airline, with only 0.4% priced lower."
+    },
+    {
+      "line_title": "Far Out Booking Conditions",
+      "line_content": "For far-out bookings, there is a complete absence of lower-priced itineraries available on the OTA channel."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "MSE Competitive Edge",
+      "line_content": "Over half of the MSE offers (53%) were priced lower than the airline's website last week, indicating a strong competitive positioning."
+    },
+    {
+      "line_title": "Stable Pricing Trends",
+      "line_content": "The proportion of offers priced the same as the airline's website slightly increased by 1.72% last week, reflecting stable pricing in the market."
+    },
+    {
+      "line_title": "Higher Rates Notable",
+      "line_content": "A small fraction of MSE offers (0.6% last week) were priced higher than on the airline's own website, suggesting limited premium pricing strategies."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Same Offers Dominant",
+      "line_content": "Last week, 47.12% of MSE offers matched the airline's pricing, consistent with previous weeks' trends."
+    },
+    {
+      "line_title": "Lower Prices Predominant",
+      "line_content": "The MSE channel provided lower prices for 52.84% of offers last week, remaining a key advantage over the airline's website."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Mexican Market Strength",
+      "line_content": "In the Mexican point-of-origin market, 52.56% of MSE offers matched the airline's pricing, while 47.40% were priced lower."
+    },
+    {
+      "line_title": "Low Non-MX Discrepancy",
+      "line_content": "For non-Mexican origin offers, nearly all (98.08%) were found priced lower on the MSE channel, enhancing competitive attractiveness."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "MX Offers Competitive",
+      "line_content": "Mexican-origin offers showed 53.56% priced equally as on the airline's website, promoting consistent consumer expectations."
+    },
+    {
+      "line_title": "Non-MX Pricing Strategy",
+      "line_content": "Non-MX offers heavily favored the MSE channel, with 98.08% being lower than the airline's pricing, creating a compelling option for these routes."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings Advantage",
+      "line_content": "Close-in bookings showed 63.30% of prices lower on the MSE channel, providing a prominent advantage for travelers booking last minute."
+    },
+    {
+      "line_title": "Far-Out Booking Consistency",
+      "line_content": "For far-out bookings, MSE offered lower prices for 30.07% of the itineraries, indicating a stable pricing environment well ahead of travel dates."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Price Stability",
+      "line_content": "The majority of GDS prices remained the same compared to the airline's website across all dimensions, with over 87% consistency last week."
+    },
+    {
+      "line_title": "Short Haul Trends",
+      "line_content": "For short-haul routes, GDS prices were higher than the airline website in 9.25% of cases last week, indicating a potential area for competitive pricing strategy."
+    },
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "In close-in booking windows, GDS prices were higher in 10.39% of instances last week, reflecting a pricing opportunity for better alignment."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Overall Price Consistency",
+      "line_content": "87.4% of GDS prices matched the airline website, showcasing strong pricing consistency."
+    },
+    {
+      "line_title": "Higher GDS Prices",
+      "line_content": "10.8% of GDS offers were higher than the website, suggesting targeted price adjustments may be beneficial."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Mexico Routes",
+      "line_content": "In the Mexican origin market, GDS prices were higher 8.72% of the time last week, indicating an opportunity in price competitiveness."
+    },
+    {
+      "line_title": "Non-Mexico Routes",
+      "line_content": "For non-Mexican routes, 20.23% of prices exceeded those on the airline website last week, necessitating a review of pricing strategies in this category."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic Origin Pricing",
+      "line_content": "Domestic flights (MX) showed a higher consistency with 89.53% of prices matching the website, while 8.72% were higher."
+    },
+    {
+      "line_title": "International Origin Insights",
+      "line_content": "International origins revealed a notable disparity, with 20.23% of GDS prices being higher compared to the airline website."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings Impact",
+      "line_content": "Close-in bookings saw 10.39% of GDS prices being higher than website prices, indicating potential revenue optimization."
+    },
+    {
+      "line_title": "Far-Out Bookings Findings",
+      "line_content": "For far-out bookings, pricing alignment is crucial as 9.02% were higher than the website last week, necessitating a pricing review."
+    }
+  ]
+}

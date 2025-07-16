@@ -1,0 +1,162 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Pricing Stability",
+      "line_content": "The OTA channel shows stable pricing, with 86% of fares identical to the airline's website, but 12% priced higher, necessitating scrutiny."
+    },
+    {
+      "line_title": "Competitive MSE Offers",
+      "line_content": "MSE consistently aligns with the airline's pricing, with 72% of fares matching directly, and lower prices present 24% of the time on short haul routes."
+    },
+    {
+      "line_title": "GDS Price Challenges",
+      "line_content": "GDS pricing remains a concern, with 99.91% marked higher than the airline's website, indicating a lack of competitive positioning."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Stable Pricing",
+      "line_content": "The OTA channel reflects a stable pricing environment, with 86% of fares showing no differences compared to the airline's website across all dimensions."
+    },
+    {
+      "line_title": "Ongoing Higher Prices",
+      "line_content": "Approximately 12% of fares are priced higher in the OTA channel this week, indicating a continued trend where customers may pay more through this channel."
+    },
+    {
+      "line_title": "Limited Lower Offers",
+      "line_content": "The channel shows no lower priced offers in the latest week, contrasting with occasional lower prices seen in the previous month."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Same Offers Dominant",
+      "line_content": "The predominant status is 'Same' across all dimensions, accounting for 86.23% of offers last week."
+    },
+    {
+      "line_title": "Higher Prices Notable",
+      "line_content": "12% of offerings are still higher in the OTA channel, necessitating closer monitoring of price competitiveness."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Stability",
+      "line_content": "In short haul routes, 89.94% of prices remained unchanged, reflecting strong consistency in this segment."
+    },
+    {
+      "line_title": "Long Haul Trends Persist",
+      "line_content": "For long haul routes, 28.14% of fares are priced higher on the OTA channel, underscoring potential challenges in pricing strategy."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "PA Dominance",
+      "line_content": "For PAs, 97.10% of fares are consistent with the airline's website, highlighting solid alignment in this category."
+    },
+    {
+      "line_title": "Non-PA Pricing Discrepancies",
+      "line_content": "In the Non-PA category, 22.64% of fares are higher on the OTA channel, warranting analysis of pricing strategies here."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Consistency",
+      "line_content": "Close-in tickets show 85.31% offering the same prices, showcasing reliability for last-minute travelers."
+    },
+    {
+      "line_title": "Higher Close-In Prices",
+      "line_content": "Close-in fares display 11.84% priced higher on OTAs; ensure promotional strategies address these gaps."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Consistent Pricing Across Platforms",
+      "line_content": "Price status remained largely stable, with 72% of offers found on MSE matching the airline's website for the latest week."
+    },
+    {
+      "line_title": "Lower Prices on MSE for Short Haul",
+      "line_content": "In the short haul category, MSE pricing was lower 24% of the time last week, indicating competitive pricing strategies."
+    },
+    {
+      "line_title": "Close-In Bookings Competitive",
+      "line_content": "Close-in booking windows saw 27% of MSE offers pricing lower than the airline's own, suggesting attractiveness for last-minute travelers."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Same Pricing Dominates",
+      "line_content": "In the overall dataset, 72% of comparisons indicate MSE prices are the same as the airline's website, showing alignment."
+    },
+    {
+      "line_title": "Minimized Higher Pricing",
+      "line_content": "Only 3% of offers displayed higher MSE prices than the airline site last week, an improvement from last month's data."
+    }
+  ],
+  "mse_summary_by_region": [],
+  "mse_summary_by_point_of_origin": [],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Far Out Booking Alignment",
+      "line_content": "For far out bookings, 22% of MSE prices were lower, although most offers (75%) matched exactly with the airline's pricing."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "High GDS Prices Across ODs",
+      "line_content": "Copa Airlines consistently had higher prices via GDS, with 99.91% of records showing GDS prices higher than the website in the latest week."
+    },
+    {
+      "line_title": "Stable Price Comparison",
+      "line_content": "The percentage of GDS prices remaining the same compared to the airline website was minimal, indicating a lack of competitive pricing on the GDS channel."
+    },
+    {
+      "line_title": "High Dependency on Short Haul",
+      "line_content": "All short haul records showed higher GDS prices, marking a complete reliance on less competitive pricing strategies in this segment."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Higher Status",
+      "line_content": "In the latest week, 99.91% of GDS records were priced higher than the airline's website, unchanged from the previous week."
+    },
+    {
+      "line_title": "GDS N/A Records",
+      "line_content": "A high frequency of GDS not applicable records was noted across regions, with 0.00% for numerous dimensions, indicating potential gaps in availability."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "All Regions Higher",
+      "line_content": "Every region showed GDS prices that were higher than the website offers, with the same trend seen in short haul flights across the board."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "PA and Non-PA Discrepancies",
+      "line_content": "Both PA and Non-PA categories exhibited GDS pricing higher than the website, with 100% of PA records and 99.82% of Non-PA records supporting this trend."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In Higher Pricing",
+      "line_content": "For close-in bookings, 99.86% demonstrated higher GDS prices compared to the website, indicating a strategy that may deter last-minute reservations."
+    },
+    {
+      "line_title": "Far Out Neutrality",
+      "line_content": "In contrast, far-out bookings reflected a completely higher GDS pricing structure, with no lower-priced options available, suggesting a consistent markup."
+    }
+  ]
+}

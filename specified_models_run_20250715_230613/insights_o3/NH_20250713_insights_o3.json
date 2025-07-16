@@ -1,0 +1,212 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Visibility & Premiums",
+      "line_content": "35 % of website fares were missing on OTAs and another 34 % were marked-up (avg. +0.7 %), signalling both coverage and price-perception risk."
+    },
+    {
+      "line_title": "MSE Mostly in Parity",
+      "line_content": "62 % of MSE fares matched the site and only 8 % were higher; however 91 % of long-haul checks were cheaper, indicating systematic leakage."
+    },
+    {
+      "line_title": "GDS Entrenched Over-Pricing",
+      "line_content": "GDS listed 95 % of itineraries above the website with a 2.3 % premium and virtually no undercuts, sustaining the widest channel gap."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Coverage Gap Grows",
+      "line_content": "OTAs failed to display 35 % of website fares last week, +2 ppts WoW; short-haul and close-in itineraries are most affected."
+    },
+    {
+      "line_title": "Frequent Mark-Ups",
+      "line_content": "OTAs priced above the site on 34 % of itineraries (+6 ppts WoW) with a modest 0.7 % premium, risking a negative price image despite small gaps."
+    },
+    {
+      "line_title": "Parity Slipping",
+      "line_content": "Exact fare alignment fell to 31 % (-8 ppts WoW), underscoring deteriorating price governance in the OTA channel."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found (35 %)",
+      "line_content": "Missing content now exceeds both parity and premium cases, highlighting an urgent merchandising issue."
+    },
+    {
+      "line_title": "Same Price (31 %)",
+      "line_content": "Parity declined 8 ppts WoW, indicating weakening control over OTA prices."
+    },
+    {
+      "line_title": "OTA Higher (34 %)",
+      "line_content": "Incidence rose 6 ppts WoW; impact strongest for far-out bookings (69 %) and non-JP origins (72 %)."
+    },
+    {
+      "line_title": "OTA Lower (<1 %)",
+      "line_content": "Undercutting remains negligible and commercially immaterial."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Weakness",
+      "line_content": "36 % fares missing, 34 % higher, and parity down to 30 %; short-haul remains the least controlled segment."
+    },
+    {
+      "line_title": "Long-Haul Stability",
+      "line_content": "Only 13 % missing and 51 % parity; average mark-up when higher is a minor 0.24 %."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Japan Origins",
+      "line_content": "36 % of fares absent and 33 % premium-priced; parity slid 8 ppts to 31 %."
+    },
+    {
+      "line_title": "Non-Japan Origins",
+      "line_content": "Availability is solid (1.5 % missing) but 72 % of itineraries carry an OTA premium."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (≤14 days)",
+      "line_content": "43 % ‘Not Found’ drives lost demand; only 16 % mark-ups at a modest 0.42 %."
+    },
+    {
+      "line_title": "Far-Out (≥15 days)",
+      "line_content": "69 % of fares priced higher and parity plunged 17 ppts WoW; average premium largest at 0.81 %."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Parity Dominates",
+      "line_content": "62 % of MSE fares exactly matched the website, and parity share is trending upward."
+    },
+    {
+      "line_title": "Long-Haul Undercuts",
+      "line_content": "91 % of long-haul itineraries were cheaper on MSE, though the average discount is small (-0.14 %)."
+    },
+    {
+      "line_title": "Window Contrast",
+      "line_content": "Far-out searches show 87 % parity, while close-in travel still posts 48 % discrepancies."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Missing (1.5 %)",
+      "line_content": "Coverage remains strong and stable WoW."
+    },
+    {
+      "line_title": "Same Price (62 %)",
+      "line_content": "Majority of shoppers see identical pricing to the website; +1.2 ppts vs prior week."
+    },
+    {
+      "line_title": "MSE Lower (28 %)",
+      "line_content": "Undercuts eased slightly but still represent >¼ of traffic; average gap ‑0.14 %."
+    },
+    {
+      "line_title": "MSE Higher (8 %)",
+      "line_content": "Premium instances remain limited and mark-up stays near +1 %."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "Parity 64 %, lower 25 %; slight improvement in both metrics WoW."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "Systematic undercutting (91 %) persists, signalling policy mis-alignment despite narrow discounts."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Japan Origins",
+      "line_content": "63 % parity, 27 % lower, 9 % higher; broadly stable."
+    },
+    {
+      "line_title": "Non-Japan Origins",
+      "line_content": "82 % cheaper on MSE, confirming leakage outside home market even if discount is just ‑0.04 %."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-20 days)",
+      "line_content": "Largest exposure: 37 % undercuts and 11 % premiums during NH’s highest-yield window."
+    },
+    {
+      "line_title": "Far-Out (21 + days)",
+      "line_content": "Parity strengthened to 87 %; undercuts dropped to 10 %, premiums negligible (2 %)."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Persistent Premium",
+      "line_content": "GDS priced above the website on 94.9 % of itineraries with an average +2.3 % gap."
+    },
+    {
+      "line_title": "Regional Split",
+      "line_content": "Long-haul nearing parity (88.5 % same) while short-haul remains almost universally higher (98.5 %)."
+    },
+    {
+      "line_title": "Advance Sales Risk",
+      "line_content": "Far-out bookings show a growing 3.9 % premium, up 1.1 ppts WoW."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Missing (1.4 %)",
+      "line_content": "Coverage gap widened 43 % WoW, concentrated in close-in travel."
+    },
+    {
+      "line_title": "Price Parity (3.6 %)",
+      "line_content": "Parity slipped another 0.4 ppts; remains a marginal occurrence."
+    },
+    {
+      "line_title": "GDS Higher (94.9 %)",
+      "line_content": "Over-pricing is entrenched and unchanged WoW; no instances of undercuts recorded."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "98.5 % higher with a 2.3 % premium; only marginally better WoW."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "Parity at 88.5 % but 11.5 % higher cases emerged this week, hinting at deterioration."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Japan Origins",
+      "line_content": "96.4 % higher and +2.3 % premium; effectively static MoM."
+    },
+    {
+      "line_title": "Non-Japan Origins",
+      "line_content": "76.5 % parity and only 23.5 % higher, making this the most aligned segment."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-7 days)",
+      "line_content": "94.3 % higher but smallest premium at +1.5 %; ‘no-website-fare’ doubled WoW."
+    },
+    {
+      "line_title": "Far-Out (21 + days)",
+      "line_content": "96.3 % higher with the largest +3.9 % premium; both frequency and gap increased WoW."
+    }
+  ]
+}

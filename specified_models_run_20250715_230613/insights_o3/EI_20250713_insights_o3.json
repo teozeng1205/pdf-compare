@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Parity Strong",
+      "line_content": "Nearly 9 in 10 OTA fares match the website; premiums are rare (0.27%) and low-risk."
+    },
+    {
+      "line_title": "MSE Still Undercutting",
+      "line_content": "Metasearch is cheaper on 75% of itineraries, but parity is improving (+7 ppts WoW)."
+    },
+    {
+      "line_title": "GDS Systemic Premium",
+      "line_content": "GDS prices exceed direct in 98% of cases, averaging a 1.4% mark-up, with the widest gaps on short-haul ex-Ireland."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Parity Still Strong",
+      "line_content": "88.8% of OTA itineraries priced exactly at website levels last week; parity dipped only 1.8 ppts WoW and remains 3 ppts above last month."
+    },
+    {
+      "line_title": "Modest OTA Premiums",
+      "line_content": "When OTAs price higher, the uplift averages just 0.27%, limiting revenue risk despite the 9.9% frequency of premiums."
+    },
+    {
+      "line_title": "Home Market Controlled",
+      "line_content": "From Irish origins 97% of fares are in parity and no offers are missing, signalling tight distribution discipline in the carrier’s core market."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Same Pricing 88.8%",
+      "line_content": "Parity dominates, down 1.8 ppts vs prior week but up 2.9 ppts vs last month."
+    },
+    {
+      "line_title": "OTA Higher 9.9%",
+      "line_content": "Share of OTA-higher fares rose 1.3 ppts WoW; average premium limited to 0.27%."
+    },
+    {
+      "line_title": "OTA Lower 0.8%",
+      "line_content": "Undercutting remains rare; average discount a negligible –0.14%."
+    },
+    {
+      "line_title": "Offer Missing 0.5%",
+      "line_content": "Visibility gaps are minimal and improving MoM (–0.22 ppts)."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Weakness",
+      "line_content": "Parity slipped to 89.9% (–3.9 ppts WoW) while OTA-higher share jumped to 9.0%; average premium 0.30%."
+    },
+    {
+      "line_title": "Long-Haul Recovery",
+      "line_content": "Parity rebounded to 81.3% (+14.8 ppts WoW); OTA-higher incidence halved to 16.1% with a steady 0.18% premium."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Ireland Origins",
+      "line_content": "97.0% parity, 2.1% OTA-higher, zero missing offers—strong domestic control."
+    },
+    {
+      "line_title": "Non-IE Origins",
+      "line_content": "Parity lower at 82.5%; OTA-higher climbs to 15.7% (+2.6 ppts WoW), signalling exposure abroad."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (<7 d)",
+      "line_content": "Parity 90.0%; 8.3% of fares carry the week’s highest premium (0.34%)."
+    },
+    {
+      "line_title": "Far-Out (≥21 d)",
+      "line_content": "Parity dropped to 86.3% (–3.4 ppts WoW); OTA-higher rose to 13.2% though premiums milder at 0.18%."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "MSE Undercuts Direct",
+      "line_content": "Channel cheaper on 75% of O&Ds, averaging a 5% discount."
+    },
+    {
+      "line_title": "Parity Trending Up",
+      "line_content": "‘Same-price’ occurrences climbed 7 ppts WoW to 24%, showing regained control."
+    },
+    {
+      "line_title": "Full Offer Visibility",
+      "line_content": "No ‘offer-not-found’ cases recorded—100% fare presence on metasearch."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found 0%",
+      "line_content": "Metasearch displayed every direct fare—no visibility gaps."
+    },
+    {
+      "line_title": "Same Price 24%",
+      "line_content": "Parity share up 7 ppts WoW and 8 ppts MoM, fastest-growing status."
+    },
+    {
+      "line_title": "Channel Lower 75%",
+      "line_content": "Undercutting still dominant but down 7.5 ppts WoW; average gap –5%."
+    },
+    {
+      "line_title": "Channel Higher <1%",
+      "line_content": "Premium cases negligible (0.6%) but carry an 8% mark-up when they appear."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "Cheaper on 74% of routes (–9 ppts WoW); discount steady at –5%."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "Cheaper on 81% of routes (+8 ppts WoW); average gap –6%, virtually no premiums."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Ireland Origin",
+      "line_content": "75% cheaper, 25% parity; discount depth –5% and stable."
+    },
+    {
+      "line_title": "Non-IE Origin",
+      "line_content": "Parity up 14 ppts to 24%; cheaper share 75% with shallower –4% discounts."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (≤7 d)",
+      "line_content": "Cheaper on 78% of itineraries (–7 ppts WoW); gap –5% with gradual parity gains."
+    },
+    {
+      "line_title": "Far-Out (≥21 d)",
+      "line_content": "Cheaper share falls to 69% (–8 ppts WoW); discount narrows to –4%, premiums edge up to 1.2%."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Near-Universal Premium",
+      "line_content": "98.3% of itineraries priced above direct, averaging a 1.4% uplift; no material WoW change."
+    },
+    {
+      "line_title": "Short-Haul Exposure",
+      "line_content": "Intra-Europe routes 99.5% higher with a 1.6% premium—eight times the long-haul uplift."
+    },
+    {
+      "line_title": "Home-Market Risk",
+      "line_content": "Ireland-origin GDS fares carry a 2.8% premium, threatening margin in the core market."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Higher 98%",
+      "line_content": "Channel exceeds website in 98.3% of cases; 1.4% average premium stable."
+    },
+    {
+      "line_title": "Offer Missing 1.6%",
+      "line_content": "Absence concentrated on long-haul (9.6%); overall flat WoW."
+    },
+    {
+      "line_title": "Parity 0.08%",
+      "line_content": "True parity statistically irrelevant and unchanged."
+    },
+    {
+      "line_title": "GDS Lower 0.08%",
+      "line_content": "Undercutting instances negligible, no trend."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "99.5% higher pricing, 1.55% premium; frequency flat WoW, +0.68 ppts MoM."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "90.4% higher pricing at a minimal 0.18% premium; 9.6% fares missing."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Ireland Origin",
+      "line_content": "Higher pricing 98.9% of the time with a 2.78% premium—largest uplift across cuts."
+    },
+    {
+      "line_title": "Non-IE Origin",
+      "line_content": "Higher pricing 97.9% of cases but at only 0.35% premium; sporadic 0.13% undercuts."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (<14 d)",
+      "line_content": "98.1% higher, 1.23% premium—down 0.06 ppts WoW."
+    },
+    {
+      "line_title": "Far-Out (≥14 d)",
+      "line_content": "99.1% higher, steepest 1.75% premium; although down 0.22 ppts MoM, still 42 bps above close-in."
+    }
+  ]
+}

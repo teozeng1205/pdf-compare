@@ -1,0 +1,204 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Parity Holds",
+      "line_content": "93 % of OTA fares matched the airline site last week, but mark-ups doubled WoW to 3.2 % of itineraries at an 11 % premium."
+    },
+    {
+      "line_title": "MSE Undercuts Persist",
+      "line_content": "92.7 % of MSE fares were cheaper than direct (-3-4 % on average); parity remains limited at 6.4 % despite a slight weekly uptick."
+    },
+    {
+      "line_title": "GDS Premiums Dominant",
+      "line_content": "GDS priced 98.6 % of itineraries above the website with a steep 37 % average premium, reinforcing its high-fare positioning."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Strong Parity",
+      "line_content": "93 % of OTA itineraries priced exactly the same as direct, confirming robust short-haul control."
+    },
+    {
+      "line_title": "Markup Spike",
+      "line_content": "Mark-up cases rose 61 % WoW to 3.2 % of traffic, commanding an 11 % premium."
+    },
+    {
+      "line_title": "Discounts Scarce",
+      "line_content": "Only 1.5 % of fares were cheaper on OTAs; average saving a modest 9 %."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Gaps Small",
+      "line_content": "Just 2.0 % of OD pairs were missing on OTAs, albeit 60 % higher WoW."
+    },
+    {
+      "line_title": "Parity Slightly Lower",
+      "line_content": "Parity slipped 1.8 ppt WoW but, at 93 %, stays 12 ppt stronger than a month ago."
+    },
+    {
+      "line_title": "Premium Cases Rising",
+      "line_content": "OTA-higher share reached 3.2 % (+61 % WoW) with an 11 % premium."
+    },
+    {
+      "line_title": "Discount Cases Limited",
+      "line_content": "OTA-lower share is 1.5 %, frequency up 59 % WoW but below last month."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Mirror",
+      "line_content": "Short-haul parity identical to total (93 %); mark-ups at 3.2 %, discounts 1.5 %."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Belgium Origin",
+      "line_content": "93.3 % parity; mark-ups at 3.0 % with 9 % premium."
+    },
+    {
+      "line_title": "Non-Belgium Origin",
+      "line_content": "Parity 93.9 %; mark-ups 3.4 % with a higher 13 % premium."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Risk",
+      "line_content": "Parity dips to 91 %; mark-up frequency doubles WoW to 4.0 % at an 11 % premium."
+    },
+    {
+      "line_title": "Far-Out Control",
+      "line_content": "98 % parity; mark-ups only 0.9 % but at the highest 13 % premium when they occur."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Broad Undercutting",
+      "line_content": "92.7 % of MSE fares priced below direct; premiums virtually absent."
+    },
+    {
+      "line_title": "Minor Alignment Uptick",
+      "line_content": "Parity improved 1.5 ppt WoW to 6.4 %, indicating early signs of stabilization."
+    },
+    {
+      "line_title": "Far-Out Exposure",
+      "line_content": "For >21-day bookings, 95.8 % of fares were lower on MSE, flagging advance-purchase revenue leakage."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Full Content",
+      "line_content": "Only 0.6 % of ODs missing on MSE; stable WoW."
+    },
+    {
+      "line_title": "Parity Low",
+      "line_content": "6.4 % fares matched direct (+1.5 ppt WoW); price gap negligible."
+    },
+    {
+      "line_title": "Channel Lower",
+      "line_content": "MSE undercut direct on 92.7 % of itineraries; avg discount 3-4 %."
+    },
+    {
+      "line_title": "Channel Higher Rare",
+      "line_content": "Premium cases just 0.3 %, carrying a 3 % uplift."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Focus",
+      "line_content": "92.7 % of short-haul fares lower on MSE, mirroring overall trend."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Belgium Departures",
+      "line_content": "MSE lower share 93.9 %; only market with any premiums (0.6 %)."
+    },
+    {
+      "line_title": "Non-Belgium Departures",
+      "line_content": "Lower share 91.6 %; no premium events recorded."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (≤21d)",
+      "line_content": "Lower share 90.8 %; parity improved to 8.4 %."
+    },
+    {
+      "line_title": "Far-Out (>21d)",
+      "line_content": "Undercutting peaks at 95.8 % with zero premium cases."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Near-Universal Premium",
+      "line_content": "98.6 % of GDS fares priced above direct, averaging +37 %."
+    },
+    {
+      "line_title": "Parity Emerges",
+      "line_content": "Parity or lower fares surfaced on 0.6 % of itineraries, up from zero the prior week."
+    },
+    {
+      "line_title": "Content Gap Shrinks",
+      "line_content": "Website offers not in GDS fell to 0.9 % (-56 % WoW)."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found",
+      "line_content": "GDS gaps reduced to 0.9 % (-56 % WoW; ‑85 % MoM)."
+    },
+    {
+      "line_title": "Price Parity Minimal",
+      "line_content": "Exact-match fares at 0.29 %, newly observed last week."
+    },
+    {
+      "line_title": "Channel Lower Tiny",
+      "line_content": "Undercuts also 0.29 %; average 8 % cheaper."
+    },
+    {
+      "line_title": "Channel Higher Norm",
+      "line_content": "Premium cases steady at 98.55 % with a 37 % uplift."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Europe",
+      "line_content": "98.6 % higher-priced; 0.9 % missing; average premium 37 %."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Belgium Origins",
+      "line_content": "98.2 % higher with 34 % premium; 1.8 % offers missing; no parity or undercut."
+    },
+    {
+      "line_title": "Non-Belgium Origins",
+      "line_content": "98.9 % higher with 40 % premium; all parity (0.56 %) and undercuts occur here."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-14d)",
+      "line_content": "98.2 % higher; 0.4 % lower; avg premium 33 %."
+    },
+    {
+      "line_title": "Far-Out (15d+)",
+      "line_content": "100 % higher-priced; avg premium 46 %, 2 ppt below monthly benchmark."
+    }
+  ]
+}

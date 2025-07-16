@@ -1,0 +1,184 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Consistency Insights",
+      "line_content": "The OTA channel shows consistent pricing, often matching Etihad's site 76.5% of the time, with a slight trend towards lower pricing."
+    },
+    {
+      "line_title": "MSE Channel Predominance Overview",
+      "line_content": "MSE consistently offers lower fares than Etihad's site, with a 100% incidence of lower pricing in the latest week."
+    },
+    {
+      "line_title": "GDS Price Alignment Trend",
+      "line_content": "GDS maintains strong price parity with Etihad's site in over 88% of cases, showing minor increases in competitive discounts."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "OTA Channel's Competitive Pricing",
+      "line_content": "OTAs offer lower fares 21.35% of the time as compared to Etihad's website, with an increasing trend."
+    },
+    {
+      "line_title": "Consistency in Comparable Pricing",
+      "line_content": "The majority of the time, prices are consistent between OTAs and the Etihad website, around 76.5%."
+    },
+    {
+      "line_title": "Slight Increase in OTA Higher Pricing Instances",
+      "line_content": "ETIHAD's fares appear elevated 1.04% of the time on OTAs, though showing a decrease compared to previous periods."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A Consistency",
+      "line_content": "The percentage of cases where OTA pricing is unavailable is stable, with minimal fluctuations over the weeks."
+    },
+    {
+      "line_title": "Price Parity Prevalence",
+      "line_content": "The OTA exhibits price parity with the airline's site in over 76% of cases, a minor decrease from prior trends."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Parity",
+      "line_content": "Short haul routes show a significant amount of pricing parity, matching Etihad's site 76.56% of the time."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Higher Discounts for AE-Origin",
+      "line_content": "Flights originating from AE see greater discounts on OTAs, with OTA fares lower 40% of the time compared to Etihad's site."
+    },
+    {
+      "line_title": "Stability for Non-AE Origins",
+      "line_content": "Non-AE origins maintain pricing consistency with the OTA slightly more frequently than AE at 94.85%."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Concentration of Low OTA Prices 'Close In'",
+      "line_content": "'Close In' booking windows reveal that OTAs frequently undercut Etihad's pricing, with 25.41% lower pricing incidence."
+    },
+    {
+      "line_title": "‘Far Out’ Booking Stability",
+      "line_content": "For 'Far Out' bookings, prices are mainly in parity with Etihad's direct offerings, maintaining 85.92% of price matches."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "MSE Channel Predominance",
+      "line_content": "Prices on the MSE channel are consistently lower than the airline's own site across dimensions, holding a 100% lower rate in the latest week."
+    },
+    {
+      "line_title": "Stable Price Superiority",
+      "line_content": "Price advantages persisted with slight improvements seen as frequencies of lower prices increased by up to 2.50% from the previous week."
+    },
+    {
+      "line_title": "Insignificant Price Differences",
+      "line_content": "Price differentials remain marginal; an average drop of only 0.10% occurred across comparative periods."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Presence of Same Pricing",
+      "line_content": "Minimal cases reported where prices were the same across platforms, highlighting a negligible presence of parity pricing."
+    },
+    {
+      "line_title": "No Higher Pricing Incidence",
+      "line_content": "There were no instances recorded where MSE prices were higher than the airline's site."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Dominance",
+      "line_content": "On short haul routes, the MSE channel reflects a consistent reduction in fares by 0.10% with increased dominance over the airline's site."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "UAE Advantages Persist",
+      "line_content": "For flights originating from the UAE, MSE maintained a 1.0000 frequency of lower pricing, improving by 2.17% versus last week."
+    },
+    {
+      "line_title": "Non-UAE Stability",
+      "line_content": "For non-UAE origins, the MSE channel also exhibited a persistent pricing advantage with improved price conditions."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Prominent Close-in Savings",
+      "line_content": "The MSE channel offers significant savings for close-in bookings, unchanged frequency of reduced fares, showing a compelling 2.50% improvement."
+    },
+    {
+      "line_title": "Far Out Consistency",
+      "line_content": "For longer booking windows, the channel maintained a 100% incidence of lower fares, underscoring its reliable cost benefit."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS Dominance in Price Matching",
+      "line_content": "Across all dimensions, the GDS channel displays a high consistency in matching Etihad's website prices, with over 88% of itineraries remaining the same last week."
+    },
+    {
+      "line_title": "Minor Deviation Trends",
+      "line_content": "Instances where GDS prices were higher than the airline's website showed only a minor increase of approximately 0.04% on average last week."
+    },
+    {
+      "line_title": "GDS Discounts Slightly Rising",
+      "line_content": "The instances of the GDS channel offering lower prices increased by 0.02% last week, indicating a growing competitive edge."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "High Price Consistency",
+      "line_content": "The 'Same Price' status remains predominant, indicating strong alignment with the airline's website, with changes less than 0.2% last week."
+    },
+    {
+      "line_title": "Minimal GDS Higher Pricing",
+      "line_content": "GDS prices were marginally higher in approximately 10% of cases, a slight reduction of 0.74% from the previous week."
+    },
+    {
+      "line_title": "GDS Lower Pricing Increase",
+      "line_content": "Cases of GDS offering lower prices rose by 0.50% last week, suggesting a potential strategy to undercut direct booking prices."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Stability",
+      "line_content": "For short haul, GDS effectively maintained price alignment, with 88.54% of itineraries having identical prices."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "UAE-Based Stability",
+      "line_content": "Itineraries originating from the UAE showed price alignment with GDS in 80.85% of cases last week, albeit slightly down 0.47% from the previous week."
+    },
+    {
+      "line_title": "Non-UAE Discounts Increase",
+      "line_content": "Non-UAE origin shows a rise in lower GDS pricing cases by 1.03%, marking partially increased competitiveness."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Consistency",
+      "line_content": "Close-in bookings consistently match website prices in 88.33% of cases, with marginal improvement."
+    },
+    {
+      "line_title": "Far-Out Booking Discount Surge",
+      "line_content": "Far-out itineraries saw a 1.41% increase in lower pricing cases through GDS, offering more attractive deals than the airline's site."
+    }
+  ]
+}

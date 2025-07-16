@@ -1,0 +1,200 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Parity",
+      "line_content": "OTA offers maintain strong pricing parity with the Brussels Airlines website, with minor variations evident in both premium and discount incidences."
+    },
+    {
+      "line_title": "MSE Discounting",
+      "line_content": "MSE consistently delivers lower fares, with approximately 93% of itineraries priced below website levels, indicating a systematic discounting approach."
+    },
+    {
+      "line_title": "GDS Premium",
+      "line_content": "GDS fares are uniformly higher than website prices, averaging a premium of around 0.37% to 0.46%, reflecting a consistent channel pricing strategy."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Stable Parity",
+      "line_content": "OTA pricing generally aligns with Brussels Airlines’ website, with the 'SAME' status dominating at over 93% frequency."
+    },
+    {
+      "line_title": "Minor Premiums",
+      "line_content": "Instances of OTA prices being higher show a small premium around 0.11%, while lower incidences reflect a minor negative differential."
+    },
+    {
+      "line_title": "Consistent Windows",
+      "line_content": "Both close-in and far-out booking windows exhibit stable OTA patterns, although far-out bookings show slight volatility in the OTA HIGHER category."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A",
+      "line_content": "The low frequency (approx. 2.03%) in the OTA N/A category underlines its minimal impact on overall pricing trends."
+    },
+    {
+      "line_title": "SAME Benchmark",
+      "line_content": "With approximately 93% occurrence and zero price difference, the SAME status reinforces strong parity between OTA and website fares."
+    },
+    {
+      "line_title": "OTA Higher",
+      "line_content": "A modest frequency of about 3.19% and a slight uplift of 0.11% indicate infrequent instances of OTA premiums."
+    },
+    {
+      "line_title": "OTA Lower",
+      "line_content": "A minimal occurrence (around 1.45%) with a small negative price difference highlights the infrequent nature of lower OTA pricing."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "Short haul routes maintain high SAME status frequencies (approx. 93.33%) with OTA premium and discount patterns mirroring overall trends."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Belgium (BE)",
+      "line_content": "For Belgian origins, the SAME status is robust at 93.33% while minor deviations are observed in both OTA HIGHER and LOWER categories."
+    },
+    {
+      "line_title": "Non-BE",
+      "line_content": "Non-BE origins show a slightly increased OTA HIGHER frequency (3.35%), suggesting marginally greater pricing variability compared to BE."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "Close-in bookings report a SAME frequency of 91.23%, with moderate OTA pricing deviations evidenced by slight variations in premium and discount incidences."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Far-out bookings record a higher SAME rate (98.29%) with a notable weekly increase in OTA HIGHER category price difference (7.18%), indicating occasional volatility."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Lower Dominance",
+      "line_content": "MSE consistently features lower fares, with frequencies around 93% across overall and BE segments, underscoring a strong discounting trend."
+    },
+    {
+      "line_title": "Stable SAME",
+      "line_content": "The SAME status remains low and stable (4-8%), with negligible price differences, indicating minimal deviation from website fares."
+    },
+    {
+      "line_title": "Rare Premiums",
+      "line_content": "Instances of MSE presenting higher fares are extremely rare, occurring in less than 1% of transactions across segments."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A",
+      "line_content": "The minimal occurrence of MSE N/A (approx. 0.58%) suggests nearly all itineraries undergo a direct pricing comparison."
+    },
+    {
+      "line_title": "SAME Status",
+      "line_content": "A moderate occurrence of roughly 6.40% with zero differential signals overall pricing consistency with the website."
+    },
+    {
+      "line_title": "MSE Higher",
+      "line_content": "With frequencies between 0.29% and 0.86% and an average uplift of +0.03%, instances where fares are higher are practically insignificant."
+    },
+    {
+      "line_title": "MSE Lower",
+      "line_content": "Dominating at about 93%, the lower fare trend exhibits minimal negative differentials, reinforcing substantial channel discounting."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Dominance",
+      "line_content": "Short haul itineraries largely mirror the overall trend with nearly 93% of fares lower on MSE, supported by marginal differences in SAME and higher cases."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Belgium (BE) Insights",
+      "line_content": "Within Belgium, the MSE LOWER status reaches 93.94%, with slight proportions of SAME (4.85%) and MSE HIGHER (0.61%) indicating modest variability."
+    },
+    {
+      "line_title": "Non-BE Trends",
+      "line_content": "Non-BE records show a 91.62% frequency in MSE LOWER accompanied by a relatively higher SAME occurrence (7.82%), with no MSE HIGHER cases observed."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In Bookings",
+      "line_content": "For close-in bookings, about 90.75% fall under the MSE LOWER category, accompanied by an 8.37% SAME rate and a minimal 0.44% MSE HIGHER occurrence."
+    },
+    {
+      "line_title": "Far Out Bookings",
+      "line_content": "Far-out bookings demonstrate an even stronger discounting trend with 95.76% falling into MSE LOWER and a reduced SAME frequency of 3.39%, with no MSE HIGHER cases."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Consistent Premium",
+      "line_content": "GDS channel records show that nearly 98.6% of fares are higher than website prices, with an average premium ranging from 0.37% to 0.46%."
+    },
+    {
+      "line_title": "Stable Trends",
+      "line_content": "Weekly trends in GDS pricing remain stable, with negligible changes (i.e. -0.02%), underscoring consistent channel behavior."
+    },
+    {
+      "line_title": "Booking Impact",
+      "line_content": "Far-out itineraries attract a higher price uplift (0.46%) compared to close-in bookings (0.33%), indicating a clear booking window effect."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A",
+      "line_content": "GDS N/A occurrences are very low (approx. 0.87%) with no price differential, affirming its minimal role in overall fare comparison."
+    },
+    {
+      "line_title": "SAME Status",
+      "line_content": "Only a few itineraries fall under the SAME status, showing a negligible price deviation (around -0.01%)."
+    },
+    {
+      "line_title": "GDS Higher",
+      "line_content": "The dominant GDS HIGHER category, with a last-week uplift of approximately 0.37%, confirms a systematic pricing premium over the website."
+    },
+    {
+      "line_title": "GDS Lower",
+      "line_content": "A minimal frequency of about 0.29% in the GDS LOWER category indicates that lower pricing within GDS is largely uncommon."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "In short haul routes, GDS mirrors overall trends with about 98.6% of itineraries priced higher and an average uplift near 0.37%."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Regional Dynamics",
+      "line_content": "Belgian origins show an average premium of 0.34% while Non-BE records show a slightly higher uplift of 0.40%, reflecting subtle regional adjustments."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In Bookings",
+      "line_content": "Close-in bookings predominantly fall under the GDS HIGHER category with a frequency of 98.2% and an average price increase of 0.33%."
+    },
+    {
+      "line_title": "Far Out Bookings",
+      "line_content": "Far-out bookings exclusively register as GDS HIGHER with prices averaging a 0.46% uplift, emphasizing a stronger premium for advanced bookings."
+    }
+  ]
+}

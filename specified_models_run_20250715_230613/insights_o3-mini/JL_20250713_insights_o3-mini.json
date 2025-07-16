@@ -1,0 +1,196 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Insight",
+      "line_content": "The OTA channel demonstrates robust parity with the website at approximately 62.72% SAME, coupled with minor pricing discrepancies that vary slightly by booking window."
+    },
+    {
+      "line_title": "MSE Insight",
+      "line_content": "The MSE channel features deliberate competitive adjustments with around 47% lower offers and nearly 50% matching rates, reflecting distinct tactical differences between close-in and far-out bookings."
+    },
+    {
+      "line_title": "GDS Insight",
+      "line_content": "The GDS channel systematically prices higher than the website, with roughly 79% of offers in the HIGHER category, underscoring a consistent premium pricing strategy."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Stable Parity",
+      "line_content": "The OTA channel shows strong alignment with website pricing, with SAME pricing occurring in 61–67% of cases."
+    },
+    {
+      "line_title": "Minor Discrepancies",
+      "line_content": "Price differences are minimal, with OTA prices averaging +0.71% when higher and -0.09% when lower than website fares."
+    },
+    {
+      "line_title": "Close-In Reliability",
+      "line_content": "Close In bookings have nearly 1,800 itineraries, with a higher OTA N/A frequency of 27.64%, providing robust data sample insights."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A",
+      "line_content": "OTA N/A stands at 20.61% with a modest uptick of 2.20% weekly, indicating slight increases in non-availability on the channel."
+    },
+    {
+      "line_title": "SAME",
+      "line_content": "A dominant 62.72% of offers are identical to the website, though showing minor declines of 3.80% weekly and 4.30% monthly."
+    },
+    {
+      "line_title": "OTA HIGHER & LOWER",
+      "line_content": "OTA HIGHER instances average 11.95% with a slight positive shift, while OTA LOWER occurrences are infrequent at 4.71%, indicating controlled pricing variability."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Short Haul routes register a 60.54% SAME frequency with moderate deviations, maintaining pricing alignment on regional trips."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "Long Haul routes exhibit very high consistency at 98.12% SAME, with negligible discrepancies and low OTA N/A frequency."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "JP Origin",
+      "line_content": "For Japanese-origin itineraries, the OTA channel shows 61.10% SAME with moderate OTA N/A (21.52%) and balanced deviations."
+    },
+    {
+      "line_title": "Non-JP Origin",
+      "line_content": "Non-JP itineraries are highly consistent with a 96.77% SAME rate and minimal deviations, reflecting near-identical alignment with the website."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "Close In bookings indicate lower SAME pricing at 56.28% alongside a significant 27.64% OTA N/A rate, highlighting selective pricing differences."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Far Out bookings are more consistent with 75.13% SAME pricing, lower OTA N/A (7.15%), and a slightly higher OTA LOWER frequency at 9.39%."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Offer Parity",
+      "line_content": "Approximately 50% of MSE offers match website prices, indicating strong alignment."
+    },
+    {
+      "line_title": "Balanced Discrepancies",
+      "line_content": "Around 2% of itineraries are priced higher and 47% lower on MSE, suggesting deliberate competitive adjustments."
+    },
+    {
+      "line_title": "Window Divergence",
+      "line_content": "Close-in bookings favor lower pricing (58.2%), while far-out bookings show 71.1% parity, reflecting distinct tactical approaches."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A",
+      "line_content": "Minimal at 1.75%, with slight weekly increases (+0.48%) and marginal monthly reductions (-0.53%)."
+    },
+    {
+      "line_title": "SAME & Discrepancies",
+      "line_content": "Nearly 49% match the website; 1.9% are priced higher and 47.3% are lower, with week-over-week and month-over-month shifts indicating competitive adjustments."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Short-haul itineraries show 50.7% SAME offers, 45.4% lower, and 2.0% higher, reflecting balanced pricing strategies."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "Long-haul data, though limited, indicates only 22% SAME offers with a dominant 78% lower pricing pattern."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "JP Origins",
+      "line_content": "Japanese-origin itineraries maintain 50.8% SAME offers with 45.4% lower and 1.9% higher, mirroring overall trends."
+    },
+    {
+      "line_title": "Non-JP Origins",
+      "line_content": "Non-Japanese itineraries are markedly different with only 11.3% matching the website and 87.9% lower offers."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "Close-in bookings show lower SAME rates at 37.5% with a high 58.2% incidence of lower offers and a 2.33% N/A rate."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Far-out bookings display strong uniformity, with 71.1% same offers, 26.5% lower, and 1.81% higher, underscoring a conservative approach."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Dominant Higher",
+      "line_content": "GDS predominantly shows higher pricing, with approximately 79% of offers exceeding the website fares."
+    },
+    {
+      "line_title": "Minimal Lower",
+      "line_content": "Instances of lower pricing on GDS remain below 1%, minimizing competitive undercutting."
+    },
+    {
+      "line_title": "Stable Trends",
+      "line_content": "Week-over-week and month-over-month changes are modest, reinforcing a stable pricing premium profile."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A",
+      "line_content": "GDS N/A status is very low at approximately 2.7%, indicating nearly full representation of website offers."
+    },
+    {
+      "line_title": "SAME & Higher",
+      "line_content": "While 18.4% of fares are identical to the website, 78.8% are priced higher with an average uplift of 1.49%; lower instances are negligible (<0.1%)."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Short haul routes show 83.7% GDS HIGHER pricing with a consistent 1.49% premium, alongside moderate SAME levels."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "Long haul routes are exceptionally consistent with nearly 98.7% SAME offers and minimal deviations."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "JP Markets",
+      "line_content": "Domestic routes in JP exhibit 82.6% higher pricing on GDS with an average increase of 1.49%, reinforcing the premium trend."
+    },
+    {
+      "line_title": "Non-JP Markets",
+      "line_content": "Non-JP itineraries are highly aligned with 96.8% SAME pricing, with only minor deviations noted in the lower category."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In Window",
+      "line_content": "For close-in bookings, 74.3% are priced higher on GDS with a modest average difference of 0.96%."
+    },
+    {
+      "line_title": "Far Out Window",
+      "line_content": "Far-out bookings display an even stronger trend with 87.5% in the GDS HIGHER category and a larger average difference of 2.37%."
+    }
+  ]
+}

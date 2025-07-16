@@ -1,0 +1,212 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Overview",
+      "line_content": "The OTA channel demonstrates strong pricing consistency with 87% of fares matching the website, yet shows regional discrepancies especially for short-haul and non-SG origins with up to 15.2% premium pricing."
+    },
+    {
+      "line_title": "MSE Overview",
+      "line_content": "MSE employs a dominant lower pricing strategy with approximately 71% of fares priced below the website, particularly in non-SG origins and far-out bookings, reflecting a targeted discount approach."
+    },
+    {
+      "line_title": "GDS Overview",
+      "line_content": "The GDS channel is characterized by a consistent premium, with over 96% of itineraries priced higher than the website, underscoring its distinct pricing positioning."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "High Consistency",
+      "line_content": "The OTA channel exhibits 87% pricing consistency with the website, ensuring stable fare matching."
+    },
+    {
+      "line_title": "Premium Presence",
+      "line_content": "Approximately 7.7% of OTA fares are higher than the website, with a minor average increase of 0.23% noted."
+    },
+    {
+      "line_title": "Segment Variation",
+      "line_content": "Regional discrepancies are observed, particularly in short-haul and non-SG routes where premiums exceed 14%, indicating targeted pricing differences."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Missing Offers",
+      "line_content": "4.3% of OTA records lack a corresponding website offer, pointing to minor availability issues."
+    },
+    {
+      "line_title": "Price Parity",
+      "line_content": "A dominant 86.85% of fares maintain parity with the website, highlighting strong consistency."
+    },
+    {
+      "line_title": "OTA Premium",
+      "line_content": "About 7.65% of fares are higher priced on OTA, reflecting a slight premium compared to direct website fares."
+    },
+    {
+      "line_title": "Minimal Discounting",
+      "line_content": "Only 1.22% of fares appear lower than the website, indicating few instances of aggressive discounting."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Short-haul routes show 15.19% incidence of higher OTA fares with 77.85% matching, suggesting regional variability in pricing."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "Long-haul itineraries maintain exceptional consistency with 94.71% parity and minimal pricing deviations."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "SG Origin",
+      "line_content": "Routes originating from SG exhibit 94.27% parity with only 1.91% lower fares."
+    },
+    {
+      "line_title": "Non-SG Origin",
+      "line_content": "Non-SG routes see a lower parity at 80.12% with 14.62% of fares at a premium, indicating a notable pricing differential."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "Close-in bookings reveal 86.19% parity with 7.14% premium pricing, highlighting slight last-minute pricing adjustments."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Far-out bookings maintain 88.03% consistency, with 8.55% of fares positioned higher on OTA."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Lower Pricing Strategy",
+      "line_content": "The MSE channel is characterized by a dominant lower pricing strategy, with approximately 71% of fares priced below the website."
+    },
+    {
+      "line_title": "Consistent Minor Discounts",
+      "line_content": "A modest average last-week discount of -0.04% indicates stable, targeted pricing below website levels."
+    },
+    {
+      "line_title": "Segment Focus",
+      "line_content": "Sub-segments like non-SG origins and far-out bookings exhibit slightly higher discounts, emphasizing targeted pricing tactics."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Available Offers",
+      "line_content": "MSE shows negligible absence of offers, ensuring almost 100% availability."
+    },
+    {
+      "line_title": "Price Parity",
+      "line_content": "Approximately 28.66% of fares remain at parity with the website, reflecting modest overlap in pricing."
+    },
+    {
+      "line_title": "Dominant Lower Pricing",
+      "line_content": "A prevailing 71.34% of fares on MSE are priced lower than the website, reinforcing its discount strategy."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Focus",
+      "line_content": "Short haul routes exhibit an 83.65% lower pricing frequency with modest discounts around -0.05%."
+    },
+    {
+      "line_title": "Long Haul Impact",
+      "line_content": "Long haul itineraries, while showing a lower frequency of 59.76% for lower pricing, benefit from steeper discounts of about -0.09%."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "SG Origins",
+      "line_content": "SG-origin routes balance between parity (46.15%) and lower pricing (53.85%) with a nominal discount around -0.05%."
+    },
+    {
+      "line_title": "Non-SG Dominance",
+      "line_content": "Non-SG routes are dominated by lower pricing at 87.13% with slightly larger discounts, reflecting a focused pricing strategy."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In Bookings",
+      "line_content": "Close-in itineraries register 75.36% lower pricing with a consistent discount of -0.06% relative to the website."
+    },
+    {
+      "line_title": "Far Out Advantage",
+      "line_content": "Far-out bookings, with a lower pricing frequency of 64.10%, benefit from a more pronounced discount of approximately -0.10%."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Consistent Premium",
+      "line_content": "Approximately 96% of fares on GDS are priced higher than the airline website, demonstrating a strong premium positioning."
+    },
+    {
+      "line_title": "Minimal Parity",
+      "line_content": "Only about 3.7% of GDS records align with website pricing, underscoring a deliberate differentiation in fare strategy."
+    },
+    {
+      "line_title": "Rare Discounting",
+      "line_content": "Incidences of lower pricing on GDS are negligible at roughly 0.3%, confirming limited discount activities."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "N/A Data",
+      "line_content": "Some records lack a corresponding website offer but analysis focuses on available pricing data."
+    },
+    {
+      "line_title": "Price Parity",
+      "line_content": "Only 3.66% of itineraries show parity, highlighting a marginal overlap with website pricing."
+    },
+    {
+      "line_title": "GDS Premium",
+      "line_content": "A dominant 96.04% of cases exhibit higher pricing on GDS, with an average premium of 0.24%."
+    },
+    {
+      "line_title": "Minimal Discounting",
+      "line_content": "Lower pricing occurs in roughly 0.30% of cases, reinforcing the channel's premium approach."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Short haul itineraries show 94.94% higher pricing with a minor 5.06% parity rate and an average premium near 0.26%."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "Long haul routes have an even stronger premium effect, with 97.63% higher pricing and only 2.37% at parity."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Singapore (SG)",
+      "line_content": "SG-origin itineraries display 94.23% higher pricing with 5.77% parity, yielding an average premium of approximately 0.25%."
+    },
+    {
+      "line_title": "Non-SG",
+      "line_content": "Non-SG routes are even more skewed, with 98.25% priced higher and only 1.75% maintaining parity, emphasizing a strong premium stance."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "Close in bookings have a 94.31% incidence of higher pricing with an average premium around 0.25% and minimal discounting."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Far out itineraries are dominated by higher pricing at 99.15%, demonstrating an accentuated premium for early bookings."
+    }
+  ]
+}

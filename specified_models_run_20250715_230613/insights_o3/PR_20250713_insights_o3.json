@@ -1,0 +1,204 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA – Visibility Gap",
+      "line_content": "92% of Philippine Airlines’ website fares are invisible on OTAs, leaving revenue-critical markets under-represented."
+    },
+    {
+      "line_title": "MSE – Minor Undercuts",
+      "line_content": "Metasearch shows full fare coverage but 62% of quotes are marginally cheaper (-0.11%), creating a perception of better deals elsewhere without large revenue impact."
+    },
+    {
+      "line_title": "GDS – Premium Pricing",
+      "line_content": "Three-quarters of GDS itineraries price above the website by an average 4%, with long-haul mark-ups doubling to 8%, risking share loss on high-value trips."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Severe Coverage Gap",
+      "line_content": "92% of fares are missing on OTAs, widening by 0.6 ppts vs last month."
+    },
+    {
+      "line_title": "Parity When Visible",
+      "line_content": "Of the 8% of itineraries displayed, 96% price-match the website; deviations average only ±0.14%."
+    },
+    {
+      "line_title": "Spotlight Markets",
+      "line_content": "Long-haul/non-PH origins hit 97% OTA coverage and >92% parity, but PH-origin routes remain entirely absent."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found – 92%",
+      "line_content": "Website fare missing in 91.9% of checks (+0.6 ppts MoM)."
+    },
+    {
+      "line_title": "Parity Share – 8%",
+      "line_content": "Only 7.8% of comparisons match direct pricing, slipping 0.5 ppts MoM."
+    },
+    {
+      "line_title": "Price Deviations Minimal",
+      "line_content": "Undercuts (0.2%) and premiums (0.1%) are rare and average <0.15% variance."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "OTA absent on 96.7% of routes; where present, prices stay within ±0.1% of the website."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "‘Not-found’ fell to 50%; 48% parity and occasional 1.9% OTA discount."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "PH Origin",
+      "line_content": "100% of fares missing, a persistent blind spot."
+    },
+    {
+      "line_title": "Non-PH Origin",
+      "line_content": "Only 3.5% not found; 92.9% parity with <1.2% deviations."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (<14 days)",
+      "line_content": "91.6% missing; parity steady at 7.9% with ±0.2% variance."
+    },
+    {
+      "line_title": "Far-Out (≥14 days)",
+      "line_content": "Coverage slipped to 92.6% missing; parity down to 7.1%."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Undercut Dominant",
+      "line_content": "62% of ODs priced below the website, none above."
+    },
+    {
+      "line_title": "Tiny Gap",
+      "line_content": "Average undercut is just ‑0.11%, signalling perception risk more than revenue loss."
+    },
+    {
+      "line_title": "Parity Improving",
+      "line_content": "Parity share rose 4.4 ppts WoW, led by short-haul and far-out bookings."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Full Coverage – 100%",
+      "line_content": "No ‘offer not found’ cases on MSE."
+    },
+    {
+      "line_title": "Parity – 38%",
+      "line_content": "Parity climbed to 37.7% (+4.4 ppts WoW)."
+    },
+    {
+      "line_title": "Lower Prices – 62%",
+      "line_content": "Undercuts eased 4.1 ppts WoW to 62.3%, averaging ‑0.11%."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "58% undercut (-0.11%); parity up 5 ppts WoW."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "98% undercutting persists, albeit a minimal ‑0.10% gap."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "PH Origin",
+      "line_content": "59% undercutting at ‑0.10%; parity gained 4.8 ppts WoW."
+    },
+    {
+      "line_title": "Non-PH Origin",
+      "line_content": "99% priced lower at ‑0.17%; undercut share up 1 ppt WoW."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (≤14 days)",
+      "line_content": "71% undercut (-0.12%); parity advanced 5 ppts WoW."
+    },
+    {
+      "line_title": "Far-Out (≥30 days)",
+      "line_content": "Parity majority at 56% (+9 ppts MoM); undercut gap narrowed to ‑0.08%."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Premium Pricing",
+      "line_content": "75% of itineraries priced above the website with a 4% mark-up (+3.5 ppts WoW)."
+    },
+    {
+      "line_title": "Long-Haul Double Mark-Up",
+      "line_content": "Long-haul premiums average 8% despite lower incidence (48%)."
+    },
+    {
+      "line_title": "Foreign Origins Stable",
+      "line_content": "Outside PH, 86% parity and zero premiums indicate controlled distribution."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Higher Fares – 75%",
+      "line_content": "Premium share up 3.5 ppts WoW; average mark-up 4%."
+    },
+    {
+      "line_title": "Parity – 20%",
+      "line_content": "Parity slid 4.7 ppts WoW to 20.4%."
+    },
+    {
+      "line_title": "Content Gap – 1%",
+      "line_content": "‘Offer not available’ is low at 1.1% but nearly doubled WoW, signalling emerging issues."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "78% premiums at 4%; parity 18%."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "48% premiums but steeper 8% uplift; parity improved 6 ppts MoM to 42%."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "PH Origin",
+      "line_content": "82% premiums with 4% uplift; parity fell 3.9 ppts WoW."
+    },
+    {
+      "line_title": "Non-PH Origin",
+      "line_content": "86% parity, 0% premiums, minimal 1.2% discounts."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-14 days)",
+      "line_content": "69% premiums at 4%; parity eroding."
+    },
+    {
+      "line_title": "Far-Out (15+ days)",
+      "line_content": "Premium frequency spikes to 87% with 5% uplift; parity shrinks to 11%."
+    }
+  ]
+}

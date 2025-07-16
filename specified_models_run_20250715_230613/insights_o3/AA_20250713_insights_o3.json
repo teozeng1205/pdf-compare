@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA – Non-US Weakness",
+      "line_content": "Parity outside the U.S. collapsed to 54%, driving most of the OTA mis-alignment and exposing margin risk in international points of sale."
+    },
+    {
+      "line_title": "MSE – Near-Perfect Parity",
+      "line_content": "Metasearch remains best-aligned at 98.9% parity; exposure is limited to Non-US origins where 3.2% of fares price higher and offer-absence is climbing."
+    },
+    {
+      "line_title": "GDS – Widespread Premiums",
+      "line_content": "Over half (56%) of GDS itineraries price above AA.com, peaking at 70% for far-out bookings and potentially eroding early-purchase demand."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "91% Parity",
+      "line_content": "Overall OTA parity stayed high at 91% despite a 1.1-pt week-over-week dip."
+    },
+    {
+      "line_title": "International Gap",
+      "line_content": "Non-US origins show only 54% parity and 39% OTA-higher cases, signaling urgent remediation needs."
+    },
+    {
+      "line_title": "Close-In Visibility",
+      "line_content": "‘Offer not found’ reached 3.4% in the 0-7-day window, up 1.7 pts week-over-week and risking last-minute sales."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Missing Offers Rising",
+      "line_content": "Offers absent on OTAs affect 2.7% of OD pairs (+1.2 pts WoW), slightly above last month."
+    },
+    {
+      "line_title": "Parity Holding",
+      "line_content": "Price parity remains strong at 91.0%, slipping only 0.1 pt month-on-month."
+    },
+    {
+      "line_title": "OTA Higher",
+      "line_content": "4.3% of itineraries price higher on OTAs, carrying a modest +0.15% premium."
+    },
+    {
+      "line_title": "OTA Lower",
+      "line_content": "Discounted OTA fares fell to 2.0% (−0.14 pt WoW) with a minimal −0.10% undercut."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "Parity 90.3%; OTA-higher 4.8%; ‘not found’ climbed to 2.9%."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "Parity stronger at 94.5% with only 1.9% OTA-higher, yet ‘not found’ doubled to 2.0%."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "U.S. Origins",
+      "line_content": "Healthy 95.4% parity; OTA-higher nearly negligible at 0.3%; offer absence 2.1%."
+    },
+    {
+      "line_title": "Non-U.S. Origins",
+      "line_content": "Parity drops to 53.5%; 38.6% OTA-higher and 7.6% missing offers—primary driver of OTA variance."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-7d)",
+      "line_content": "Parity softens to 89.5%; ‘not found’ peaks at 3.4% (+1.7 pts WoW)."
+    },
+    {
+      "line_title": "Far-Out (8+d)",
+      "line_content": "Robust 94.2% parity; OTA-higher stable at 4.3% with +0.17% premium."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "98.9% Parity",
+      "line_content": "Metasearch checks show near-perfect alignment, flat month-on-month."
+    },
+    {
+      "line_title": "Non-US Sensitivity",
+      "line_content": "Parity for Non-US origins dips to 95.1% with 3.2% MSE-higher fares."
+    },
+    {
+      "line_title": "Far-Out Offer Gaps",
+      "line_content": "‘Offer not found’ for 60+-day bookings rose to 0.67% (+0.43 pt WoW)."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Absence Low",
+      "line_content": "Only 0.35% of searches return no MSE offer, though trending upward (+0.04 pt WoW)."
+    },
+    {
+      "line_title": "Parity Stable",
+      "line_content": "Price parity stands at 98.9% (−0.19 pt WoW, +0.60 pt MoM)."
+    },
+    {
+      "line_title": "MSE Higher",
+      "line_content": "0.50% of itineraries price higher on MSE with a +0.23% premium, concentrated in Non-US & far-out segments."
+    },
+    {
+      "line_title": "MSE Lower",
+      "line_content": "Undercutting limited to 0.22% of checks (−0.24% average discount)."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "Parity 98.8%; 0.56% MSE-higher at +0.22% premium."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "Parity 99.3%; MSE premiums larger (+0.43%) but appear in just 0.18% of checks."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "U.S. Origins",
+      "line_content": "Near-perfect 99.4% parity; only 0.20% MSE-higher cases."
+    },
+    {
+      "line_title": "Non-U.S. Origins",
+      "line_content": "Parity slips to 95.1%; 3.2% MSE-higher and 1.6% missing offers."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (≤21d)",
+      "line_content": "Parity 99.0%; MSE-higher 0.52% at +0.17% premium."
+    },
+    {
+      "line_title": "Far-Out (>21d)",
+      "line_content": "Offer absence climbed to 0.67%; parity edged down to 98.8%."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "56% Premium Cases",
+      "line_content": "Majority of GDS fares priced above AA.com; under-pricing virtually absent."
+    },
+    {
+      "line_title": "Small Absolute Gap",
+      "line_content": "Average premium only +0.26%, indicating tactical rather than structural mis-pricing."
+    },
+    {
+      "line_title": "Advance-Purchase Risk",
+      "line_content": "70% of far-out fares higher in GDS with a +0.32% premium, threatening early demand capture."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Higher",
+      "line_content": "Higher-priced cases at 56.2% (+0.7 pp WoW); premium steady at +0.26%."
+    },
+    {
+      "line_title": "Parity Share",
+      "line_content": "Parity holds 43.4% of itineraries, down 0.7 pp WoW."
+    },
+    {
+      "line_title": "GDS Lower",
+      "line_content": "Discounts negligible at 0.12% frequency with −0.13% average undercut."
+    },
+    {
+      "line_title": "Offer Not Found",
+      "line_content": "Missing offers minimal at 0.27%, improving 0.54 pp month-over-month."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "57% higher-priced, +0.26% premium; parity 43%."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "55% higher-priced, +0.25% premium; parity 44%."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "U.S. Origins",
+      "line_content": "55% higher-priced with +0.28% premium; parity 45%."
+    },
+    {
+      "line_title": "Non-U.S. Origins",
+      "line_content": "68% higher-priced but softer +0.14% premium; parity erodes to 29%."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-7d)",
+      "line_content": "Balanced split: 49% higher vs 50% parity; +0.22% premium."
+    },
+    {
+      "line_title": "Far-Out (21+d)",
+      "line_content": "70% higher-priced with the steepest +0.32% premium; parity only 30%."
+    }
+  ]
+}

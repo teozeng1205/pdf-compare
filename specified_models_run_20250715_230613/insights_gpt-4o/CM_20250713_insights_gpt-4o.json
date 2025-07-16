@@ -1,0 +1,188 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Price Consistency",
+      "line_content": "OTA fares show a high degree of alignment with Copa Airlines' own pricing, with 86.2% of fares matching."
+    },
+    {
+      "line_title": "MSE Competitive Edge",
+      "line_content": "MSE channel provides a competitive advantage with 25.36% of fares being cheaper than Copa Airlines' site, very attractive for price-sensitive customers."
+    },
+    {
+      "line_title": "GDS Premium Pricing",
+      "line_content": "GDS channels exhibit higher prices in nearly all instances compared to Copa's direct site, highlighting a consistent premium trend."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Price Alignment High",
+      "line_content": "86.2% of OTA fares matched Copa Airlines' site last week, with slight historical increase."
+    },
+    {
+      "line_title": "OTA Higher Frequency Decline",
+      "line_content": "OTA fares higher than the airline's decreased to 11.9% last week, a slight decrease from both previous week and month."
+    },
+    {
+      "line_title": "OTA Lower Rare",
+      "line_content": "Instances where OTA fares were lower than the airline's site remain exceptionally rare at 0.0%."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Match Consistent",
+      "line_content": "Offer matching remained stable at over 86% compared to the airline's site, reflecting consistency in the OTA channel."
+    },
+    {
+      "line_title": "OTA Higher Declines",
+      "line_content": "Instances of OTA fares being higher are gradually decreasing, showing both weekly and monthly downtrends."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Match Robust",
+      "line_content": "Short haul routes saw a 89.9% match with airline fares, slightly improving from previous periods."
+    },
+    {
+      "line_title": "Long Haul Higher Rates Reduce",
+      "line_content": "Long Haul OTA fares higher than the airline decreased slightly, now accounting for 28.1%."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "PA Match Strong",
+      "line_content": "Panama-origin flights had 97.1% price matches, demonstrating strong alignment with the airline's pricing."
+    },
+    {
+      "line_title": "Non-PA Higher Rates Reduced",
+      "line_content": "OTA fares were higher for non-Panama origins in 22.6%, showing a decline in higher charges."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-in Alignments Maintain",
+      "line_content": "For close-in bookings, 85.3% aligned with airline pricing, with a slight positive shift over previous data."
+    },
+    {
+      "line_title": "Far-out Higher Reduced",
+      "line_content": "Far-out booking window saw a decrease in OTA fares being higher than the airline's site, dropping to 11.9%."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Consistent Pricing",
+      "line_content": "Across all dimensions, a consistent percentage of fares found on MSE were the same as on the Copa Airlines site, indicating stable pricing strategies."
+    },
+    {
+      "line_title": "Channel Lower Advantage",
+      "line_content": "There is a significant frequency where MSE channel prices are lower than the airline’s site, particularly beneficial in the short-haul sector."
+    },
+    {
+      "line_title": "Minimal Pricing Disparities",
+      "line_content": "The differences where MSE prices are higher than the airline’s site are minimal, suggesting competitive pricing alignment with the airline’s main offers."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Prices Largely the Same",
+      "line_content": "72.28% of the prices on MSE matched those on the airline’s site for the latest week, indicating strong price parity."
+    },
+    {
+      "line_title": "Competitive Lower Prices",
+      "line_content": "25.36% of the offerings were cheaper on MSE, creating a competitive advantage for price-sensitive consumers."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Consistency",
+      "line_content": "Exceptionally high consistency in short-haul offerings with considerable similarity in pricing structure across all MSE comparisons."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "PA Price Advantage",
+      "line_content": "In Panama origin-destinations, MSE often presents lower prices with a notable decrease in comparison to previous periods."
+    },
+    {
+      "line_title": "Stable Non-PA Offers",
+      "line_content": "Offers originating from non-Panama locations show stable pricing with minor fluctuations."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Competitive Far Out Offers",
+      "line_content": "Far-out bookings have a higher rate of prices being lower on MSE, with a 31% frequency of being cheaper than the airline site."
+    },
+    {
+      "line_title": "Last-Minute Stability",
+      "line_content": "Close-in bookings maintain a competitive edge with a noteworthy percentage showing lower prices on MSE, supporting last-minute travelers looking for deals."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS Dominance",
+      "line_content": "GDS prices were overwhelmingly higher compared to Copa Airlines' own site prices in all dimensions for the latest week."
+    },
+    {
+      "line_title": "Minimal GDS Lower Instances",
+      "line_content": "Instances where GDS prices were lower are almost negligible across all dimensions during the past month."
+    },
+    {
+      "line_title": "Consistent Pricing Patterns",
+      "line_content": "The pattern of GDS having higher prices persisted from previous months into the latest week, reinforcing a consistent trend."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Almost All Higher on GDS",
+      "line_content": "Nearly all comparisons indicated higher pricing on GDS compared to Copa’s site last week, with marginal increases in comparison frequency over both the previous week and month."
+    },
+    {
+      "line_title": "Few Matches in Pricing",
+      "line_content": "There are very few instances where GDS and Copa’s website prices were the same, showing minimal price parity."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "Short haul routes consistently saw GDS prices higher for the past week and month, with a slight increase in the number of instances where GDS outpriced Copa’s site."
+    },
+    {
+      "line_title": "Long Haul Stable High Prices",
+      "line_content": "Long haul routes also maintained mostly higher prices on GDS with little fluctuation over time."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Panama Predominantly Higher",
+      "line_content": "All flights originating from Panama had higher GDS prices compared to Copa’s site last week, with a marginal past-month increase in frequency of higher prices."
+    },
+    {
+      "line_title": "Non-Panamanian Origins Follow Suit",
+      "line_content": "Non-Panamanian origin flights also showed higher prices on GDS, consistent with the trend seen for Panamanian origins."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings Skew Higher",
+      "line_content": "For close-in bookings, the GDS pricing was consistently higher with a slight increase from the previous week."
+    },
+    {
+      "line_title": "Far-Out Reservations Follow Trend",
+      "line_content": "GDS prices for reservations made far in advance were also higher, showing a sustained trend over a month, with slight escalation in pricing frequency and difference."
+    }
+  ]
+}

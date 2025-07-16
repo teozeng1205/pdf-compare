@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Key Insight",
+      "line_content": "Fares remain predominantly higher on the OTA, with a slight reduction in higher share and a rise in missing offers."
+    },
+    {
+      "line_title": "MSE Key Insight",
+      "line_content": "High parity with the website at around 72%, with modest undercutting and nearly no overpricing scenarios."
+    },
+    {
+      "line_title": "GDS Key Insight",
+      "line_content": "Over 95% of fares are higher via GDS, though a small dip in the higher share is evident compared to last month."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "OTA Dominance",
+      "line_content": "Over 90% of the time, the OTA offered higher fares than the website across most segments."
+    },
+    {
+      "line_title": "Missing Offers Spike",
+      "line_content": "Instances of website fares not found on the OTA rose by around three percentage points overall compared to the previous week."
+    },
+    {
+      "line_title": "Booking Window Contrast",
+      "line_content": "Close-in itineraries showed the biggest week-over-week shift in missing fares, while far-out bookings remained consistently more expensive on the OTA."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A",
+      "line_content": "Increased from roughly 2.8% to 5.9% of itineraries last week, indicating more missing website offers on the OTA."
+    },
+    {
+      "line_title": "SAME",
+      "line_content": "Held steady at about 1.5% of itineraries, reflecting negligible price alignment changes."
+    },
+    {
+      "line_title": "OTA HIGHER",
+      "line_content": "Declined slightly from about 94% to 91%, but still represents the overwhelming majority with fares about 7-8% above the website."
+    },
+    {
+      "line_title": "OTA LOWER",
+      "line_content": "Remains minimal at around 1.5% of itineraries, with discounts near 12% versus the website."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Mirrors the overall pattern, with OTA fares higher over 90% of the time and missing offers up by three percentage points."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "KE",
+      "line_content": "Exhibits the same trends as the network average: OTA fares mostly higher, a small lower-fare share, and a rising portion of missing offers."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "OTA fares remained higher 87% of the time, although down from 95%, while missing offers rose by over six percentage points."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "OTA was consistently higher on all itineraries, with about an 8% price premium last week versus the website."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Stable Parity",
+      "line_content": "Roughly 72% of fares are matched, indicating consistent alignment with the airline’s website."
+    },
+    {
+      "line_title": "Moderate Undercut",
+      "line_content": "MSE offers are lower 28% of the time overall, reflecting a slight drop from the previous week."
+    },
+    {
+      "line_title": "Negligible Overpricing",
+      "line_content": "MSE-over-website scenarios remain near zero, signaling minimal risk of higher fares than direct channels."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A",
+      "line_content": "No measurable data; instances where the website fare is not displayed on MSE are negligible."
+    },
+    {
+      "line_title": "Same",
+      "line_content": "Represents the majority share at about 72% last week, up 4% from the previous week."
+    },
+    {
+      "line_title": "MSE Lower",
+      "line_content": "Around 28% last week, a minor decrease from the previous week but 10% or so under airline site pricing."
+    },
+    {
+      "line_title": "MSE Higher",
+      "line_content": "Less than 1% of observations, showing virtually no premium charged above the airline's direct fares."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Mirrors overall trends with around 72% price parity and 28% MSE-lower fares, suggesting consistent regional alignment."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "KE",
+      "line_content": "Similar distribution as overall: high parity near 72%, modest undercut, and minimal MSE-higher cases."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "Strong parity at 78% last week, up 8% from the prior week, with about 22% MSE-lower fares."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Lower parity at 62% last week, but MSE-lower fares rose to 38%, offering notable savings for advanced bookings."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS Higher Dominates",
+      "line_content": "Over 95% of recent itineraries in this channel are priced above the airline’s website."
+    },
+    {
+      "line_title": "Minimal GDS Lower",
+      "line_content": "Channel-lower fares appear only in roughly 1–2% of cases, showing little change week over week."
+    },
+    {
+      "line_title": "Slight Downturn in Higher Share",
+      "line_content": "Compared to last month, some booking windows show up to a 4% dip in the GDS-higher frequency."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Website Not Found",
+      "line_content": "Around 1–2% of fares remain unavailable on the channel, stable from prior periods."
+    },
+    {
+      "line_title": "Same",
+      "line_content": "Fares match approximately 1–2% of the time, with no significant shifts observed."
+    },
+    {
+      "line_title": "Channel Lower",
+      "line_content": "Remains a rare occurrence, generally holding near 1–2% of all itineraries."
+    },
+    {
+      "line_title": "Channel Higher",
+      "line_content": "Continues to dominate above 95%, though there's a slight drop from the previous month."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "GDS fares come in higher over 95% of the time, with little change from last week."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Kenya (KE)",
+      "line_content": "Mirrors short-haul trends, with GDS chiefly higher and negligible channel-lower fares."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "GDS is higher 93.62% of the time, slightly down from last month’s near 98%."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Registered a full 100% GDS-higher rate last week, compared to 96.55% a month ago."
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Premium & Gaps",
+      "line_content": "OTAs price 34% above the website on 83% of itineraries and now miss the airline offer on 14% of routes, signalling revenue-leaking distribution gaps."
+    },
+    {
+      "line_title": "MSE Mixed Exposure",
+      "line_content": "Metasearch shows a 14% average mark-up on 68% of searches, with 17% of itineraries lacking any airline fare—especially on long-haul and far-out bookings."
+    },
+    {
+      "line_title": "GDS Near-Universal Uplift",
+      "line_content": "GDS displays higher fares on 99% of itineraries, albeit a modest 2.3% premium, while true price parity is virtually zero across all dimensions."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Persistent OTA Premium",
+      "line_content": "OTAs list higher fares than the website on 83% of itineraries, charging an average 34% mark-up despite a 2-ppt dip week-on-week."
+    },
+    {
+      "line_title": "Offer Gaps Growing",
+      "line_content": "Pegasus fares are absent on OTAs for 14% of routes, a 2-ppt increase, risking lost indirect sales."
+    },
+    {
+      "line_title": "Parity Rare",
+      "line_content": "Only 2% of OTA observations match the website price, continuing a two-month downward trend."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Website Fare Missing",
+      "line_content": "14% of searched itineraries show no PC offer on OTAs, up 2 ppts WoW and 1.8 ppts MoM."
+    },
+    {
+      "line_title": "Premium Dominant",
+      "line_content": "OTAs are higher-priced in 83% of cases with a 34% average premium; undercuts occur in just 0.6%."
+    },
+    {
+      "line_title": "Parity Minimal",
+      "line_content": "Exact parity stands at 2.3%, down 0.4 ppt WoW and 4.3 ppt MoM."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "82% OTA-higher with a 33% premium; missing-fare rate climbed to 15%."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "88% OTA-higher at a 45% premium; only 1.9% OTA-lower, signalling acute revenue risk."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Turkey Origins",
+      "line_content": "90% OTA-higher, averaging a 36% premium; price parity virtually nonexistent (<1%)."
+    },
+    {
+      "line_title": "Non-Turkey Origins",
+      "line_content": "OTA-higher incidence drops to 64% with a 27% premium, but 26% of offers are missing—double the TR gap."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-7 Days)",
+      "line_content": "83% OTA-higher with a 35% premium; offer absence rose to 15%."
+    },
+    {
+      "line_title": "Far-Out (8+ Days)",
+      "line_content": "82% OTA-higher at a 31% premium; OTA-higher incidence fell 4 ppts WoW, yet fare absence rose to 14%."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Persistent Mark-Ups",
+      "line_content": "68% of itineraries on metasearch price above the website with a steady 14% premium."
+    },
+    {
+      "line_title": "Long-Haul Exposure",
+      "line_content": "Long-haul routes see 69% higher pricing and a 23% mark-up, up 15 ppts MoM."
+    },
+    {
+      "line_title": "Coverage Gaps",
+      "line_content": "Airline fare is missing on 21% of Turkey-origin and 23% of far-out searches, risking early-stage demand loss."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found",
+      "line_content": "17% of itineraries lacked a comparable website fare on MSE, up 8.9 ppts MoM."
+    },
+    {
+      "line_title": "Higher-Price Majority",
+      "line_content": "Two-thirds of offers are dearer on MSE (14% premium); only 8.6% are cheaper (7% discount) and 6% remain at parity."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "67% higher-priced with a 13% premium; 18% missing fares."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "69% higher-priced with a 23% premium; missing fares limited to 10% but rising higher incidence."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Turkey Origins",
+      "line_content": "21% of searches lack a fare; when present, 68% are higher by 13% and only 4% lower."
+    },
+    {
+      "line_title": "Non-Turkey Origins",
+      "line_content": "67% higher by 18%, but 21% lower by 4-6%, indicating inconsistent overseas positioning."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-7 Days)",
+      "line_content": "68% higher-priced with a 14% premium; fare absence at 15%."
+    },
+    {
+      "line_title": "Far-Out (8+ Days)",
+      "line_content": "67% higher-priced, premium eases slightly, but fare absence jumps to 23% and parity falls to 3%."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS Premium Persistent",
+      "line_content": "99% of itineraries price higher in GDS than on the website, with a 2.3% average uplift."
+    },
+    {
+      "line_title": "Widening Gap",
+      "line_content": "‘GDS Higher’ share rose 0.5 ppt MoM and the premium grew 0.3 ppt, eroding parity further."
+    },
+    {
+      "line_title": "Coverage Improving",
+      "line_content": "Missing GDS offers dropped to 0.9% of itineraries, yet remain a recurring leakage risk."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Website Fare Missing",
+      "line_content": "0.94% of ODs lack a GDS offer, down from 1.5% last month."
+    },
+    {
+      "line_title": "Higher-Price Dominance",
+      "line_content": "98.97% of itineraries dearer in GDS with a 2.27% uplift; parity and undercuts are negligible (<0.1%)."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "98.9% higher-priced with a 2.4% premium, the widest gap region-wide."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "99.6% higher-priced but premium narrows to 0.9%, suggesting more competitive long-haul GDS positioning."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Turkey Origins",
+      "line_content": "99.3% higher-priced with a 2.9% premium—double the network average."
+    },
+    {
+      "line_title": "Non-Turkey Origins",
+      "line_content": "98.3% higher-priced with a muted 0.7% premium, but highest share of missing offers (1.4%)."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (<7 Days)",
+      "line_content": "98.9% higher-priced with a 2.34% premium during peak conversion periods."
+    },
+    {
+      "line_title": "Far-Out (>30 Days)",
+      "line_content": "'GDS Higher' rises to 99.2%, premium eases to 2.12%, signalling an opportunity to realign early-purchase fares."
+    }
+  ]
+}

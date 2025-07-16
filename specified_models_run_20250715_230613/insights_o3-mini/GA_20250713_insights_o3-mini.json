@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Stability",
+      "line_content": "The OTA channel shows consistent frequency values (1.0000) across all dimensions, confirming stable pricing parity with no observed discrepancies."
+    },
+    {
+      "line_title": "MSE Aggressiveness",
+      "line_content": "The MSE channel demonstrates an aggressive pricing strategy with approximately 64% of itineraries showing lower fares relative to the website, alongside subtle declines in matching pricing."
+    },
+    {
+      "line_title": "GDS Premium",
+      "line_content": "The GDS channel features a modest premium, with around 55.66% of itineraries priced higher than the website, underscoring a consistent rate disparity."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Consistent Data",
+      "line_content": "The OTA channel data consistently reports a frequency of 1.0000 across all dimensions, indicating highly stable data reporting."
+    },
+    {
+      "line_title": "No Price Variance",
+      "line_content": "No price differences were observed between OTA and the airline website, reflecting strong consistency in pricing."
+    },
+    {
+      "line_title": "Uniform Reporting",
+      "line_content": "Uniform reporting across overall, haul, point-of-origin, and booking window dimensions reinforces a stable pricing interface on OTA."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A Status",
+      "line_content": "Every dimension consistently reported an 'OTA N/A' status with a frequency of 1.0000, indicating the absence of actionable pricing discrepancies."
+    },
+    {
+      "line_title": "SAME Status",
+      "line_content": "The 'SAME' status is recorded across all groupings without numerical variance, suggesting complete price parity."
+    },
+    {
+      "line_title": "OTA HIGHER",
+      "line_content": "There were no instances where the OTA channel showed higher pricing than the website."
+    },
+    {
+      "line_title": "OTA LOWER",
+      "line_content": "Similarly, no cases of the OTA channel offering lower prices were recorded, confirming uniformity."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Uniformity",
+      "line_content": "For short haul itineraries, the OTA channel maintains a frequency of 1.0000 and exhibits no pricing discrepancies, ensuring regional pricing stability."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "POO: ID Consistency",
+      "line_content": "Data for the 'ID' point-of-origin segment shows steady frequency values with no detected pricing anomalies."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In Stability",
+      "line_content": "Close-in bookings (655 itineraries) consistently report a frequency of 1.0000, with no noticeable pricing adjustments."
+    },
+    {
+      "line_title": "Far Out Consistency",
+      "line_content": "Far-out bookings (388 itineraries) similarly reflect stable frequency and uniform pricing."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Dominant Lower Pricing",
+      "line_content": "Approximately 64% of itineraries on MSE show lower fares compared to the website, indicating a strong competitive pricing strategy."
+    },
+    {
+      "line_title": "Stable Same Pricing Decline",
+      "line_content": "The 'SAME' status, while significant at around 31%, has declined slightly week-over-week (2.85%) and month-over-month (14.14%), pointing to price adjustments."
+    },
+    {
+      "line_title": "Minor Higher Price Variations",
+      "line_content": "Only a small fraction (around 5% last week) of itineraries exhibit higher prices, with minimal average increases noted."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A",
+      "line_content": "Frequencies for 'MSE N/A' remain negligible (<0.4%), indicating that comparable fares are consistently available."
+    },
+    {
+      "line_title": "SAME",
+      "line_content": "About 31% of itineraries maintain matching prices with the website, despite slight declining trends."
+    },
+    {
+      "line_title": "MSE HIGHER",
+      "line_content": "A minor portion (approximately 5% last week) shows higher fares, with small upward shifts in the pricing metric."
+    },
+    {
+      "line_title": "MSE LOWER",
+      "line_content": "Nearly 64% of cases exhibit lower fares on MSE, with a considerable month-over-month increase of 14.58% reinforcing this trend."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "For short haul routes, the data reflects 63.66% lower fares and 30.78% matching prices, aligning with overall channel trends."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "ID Market Alignment",
+      "line_content": "Pricing in the 'ID' market follows the overall pattern with dominant lower fares and consistent frequency distributions."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In Dynamics",
+      "line_content": "Close-in bookings see 61.77% lower fares with a modest 6.57% incidence of higher fares, highlighting dynamic short-term pricing."
+    },
+    {
+      "line_title": "Far Out Subtleties",
+      "line_content": "Far-out booking windows show 66.84% lower fares; though the higher fare segment is limited to 2.83%, it suggests nuanced pricing shifts over time."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Stable Availability",
+      "line_content": "Offer availability on GDS is robust, with only 0.19% of records flagged as 'GDS N/A', ensuring nearly complete fare presence."
+    },
+    {
+      "line_title": "Rate Parity in SAME",
+      "line_content": "Approximately 44.15% of itineraries on GDS align exactly with website pricing, underscoring a strong rate parity."
+    },
+    {
+      "line_title": "Premium on GDS",
+      "line_content": "About 55.66% of fares on GDS are higher than the website’s rates, with a modest average increase of +0.20%, indicating a consistent premium."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A",
+      "line_content": "Only 0.19% of overall records are marked as 'GDS N/A', demonstrating almost complete fare data capture."
+    },
+    {
+      "line_title": "SAME",
+      "line_content": "44.15% of records match the website, coupled with minor frequency improvements (2.49% week-over-week and 15.30% month-over-month)."
+    },
+    {
+      "line_title": "GDS HIGHER",
+      "line_content": "Approximately 55.66% of records are higher, with an average last-week difference of +0.20% and a slight frequency decline."
+    },
+    {
+      "line_title": "GDS LOWER",
+      "line_content": "There are no recorded instances of lower fares on GDS, reinforcing the premium pricing trend."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Uniformity",
+      "line_content": "Short haul itineraries on GDS follow the overall pattern with 44.15% matching website rates and 55.66% priced higher."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "ID Group Consistency",
+      "line_content": "The 'ID' point-of-origin group reflects overall trends, with 44.15% of fares matching and 55.66% exhibiting a premium on GDS."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In Dynamics",
+      "line_content": "In the close-in booking window, 45.26% of itineraries record the same price while 54.43% show higher fares on GDS."
+    },
+    {
+      "line_title": "Far Out Premiums",
+      "line_content": "Far-out bookings reveal that 57.73% of fares are higher than the website levels, indicating stronger pricing differentials with advanced bookings."
+    }
+  ]
+}

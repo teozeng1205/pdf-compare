@@ -1,0 +1,180 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Premium & Gaps",
+      "line_content": "OTAs priced above the website on 91 % of itineraries (7 % premium) and failed to display website fares on 5.9 %, highlighting both margin loss and content leakage."
+    },
+    {
+      "line_title": "MSE Parity Strength",
+      "line_content": "Metasearch delivered 72 % price parity and 0 % overpricing, although 28 % of fares undercut the site by 10 %, indicating controlled but material discounting."
+    },
+    {
+      "line_title": "GDS Persistent Mark-Up",
+      "line_content": "GDS remains 95.6 % higher than the website with an 8 % premium; parity progress is negligible despite slight month-on-month improvement."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Premium Pervasive",
+      "line_content": "91 % of OTA itineraries carried a 7 % markup versus the website last week."
+    },
+    {
+      "line_title": "Availability Gap",
+      "line_content": "Website fares were missing on 5.9 % of OTA searches, doubling week-on-week and concentrated in close-in departures."
+    },
+    {
+      "line_title": "Early Progress",
+      "line_content": "Share of OTA-higher cases fell 3.3 ppts WoW, signalling first signs of parity recovery."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found Rise",
+      "line_content": "Website fare absence reached 5.9 % (+3.1 ppts WoW), peaking at 8.5 % for near-term travel."
+    },
+    {
+      "line_title": "Parity Scarce",
+      "line_content": "Exact fare alignment remains stuck at 1.5 % of itineraries."
+    },
+    {
+      "line_title": "OTA Premium Dominates",
+      "line_content": "Despite slight improvement, 91 % of itineraries are still dearer on OTAs, with an 8 % premium on far-out bookings."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Mirror",
+      "line_content": "Short-haul routes replicate the headline: 91 % OTA-higher, 7 % premium, down 3.3 ppts WoW."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Kenya POS Exposure",
+      "line_content": "Kenyan origins show 91 % OTA-higher, 6 % missing content, and only 1 % parity—unchanged MoM."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Mixed",
+      "line_content": "OTA-higher share dropped to 87 % (-7 ppts WoW) but missing fares spiked to 8.5 %; premium holds at 7 %."
+    },
+    {
+      "line_title": "Far-Out Universal Premium",
+      "line_content": "100 % of far-out itineraries priced higher on OTAs with an 8 % markup and no availability gaps."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "High Parity",
+      "line_content": "72 % of MSE itineraries matched website pricing, with zero higher-priced cases."
+    },
+    {
+      "line_title": "Discount Window",
+      "line_content": "28 % of fares undercut the site by 10 % on average, down 4 ppts WoW yet 12 ppts above last month."
+    },
+    {
+      "line_title": "Window Drift",
+      "line_content": "Parity improved close-in (+8 ppts WoW) but slipped far-out (-2 ppts), hinting at advance-purchase leakage."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "No Content Gaps",
+      "line_content": "‘Offer not found’ cases were statistically zero."
+    },
+    {
+      "line_title": "Parity Majority",
+      "line_content": "Parity stands at 72 %, +4 ppts WoW but still 12 ppts below last month."
+    },
+    {
+      "line_title": "Channel Undercuts",
+      "line_content": "28 % of itineraries priced lower, delivering a 10 % saving; share eased 4 ppts WoW."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Consistency",
+      "line_content": "Short-haul performance mirrors network averages: 72 % parity, 28 % lower, 0 % higher."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Kenya Market Alignment",
+      "line_content": "Kenyan points of sale exhibit identical 72 % parity and 28 % lower fare split."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Recovery",
+      "line_content": "Parity strengthened to 78 % (+8 ppts WoW); lower-priced share fell to 22 % with an 11 % discount."
+    },
+    {
+      "line_title": "Far-Out Weakness",
+      "line_content": "Parity dipped to 62 % (-2 ppts WoW); 38 % of fares are lower by 9 %, showing advance inventory control issues."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Premium Persistent",
+      "line_content": "95.6 % of GDS itineraries were higher than the website, averaging an 8 % markup."
+    },
+    {
+      "line_title": "Marginal Gain",
+      "line_content": "‘GDS Higher’ incidence improved just 0.41 ppts MoM—progress remains slow."
+    },
+    {
+      "line_title": "Window Split",
+      "line_content": "Close-in premiums eased 4.2 ppts, whereas far-out departures escalated to 100 % GDS-higher."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Higher Dominance",
+      "line_content": "95.6 % of OD pairs price higher in GDS (-0.2 ppt WoW) with an 8 % premium."
+    },
+    {
+      "line_title": "Parity Rare",
+      "line_content": "Only 1.5 % of itineraries match website fares; undercuts equally rare at 1.5 %."
+    },
+    {
+      "line_title": "Content Gap Minimal",
+      "line_content": "Website fares missing on 1.5 % of GDS searches, +0.14 ppt MoM."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Reflection",
+      "line_content": "Short-haul routes show identical 95.6 % GDS-higher share with an 8 % premium."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Kenya POS Impact",
+      "line_content": "Kenya origins mirror overall exposure: 95.6 % higher-priced with negligible weekly movement."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Easing",
+      "line_content": "GDS-higher share drops to 93.6 % (-4.2 ppts MoM); premium steady at 8 %."
+    },
+    {
+      "line_title": "Far-Out Risk",
+      "line_content": "100 % of advance itineraries priced higher; premium narrowed to 8 % (-3 ppts MoM) but universality underscores urgent action."
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "Higher OTA Prices",
+      "line_content": "The OTA channel showed markedly higher prices in 59.2% of instances compared to the airline's website."
+    },
+    {
+      "line_title": "Competitive MSE Pricing",
+      "line_content": "The MSE channel provided lower prices for 48% of offers, demonstrating strong competitiveness against the airline's direct pricing."
+    },
+    {
+      "line_title": "GDS Pricing Dominance",
+      "line_content": "Approximately 65% of itineraries in the GDS channel were priced higher than on the airline's website, illustrating a significant price elevation."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "OTA Prices Generally Higher",
+      "line_content": "The OTA channel consistently exhibited higher prices, with 59.2% of cases scoring 'OTA HIGHER' across all records."
+    },
+    {
+      "line_title": "Minimal Price Discrepancies",
+      "line_content": "Average price difference across all records last week was only 0.23%, indicating competitive pricing."
+    },
+    {
+      "line_title": "Increased Consistency",
+      "line_content": "Frequency of 'SAME' pricing showed a slight increase of 0.45% over the month for point-of-origin Korea."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Dominance of 'OTA HIGHER'",
+      "line_content": "Overall, 59.2% of records were categorized as 'OTA HIGHER', with no records classified as 'OTA LOWER' in long-haul flights."
+    },
+    {
+      "line_title": "Stable Price Levels",
+      "line_content": "The price status 'SAME' comprised 27.5% of records last week, indicating stability in pricing on the OTA channel."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Korean Point-of-Origin",
+      "line_content": "In the Korea region, 64.6% of prices were higher on the OTA channel, reflecting a consistent pricing strategy."
+    },
+    {
+      "line_title": "Non-Korean Flights",
+      "line_content": "For flights originating from non-Korean countries, 'OTA HIGHER' status was 43.0%, yet seen with increased discrepancies in price."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Korea Dominates Higher Prices",
+      "line_content": "The percentage of OTA prices being higher was significant at 64.6% for itineraries from Korea."
+    },
+    {
+      "line_title": "Mixed Results for Non-Korea",
+      "line_content": "Only 43.0% of prices for itineraries from non-Korea showed 'OTA HIGHER', indicating potential room for competitive pricing."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings Higher",
+      "line_content": "For close-in bookings, 61.4% had 'OTA HIGHER' pricing, suggesting a premium for last-minute travel."
+    },
+    {
+      "line_title": "Far-Out Wins on Price Consistency",
+      "line_content": "Far-out booking windows saw only 55.0% of prices 'OTA HIGHER', offering slightly better value in advance planning."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Significant MSE Usage",
+      "line_content": "Nearly half of the offers across the MSE channel were priced lower than the airline's own website, indicating strong competitive positioning."
+    },
+    {
+      "line_title": "Stable Pricing Patterns",
+      "line_content": "The majority of price comparisons showed stable pricing this week, with very few discrepancies across different dimensions."
+    },
+    {
+      "line_title": "Short Haul Trends",
+      "line_content": "For short-haul routes, 45.05% of offers were lower on the MSE channel, suggesting a favorable option for budget-conscious travelers."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Stable Pricing",
+      "line_content": "53.81% of offers were priced the same between the airline's website and the MSE channel, showing steady price consistency this week."
+    },
+    {
+      "line_title": "Competitive Channel Pricing",
+      "line_content": "48% of the offers were lower on the MSE channel compared to the airline's site, highlighting significant price competitiveness."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "General Regional Balance",
+      "line_content": "All regions demonstrated competitive pricing with a majority of cases reflecting channel price advantages, particularly in short-haul markets."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Competitive KR vs Non-KR",
+      "line_content": "Offers originating from Korea had 37.71% lower prices on the MSE, contrasting with 78.38% of Non-KR itineraries showing lower pricing, indicating varying price strategies."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In vs Far Out Offers",
+      "line_content": "The close-in booking window reflected 45.85% of pricing lower on MSE, while far-out bookings also showed a competitive 52.19%, ensuring attractive options for different travel plans."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS Higher Dominance",
+      "line_content": "The GDS channel exhibited a significantly higher price status for approximately 65% of the itineraries last week."
+    },
+    {
+      "line_title": "Limited Lower Pricing",
+      "line_content": "Only 8.3% of the fares were lower in the GDS channel compared to the airline's website for the latest week."
+    },
+    {
+      "line_title": "Consistent Pricing Trends",
+      "line_content": "Throughout the last week, pricing alignment remained consistent with no changes in the average price difference across any status levels from the previous period."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Higher Prices Prevail",
+      "line_content": "The highest percentage of fares (65%) from GDS were higher compared to the website, with a 1.04% average price difference."
+    },
+    {
+      "line_title": "Stable Same Status",
+      "line_content": "Approximately 25.7% of pricing situations stayed the same, indicating a strong correlation to previous prices."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Pricing Trends",
+      "line_content": "In the short haul segment, 65.9% of fares were higher in the GDS channel, with a slight average price increase of 1.08%."
+    },
+    {
+      "line_title": "Long Haul Stabilization",
+      "line_content": "Long haul itineraries showed 51.1% GDS prices were higher, with minimal price fluctuations noted."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Dominance of KR Routes",
+      "line_content": "KR routes showed 66.3% of offers were higher in GDS compared to the airline's website, with a notable average price difference of 1.35%."
+    },
+    {
+      "line_title": "Non-KR Variability",
+      "line_content": "For Non-KR routes, 61.5% of offers were priced higher, but there was a slight variation of just 0.06% increase in average pricing."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In Fare Dynamics",
+      "line_content": "In the close in booking window, 67.4% of fares were higher on the GDS channel, with a 0.96% price increase."
+    },
+    {
+      "line_title": "Far Out Patterns",
+      "line_content": "For far out bookings, the GDS channel had a 60.7% higher pricing incidence, aligning closely with a 1.20% average price increase."
+    }
+  ]
+}

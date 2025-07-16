@@ -1,0 +1,176 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Pricing Alignment",
+      "line_content": "80.41% of OTA offers matched Air Europa's website, demonstrating strong pricing consistency."
+    },
+    {
+      "line_title": "MSE Underpricing Trend",
+      "line_content": "MSE consistently shows lower prices in 85.71% of itineraries compared to the airline's website."
+    },
+    {
+      "line_title": "GDS Price Parity",
+      "line_content": "82.65% of prices on GDS matched Air Europa's website, reflecting strong alignment with pricing strategies."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Stable Pricing",
+      "line_content": "The majority (80.41%) of OTA channel offers matched Air Europa's website last week, indicating stable pricing consistency."
+    },
+    {
+      "line_title": "Limited Channel Exclusivity",
+      "line_content": "Only 0.61% of tickets were priced lower on OTA within the last week, suggesting minimal channel-exclusive pricing advantages."
+    },
+    {
+      "line_title": "Incremental Price Increase",
+      "line_content": "Tickets that were higher on the OTA saw a slight increase of up to 0.19% compared to the previous week."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Website Not Available on OTA",
+      "line_content": "There was a notable increase of 9.42% for offers not available on OTAs since the previous week, indicating some exclusive fares disappearing from view."
+    },
+    {
+      "line_title": "Consistent OTA Pricing",
+      "line_content": "The presence of identical prices on both the website and OTA decreased by 9.19% compared to the previous week, showing slight dilution in mirroring website prices."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "OTA Exclusivity Declines",
+      "line_content": "No significant variation across short-haul routes, with 80.41% of prices identical between OTA and website in last week."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Stable OTA Pricing for ES",
+      "line_content": "Across Spain POOs, 80.41% of prices remained identical on OTA as they were on the airline's website."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Window Trends",
+      "line_content": "Close-in bookings showed a reduced match by 12.98% compared to the previous week, with OTA prices higher for 8.53% of these itineraries."
+    },
+    {
+      "line_title": "Far-Out Window Consistency",
+      "line_content": "Far-out bookings maintained a high price match rate at 95.33%, with marginal channel differences."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Dominant Underpricing in MSE",
+      "line_content": "The MSE channel displays significantly lower prices compared to the airline's website, with 85.71% of itineraries being cheaper in MSE for the latest week."
+    },
+    {
+      "line_title": "Minimal Price Parity Instances",
+      "line_content": "Only 5.71% of listings were priced similarly across MSE and the airline site, indicating rare price parity."
+    },
+    {
+      "line_title": "Narrow Gap for Higher Prices in MSE",
+      "line_content": "Just 0.20% of itineraries are higher priced on MSE, suggesting infrequent instances of overpricing."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offers Not Found on MSE",
+      "line_content": "8.37% of listings had no equivalent found on MSE, a slight decrease compared to historical data."
+    },
+    {
+      "line_title": "Consistent MSE Price Competitiveness",
+      "line_content": "MSE offered lower prices in 85.71% of cases, maintaining an 8% consistency from previous months."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Pricing Insights",
+      "line_content": "The competitive pricing trend continues in short-haul markets, with an 85.71% occurrence of lower prices on MSE."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Spanish Departures Analysis",
+      "line_content": "Departures from Spain align with the overall trend, as 85.71% of sampled itineraries see lower prices on MSE."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Pricing Advantage",
+      "line_content": "In late booking windows, 80% of MSE listings are priced lower than the airline site, a dominant trend observed."
+    },
+    {
+      "line_title": "Stable Far-Out Pricing Parity",
+      "line_content": "For far-out bookings, pricing remains relatively consistent with a high 98.67% parity or lower, reinforcing MSE's competitive edge."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS Matches Airline Pricing",
+      "line_content": "Across the GDS channel, prices on 82.65% of short haul routes matched those on Air Europa's website last week."
+    },
+    {
+      "line_title": "GDS Less Competitive Close-In",
+      "line_content": "For close-in bookings, only 1.47% of prices on GDS were lower than on Air Europa's website, showing minimal price competitiveness."
+    },
+    {
+      "line_title": "Stable GDS Pattern",
+      "line_content": "Across analyzed dimensions, GDS pricing showed minor fluctuations with a consistent competitive pattern over the weeks and months under review."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offers Not on GDS",
+      "line_content": "For both overall and specific dimensions analyzed, GDS had 8.57% of offers not matching the website, showing a slight improvement from previous periods."
+    },
+    {
+      "line_title": "Price Parity",
+      "line_content": "A significant portion, 82.65%, of the fares on GDS showed parity with the website last week, reflecting strong alignment with Air Europa's pricing strategy."
+    },
+    {
+      "line_title": "GDS Pricing Higher",
+      "line_content": "7.76% of GDS prices were higher than the website, with negligible change observed over recent weeks."
+    },
+    {
+      "line_title": "GDS Pricing Lower",
+      "line_content": "Only 1.02% of prices on the GDS channel were lower than the website, changing marginally from previous weeks, indicating limited occurrences."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "Short haul routes predominantly showed a high level of price parity (82.65%) compared to other disparities."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Spain Origin Pricing",
+      "line_content": "Originating routes from Spain (ES) on the GDS channel reflected global trends, maintaining high price parity (82.65%) with slight variances in other statuses."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Pricing Tendency",
+      "line_content": "Close-in affairs were mostly well-aligned with the website, yet showed the smallest segment of GDS lower pricing at just 1.47%."
+    },
+    {
+      "line_title": "Far Out Stability",
+      "line_content": "Far-out bookings displayed the highest consistency with the website at 95.97%, underscoring GDS's price stability for advanced bookings."
+    }
+  ]
+}

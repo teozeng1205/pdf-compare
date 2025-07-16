@@ -1,0 +1,204 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Premium",
+      "line_content": "The OTA channel consistently shows a dominant pricing premium, with approximately 93% higher rates compared to the website, reflecting a strong and stable upward trend."
+    },
+    {
+      "line_title": "MSE Parity",
+      "line_content": "The MSE channel exhibits significant price alignment with 64.8% of offers matching website prices, while also demonstrating a notable decline in lower-priced offers."
+    },
+    {
+      "line_title": "GDS Premium",
+      "line_content": "The GDS channel clearly leads with around 97% higher pricing, supported by minimal instances of matching or lower prices, indicating a robust premium pricing strategy."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Dominant OTA Higher",
+      "line_content": "The OTA channel demonstrates a consistent premium with pricing higher in roughly 93% of cases relative to the website."
+    },
+    {
+      "line_title": "Negligible Lower Occurrences",
+      "line_content": "Instances of OTA pricing below website rates are extremely rare, recorded at about 0.3% overall."
+    },
+    {
+      "line_title": "Steady N/A Rates",
+      "line_content": "The OTA N/A status remains stable around 6.6%, indicating minimal fluctuations over time."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A",
+      "line_content": "Approximately 6.6% of offers are unmatched, demonstrating a constant segment of non-listings."
+    },
+    {
+      "line_title": "SAME Absent",
+      "line_content": "No measurable identical pricing (SAME) is observed, confirming a distinct price differential."
+    },
+    {
+      "line_title": "OTA HIGHER Dominance",
+      "line_content": "A majority 93% of listings are priced higher with a marginal average increase of about 0.09% over website offers."
+    },
+    {
+      "line_title": "OTA LOWER Rarity",
+      "line_content": "Only about 0.3% of cases reflect lower pricing on OTA, underscoring a pervasive premium structure."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "For Short Haul routes, the OTA channel mirrors overall trends with high premium pricing and negligible lower pricing occurrences."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "TW Market",
+      "line_content": "In the TW segment, approximately 96.6% of offers are priced higher, with no instances of lower-priced offers observed."
+    },
+    {
+      "line_title": "Non-TW Market",
+      "line_content": "Non-TW routes display a slightly reduced premium rate at about 89.6%, paired with a minor 0.65% incidence of lower pricing."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In Bookings",
+      "line_content": "For last-minute reservations, the OTA channel records a 92.6% high pricing frequency with minimal deviations."
+    },
+    {
+      "line_title": "Far Out Bookings",
+      "line_content": "Reservations booked well in advance exhibit an even higher premium at roughly 94%, indicating stronger price differentials."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Dominant SAME Offers",
+      "line_content": "Approximately 64.8% of MSE offers match the website pricing, reflecting a high level of price consistency."
+    },
+    {
+      "line_title": "Minimal Price Elevation",
+      "line_content": "MSE HIGHER offers are extremely low at 0.33%, indicating very controlled instances of premium pricing."
+    },
+    {
+      "line_title": "Declining Lower Trend",
+      "line_content": "The incidence of MSE LOWER offers decreased by about 10% from the previous week, suggesting tighter competitive pricing."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A",
+      "line_content": "Unmatched offers remain negligible at around 0.66%, signaling a comprehensive offer match rate."
+    },
+    {
+      "line_title": "Predominant SAME",
+      "line_content": "With 64.8% SAME offers, the MSE channel reinforces strong pricing alignment with the website."
+    },
+    {
+      "line_title": "Limited MSE HIGHER",
+      "line_content": "At only 0.33% frequency, the premium effect is minimal, with a slight average increase of 0.25%."
+    },
+    {
+      "line_title": "MSE LOWER Effect",
+      "line_content": "A 34.21% frequency of lower-priced offers, down by approximately 10%, indicates a notable reduction in discounting."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Short Haul routes reflect an overall trend of 64.8% SAME, with a complementary 34.21% MSE LOWER, and minimal premium pricing."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "TW",
+      "line_content": "For TW routes, SAME offers dominate at 72.67%, with minimal lower-priced instances and no premium offers detected."
+    },
+    {
+      "line_title": "Non-TW",
+      "line_content": "Non-TW itineraries, at 57.14% SAME and 42.21% LOWER with a small premium of 0.65%, reveal a broader pricing spread."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "Close In booking windows report 64.22% SAME with 34.31% lower offers, reflecting similar pricing consistency near departure."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Far Out bookings maintain steady pricing with 65.66% SAME and 34.34% LOWER, and no premium anomalies."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Dominant Premium",
+      "line_content": "The GDS channel consistently shows a premium pricing trend, with approximately 97% of offers priced higher than on the website."
+    },
+    {
+      "line_title": "Minimal Alignment",
+      "line_content": "SAME and N/A instances are nearly non-existent, underlining the channel's exclusive premium strategy."
+    },
+    {
+      "line_title": "Stable Trends",
+      "line_content": "Week-to-week and month-to-month variations are minimal (around ±0.05%), indicating reliable longstanding patterns."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A",
+      "line_content": "The near-zero N/A frequency indicates that almost all website offers are captured on the GDS channel."
+    },
+    {
+      "line_title": "Minimal SAME",
+      "line_content": "Identical pricing occurs at very low frequencies, confirming that mismatches virtually do not exist."
+    },
+    {
+      "line_title": "GDS HIGHER Dominance",
+      "line_content": "Approximately 97% of GDS offerings are higher priced, highlighting a strong and consistent premium."
+    },
+    {
+      "line_title": "Low GDS LOWER",
+      "line_content": "Occasional lower-priced cases (2-3%) are observed, complementing the overall premium pricing trend."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "Short Haul routes on GDS mirror the overall trend with nearly 97% premium pricing and minimal price fluctuations."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "TW Market",
+      "line_content": "In the TW segment, GDS HIGHER offers occur at an impressively high rate of about 98.67%, underlining strong premium behavior."
+    },
+    {
+      "line_title": "Non-TW Market",
+      "line_content": "Non-TW itineraries show a slightly lower GDS HIGHER frequency of around 95.45%, with a marginally higher share of lower-priced cases."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In Bookings",
+      "line_content": "Close In booking windows display 96.55% higher pricing with a small 3.45% incidence of lower-priced offers."
+    },
+    {
+      "line_title": "Far Out Bookings",
+      "line_content": "Far Out bookings show an even higher premium at approximately 98%, with minimal deviations and rare SAME occurrences."
+    }
+  ]
+}

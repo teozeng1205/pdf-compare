@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Insight",
+      "line_content": "OTA channel shows strong pricing consistency with 91% of offers matching the website, while non‐US and long-haul segments display notable premium discrepancies."
+    },
+    {
+      "line_title": "MSE Insight",
+      "line_content": "MSE channel demonstrates exceptional pricing stability with nearly 99% parity and only marginal incidences of higher or lower pricing, reflecting minimal temporal variation."
+    },
+    {
+      "line_title": "GDS Insight",
+      "line_content": "GDS channel is characterized by a dominant trend of higher pricing, with over 55% instances at a consistent premium of around +0.26%, particularly pronounced in Far Out bookings."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "High Consistency",
+      "line_content": "Approximately 91% of OTA offers match the website pricing, reflecting strong overall pricing parity."
+    },
+    {
+      "line_title": "Modest Premium/Discount",
+      "line_content": "OTA prices show a small premium (+0.15%) and a slight discount (-0.10%), with minimal changes in frequency compared to previous periods."
+    },
+    {
+      "line_title": "Segment Variance",
+      "line_content": "Non‐US records trend towards higher pricing and long-haul segments show a slightly increased premium (0.20% vs 0.14%)."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A",
+      "line_content": "About 2.7% of OTA offers are not found versus the website, with a week-over-week increase of 1.21%."
+    },
+    {
+      "line_title": "Price Parity",
+      "line_content": "Approximately 91% of offers are identical in price between OTA and the website, although this shows a slight 1.10% decrease from the previous week."
+    },
+    {
+      "line_title": "OTA Higher",
+      "line_content": "Around 4.3% of OTA offers are priced higher, with an average premium of +0.15% and marginal weekly shifts."
+    },
+    {
+      "line_title": "OTA Lower",
+      "line_content": "Close to 2.0% of offers are lower on OTA, with a consistent discount averaging -0.10% and minor fluctuations."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Short haul markets show 90.3% matching offers, with 4.8% at a premium of +0.14% and 2.1% at a discount of -0.10%."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "Long haul routes have even higher consistency at 94.5% matching, though higher pricing on OTA appears in 1.9% of cases at a premium of +0.20%."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "US Market",
+      "line_content": "US-origin offers display 95.4% parity with the website; the rare OTA higher cases (0.26%) carry a notable premium (0.44%)."
+    },
+    {
+      "line_title": "Non-US Market",
+      "line_content": "Non-US segments have significantly lower parity at 53.5%, with 38.6% of cases showing higher OTA pricing at an average premium of +0.13%."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In Bookings",
+      "line_content": "Close in itineraries maintain 89.5% pricing parity, with 4.2% at a +0.14% premium and 2.9% at a -0.10% discount."
+    },
+    {
+      "line_title": "Far Out Bookings",
+      "line_content": "Far out bookings see 94.2% matching offers, with a slightly elevated OTA premium in 4.3% of cases, averaging +0.17%."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Stable Consistency",
+      "line_content": "Nearly 99% of MSE itineraries match the website pricing, indicating robust pricing alignment."
+    },
+    {
+      "line_title": "Marginal Variance",
+      "line_content": "Discrepancies in the MSE channel remain below 0.6% frequency, with average differences ranging from 0.07% to 0.23% in premium scenarios."
+    },
+    {
+      "line_title": "Minimal Change",
+      "line_content": "Week-over-week and month-over-month variations are negligible, underscoring a stable pricing trend."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A",
+      "line_content": "The MSE N/A status shows a minimal presence with a slight increase from 0.0035 to 0.0095, reflecting near negligible unavailability."
+    },
+    {
+      "line_title": "Full Parity",
+      "line_content": "Approximately 99% of comparisons are identical in pricing, with only minor fluctuations noted."
+    },
+    {
+      "line_title": "MSE Higher",
+      "line_content": "MSE HIGHER incidents, at around 0.0050 frequency, show a small upward trend with an average premium between 0.07% and 0.23%."
+    },
+    {
+      "line_title": "MSE Lower",
+      "line_content": "MSE LOWER instances occur at a frequency of about 0.0022 with slight negative differences averaging between -0.17% and -0.24%."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Short haul itineraries exhibit a SAME status around 98.8%-99.0%, with higher discrepancies averaging approximately 0.22%."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "Long haul routes maintain over 98.9% parity, though higher discrepancies are slightly elevated at an average of 0.43%."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "US Market",
+      "line_content": "US itineraries show very high consistency at approximately 99.4%, with MSE HIGHER airing in about 0.64% of cases."
+    },
+    {
+      "line_title": "Non-US Market",
+      "line_content": "Non-US routes register 95.1% parity with minor variations in both higher and lower pricing, indicating slightly more variability."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "Close-in bookings exhibit robust price parity near 99%, with MSE HIGHER instances averaging around 0.17%."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Far out bookings show a moderate increase in MSE N/A frequency (0.0067) and a higher average premium of 0.37% in MSE HIGHER cases."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Dominant Higher",
+      "line_content": "The GDS channel features a dominant trend with over 55% of cases showing higher pricing compared to the website."
+    },
+    {
+      "line_title": "Stable Premium",
+      "line_content": "GDS higher cases maintain a consistent premium near +0.26% based on last-week data."
+    },
+    {
+      "line_title": "Booking Impact",
+      "line_content": "Far Out bookings on GDS reach approximately 70% higher pricing, indicating a pronounced premium for advanced itineraries."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A",
+      "line_content": "Instances of missing offers on GDS are minimal, with frequencies below 1%."
+    },
+    {
+      "line_title": "Parity Level",
+      "line_content": "About 43-45% of itineraries exhibit pricing parity between the website and GDS."
+    },
+    {
+      "line_title": "GDS Higher",
+      "line_content": "Approximately 56% of cases see higher GDS prices with an average premium of +0.26%."
+    },
+    {
+      "line_title": "GDS Lower",
+      "line_content": "Instances of lower-than-website pricing on GDS are extremely rare, registering under 0.2%."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "For short haul itineraries, about 57% exhibit higher pricing on GDS with a premium around +0.26%."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "Long haul routes show a similar trend with roughly 55% higher pricing, albeit with a marginally lower premium of +0.25%."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "US Market",
+      "line_content": "Within the US segment, 55% of itineraries register higher GDS pricing with an average premium of +0.28%."
+    },
+    {
+      "line_title": "Non-US Market",
+      "line_content": "Non-US itineraries see nearly 68% of cases with higher pricing on GDS, but with a lower average premium of +0.14%."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "Close In bookings reveal a balanced mix with roughly 50% price parity and 49% higher GDS pricing, averaging a premium of +0.22%."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Far Out bookings present a strong skew with 70% of records showing higher pricing and an increased premium close to +0.32%."
+    }
+  ]
+}

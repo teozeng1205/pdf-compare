@@ -1,0 +1,168 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Insight",
+      "line_content": "OTA data shows a dominant lower pricing strategy with nearly 97-99% of itineraries priced below the airline website, demonstrating robust consistency across different booking windows and regions."
+    },
+    {
+      "line_title": "MSE Insight",
+      "line_content": "MSE consistently delivers lower fares with approximately 99% of itineraries discounted relative to website prices, and exhibits uniform pricing across segments including regional and booking window analyses."
+    },
+    {
+      "line_title": "GDS Insight",
+      "line_content": "GDS maintains competitive lower pricing in nearly 97% of cases with minimal missing offers, reflecting stable and consistent discounting across short haul, point-of-origin, and booking window segments."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Lower Dominance",
+      "line_content": "Nearly all OTA itineraries (95%-99%) display lower pricing compared to website offers."
+    },
+    {
+      "line_title": "Stable Trends",
+      "line_content": "Minimal weekly and monthly frequency changes (-0.17% to -1.56%) underscore a consistent pricing pattern on OTA."
+    },
+    {
+      "line_title": "Low N/A Incidence",
+      "line_content": "Only around 3% of offers are unavailable on OTA, with slightly higher rates (up to 4.88%) in Close In booking windows."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A Presence",
+      "line_content": "A small proportion of records (approximately 3%-4.88% in Close In bookings) show an OTA N/A status, indicating occasional unavailability."
+    },
+    {
+      "line_title": "OTA LOWER Dominance",
+      "line_content": "Across dimensions, 97%-99% of entries indicate lower pricing, reinforced by an average price difference of -0.16% in the last week."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "Short Haul routes align with overall trends, showing a 3.21% N/A and 96.79% lower pricing frequency on OTA."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "PT Market",
+      "line_content": "The PT region mirrors overall OTA performance with a uniform 3.21% N/A rate and 96.79% lower pricing frequency."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In Bookings",
+      "line_content": "Close In itineraries have a slightly elevated N/A frequency (4.88%) alongside a dominant lower pricing share."
+    },
+    {
+      "line_title": "Far Out Bookings",
+      "line_content": "Far Out segments show even stronger OTA lower dominance at 98.65% with only a 1.35% incidence of N/A status."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Dominant Lower",
+      "line_content": "Approximately 99% of MSE itineraries offer lower pricing compared to website fares."
+    },
+    {
+      "line_title": "Consistent Strategy",
+      "line_content": "Uniform discount patterns are observed across Short Haul, regional, and booking window segments on MSE."
+    },
+    {
+      "line_title": "Stable Booking Trends",
+      "line_content": "Both Close In and Far Out windows reflect minimal week-over-week changes and consistent lower pricing."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A Cases",
+      "line_content": "Some records tagged as MSE N/A are present, but limited data restricts deeper analysis."
+    },
+    {
+      "line_title": "Prevalence of LOWER",
+      "line_content": "Nearly 99.36% of MSE entries are priced lower than website rates, with an average discount around -0.23%."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Uniformity",
+      "line_content": "Short Haul itineraries consistently exhibit approximately 99.36% lower pricing on MSE."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "PT Consistency",
+      "line_content": "The PT segment reflects a uniform pattern, with nearly all offers (around 99.36%) being lower than website prices."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In Stability",
+      "line_content": "Close In bookings show 100% lower pricing with a marginal week-over-week increase (1.14%) and an average price difference of -0.24%."
+    },
+    {
+      "line_title": "Far Out Uniformity",
+      "line_content": "Far Out windows maintain 100% lower pricing consistency with average differences stabilizing around -0.22% to -0.23%."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Lower Pricing Dominance",
+      "line_content": "Nearly 97% of GDS itineraries are priced lower than website rates, reflecting strong discounting."
+    },
+    {
+      "line_title": "Minimal Missing Data",
+      "line_content": "GDS shows very low instances of missing offers (approximately 2.5%-3.7%), indicating comprehensive market coverage."
+    },
+    {
+      "line_title": "Consistent Across Segments",
+      "line_content": "Pricing behavior remains uniform across Short Haul, PT origin, and various booking windows on GDS."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A Frequency",
+      "line_content": "N/A instances are minimal at around 2.56% overall, suggesting high channel availability."
+    },
+    {
+      "line_title": "Prevalence of LOWER",
+      "line_content": "Approximately 97% of GDS records reflect lower pricing, with a steady average price difference of -0.16% in recent data."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "For Short Haul routes, nearly 97% of fares on the GDS channel are lower than on the website, with a consistent -0.16% price difference."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "PT Stability",
+      "line_content": "Itineraries from PT exhibit stable GDS performance with 97.44% lower pricing and uniform price differences."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In Trends",
+      "line_content": "Close In bookings on GDS show 96.34% lower pricing with an average price difference of -0.17% and marginal improvements over time."
+    },
+    {
+      "line_title": "Far Out Trends",
+      "line_content": "Far Out itineraries record an even higher lower pricing frequency at 98.65%, with a slightly less negative average price difference of -0.15%."
+    }
+  ]
+}

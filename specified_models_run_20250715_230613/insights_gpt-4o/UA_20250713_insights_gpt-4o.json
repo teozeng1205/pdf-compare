@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Channel Summary",
+      "line_content": "51.6% of United's offers were unavailable through OTAs, with a trend towards increased offer alignment at 46.6% being priced similarly to United's site."
+    },
+    {
+      "line_title": "MSE Channel Summary",
+      "line_content": "MSEs show strong pricing consistency with United's website, offering fewer lower-priced tickets and minor occurrences of higher pricing."
+    },
+    {
+      "line_title": "GDS Channel Summary",
+      "line_content": "GDS channels show significant price elevation, with over 34% of itineraries priced higher than on the website and frequent non-availability issues."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "OTA Offer Availability",
+      "line_content": "Overall, 51.6% of United's website offers were not available through OTAs last week, seeing a slight increase over the previous periods."
+    },
+    {
+      "line_title": "Price Matching",
+      "line_content": "46.6% of offers on OTAs were priced the same as United's site last week, indicating a stable alignment trend."
+    },
+    {
+      "line_title": "Price Discrepancies",
+      "line_content": "OTAs were generally higher priced compared to United's site for 1.74% of itineraries, with a minor downtrend from previous months."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "High OTA Pricing",
+      "line_content": "1.74% of offers were priced higher on OTAs compared to United's site last week, marginally down from a month prior."
+    },
+    {
+      "line_title": "Lower OTA Pricing",
+      "line_content": "Only 0.09% of offers were priced lower on OTAs, reflecting minimal competitive pricing from this channel."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Offers Alignment",
+      "line_content": "Short haul routes saw 47.84% of offers matching website prices, down slightly over recent weeks."
+    },
+    {
+      "line_title": "Long Haul OTA Listings",
+      "line_content": "51.1% of long haul website offers were missing from OTAs, translating to consistent availability issues across this dimension."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "US Origin Offers Consistent",
+      "line_content": "51.21% of US-origin offers were not available on OTAs, a stable trend with slight improvement noted this month."
+    },
+    {
+      "line_title": "Non-US Offers Higher On OTAs",
+      "line_content": "For Non-US origin, 7.05% of offers were priced higher on OTAs, marking a consistent downtrend over months."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Challenges",
+      "line_content": "51.46% of close-in offers were not found on OTAs, continuing a minor worsening trend from previous data."
+    },
+    {
+      "line_title": "Far-Out Pricing Dynamics",
+      "line_content": "0.09% of far-out booking offers were marginally cheaper on OTAs, with the price gap narrowing recently."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Consistency in Pricing",
+      "line_content": "The majority of prices remain consistent between MSEs and United's website, with over 47% of matches observed."
+    },
+    {
+      "line_title": "Limited Lower MSE Pricing",
+      "line_content": "There is a very low occurrence of MSE offering lower prices than United’s website, with less than 0.02% frequency across dimensions."
+    },
+    {
+      "line_title": "Minimal Price Hike Incidents",
+      "line_content": "Higher pricing on MSE compared to the airline's website shows a limited frequency, with long hauls at only 0.47%."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offer Not Found",
+      "line_content": "Approximately 51% of United’s website offers are not mirrored in MSEs."
+    },
+    {
+      "line_title": "Matched Pricing Stability",
+      "line_content": "Pricing matches between United's website and MSE are stable, showing a slight increase of 0.01% from last week."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "US Market Pricing Dynamics",
+      "line_content": "In the US, matched pricing has increased by 0.05%, while higher MSE pricing is under 0.5%."
+    },
+    {
+      "line_title": "Non-US Offers",
+      "line_content": "Non-US MSE higher pricing recorded a slight increase of 0.10% over the past week."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "US Origin Stability",
+      "line_content": "US-origin matches are slightly up at 0.05% with negligible lower prices on MSE."
+    },
+    {
+      "line_title": "Non-US Origin Mix",
+      "line_content": "Non-US origin shows a decrease of 0.18% in same pricing and marginal MSE lower pricing impact."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Trend",
+      "line_content": "Close-in bookings show a balanced trend with matched pricing improving by 0.18%."
+    },
+    {
+      "line_title": "Far-Out Bookings Variation",
+      "line_content": "Far-out bookings see a consistent MSE presence with a minor increase of 0.23% in not found offers."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Website N/A Dominance",
+      "line_content": "The GDS channel frequently lacks website offers, with over 50% of itineraries showing non-availability."
+    },
+    {
+      "line_title": "Higher Price Prevalence",
+      "line_content": "United Airlines consistently prices higher on GDS, affecting over 34% of itineraries."
+    },
+    {
+      "line_title": "Low GDS Advantage",
+      "line_content": "Only a marginal 0.01% of itineraries have lower prices on GDS, indicating minimal competitive pricing advantage."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Website N/A In GDS",
+      "line_content": "Over half of the itineraries (51.04%) in GDS did not mirror website offers, slightly down by 0.12% from the previous period."
+    },
+    {
+      "line_title": "GDS Higher Pricing Trend",
+      "line_content": "GDS prices were higher in nearly 35% of cases, consistent with a slight upward trend compared to last week."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "US Price Sensitivity",
+      "line_content": "In the US market, 37.42% of the ODs show GDS pricing higher than web offers, an increasing trend."
+    },
+    {
+      "line_title": "International Pricing Consistency",
+      "line_content": "Non-US regions exhibit significant price parity with 32.10% consistency across offers, reflecting stable conditions."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "US Point of Origin Impact",
+      "line_content": "US-origin frequencies show 37% GDS pricing is higher; minimal change from prior periods but illustrates ongoing price disparity."
+    },
+    {
+      "line_title": "Non-US Parity Maintained",
+      "line_content": "Non-US origins see 32.10% parity and a decrease in GDS higher pricing, indicating stabilization."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Premium",
+      "line_content": "Close-in booking windows show a 31.15% occurrence of higher GDS pricing, an indication of flexibility demand."
+    },
+    {
+      "line_title": "Far-Out Consistent Trends",
+      "line_content": "Far-out bookings show a slight 41.09% GDS higher pricing, marginally more competitive than close-in bookings."
+    }
+  ]
+}

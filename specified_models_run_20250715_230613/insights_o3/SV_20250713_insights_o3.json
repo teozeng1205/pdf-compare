@@ -1,0 +1,212 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA – Mixed Parity",
+      "line_content": "Parity still leads (67.8%) but fell 4 ppts WoW; discounts (16.1%) and premiums (14.3%) are now equally likely, exposing margin on both sides."
+    },
+    {
+      "line_title": "MSE – Systemic Undercuts",
+      "line_content": "MSE priced below saudia.com on 95.6% of itineraries at an average –11 % gap; parity is inching up but remains immaterial (4.2%)."
+    },
+    {
+      "line_title": "GDS – Parity with Premium Risk",
+      "line_content": "GDS holds 68.6% parity, yet 15.7% of fares carry a 9 % premium while 12.2% sit –8 % lower, driven largely by Saudi-origin and close-in sales."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Parity Still Dominant",
+      "line_content": "67.8% of OTA itineraries matched website pricing, but parity slipped 4 ppts WoW as both discounts and premiums rose."
+    },
+    {
+      "line_title": "Balanced Price Gaps",
+      "line_content": "When mis-aligned, OTAs were 7 % cheaper in 16.1% of cases and 8 % higher in 14.3%, creating symmetrical exposure."
+    },
+    {
+      "line_title": "Long- vs Short-Haul",
+      "line_content": "Long-haul parity improved to 74.5% (+5 ppts), whereas short-haul parity fell to 67.3% (–5 ppts) amid greater undercutting."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found",
+      "line_content": "Only 1.8% of OD pairs lacked an OTA offer – operationally negligible."
+    },
+    {
+      "line_title": "Same Fare",
+      "line_content": "Parity at 67.8% is down 4.3 ppts WoW and 2.7 ppts MoM, signalling dilution."
+    },
+    {
+      "line_title": "OTA Lower",
+      "line_content": "Discount share rose to 16.1% (+2 ppts WoW); average savings hold at 7 %."
+    },
+    {
+      "line_title": "OTA Higher",
+      "line_content": "Premium cases increased to 14.3% (+2 ppts WoW) with an 8 % average uplift."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Parity 67.3% (–5 ppts); both discounts (16.7%) and premiums (14.3%) rose ~2 ppts."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "Parity 74.5% (+5 ppts); OTA-lower share dropped to 8.3% while premiums held ~14.5%."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Saudi Arabia",
+      "line_content": "Parity slid to 68.3% (–5.3 ppts); premiums (15.9%) now edge discounts (14.2%)."
+    },
+    {
+      "line_title": "Non-SA Markets",
+      "line_content": "Parity nudged up to 64.9%; discounts remain high at 27.5%, premiums minimal at 5%."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-14 d)",
+      "line_content": "Parity fell to 65.5% (–7 ppts); both discounts (17.5%) and premiums (14.3%) expanded."
+    },
+    {
+      "line_title": "Far-Out (15 d+)",
+      "line_content": "Parity stable at 72.2%; discounts eased to 13.3% while premiums held ~14.5%."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Persistent Undercutting",
+      "line_content": "MSE undercut the website on 95.6% of ODs last week at –11 % avg gap."
+    },
+    {
+      "line_title": "Parity Edging Up",
+      "line_content": "Exact-match pricing doubled WoW to 4.2% but remains negligible."
+    },
+    {
+      "line_title": "No Premium Mark-Ups",
+      "line_content": "Zero instances of MSE pricing above the website across all datasets."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found 0.2%",
+      "line_content": "Comparable fare missing on just 0.19% of ODs; coverage stable."
+    },
+    {
+      "line_title": "Price Parity 4.2%",
+      "line_content": "Parity rose 2.3 ppts WoW but leakage risk stays high."
+    },
+    {
+      "line_title": "MSE Lower 95.6%",
+      "line_content": "Channel-lower share slipped 2.3 ppts yet still dominates at a –10 % average."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "95.7% channel-lower at –11 %; parity +2.4 ppts WoW."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "94.4% lower with –10 % gap; parity +0.7 ppts WoW."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Saudi Origins",
+      "line_content": "95.4% undercut at –10 %; parity +2.4 ppts WoW."
+    },
+    {
+      "line_title": "Non-SA Origins",
+      "line_content": "97.0% undercut; parity only 3.0%, both steady week-to-week."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-3 d)",
+      "line_content": "94.9% lower at –11 %; parity +3 ppts WoW."
+    },
+    {
+      "line_title": "Far-Out (>21 d)",
+      "line_content": "97.1% lower at –9 %; parity just 2.5%."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Parity Dominates but Softens",
+      "line_content": "69% of itineraries matched website price, down 5 ppts WoW."
+    },
+    {
+      "line_title": "GDS Mostly Pricier",
+      "line_content": "When different, 16% were higher vs 12% lower; gaps ±8-9 %."
+    },
+    {
+      "line_title": "SA & Close-In Issues",
+      "line_content": "Saudi origins and last-minute sales drive most discrepancies; non-SA runs 83% parity."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Fare Missing 3.5%",
+      "line_content": "Offer absence stable WoW, improved vs last month."
+    },
+    {
+      "line_title": "Exact Parity 68.6%",
+      "line_content": "High but slipped 4.6 ppts WoW, reversing previous gains."
+    },
+    {
+      "line_title": "GDS Higher 15.7%",
+      "line_content": "Premium share up 1.6 ppts WoW at +9 % average uplift."
+    },
+    {
+      "line_title": "GDS Lower 12.2%",
+      "line_content": "Discount share up 2.8 ppts WoW but still below last month."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Parity 68.6% (–5 ppts); both premiums and discounts increased."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "Parity 68.8% (+4.2 ppts); both premiums (14.6%) and discounts (7.6%) contracted."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Saudi Origins",
+      "line_content": "Parity 66%; undercuts 13.9% nearly match premiums 16.0%."
+    },
+    {
+      "line_title": "Non-SA Origins",
+      "line_content": "Parity strong at 82.9%; discounts minimal (2%), premiums 14.1%."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (<14 d)",
+      "line_content": "Parity 67.8% (–6.1 ppts); premiums 16.1%, discounts 13.8%."
+    },
+    {
+      "line_title": "Far-Out (≥14 d)",
+      "line_content": "Parity steadier at 70.3%; premiums 15%, discounts 9% with little change."
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Insight",
+      "line_content": "OTA data shows a competitive spread with 37.62% lower and 22.14% higher pricing, demonstrating aggressive discounting on short haul and premium adjustments on non-NL routes."
+    },
+    {
+      "line_title": "MSE Insight",
+      "line_content": "MSE consistently offers lower fares, with approximately 77% lower pricing and negligible upward adjustments, signifying a strong discount strategy."
+    },
+    {
+      "line_title": "GDS Insight",
+      "line_content": "GDS maintains stable pricing trends with 67% premium pricing relative to website fares, while omissions and discounting remain minimal."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Overall Pricing Spread",
+      "line_content": "Across 26 origin-destination pairs, 37.62% show OTA lower pricing and 22.14% show OTA higher pricing, indicating a broad competitive spread against the website."
+    },
+    {
+      "line_title": "Regional Contrast",
+      "line_content": "Short Haul routes display 46.80% OTA lower pricing while Long Haul routes show negligible lower frequencies, highlighting targeted pricing strategies by haul."
+    },
+    {
+      "line_title": "POO Divergence",
+      "line_content": "NL routes exhibit a dominant 74.59% OTA lower frequency, in contrast to Non-NL routes where 43.54% reflect OTA higher pricing."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A",
+      "line_content": "OTA N/A status stands at 13.79% overall with a slight decrease of 0.79% from the previous week, indicating minor inconsistencies in offer availability."
+    },
+    {
+      "line_title": "SAME",
+      "line_content": "SAME status remains consistent at 26.46% with 0.00% price difference, thus reflecting parallel pricing alignment with the website."
+    },
+    {
+      "line_title": "OTA HIGHER",
+      "line_content": "22.14% of cases register as OTA HIGHER with an average last-week premium of +0.19%, showing marginal pricing increases."
+    },
+    {
+      "line_title": "OTA LOWER",
+      "line_content": "OTA LOWER is observed in 37.62% of instances with a modest average reduction of -0.04%, emphasizing competitive discounting."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Insights",
+      "line_content": "Short Haul routes feature a high 46.80% OTA LOWER frequency and 22.71% OTA HIGHER, contrasted with 28.24% parity, indicating aggressive pricing competition."
+    },
+    {
+      "line_title": "Long Haul Insights",
+      "line_content": "Long Haul routes exhibit minimal OTA LOWER (0.00%) while displaying near balanced OTA HIGHER (19.88%) and SAME (19.29%), suggesting conservative adjustments."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "NL Routes",
+      "line_content": "For NL origins, OTA LOWER dominates at 74.59% with negligible cases of higher pricing, reflecting strong domestic discounting."
+    },
+    {
+      "line_title": "Non-NL Routes",
+      "line_content": "Non-NL segments reflect 43.54% OTA HIGHER and 42.14% SAME, indicating a tendency towards premium pricing compared to the originating website."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Window",
+      "line_content": "Close-in bookings (1128 itineraries) show 36.44% OTA LOWER and 22.34% OTA HIGHER, indicating competitive last-minute pricing adjustments."
+    },
+    {
+      "line_title": "Far Out Window",
+      "line_content": "Far-out bookings (584 itineraries) present 39.83% OTA LOWER and 21.71% OTA HIGHER, suggesting subtle differences in advance purchase pricing."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Predominant Lower Pricing",
+      "line_content": "The MSE channel consistently offers fares lower than the website, with an overall frequency averaging 77% in discounted prices."
+    },
+    {
+      "line_title": "Minimal Upward Deviations",
+      "line_content": "Instances of pricing higher than the website are negligible, remaining around 0.2-0.3% across segments."
+    },
+    {
+      "line_title": "Selective Matching",
+      "line_content": "Moderate instances of price parity, around 10%, indicate selective matching between the website and the MSE channel."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A",
+      "line_content": "Approximately 12-13% of offers on the MSE channel are marked as N/A, indicating missing website offers."
+    },
+    {
+      "line_title": "SAME",
+      "line_content": "SAME status averages around 10% overall, reflecting mixed patterns of price parity between channels."
+    },
+    {
+      "line_title": "MSE HIGHER",
+      "line_content": "With a frequency of about 0.2-0.3%, upward deviations on MSE are statistically negligible."
+    },
+    {
+      "line_title": "MSE LOWER",
+      "line_content": "Dominating the channel, MSE LOWER is observed in approximately 77% of cases, reinforcing its aggressive discounting strategy."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Trends",
+      "line_content": "Short haul routes exhibit a pronounced lower pricing trend at 91% and a modest 8% parity, emphasizing significant discounts."
+    },
+    {
+      "line_title": "Long Haul Trends",
+      "line_content": "Long haul routes show 21% lower pricing with 18% parity, accompanied by slightly elevated premium instances."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "NL Segment",
+      "line_content": "NL routes record 85% LOWER and a minimal 2.6% price parity, strongly indicating a discounting approach."
+    },
+    {
+      "line_title": "Non-NL Segment",
+      "line_content": "Non-NL routes display 69% lower fares with 18% matching, indicating more moderate price deviations."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in booking windows show 76% lower fares, with 10.7% matching and minimal upward differences."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings exhibit around 78% lower pricing with a slight increase in premium fares (up to 0.16%) compared to close-in windows."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Stable Trends",
+      "line_content": "The GDS channel demonstrates stable pricing frequencies with minimal week-to-week changes."
+    },
+    {
+      "line_title": "Premium Dominance",
+      "line_content": "Approximately 67% of GDS pricing records exceed website fares, highlighting a consistent premium pricing strategy."
+    },
+    {
+      "line_title": "Minimal Discounting",
+      "line_content": "Instances of missing website offers (around 12%) and lower pricing (nearly 0.1%) are minimal on GDS."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A",
+      "line_content": "About 12.3% of itineraries lack a corresponding website offer, with a slight weekly decrease of roughly 1.13%."
+    },
+    {
+      "line_title": "SAME Pricing",
+      "line_content": "Approximately 20.4% of records are at parity with website pricing, showing negligible average differences."
+    },
+    {
+      "line_title": "GDS Higher",
+      "line_content": "A dominant 67.2% of offers are higher than the website, with an average premium increment of about 0.11%."
+    },
+    {
+      "line_title": "GDS Lower",
+      "line_content": "Instances of GDS pricing below the website are extremely rare at around 0.06%, underlining limited discounting."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Premium",
+      "line_content": "For short haul, nearly 78.8% of records on GDS are priced higher than the website, with about 20.7% matching offers."
+    },
+    {
+      "line_title": "Long Haul Data Gaps",
+      "line_content": "Over 60% of long haul itineraries lack a website offer on GDS, with only around 20% presenting higher pricing."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "NL Segment Balance",
+      "line_content": "NL origins show about 54.3% premium pricing with 33.4% parity, and no instances of lower pricing."
+    },
+    {
+      "line_title": "Non-NL Premium",
+      "line_content": "Non-NL origins exhibit a strong premium effect, with roughly 80% higher pricing and only 7.6% matching the website."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in itineraries feature 60.4% higher GDS pricing and 26.9% pricing parity with the website."
+    },
+    {
+      "line_title": "Far-Out Divergence",
+      "line_content": "Far-out bookings show an 80.3% frequency of higher GDS pricing and only 8.1% matching website offers, indicating greater divergence."
+    }
+  ]
+}

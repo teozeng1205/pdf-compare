@@ -1,0 +1,204 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA",
+      "line_content": "Over 70% of fares match on OTA, reflecting stable alignment with direct channels."
+    },
+    {
+      "line_title": "MSE",
+      "line_content": "Over 85% of observed fares are cheaper on MSE, indicating strong discount-driven positioning."
+    },
+    {
+      "line_title": "GDS",
+      "line_content": "Around 69% of direct fares are missing on GDS, yet 30% remain in parity where coverage exists."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "High Match Rate",
+      "line_content": "Over 70% of observed fares match the website, demonstrating solid parity."
+    },
+    {
+      "line_title": "OTA Higher Steady",
+      "line_content": "Around 28% of fares price higher on OTA, with minor weekly fluctuations under 1%."
+    },
+    {
+      "line_title": "Low Missing Coverage",
+      "line_content": "Only about 1% of fares are missing, showing a slight downward trend."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found",
+      "line_content": "OTA N/A averages about 1%, improving from 1.48% to 0.68% week to week."
+    },
+    {
+      "line_title": "Matched Pricing",
+      "line_content": "Over 70% of fares remain aligned with the airline’s site, showing pricing stability."
+    },
+    {
+      "line_title": "Channel Higher",
+      "line_content": "OTA is higher 28% of the time, with fluctuations under 2%."
+    },
+    {
+      "line_title": "Channel Lower",
+      "line_content": "OTA Lower remains negligible at under 1% across comparisons."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "70% match, ~28% OTA-higher, <2% not listed."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "MA Origins",
+      "line_content": "60% fare alignment, ~38% OTA-higher, limited lower or missing fares."
+    },
+    {
+      "line_title": "Non-MA Origins",
+      "line_content": "93% match, ~5% OTA-higher, negligible lower-priced entries."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "~72% match, ~26% OTA-higher, <2% unlisted."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "~67% match, ~32% OTA-higher, minimal missing or lower fares."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Strong MSE Discount",
+      "line_content": "Over 85% cheaper than direct web, showing robust discounting."
+    },
+    {
+      "line_title": "Nearly Full Coverage",
+      "line_content": "<1% of itineraries show no MSE offer, reflecting strong availability."
+    },
+    {
+      "line_title": "Minimal Parity",
+      "line_content": "Fares matching direct channels remain below 2% of observations."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A",
+      "line_content": "Under 1% not listed, marking slight improvement from prior weeks."
+    },
+    {
+      "line_title": "Same",
+      "line_content": "About 1–2% match airline prices, relatively stable over time."
+    },
+    {
+      "line_title": "MSE Higher",
+      "line_content": "Some 12–14% are higher than direct channels, showing a minor decline from before."
+    },
+    {
+      "line_title": "MSE Lower",
+      "line_content": "Over 85% remain cheaper on MSE, confirming a dominant discount trend."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "~85% cheaper on MSE, ~13% higher, mirroring overall channel trends."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "MA",
+      "line_content": "~79% MSE-lower, ~18% MSE-higher, minimal matched or missing fares."
+    },
+    {
+      "line_title": "Non-MA",
+      "line_content": "~99.5% cheaper, with virtually no MSE-higher cases."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "~86% MSE-lower, ~12% higher, few missing fares."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "~83% MSE-lower, ~14% MSE-higher, maintaining a strong discount pattern."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Coverage Gap",
+      "line_content": "69% of website fares are missing, with Morocco routes missing 100%."
+    },
+    {
+      "line_title": "Stable Parity",
+      "line_content": "30% of fares match website pricing, unchanged week to week."
+    },
+    {
+      "line_title": "Minimal Discrepancies",
+      "line_content": "<1% show GDS price deviations where listed."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Website Not Found",
+      "line_content": "Nearly 70% are missing in GDS, improving 0.44% from last month."
+    },
+    {
+      "line_title": "Same",
+      "line_content": "Matching fares at ~30%, up 1.24% vs previous month."
+    },
+    {
+      "line_title": "GDS Higher",
+      "line_content": "~0.7% of routes, with a modest 0.2% premium on average."
+    },
+    {
+      "line_title": "GDS Lower",
+      "line_content": "~0.1% of flights, offering a negligible 0.02% price advantage."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "~69% missing, 30% parity, 1% difference in fares."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "MA",
+      "line_content": "All Morocco-origin fares remain 100% unlisted in GDS."
+    },
+    {
+      "line_title": "Non-MA",
+      "line_content": "97% match up, 2% higher, <1% lower cases."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "~68% missing, ~1% higher, ~0.2% lower."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "~71% missing, ~1.2% higher, no lower fares noted."
+    }
+  ]
+}

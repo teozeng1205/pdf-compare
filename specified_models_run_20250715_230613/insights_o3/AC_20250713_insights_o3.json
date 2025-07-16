@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Parity & Leakage",
+      "line_content": "Parity peaked at 71.7% (+5.8 ppts WoW), yet undercutting tripled to 9.0%, opening new revenue-dilution pockets."
+    },
+    {
+      "line_title": "MSE Long-Haul Risk",
+      "line_content": "Overall parity is a strong 78%, but 47% of long-haul itineraries price lower on MSE, signalling a material leakage hotspot."
+    },
+    {
+      "line_title": "GDS Premiums Persist",
+      "line_content": "Parity improved to 52%, however 47% of fares remain higher—especially 63% of >21-day bookings—keeping GDS the costliest channel."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Parity Strengthens",
+      "line_content": "Exact-match pricing reached 71.7% of tracked itineraries, up 5.8 ppts WoW and flat MoM."
+    },
+    {
+      "line_title": "Overpricing Cut",
+      "line_content": "Fares above the website fell to 18.2% (-11.7 ppts WoW); premium trimmed to +9%."
+    },
+    {
+      "line_title": "Leakage Warning",
+      "line_content": "OTA undercuts nearly tripled to 9.0% (+5.7 ppts), requiring rapid intervention."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Coverage",
+      "line_content": "Only 1.1% of queries lacked an OTA offer—minimal risk."
+    },
+    {
+      "line_title": "Price Parity",
+      "line_content": "Parity at 71.7% is the strongest in five weeks (+6 ppts WoW)."
+    },
+    {
+      "line_title": "OTA Higher",
+      "line_content": "Overpricing shrank to 18.2%; when present, average premium is +9%."
+    },
+    {
+      "line_title": "OTA Lower",
+      "line_content": "Undercutting rose to 9.0% with an 8% average discount."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "Parity 70.3% (+6.2 ppts); overpricing 19.1% vs underpricing 9.5%."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "Excellent 94.2% parity; rare overpricing (3.9%) carries a +13% premium."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Canada Origin",
+      "line_content": "75.1% parity; overpricing down to 16.1%, but undercuts up to 8.4%."
+    },
+    {
+      "line_title": "Non-Canada Origin",
+      "line_content": "Parity lags at 59.1%; 26.2% of routes still carry +6% OTA premiums."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (<14 d)",
+      "line_content": "Parity 68.5%; overpricing 19.2%, underpricing 10.9%—highest leakage risk."
+    },
+    {
+      "line_title": "Far-Out (≥14 d)",
+      "line_content": "Parity 78.1% (+13 ppts); overpricing 16.2%, underpricing low at 5.1%."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Parity Dominates",
+      "line_content": "78% of MSE observations match the website, +2.5 ppts WoW."
+    },
+    {
+      "line_title": "Premiums Shrinking",
+      "line_content": "Higher-priced cases fell to 16.6% with a negligible +0.10% gap."
+    },
+    {
+      "line_title": "Long-Haul Undercuts",
+      "line_content": "47% of long-haul itineraries are cheaper on MSE (-0.19% gap)."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offer Coverage",
+      "line_content": "Only 0.13% of searches lacked an AC offer—near-perfect presence."
+    },
+    {
+      "line_title": "Price Parity",
+      "line_content": "78.4% parity (+2.5 ppts WoW, +5.1 ppts MoM)."
+    },
+    {
+      "line_title": "MSE Higher",
+      "line_content": "16.6% overpriced; premium flat at +0.10% and declining in frequency."
+    },
+    {
+      "line_title": "MSE Lower",
+      "line_content": "Undercuts 4.8% (+0.4 ppts); discount modest at ‑0.15%."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "80% parity; 18% premiums (down 3 ppts), undercuts minimal (2%)."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "Parity drops to 53%; 47% lower-price frequency despite small gap."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Canada Origin",
+      "line_content": "85% parity; premiums 14% and falling, undercuts just 1%."
+    },
+    {
+      "line_title": "Non-Canada Origin",
+      "line_content": "Parity 54%; pricing volatile with 27% higher and 19% lower fares."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (≤7 d)",
+      "line_content": "Parity 79.6% (+5.9 ppts); premiums down to 14.9%, undercuts 5.4%."
+    },
+    {
+      "line_title": "Far-Out (>21 d)",
+      "line_content": "Parity softens to 75.9% (-4.6 ppts); premiums rise to 20.1%."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Parity Improving",
+      "line_content": "Same-fare occurrences climbed to 52% (+11 ppts WoW)."
+    },
+    {
+      "line_title": "Premium Shrinking",
+      "line_content": "Average mark-up eased to 0.22% MoM."
+    },
+    {
+      "line_title": "Far-Out Weak Spot",
+      "line_content": "63% of >21-day bookings priced above site with 0.36% premium."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offer Coverage",
+      "line_content": "Only 0.08% lacked a GDS fare—immaterial."
+    },
+    {
+      "line_title": "Same Fare",
+      "line_content": "Parity now 52.1% (+11 ppts WoW, +7.6 ppts MoM)."
+    },
+    {
+      "line_title": "GDS Higher",
+      "line_content": "47.2% still carry a premium; share down 10.7 ppts with 0.28% gap."
+    },
+    {
+      "line_title": "GDS Lower",
+      "line_content": "Discounts negligible at 0.6% frequency, ‑0.13% gap."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "Parity 51%; 48.5% still higher by 0.28%."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "Parity 74%; only 26% higher with minimal 0.08% premium."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Canada Origin",
+      "line_content": "49% higher pricing with 0.32% premium—worst segment despite improvement."
+    },
+    {
+      "line_title": "Non-Canada Origin",
+      "line_content": "Parity 58%; premium down to 0.07%, best-aligned origin group."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-20 d)",
+      "line_content": "Parity 60% (+15 ppts); overpricing 39.6% with 0.21% premium."
+    },
+    {
+      "line_title": "Far-Out (21+ d)",
+      "line_content": "Overpricing 62.8% dominates; premium 0.36% and stubbornly flat."
+    }
+  ]
+}

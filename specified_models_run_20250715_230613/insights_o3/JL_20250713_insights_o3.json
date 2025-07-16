@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Parity Slipping",
+      "line_content": "Parity still leads at 63% of OTA checks, but rising offer absences (21%) and close-in mark-ups signal growing last-minute risk."
+    },
+    {
+      "line_title": "MSE Undercut Risk",
+      "line_content": "Nearly half of MSE itineraries (47%) are cheaper than jal.com, with long-haul and non-Japan origins showing 78-88% undercut rates."
+    },
+    {
+      "line_title": "GDS Premium Problem",
+      "line_content": "Four out of five GDS fares carry a 1.5% average premium; parity is improving but remains low at 18%."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Parity Dominates",
+      "line_content": "62.7% of OTA itineraries priced exactly the same as jal.com, though down 3.8 ppt week-on-week."
+    },
+    {
+      "line_title": "Offers Missing",
+      "line_content": "Website fares absent on OTAs for 20.6% of ODs, up 2 ppt WoW, indicating rising distribution leakage."
+    },
+    {
+      "line_title": "Close-In Vulnerable",
+      "line_content": "0–7-day bookings show only 56.3% parity and highest OTA mark-ups (13.8%)."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Not Listed",
+      "line_content": "1 in 5 website fares were not found on OTAs, driven by close-in searches."
+    },
+    {
+      "line_title": "Same Price",
+      "line_content": "Parity strong at 62.7% but eroding (-3.8 ppt WoW, ‑4.3 ppt MoM)."
+    },
+    {
+      "line_title": "OTA Higher",
+      "line_content": "12.0% of ODs were priced above website with a 0.71% average premium."
+    },
+    {
+      "line_title": "OTA Lower",
+      "line_content": "4.7% undercutting incidence; small but growing (+1.1 ppt WoW)."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "21.9% not listed and 12.7% OTA premium; parity slipped 3.9 ppt WoW."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "98.1% parity with negligible mark-ups, showing strong control internationally."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Japan Origin",
+      "line_content": "21.5% missing offers and 12.5% OTA premium mirror overall leakage."
+    },
+    {
+      "line_title": "Non-Japan Origin",
+      "line_content": "Parity reaches 96.8% and missing offers drop to 1.6%, albeit on limited volume."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-7d)",
+      "line_content": "Parity 56.3%, missing offers 27.6%, OTA premium 0.75% on 13.8% of checks."
+    },
+    {
+      "line_title": "Far-Out (8+d)",
+      "line_content": "Parity strengthens to 75.1%; OTA discounts (9.4%) outweigh premiums (8.3%)."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Parity vs Undercut",
+      "line_content": "49% parity vs 47% lower prices highlights sizable revenue leakage risk."
+    },
+    {
+      "line_title": "International Hot-Spot",
+      "line_content": "78% of long-haul and 88% of non-Japan origin itineraries are cheaper on MSE."
+    },
+    {
+      "line_title": "Shelf-Space Alert",
+      "line_content": "Fare not found rose 48% WoW to 1.8% of searches."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found",
+      "line_content": "Absent fares on 1.8% of ODs; still low but trending upward."
+    },
+    {
+      "line_title": "Exact Parity",
+      "line_content": "Parity at 49% and stable MoM, indicating reasonable file accuracy."
+    },
+    {
+      "line_title": "MSE Lower",
+      "line_content": "47.3% undercutting with an average 0.16% gap; key driver of leakage."
+    },
+    {
+      "line_title": "MSE Higher",
+      "line_content": "Only 1.9% of checks show a premium and share continues to fall."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "51% parity and 45% cheaper on MSE; little weekly movement."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "78% of itineraries priced lower on MSE, zero premiums recorded."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Japan Origin",
+      "line_content": "Parity 51% vs 45% lower; domestic base relatively balanced."
+    },
+    {
+      "line_title": "Non-Japan Origin",
+      "line_content": "88% lower prices and only 11% parity point to currency or filing issues."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-14d)",
+      "line_content": "58% of fares cheaper on MSE; only 38% in parity during high-yield window."
+    },
+    {
+      "line_title": "Far-Out (15+d)",
+      "line_content": "Parity improves to 71%; undercutting falls to 26%."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS Premium",
+      "line_content": "79% of itineraries priced higher than jal.com, only a 2-ppt drop MoM."
+    },
+    {
+      "line_title": "Parity Uptick",
+      "line_content": "Exact-match fares reached 18.4%, best in three months but below target."
+    },
+    {
+      "line_title": "Domestic Focus",
+      "line_content": "84% of Japan short-haul fares carry a GDS premium; long-haul largely in parity."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Missing",
+      "line_content": "2.7% of ODs not returned; slight improvement (-0.6 ppt MoM)."
+    },
+    {
+      "line_title": "Same Price",
+      "line_content": "Parity at 18.4%, up 3 ppt MoM but still sub-optimal."
+    },
+    {
+      "line_title": "GDS Higher",
+      "line_content": "78.8% of fares average 1.5% premium; primary revenue risk."
+    },
+    {
+      "line_title": "GDS Lower",
+      "line_content": "Only 0.07% undercutting, minimal competitive threat."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "84% higher pricing with 1.5% average uplift; only 13% parity."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "99% parity; overpricing virtually absent."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Japan Origin",
+      "line_content": "83% GDS-higher and 15% parity replicate short-haul issue."
+    },
+    {
+      "line_title": "Non-Japan Origin",
+      "line_content": "97% parity; zero GDS premiums recorded."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-7d)",
+      "line_content": "74% of close-in searches priced higher; average 1.0% uplift."
+    },
+    {
+      "line_title": "Far-Out (8+d)",
+      "line_content": "88% higher pricing with a larger 2.4% surcharge."
+    }
+  ]
+}

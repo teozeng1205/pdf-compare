@@ -1,0 +1,212 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Consistency",
+      "line_content": "OTA pricing remains highly consistent with the website with over 84% of offers aligned, and adjustments in both premium and discount fares indicate a calibrated pricing strategy."
+    },
+    {
+      "line_title": "MSE Lower Dominance",
+      "line_content": "MSE channel exhibits a strong trend toward lower fares, with over 91% of fares priced below the website rate across all dimensions, reflecting a systematic divergence."
+    },
+    {
+      "line_title": "GDS Alignment & Variance",
+      "line_content": "GDS mostly aligns with website pricing (75% same-priced), while also showing a notable regional variation, with non-Thai origins experiencing higher levels of discounting."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "High SAME Consistency",
+      "line_content": "Approximately 84% of OTA offers match the website pricing, demonstrating strong consistency."
+    },
+    {
+      "line_title": "Selective Premium Pricing",
+      "line_content": "A 0.95% weekly increase in OTA higher fares points to a measured premium pricing adjustment."
+    },
+    {
+      "line_title": "Dynamic Discount Adjustments",
+      "line_content": "OTA lower offers fell 1.09% week-on-week but rebounded by 2.85% month-on-month, reflecting flexible discount strategies."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A Stability",
+      "line_content": "OTA N/A offer frequency remains steady at about 2.5% over the periods compared, highlighting consistent non-comparable offers."
+    },
+    {
+      "line_title": "SAME Dominance",
+      "line_content": "Over 84% of offers are identical to website pricing, with only minor adjustments observed both weekly and monthly."
+    },
+    {
+      "line_title": "Marginal Premium Effects",
+      "line_content": "With approximately 6% OTA higher offers and a slight 0.95% weekly uptick, a narrow premium pricing band is maintained."
+    },
+    {
+      "line_title": "Variable Discount Trends",
+      "line_content": "Approximately 7% OTA lower offers experienced a 1.09% drop week-on-week with a 2.85% month-on-month recovery, signifying an adaptive discount approach."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Variability",
+      "line_content": "Short Haul routes reflect a mix of discounting (8.67% OTA lower) and premium pricing (5.96% OTA higher), indicating active regional adjustments."
+    },
+    {
+      "line_title": "Long Haul Consistency",
+      "line_content": "Long Haul offers remain highly consistent with over 91% matching the website, with minimal premium adjustments and absent discount data."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "TH Origin Stability",
+      "line_content": "Thai origin offers show 92.44% alignment with website pricing and low deviations in premium or discount fares."
+    },
+    {
+      "line_title": "Non-TH Price Variation",
+      "line_content": "Non-Thai offers are more variable with only 53.85% matching website prices, and elevated shares of both premium (20.88%) and discount (21.98%) fares."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In Volatility",
+      "line_content": "Close in bookings are more volatile with 9.82% OTA lower fares surging 5.03% month-on-month, indicating reactive discounting."
+    },
+    {
+      "line_title": "Far Out Consistency",
+      "line_content": "Far out bookings remain highly consistent with over 92% matching website pricing, with minimal premium adjustments."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Dominant Lower Pricing",
+      "line_content": "Approximately 91-94% of fares on the MSE channel are lower than website prices, indicating significant pricing discrepancies."
+    },
+    {
+      "line_title": "Consistent Trend",
+      "line_content": "Lower fares are consistent across short haul, long haul, domestic, and international segments, with an average difference up to -0.11%."
+    },
+    {
+      "line_title": "Increasing Divergence",
+      "line_content": "MSE lower fares increased from 71.7%-88.4% to over 91.7%, while matching fares have notably declined, underscoring growing divergence."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A Minimal",
+      "line_content": "MSE N/A instances are minimal at around 0.7%, ensuring broad channel availability."
+    },
+    {
+      "line_title": "Sharp SAME Decline",
+      "line_content": "SAME fares dropped from 26.7% to 6.7%, emphasizing a shift towards lower pricing on MSE."
+    },
+    {
+      "line_title": "Rare Higher Fares",
+      "line_content": "Fares above website pricing remain rare at approximately 0.9% with little fluctuation."
+    },
+    {
+      "line_title": "Predominantly Lower",
+      "line_content": "Lower priced fares consistently dominate at around 91.7%, marking a clear pricing strategy deviation."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "Short haul fares are 91.6% lower-priced with a price differential averaging -0.09%, and a 4.3% uptick from the previous week."
+    },
+    {
+      "line_title": "Long Haul Slight Variation",
+      "line_content": "Long haul routes show dominant lower pricing at 93.9% with a marginally smaller average difference of -0.06%."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "TH Market Stability",
+      "line_content": "Thai-origin routes maintain 91.6% lower fares with an average dip of -0.08%, reflecting steady domestic pricing."
+    },
+    {
+      "line_title": "Non-TH Enhanced Discounting",
+      "line_content": "Non-Thai routes experience 91.2% lower fares with a deeper average price difference of -0.11%, indicating a more aggressive strategy."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Aggression",
+      "line_content": "Close in bookings register 93.7% lower-priced fares with an average difference of -0.10%, demonstrating aggressive discounting."
+    },
+    {
+      "line_title": "Tempered Far-Out",
+      "line_content": "Far-out bookings, while still largely lower-priced at 88.0%, show a smaller average gap of -0.06%."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Overall Alignment",
+      "line_content": "Over 75% of GDS channel offers are consistent with website pricing, reflecting strong alignment with direct sales."
+    },
+    {
+      "line_title": "Moderate Discrepancies",
+      "line_content": "A moderate 9-12% of itineraries are priced higher and 10-16% lower, indicating balanced pricing variations."
+    },
+    {
+      "line_title": "Regional POO Variance",
+      "line_content": "Non-Thai itineraries exhibit a 25% share of lower-priced offers versus 11% for Thai origins, pointing to region-specific pricing adjustments."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A Negligible",
+      "line_content": "Instances of missing website offers on GDS are negligible, ensuring broad inventory representation."
+    },
+    {
+      "line_title": "Predominantly SAME",
+      "line_content": "The majority, over 75%, of offers are Same-priced, despite a modest 3-12% decline from previous comparisons."
+    },
+    {
+      "line_title": "Higher and Lower Trends",
+      "line_content": "Approximately 9-12% higher and 10-16% lower-priced offers are observed, with lower fares increasing slightly and averaging around -0.20%."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Mix",
+      "line_content": "Short haul itineraries feature 74.8% same, 9.5% higher, and 15.7% lower-priced offers, indicating a tilt towards discounting."
+    },
+    {
+      "line_title": "Long Haul Stability",
+      "line_content": "Long haul markets maintain 84.9% same-priced offers, with a higher incidence (12.1%) of premium fares and very low discounting (3.0%)."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "TH Origin Alignment",
+      "line_content": "Thai origin itineraries are well-aligned at 79.1% same-priced with low lower-priced occurrence at 10.7%."
+    },
+    {
+      "line_title": "Non-TH Competitive Pricing",
+      "line_content": "Non-Thai routes show only 64.8% same pricing alongside a significant 25.3% lower-price incidence, reflecting intensified competition."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In Dynamics",
+      "line_content": "Close in bookings display 73.2% same-priced offers with a higher share of 16.6% lower-priced fares."
+    },
+    {
+      "line_title": "Far Out Stability",
+      "line_content": "Far out bookings achieve 81.5% consistency with very limited lower-priced offers at 8.6%, suggesting stable advanced pricing."
+    }
+  ]
+}

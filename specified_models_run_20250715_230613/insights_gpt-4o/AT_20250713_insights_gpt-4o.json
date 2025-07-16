@@ -1,0 +1,184 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Price Alignment",
+      "line_content": "OTAs maintain 70% pricing parity with Royal Air Maroc's website, demonstrating a strong alignment strategy."
+    },
+    {
+      "line_title": "MSE Competitive Pricing",
+      "line_content": "MSE channel predominantly offers lower prices than the airline's website, with an 85.3% frequency of cheaper fares."
+    },
+    {
+      "line_title": "GDS Distribution Opportunities",
+      "line_content": "GDS exhibits significant distribution gaps with 69% of airline offers not mirrored, indicating room for expansion."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Price Consistency",
+      "line_content": "70% of routes show no price difference between Royal Air Maroc's site and OTA channels, maintaining parity in the majority of cases."
+    },
+    {
+      "line_title": "Price Discrepancy Upward",
+      "line_content": "Approximately 28% of the routes display higher prices on OTAs compared to the airline's website, indicating a trend where OTAs often list higher fares."
+    },
+    {
+      "line_title": "Minimal Price Undercharges",
+      "line_content": "Less than 1% of routes have lower OTA prices than the airline's website, suggesting negligible undercutting on the OTA channel."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offer Missing",
+      "line_content": "Only 1.5% of pricing offers available on the website are not found on OTAs, demonstrating high congruence."
+    },
+    {
+      "line_title": "Par Pricing",
+      "line_content": "A 70.3% consistency across both booking sources highlights the price alignment strategy with OTAs."
+    },
+    {
+      "line_title": "Higher OTA Pricing",
+      "line_content": "OTAs show higher prices on 28.1% of comparisons, pointing towards premium pricing strategies on third-party platforms."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "Short haul flights maintain strong parity, with 70.3% of prices showing no discrepancy."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Moroccan Point of Origin",
+      "line_content": "38.3% of Moroccan origin flights are priced higher on OTAs, marking a dominant pricing position for these routes."
+    },
+    {
+      "line_title": "Non-Moroccan Origin Pricing",
+      "line_content": "93% of non-Moroccan origin prices match across channels, with fewer discrepancies seen outside the home market."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in booking windows exhibit a 71.8% similarity in pricing, maintaining consistency closer to departure dates."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out windows show 67.1% pricing parity, with a slight decrease compared to close-in bookings, indicating some flexibility in advance pricing strategies."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Channel Dominance",
+      "line_content": "In the MSE channel, the 'MSE LOWER' status is dominant, representing an 85.3% frequency, indicating that prices are often lower in this channel compared to the airline's website."
+    },
+    {
+      "line_title": "Steady Price Patterns",
+      "line_content": "The high occurrence of 'SAME' status signifies consistent pricing with minimal differences over the past weeks and months."
+    },
+    {
+      "line_title": "Increasing Price Parity",
+      "line_content": "There is a noticeable trend towards price parity, with a 0.41% increase in the 'SAME' status frequency from the previous week."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE Lower Presence",
+      "line_content": "Consistently high frequency of 'MSE LOWER' status, at 85.25%, reflects dominant lower pricing channel behavior."
+    },
+    {
+      "line_title": "Low Price Increase Incidence",
+      "line_content": "The 'MSE HIGHER' status remains relatively low at 12.6%, indicating that price increases on the MSE compared to the airline's site are uncommon."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Preference",
+      "line_content": "Short haul routes exhibit a strong tendency towards lower pricing on MSE, with an 85.25% occurrence of MSE LOWER status."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Morocco's Pricing Consistency",
+      "line_content": "In routes originating from Morocco, the 'MSE LOWER' status holds a high rate of 78.96%, underscoring significant price competitiveness through the MSE channel."
+    },
+    {
+      "line_title": "Global Trends Limited",
+      "line_content": "For Non-Moroccan origins, the frequency of 'MSE HIGHER' is negligible, emphasizing consistent lower pricing for most international routes."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings Advantage",
+      "line_content": "Close-In bookings benefit notably from lower prices, showing an 86.23% frequency of 'MSE LOWER' status, indicating strong last-minute pricing appeal."
+    },
+    {
+      "line_title": "Far-Out Stability Remains",
+      "line_content": "Pricing stability for far-out bookings is evident with zero instances of MSE HIGHER status, reinforcing competitive pricing tactics."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS Consistency",
+      "line_content": "The GDS channel shows high consistency with a minimal deviation of 0.07% higher prices on average compared to the airline's website, pointing to stable pricing strategies."
+    },
+    {
+      "line_title": "Important Discrepancy",
+      "line_content": "Approximately 69% of price offers on the website are not found in the GDS channel, indicating a significant opportunity to improve distribution."
+    },
+    {
+      "line_title": "Minimal GDS Lower Pricing",
+      "line_content": "The GDS pricing was lower than the website's offers only 0.13% of the time, suggesting little competitive pricing advantage in this channel."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Price Consistency",
+      "line_content": "For the past week, 29.8% of prices were identical on both GDS and the website, showing stable parity."
+    },
+    {
+      "line_title": "Discrepancy Prevalence",
+      "line_content": "GDS higher prices only accounted for 0.7% of instances, with negligible fluctuation in past periods."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Region Summary Insight",
+      "line_content": "All analyzed OD pairs for short hauls show consistency in price comparison metrics with no significant regional distinction noted."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "MA Origin Dominance",
+      "line_content": "Flights originating from Morocco consistently showed 100% of offers not present on GDS, emphasizing exclusive distribution on the airline’s platforms."
+    },
+    {
+      "line_title": "Non-MA Consistent",
+      "line_content": "Global Non-MA origins maintain a stable 97.4% identical pricing, reflecting consistent GDS presence for international offers."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Far Out Stability",
+      "line_content": "Prices far out from departure showed absolute parity (100% identical), reflecting stable pricing strategies over longer booking windows."
+    },
+    {
+      "line_title": "Close-In Variation",
+      "line_content": "Close-in bookings exhibit slightly greater variance with GDS higher prices occurring 1% of the time, capturing slight volatility in last-minute pricing trends."
+    }
+  ]
+}

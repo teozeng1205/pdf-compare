@@ -1,0 +1,204 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Premium Escalation",
+      "line_content": "64% of Qatar Airways (QR) listings on OTAs price above qatarairways.com, a 7-point monthly rise, with a stable 6% average markup."
+    },
+    {
+      "line_title": "MSE Undercutting Declines",
+      "line_content": "Meta-search engines still list cheaper fares 78% of the time, but the share is falling rapidly (-8 pts MoM) as parity climbs to 22%."
+    },
+    {
+      "line_title": "GDS Premiums Dominate",
+      "line_content": "GDS displays higher prices on 51% of itineraries, up 6 pts WoW, signalling a structural 6% channel premium and slipping parity (-8 pts MoM)."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Rising OTA Premiums",
+      "line_content": "Seven in ten OTA fares exceed the airline site, a 7-point MoM surge; average markup holds at ~6%."
+    },
+    {
+      "line_title": "Short-Haul Vulnerability",
+      "line_content": "77% of short-haul fares price higher on OTAs, double the long-haul exposure, with a consistent 6% premium."
+    },
+    {
+      "line_title": "Close-In Spike",
+      "line_content": "Inside 14 days of departure, 62% of OTA listings are higher, and the premium widens to 7%."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Declining Parity",
+      "line_content": "Only 28% of OTA prices now match the site (-8 pts MoM)."
+    },
+    {
+      "line_title": "OTA Higher Dominates",
+      "line_content": "64% of fares are dearer on OTAs; share up 4 pts WoW, 7 pts MoM with steady 6% uplift."
+    },
+    {
+      "line_title": "Offer Gaps Stable",
+      "line_content": "Website fare missing in 7% of OTA searches; no material change month-over-month."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "77% higher-priced; parity just 12%, highlighting acute regional mis-alignment."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "40% higher-priced with a modest 4% markup; parity remains the norm at 60%."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Qatar Origin",
+      "line_content": "62% higher-priced on OTAs with a 7% premium, little week-to-week movement."
+    },
+    {
+      "line_title": "Non-Qatar Origin",
+      "line_content": "67% higher-priced (-4% premium); exposure up 13 pts MoM outside home market."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In ≤14d",
+      "line_content": "62% higher on OTAs, premium 7%; over-pricing share rose 5 pts WoW."
+    },
+    {
+      "line_title": "Far-Out >14d",
+      "line_content": "69% higher—highest window share—but premium narrows to 4%."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Still Cheaper Overall",
+      "line_content": "78% of itineraries are lower on MSE, yet the share fell 8 pts MoM, pointing to improving control."
+    },
+    {
+      "line_title": "Parity Momentum",
+      "line_content": "Matched prices now in 22% of searches, +9 pts versus last month—the fastest gain among channels."
+    },
+    {
+      "line_title": "Long-Haul Focus",
+      "line_content": "81% of long-haul itineraries remain cheaper on MSE, despite a slim 0.05% gap, signalling next area for action."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE Lower",
+      "line_content": "Undercutting at 78%; frequency down 8 pts MoM with a negligible 0.06% average gap."
+    },
+    {
+      "line_title": "Parity Gains",
+      "line_content": "Parity climbed to 22% (+9 pts MoM)—strongest improvement across channels."
+    },
+    {
+      "line_title": "Minimal Premium Risk",
+      "line_content": "Only 0.26% of cases show MSE higher; premium just 0.14%."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "76% lower on MSE; parity up 5 pts WoW as domestic competitiveness improves."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "81% lower; despite the narrow gap, high exposure advises prioritising intercontinental routes."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Qatar Origin",
+      "line_content": "Parity peaks at 25%; MSE lower in 75% with a 0.05% gap."
+    },
+    {
+      "line_title": "Non-Qatar Origin",
+      "line_content": "MSE lower in 80% of searches; parity only 19%, indicating bigger overseas challenge."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In ≤14d",
+      "line_content": "82% cheaper on MSE; share down 4 pts WoW as parity improves late."
+    },
+    {
+      "line_title": "Far-Out ≥15d",
+      "line_content": "69% cheaper with a 0.04% gap; parity highest at 30% but 1.1% offers missing."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Premiums Cross 50%",
+      "line_content": "51% of GDS fares price above the site, +6 pts WoW, with a steady 6% markup."
+    },
+    {
+      "line_title": "Parity Slippage",
+      "line_content": "Parity fell to 46% (-8 pts MoM), signalling widening mis-alignment."
+    },
+    {
+      "line_title": "Discounts Rare",
+      "line_content": "Only 0.5% of itineraries cheaper in GDS, limiting upside from agency shopping."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Higher",
+      "line_content": "Majority status at 51%; average premium ~6% and climbing share indicates systemic issue."
+    },
+    {
+      "line_title": "Same Price",
+      "line_content": "Parity down to 46% (-6 pts WoW, ‑8 pts MoM)."
+    },
+    {
+      "line_title": "Offer Gaps Minimal",
+      "line_content": "Only 2% of OD pairs not found in GDS; availability stable."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul 60% Higher",
+      "line_content": "Regional itineraries most exposed; parity just 37%, down 7 pts WoW."
+    },
+    {
+      "line_title": "Long-Haul 34% Higher",
+      "line_content": "Two-thirds at parity with a smaller 5% premium, indicating better long-haul control."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Origin Qatar",
+      "line_content": "47% higher-priced; parity 53%, showing relatively balanced home-market distribution."
+    },
+    {
+      "line_title": "Origin Non-Qatar",
+      "line_content": "55% higher-priced; parity slips to 40%, highlighting stronger leak abroad."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In 48% Higher",
+      "line_content": "Near-departure bookings see 7% premium and 50% parity—risk of late-stage leakage."
+    },
+    {
+      "line_title": "Far-Out 58% Higher",
+      "line_content": "Advance purchases face largest disparity; zero discounts observed."
+    }
+  ]
+}

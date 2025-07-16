@@ -1,0 +1,168 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Insight",
+      "line_content": "OTA prices for Kenya Airways are usually higher than the airline's website, dominating over 91% of cases."
+    },
+    {
+      "line_title": "MSE Insight",
+      "line_content": "The MSE channel offers significant competitive pricing, with a notable portion of fares lower than the airline's website prices."
+    },
+    {
+      "line_title": "GDS Insight",
+      "line_content": "Kenya Airways' GDS fares are consistently higher than those on the website, with premiums evident in over 95% of instances."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "OTA Higher Pricing Dominates",
+      "line_content": "For Kenya Airways, OTA-listed prices are higher than their website over 91% of the time across different dimensions."
+    },
+    {
+      "line_title": "Minimal OTA Discounts",
+      "line_content": "Instances where OTAs offered lower prices than the airline's site were rare, at just over 1%."
+    },
+    {
+      "line_title": "Stable Price Parity",
+      "line_content": "Instances of prices being the same on both OTA and the airline's website remained low, with no significant weekly or monthly trends."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A Incidence",
+      "line_content": "Price comparisons not found on the OTA decreased slightly by around 3% compared to the previous week and month."
+    },
+    {
+      "line_title": "OTA Higher",
+      "line_content": "OTAs frequently list higher prices, though the frequency decreased by approximately 3%."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "Short haul itineraries show a consistent trend with OTA prices higher than the website in over 91% of cases."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Consistent Trends from Kenya",
+      "line_content": "Flights originating from Kenya follow the overall trends, with OTA prices predominately higher and few price parity instances."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Booking Ahead Offers No Relief",
+      "line_content": "Far out bookings consistently show OTA prices higher, with no reduction over time."
+    },
+    {
+      "line_title": "Close In Booking Fluctuations",
+      "line_content": "Closer to departure, OTA prices remain higher, but there's variability with slight decreases noticed in recent comparisons."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "MSE Competitive Landscape",
+      "line_content": "A significant portion of fares on the MSE channel are lower than those found directly on the airline's website, highlighting competitive pricing."
+    },
+    {
+      "line_title": "Consistency in Pricing",
+      "line_content": "The proportion of rates that are the same on MSE and the airline's site is relatively stable, indicating consistent pricing strategies."
+    },
+    {
+      "line_title": "Price Parity Challenges",
+      "line_content": "Occasional instances where MSE fares are higher than the website indicate opportunities for alignment."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Same Pricing Stability",
+      "line_content": "On average, 72% of prices remain consistent between the MSE channel and the airline's site, showing stable across all periods."
+    },
+    {
+      "line_title": "MSE Lower Pricing",
+      "line_content": "Approximately 28% of fares are lower on MSE on a week-over-week basis, suggesting MSE's competitive pricing approach."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Dominance",
+      "line_content": "For Short Haul flights, MSE is more likely to offer lower prices, reinforcing their competitive edge in this segment."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Kenyan Market Focus",
+      "line_content": "The Kenyan point of origin shows higher competitive pricing activity, with 28% of fares lower on MSE."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-in Window Competitive Edge",
+      "line_content": "MSE fares are more competitive (21% lower) in the close-in window, emphasizing aggressive pricing strategies for last-minute bookings."
+    },
+    {
+      "line_title": "Far Out Window Stability",
+      "line_content": "Far out bookings have a 38% lower price on MSE with consistency, indicating a strategic advantage in early bookings."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "High GDS Premium",
+      "line_content": "Kenya Airways' GDS prices are frequently higher than its website, reflecting a persistent premium in GDS offers."
+    },
+    {
+      "line_title": "Consistent Higher Pricing",
+      "line_content": "Over 95% of itineraries analyzed show a higher price in the GDS channel compared to the website for consecutive months."
+    },
+    {
+      "line_title": "Price Stability",
+      "line_content": "Price differentials between GDS and website are stable, with only minor fluctuations observed over time."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Website N/A",
+      "line_content": "The frequency of GDS prices being unlisted on the website remains constant, indicating no significant improvement in aligning web and GDS visibility."
+    },
+    {
+      "line_title": "GDS Premiums Persist",
+      "line_content": "Consistently, nearly 96% of all cases reflect higher GDS pricing over the website, showing unchanged strategies in the channel."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Pricing Patterns",
+      "line_content": "Short-haul routes continue to exhibit a high prevalence of GDS channel price premiums, with over 95% priced higher than the corresponding website rates."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Kenya Origin Dominance",
+      "line_content": "Fares originating in Kenya mirror the general trend, with the majority priced higher in the GDS channel."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Variability",
+      "line_content": "Close-in bookings reveal slight variations in the GDS pricing trend, with minor reductions in frequency compared to further booking windows, yet GDS remains mostly higher."
+    },
+    {
+      "line_title": "Far-Out Stability",
+      "line_content": "Far-out bookings are predominantly priced higher in the GDS channel, reflecting a locked-in higher pricing strategy similar to close-in trends."
+    }
+  ]
+}

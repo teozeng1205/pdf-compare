@@ -1,0 +1,176 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Pricing Insights",
+      "line_content": "Frontier Airlines fares were predominantly higher on OTAs, with a 95% occurrence rate, reflecting a strategic decision to position higher on these platforms."
+    },
+    {
+      "line_title": "MSE Pricing Insights",
+      "line_content": "There was a 15.52% increase in instances where MSE offers prices lower than those on Frontier's website, indicating increased competitive pricing."
+    },
+    {
+      "line_title": "GDS Pricing Insights",
+      "line_content": "GDS largely presents higher pricing, with an increase to 95% of listings priced above Frontier's own site fares."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "OTA Higher Pricing",
+      "line_content": "Frontier Airlines fares were higher on OTAs in 95% of cases, indicating a trend of elevated pricing on these platforms."
+    },
+    {
+      "line_title": "Minimal OTA Advantage",
+      "line_content": "Only 1.3% of prices were competitively lower on OTAs, underscoring minimal price competitiveness in this channel."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA Price Stability",
+      "line_content": "The incidence of Frontier's offers being unavailable on OTAs slightly decreased by 0.12%, suggesting stable OTA listing presence."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul OTA Pricing",
+      "line_content": "Short haul flights had higher OTA pricing in 96% of cases, consistent with overall channel trends."
+    },
+    {
+      "line_title": "Long Haul OTA Pricing Patterns",
+      "line_content": "Long haul routes followed suit with 91.5% of cases priced higher on OTAs."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "US Origin OTA Dominance",
+      "line_content": "In the US, OTA fares were higher 96% of the time, showing a strong pricing pattern despite minor dips."
+    },
+    {
+      "line_title": "Non-US Origins Variable Pricing",
+      "line_content": "OTA fares from non-US origins were higher in 79% of cases, exhibiting notable regional variability."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Trends",
+      "line_content": "Close-in bookings saw 94% of OTA fares being higher, typical for urgent travel scenarios."
+    },
+    {
+      "line_title": "Far-Out Booking Developments",
+      "line_content": "Far-out OTA bookings had a slight increase in lower prices compared to last month."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Rising MSE Lower Rates",
+      "line_content": "MSE channels increasingly offer lower prices than Frontier's site, marking a 15.52% upswing."
+    },
+    {
+      "line_title": "Improved Price Parity",
+      "line_content": "Same-priced offerings between MSEs and Frontier increased by 15.19%, indicating closer price alignment."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Stability in Listings",
+      "line_content": "The frequency of Frontier offers not appearing on MSEs remained steady, showing no significant fluctuations."
+    },
+    {
+      "line_title": "Price Parity Increase",
+      "line_content": "There is a 15.19% increase in price parity listings on MSEs compared to Frontier's site, indicating improved market positioning."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul MSE Price Improvements",
+      "line_content": "Short haul routes saw a 17.57% increase in lower pricing from MSEs compared to Frontier's website."
+    },
+    {
+      "line_title": "Long Haul MSE Adjustments",
+      "line_content": "Long haul routes showed a 9.58% rise in MSE lower pricing frequency, though the increase is less pronounced."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "US Origins MSE Pricing",
+      "line_content": "US-originating routes experienced a 16.23% increase in cheaper MSE pricing."
+    },
+    {
+      "line_title": "Marginal Non-US Impact",
+      "line_content": "Non-US routes saw a modest 4.46% increase in lower MSE pricing."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In MSE Pricing Trends",
+      "line_content": "Close-in bookings are more often cheaper on MSEs, with a 13.81% uptick in lower price instances."
+    },
+    {
+      "line_title": "Far-Out MSE Pricing Adjustments",
+      "line_content": "MSEs still generally higher in far-out bookings, but with decreasing higher-priced listings by 19.23%."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Dominant GDS Pricing",
+      "line_content": "GDS prices surpassed Frontier's website in 95% of cases, indicating a dominant high-price trend."
+    },
+    {
+      "line_title": "Stability in GDS Pricing",
+      "line_content": "Minimal variation in GDS pricing differences over the last month shows consistent strategy."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "High GDS Pricing",
+      "line_content": "95% of GDS listings were priced above Frontier's own site last week, with a 2% week-over-week increase."
+    },
+    {
+      "line_title": "Price Matching Rare",
+      "line_content": "Instances matching GDS and Frontier website prices remain negligible."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul GDS Dominance",
+      "line_content": "GDS pricing was higher in 97% of short haul routes, showing little change from previous data."
+    },
+    {
+      "line_title": "Long Haul GDS Variability",
+      "line_content": "Long haul routes saw a slight 0.37% decrease in GDS higher pricing rates, indicating some variability."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "US Origin GDS Pricing",
+      "line_content": "For US origins, GDS prices were higher in 97% of cases, a 2.06% increase from the previous week."
+    },
+    {
+      "line_title": "Non-US GDS Pricing Trajectory",
+      "line_content": "Non-US origins had GDS higher pricing in 63% of cases, with slight declines over time."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In GDS Pricing",
+      "line_content": "95% of close-in bookings on GDS were higher priced, with a 3.18% week-over-week increase."
+    },
+    {
+      "line_title": "Stable Far-Out GDS Pricing",
+      "line_content": "Far-out GDS pricing showed a slight 0.95% decline, maintaining overall stability."
+    }
+  ]
+}

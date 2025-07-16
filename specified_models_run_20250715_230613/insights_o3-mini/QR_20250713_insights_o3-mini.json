@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Insight",
+      "line_content": "OTA channel exhibits a dominant premium pricing approach with OTA Higher status at around 64%, supported by stable outcomes across regions and booking windows."
+    },
+    {
+      "line_title": "MSE Insight",
+      "line_content": "MSE channel is characterized by prevalent discounting, with Lower pricing appearing in 75-86% of cases and only modest fluctuations in premium differentials."
+    },
+    {
+      "line_title": "GDS Insight",
+      "line_content": "GDS channel demonstrates strong price consistency with nearly 50% matching the website, while a solid 51% of itineraries carry a premium, especially in short-haul and non-QA segments."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "OTA Higher Dominance",
+      "line_content": "The OTA channel consistently sticks with premium pricing as seen in a high frequency of OTA Higher at approximately 64%."
+    },
+    {
+      "line_title": "Declining Same Trend",
+      "line_content": "OTA SAME offers hold about 28% of cases but are declining by 3.77% week-on-week and 7.67% month-on-month."
+    },
+    {
+      "line_title": "Minimal Lower Occurrence",
+      "line_content": "Instances of OTA Lower are negligible at around 0.4%, indicating scarce pricing below website levels."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A",
+      "line_content": "OTA N/A represents about 7.15% frequency, signaling a minor portion of itineraries without comparable pricing."
+    },
+    {
+      "line_title": "OTA SAME",
+      "line_content": "OTA SAME status stands at roughly 28.22%, though it is experiencing noticeable declines over both week-on-week and month-on-month periods."
+    },
+    {
+      "line_title": "OTA Higher",
+      "line_content": "OTA Higher dominates at 64.24% and is growing steadily with a week-on-week increase of 3.91% and a month-on-month increase of 7.19%."
+    },
+    {
+      "line_title": "OTA Lower",
+      "line_content": "OTA Lower occurrences remain extremely marginal at approximately 0.38%, reflecting a rare instance of lower channel pricing."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Premium",
+      "line_content": "Short Haul segments highlight a strong premium trend with OTA Higher offers reaching about 76.5% frequency and stable price differences."
+    },
+    {
+      "line_title": "Long Haul Balance",
+      "line_content": "Long Haul routes show a balanced mix with 60% matching fares and 40% OTA Higher, suggesting a differentiated pricing strategy for longer routes."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "QA Origin",
+      "line_content": "For Qatar-origin routes, OTA Higher appears in about 61.7% of cases with no recorded OTA Lower instances, emphasizing domestic premium positioning."
+    },
+    {
+      "line_title": "Non-QA Origin",
+      "line_content": "International origins show an even higher OTA Higher frequency at approximately 66.8%, with negligible OTA Lower instances, underscoring consistency in premium pricing."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In Bookings",
+      "line_content": "For last-minute bookings, OTA Higher pricing is evident at 62.06% with a robust week-on-week increase of 4.75%, representing last-minute premium trends."
+    },
+    {
+      "line_title": "Far Out Bookings",
+      "line_content": "Far Out bookings feature an even higher OTA Higher prevalence of 68.66% and a complete absence of OTA Lower, indicating stability in advanced booking premiums."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Dominant Discounts",
+      "line_content": "The MSE channel is largely driven by lower pricing, with discounts recorded in 75-86% of cases."
+    },
+    {
+      "line_title": "Stable Price Differentials",
+      "line_content": "MSE maintains stable differences with HIGHER cases at 0.14% and LOWER cases near -0.06%."
+    },
+    {
+      "line_title": "Modest Shifts",
+      "line_content": "Frequency changes for MSE LOWER range from -4.95% to -8.27%, indicating only modest recent adjustments."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A",
+      "line_content": "MSE N/A cases are extremely low (<1%) with slight declines over the week and month."
+    },
+    {
+      "line_title": "SAME Alignment",
+      "line_content": "The SAME status shows moderate frequencies between 13-22%, with an increase of 5-9%, indicating better alignment between the website and MSE listings."
+    },
+    {
+      "line_title": "Marginal Premium",
+      "line_content": "MSE HIGHER is infrequent at approximately 0.25%, reflecting few cases of prices exceeding the website."
+    },
+    {
+      "line_title": "Prevalent Discounts",
+      "line_content": "MSE LOWER dominates at around 77-86%, reinforcing the channel’s strong tendency to offer discounted pricing."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Patterns",
+      "line_content": "Short Haul routes combine SAME at 22.97% with MSE LOWER at 75.87%, echoing overall discount trends."
+    },
+    {
+      "line_title": "Long Haul Depth",
+      "line_content": "Long Haul itineraries experience even deeper discounts with MSE LOWER at 81.13% and SAME at 18.87%."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "QA Markets",
+      "line_content": "In QA-origin markets, SAME occurs at 24.68% while MSE LOWER stands at 75.06%, revealing strong domestic discounting."
+    },
+    {
+      "line_title": "Non-QA Markets",
+      "line_content": "Non-QA routes exhibit a pronounced discount bias with 80.26% in MSE LOWER and only 18.46% in SAME."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In Discounts",
+      "line_content": "For close-in bookings, MSE LOWER pricing is robust at 81.94% compared to SAME at 17.48%, underpinning aggressive last-minute discounting."
+    },
+    {
+      "line_title": "Far Out Balancing",
+      "line_content": "Far Out bookings show a higher SAME frequency of 29.74% while retaining a strong MSE LOWER presence at 69.14%, illustrating varied pricing strategies over longer periods."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Matching Dominance",
+      "line_content": "Nearly 50% of itineraries on the GDS channel align with website prices, underscoring a foundational consistency."
+    },
+    {
+      "line_title": "Premium Prevalence",
+      "line_content": "GDS HIGHER accounts for about 51% of cases overall, indicating a consistent premium, especially in short-haul and non-QA segments."
+    },
+    {
+      "line_title": "Rare Discounts",
+      "line_content": "Instances of GDS LOWER are minimal (<1%), confirming the channel's limited use of discounting."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A",
+      "line_content": "GDS N/A is minor at 1.92%, with slight increases week-over-week and modest month-over-month changes."
+    },
+    {
+      "line_title": "Price Matching",
+      "line_content": "Approximately 46% of itineraries have prices matching the website, though this rate has declined recently."
+    },
+    {
+      "line_title": "GDS Higher",
+      "line_content": "GDS HIGHER is present in about 51% of cases, reflecting a steady premium pricing trend with incremental weekly and monthly gains."
+    },
+    {
+      "line_title": "Negligible Lower",
+      "line_content": "GDS LOWER occurrences remain below 1%, affirming the rarity of discount pricing on this channel."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Dynamics",
+      "line_content": "Short-haul markets show a strong GDS HIGHER presence at around 60% with only 36% matching prices, alongside a week-on-week premium increase."
+    },
+    {
+      "line_title": "Long Haul Stability",
+      "line_content": "Long-haul routes are characterized by about 66% price matching and only 34% registering a premium, indicating stable pricing with less fluctuation."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "QA Segment",
+      "line_content": "Within QA-origin markets, around 52% of itineraries match the website prices while 47% are priced higher on GDS, showing balanced dynamics."
+    },
+    {
+      "line_title": "Non-QA Segment",
+      "line_content": "Non-QA routes lean towards higher GDS pricing at about 55%, with 40% matching, emphasizing a stronger premium strategy for international segments."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Behavior",
+      "line_content": "For close-in bookings, about 50% of itineraries match website prices while nearly 48% register higher prices, indicating a stable yet slightly premium approach."
+    },
+    {
+      "line_title": "Far-Out Trends",
+      "line_content": "Advanced bookings show a stronger premium with 58% of fares higher on GDS compared to 40% matching the website, highlighting an increased channel premium for far-out reservations."
+    }
+  ]
+}

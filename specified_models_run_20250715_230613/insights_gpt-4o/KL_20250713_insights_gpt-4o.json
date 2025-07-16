@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Channel Insight",
+      "line_content": "The OTA channel shows a strong trend of offering lower prices than KLM's website, especially for short-haul and close-in itineraries."
+    },
+    {
+      "line_title": "MSE Channel Insight",
+      "line_content": "MSE consistently offers the lowest prices among channels, with a notable 77.10% of itineraries priced below KLM's website."
+    },
+    {
+      "line_title": "GDS Channel Insight",
+      "line_content": "GDS consistently presents higher prices than KLM's website, limiting its competitiveness on price."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Consistent Pricing",
+      "line_content": "26.46% of OTA offers matched KLM's website, indicating a stable pricing strategy."
+    },
+    {
+      "line_title": "Price Competitiveness",
+      "line_content": "OTAs offered lower prices 37.62% of the time, showcasing a slight edge in price competitiveness."
+    },
+    {
+      "line_title": "Rising Higher Prices",
+      "line_content": "Higher priced OTA offers at 22.14%, showing an upward trend."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA Price Stability",
+      "line_content": "Website offers absent on OTA decreased slightly, indicating improved overlap."
+    },
+    {
+      "line_title": "Stable Lower Prices",
+      "line_content": "OTA lower pricing remained stable with negligible changes."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Advantage",
+      "line_content": "Short-haul itineraries often have lower OTA pricing, 46.8% last week."
+    },
+    {
+      "line_title": "Volatile Long-Haul Pricing",
+      "line_content": "Long-haul OTA prices were higher 19.88% last week, highlighting inconsistencies."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Dutch Origins Competitive Pricing",
+      "line_content": "74.59% of Dutch routes on OTAs are lower priced, showcasing competitiveness."
+    },
+    {
+      "line_title": "Non-Dutch Offers",
+      "line_content": "A balanced mix with increased instances of higher-priced OTA offers."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Competitive Pricing",
+      "line_content": "Close-in bookings show 36.44% lower pricing on OTAs."
+    },
+    {
+      "line_title": "Consistent Far-Out Pricing",
+      "line_content": "39.83% lower priced OTA offers for far-out bookings, maintaining consistency."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Lower MSE Pricing",
+      "line_content": "MSE predominately offers lower prices, with 77.10% of deals cheaper than KLM's site."
+    },
+    {
+      "line_title": "Price Parity Challenges",
+      "line_content": "Low price parity at around 10% indicates distinct MSE pricing strategies."
+    },
+    {
+      "line_title": "Rare Higher Pricing",
+      "line_content": "Minimal instances of higher MSE prices compared to KLM's site."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Site Offers Coverage Gap",
+      "line_content": "12.38% of MSE queries couldn't find offers present on KLM's site."
+    },
+    {
+      "line_title": "Predominantly Lower MSE Pricing",
+      "line_content": "Most offers are priced lower on MSE, strengthening consumer value perception."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Pricing Dominance",
+      "line_content": "90.84% of short hauls priced lower on MSE, signifying a strong price advantage."
+    },
+    {
+      "line_title": "Long Haul Visibility Issues",
+      "line_content": "60.36% missing long-haul offers on MSE highlight potential improvement areas."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Strong Domestic Advantage",
+      "line_content": "84.89% of NL-origin routes have lower pricing on MSE."
+    },
+    {
+      "line_title": "Competitive International Pricing",
+      "line_content": "Strong competitive pricing for 69.27% of non-NL routes."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Pricing Strength",
+      "line_content": "76.35% lower prices for close-in bookings highlight last-minute competitiveness."
+    },
+    {
+      "line_title": "Far-Out Strategy Consistency",
+      "line_content": "78.42% of far-out bookings are consistently lower priced on MSE."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "High Price Frequency",
+      "line_content": "GDS frequently offers higher prices, with 67% of cases above KLM's website."
+    },
+    {
+      "line_title": "Underpricing Scenarios Rare",
+      "line_content": "GDS rarely underprices KLM, only in 0.06% of instances."
+    },
+    {
+      "line_title": "Pricing Stability",
+      "line_content": "Prices have shown minimal fluctuations across all dimensions."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Channel Coverage Gap",
+      "line_content": "12.3% of KLM's website offers absent in GDS, suggesting a slight coverage gap."
+    },
+    {
+      "line_title": "Price Parity Instances",
+      "line_content": "20% of GDS prices match KLM's website, indicating some consistency."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Pricing Trends",
+      "line_content": "79% of short-haul GDS bookings are higher priced, establishing a distinctive strategy."
+    },
+    {
+      "line_title": "Long Haul Price Variation",
+      "line_content": "20% higher priced GDS long haul shows lesser disparity than short-haul flights."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Uniform Dutch Pricing",
+      "line_content": "54% higher-priced Dutch GDS fares, with fewer same-priced offers."
+    },
+    {
+      "line_title": "Consistent Non-Dutch Pricing",
+      "line_content": "80% of non-Dutch routes on GDS remain higher priced."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Strategic Close-In Pricing",
+      "line_content": "60% of closer bookings are higher priced on GDS, suggesting a pricing strategy."
+    },
+    {
+      "line_title": "Predominantly Higher Prices Far Out",
+      "line_content": "80% of far-out bookings remain at higher GDS pricing, showing price strategy uniformity."
+    }
+  ]
+}

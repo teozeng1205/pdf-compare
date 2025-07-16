@@ -1,0 +1,164 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Price Competitiveness",
+      "line_content": "The OTA channel shows high competitiveness, with 96.8% of offers priced lower than the airline's website."
+    },
+    {
+      "line_title": "MSE Channel Dominance",
+      "line_content": "99.36% of offers on the MSE channel were lower than those listed on the airline's website, maintaining the lowest average price."
+    },
+    {
+      "line_title": "GDS Competitive Pricing",
+      "line_content": "The GDS channel consistently offered lower prices, with 97.4% of fares below the airline's website pricing last week."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "High OTA Availability",
+      "line_content": "The OTA channel has recorded a notably high price competitiveness, with 96.8% of offers being lower than those on the airline's own website."
+    },
+    {
+      "line_title": "Stable Price Trends",
+      "line_content": "The average price difference percentage across categories has remained stable, reflecting a consistent advantage for the OTA channel."
+    },
+    {
+      "line_title": "Low Price Difference",
+      "line_content": "The average price discrepancy between OTA and airline website has decreased slightly by 0.16% in the last week compared to the previous week."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "N/A - No Higher Prices",
+      "line_content": "There were no instances where prices on the OTA were higher than those on the airline's website, indicating strong OTA competitiveness."
+    },
+    {
+      "line_title": "Pricing Consistency",
+      "line_content": "The data reveals a consistent lower pricing trend on OTAs, accompanied by minimal fluctuations over the past month."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Strong Performance in All Regions",
+      "line_content": "In all regional analyses, OTA pricing was predominantly lower, covering a significant number of origin-destination pairs without exception."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "PT Market Advantage",
+      "line_content": "For Portugal origin flights, OTA pricing exhibited a low differential, maintaining 96.79% of offerings lower than the airline's direct prices."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings Favorable",
+      "line_content": "Close-in bookings reflected strong OTA pricing, with 95.12% of itineraries showing lower prices compared to the airline's offers."
+    },
+    {
+      "line_title": "Far-Out Pricing Stability",
+      "line_content": "Far-out bookings showed similar trends, with 98.65% of the OTA prices remaining lower, indicating stable long-term pricing strategies."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Overall Lower Availability",
+      "line_content": "99.36% of offers across all dimensions were found to be lower on the MSE channel compared to the airline's website in the last week of analysis."
+    },
+    {
+      "line_title": "Stable Price Comparison",
+      "line_content": "Price comparisons have remained consistent, with no changes noted between the current week and the previous week or month."
+    },
+    {
+      "line_title": "Short Haul Dominance",
+      "line_content": "All pricing records for short haul flights indicated that prices on the MSE channel were lower compared to the airline's offers."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Same Pricing Status",
+      "line_content": "Only 0.64% of offers were priced the same between the MSE and the airline's website last week."
+    },
+    {
+      "line_title": "Higher Pricing Status",
+      "line_content": "No offers were found to be priced higher on the MSE channel compared to the airline's website."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Portuguese Market Focus",
+      "line_content": "For the point-of-origin country of Portugal, nearly all offers (99.36%) were lower on the MSE channel."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Consistent Lower Pricing from Portugal",
+      "line_content": "Similar trends show prices from Portugal remain significantly lower on the MSE channel for both short and longer haul itineraries."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Pricing Advantage",
+      "line_content": "The MSE channel has demonstrated that close-in bookings consistently reflect a lower average price, despite stable pricing from the previous weeks."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Significant Price Lowering",
+      "line_content": "The GDS channel has consistently offered lower prices compared to the airline's website, with an average reduction of -0.16% last week."
+    },
+    {
+      "line_title": "Stable Offer History",
+      "line_content": "Over the past month, the frequency of lower prices in the GDS channel has remained stable, indicating a steady competitive pricing strategy."
+    },
+    {
+      "line_title": "High Lowering Consistency",
+      "line_content": "The trend of lower prices is notable across multiple dimensions, with approximately 97.4% of observations reflecting better GDS offers last week."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Channel Lower Dominance",
+      "line_content": "Last week, the GDS channel reported a substantial 97.4% of fares priced lower than the website, emphasizing its competitive advantage."
+    },
+    {
+      "line_title": "Lack of Higher Pricing",
+      "line_content": "No fares were found priced higher on the GDS compared to the airline's website, suggesting strong pricing alignment."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Advantage",
+      "line_content": "Across all short haul routes, the GDS channel provided lower fares 97.4% of the time, reflecting effective channel pricing strategies."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Consistent Offers from Portugal (PT)",
+      "line_content": "For itineraries originating in Portugal, the GDS channel exhibited a strong trend with 97.4% lower fare offerings last week, reinforcing competitive pricing."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Lower Pricing for Close In Bookings",
+      "line_content": "For close-in bookings, the GDS consistently offered lower fares 96.3% of the time, which is critical for last-minute travelers seeking affordability."
+    },
+    {
+      "line_title": "Value in Far Out Bookings",
+      "line_content": "In far-out bookings, 98.7% of fares were cheaper through the GDS, highlighting excellent advance purchase value."
+    }
+  ]
+}

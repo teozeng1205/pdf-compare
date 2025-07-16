@@ -1,0 +1,168 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Dominance",
+      "line_content": "SATA Air Açores experiences predominantly lower pricing on OTA compared to its website with over 95% of itineraries showing such pricing."
+    },
+    {
+      "line_title": "MSE Consistency",
+      "line_content": "MSE prices are consistently lower across all dimensions than the airline’s site, with an average decrease of 0.23%."
+    },
+    {
+      "line_title": "GDS Pricing Advantage",
+      "line_content": "The GDS channel continues to offer lower prices relative to the airline's website, maintaining a discount rate of 0.16%."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Dominant OTA Lower Pricing",
+      "line_content": "SATA Air Açores pricing on OTA is predominantly lower than their website, with over 95% of itineraries being cheaper in the latest week analysis."
+    },
+    {
+      "line_title": "Marginal Price Improvement",
+      "line_content": "Overall, there is a consistent small decrease in price differences over time, noted by a -0.16% change last week."
+    },
+    {
+      "line_title": "Stable Availability",
+      "line_content": "The percentage of scenarios where OTA pricing is not available is consistently low, showing a small increasing trend of 1.56% from the previous month."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA Lower Pricing Prevalence",
+      "line_content": "Across all dimensions, 96.79% of SATA Air Açores itineraries show lower pricing on the OTA channel compared to the airline's website."
+    },
+    {
+      "line_title": "Minimal OTA Higher Instances",
+      "line_content": "No instances are recorded where OTA pricing is higher than the airline's website, ensuring a competitive pricing advantage in this channel."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Dominance",
+      "line_content": "For the short-haul market, 96.79% of itineraries are priced lower on OTA compared to SATA Air Açores' website."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Competitive Pricing in Portugal",
+      "line_content": "96.79% of airline website origins in Portugal are matched at a lower price in OTA channels."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Price Advantage",
+      "line_content": "Close-in bookings show a slightly lower OTA frequency of price improvement with -0.17% last week, maintaining a strong 95.12% prevalence of lower pricing."
+    },
+    {
+      "line_title": "Far-Out Stability",
+      "line_content": "Far-out bookings maintain a high instance of lower OTA pricing with 98.65% last week, demonstrating a significant 1.35% improvement from zero instances of OTA higher pricing."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Consistent Channel Advantage",
+      "line_content": "In the latest week, prices on MSE were consistently lower than the airline’s site across all dimensions, with a notable average decrease of 0.23%."
+    },
+    {
+      "line_title": "Booking Window Variability",
+      "line_content": "Close-in bookings saw slight variability, with 1.14% positive change from the previous week, indicating more competitive MSE pricing."
+    },
+    {
+      "line_title": "Stable Trends Over Months",
+      "line_content": "Monthly data indicates stable pricing trends across all dimensions, with MSE maintaining a slight price advantage."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE Lower Pricing",
+      "line_content": "MSE offered lower prices 99.36% of the time last week, slightly down by 0.03% from the previous week."
+    },
+    {
+      "line_title": "Same Pricing Rarely Occurs",
+      "line_content": "The 'same price' occurrence is minimal, holding steady at approximately 0.64% increase from the previous month."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Pricing Stability",
+      "line_content": "For short-haul routes, MSE consistently showed lower prices, posting a 0.23% price differential advantage last week."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Portuguese Origins Insight",
+      "line_content": "MSE prices from Portugal origins remained predominantly lower, mirroring overall trends with a 0.23% average decrease last week."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings Show Growth",
+      "line_content": "Close-in booking windows experienced a positive shift of 1.14% from last week in price advantage on MSE."
+    },
+    {
+      "line_title": "Far-Out Bookings Stable",
+      "line_content": "Far-out booking windows show consistent pricing benefits on MSE with a steady 0.22% price advantage."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Dominance of Lower Pricing",
+      "line_content": "Across all dimensions, the GDS channel predominantly offers lower pricing compared to the airline's website, with over 96% of cases showing price decreases."
+    },
+    {
+      "line_title": "Minimal Price Volatility",
+      "line_content": "Average price variation remains low on both weekly (-0.16%) and monthly (-0.16%) bases, indicating stable GDS pricing advantageous for consistent consumer offerings."
+    },
+    {
+      "line_title": "Negligible Price Absence",
+      "line_content": "Instances where the airline's website offers are not found on the GDS channel remain below 4%, highlighting the comprehensive offer availability on GDS."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Price Declines on GDS",
+      "line_content": "The GDS channel consistently offers lower prices than the airline's website, maintaining a 0.16% discount rate observed both week-over-week and month-over-month."
+    },
+    {
+      "line_title": "Availability Continuity",
+      "line_content": "Minimal incidence (under 3.5%) of website-exclusive offers suggests robust GDS dissemination of current fare inventory."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "All Regions Under Single Haul",
+      "line_content": "Analysis encompasses only short-haul records, implying uniform regional performance with strong price competitiveness maintained at -0.16% consistently."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "PT as Primary Origin",
+      "line_content": "Pricing trends originating from PT demonstrate consistent GDS competitiveness, reflecting a 0.16% decline in price from last week with stable trends over time."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-in Advantage",
+      "line_content": "Close-in bookings maintain a 0.17% price decrease weekly, exhibiting a consistent slight savings for last-minute bookers."
+    },
+    {
+      "line_title": "Far-out Booking Consistency",
+      "line_content": "For far-out itineraries, a minor 0.15% consistent price reduction is observed, ensuring continued value over longer booking windows."
+    }
+  ]
+}

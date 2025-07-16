@@ -1,0 +1,200 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Availability Gap",
+      "line_content": "Fare parity remains high at 97.4%, but a 75% week-over-week spike in missing OTA offers (now 1.9%) signals an urgent distribution issue rather than a pricing problem."
+    },
+    {
+      "line_title": "MSE Revenue Leakage",
+      "line_content": "60% of metasearch itineraries undercut the website (-0.13% average), creating broad but shallow leakage; encouragingly, parity is up 7 ppt month-over-month."
+    },
+    {
+      "line_title": "GDS Stable, Watch Long-Haul",
+      "line_content": "GDS holds 97.9% parity, yet ‘GDS Higher’ cases on long-haul surged 177% week-over-week—small in volume (0.81%) but concentrated in close-in bookings."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Parity Still Dominant",
+      "line_content": "Website-to-OTA fare parity held at 97.4% of itineraries, keeping overall channel risk low."
+    },
+    {
+      "line_title": "Shelf-Space Issue",
+      "line_content": "Missing OTA offers jumped to 1.9% of searches—up 75% week-over-week—indicating a rapid availability gap."
+    },
+    {
+      "line_title": "Long-Haul Risk",
+      "line_content": "Parity drops to 88.9% on long-haul routes, with 3.5% priced higher on OTA, elevating customer-cost and brand-perception risk."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Unavailable ↑",
+      "line_content": "1.9% of itineraries lacked an OTA offer, a 75% week-over-week surge and 15% above last month."
+    },
+    {
+      "line_title": "Parity Slight Dip",
+      "line_content": "Exact-match fares slipped 0.9 ppt to 97.4%, still industry-leading but declining for a second straight period."
+    },
+    {
+      "line_title": "OTA Higher Small but Rising",
+      "line_content": "0.8% of itineraries were costlier on OTA (avg. +0.18%), frequency up 16% week-over-week."
+    },
+    {
+      "line_title": "OTA Lower Negligible",
+      "line_content": "Discounting against the website is virtually absent (<0.1%) and continues to decline."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Stable",
+      "line_content": "Parity at 98.2%; missing offers rose to 1.3% (+83% WoW) but higher-priced instances remain rare (0.5%)."
+    },
+    {
+      "line_title": "Long-Haul Weak Spot",
+      "line_content": "Parity falls to 88.9%, with 7.6% unavailable and 3.5% higher-priced on OTA (avg. +0.22%)."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "US Origin Mirrors Aggregate",
+      "line_content": "For U.S. departures: 97.4% parity, 1.9% missing, 0.75% higher-priced—no geo-specific anomaly."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Slippage",
+      "line_content": "Inside 14 days, 2.6% of fares were missing (+118% WoW) and 0.9% higher-priced; parity at 96.5% but declining fastest here."
+    },
+    {
+      "line_title": "Far-Out Strength",
+      "line_content": "Beyond 30 days, parity peaks at 99.3%; missing offers drop to 0.3%, though OTA premiums re-emerged at 0.3%."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Underpricing Dominates",
+      "line_content": "Metasearch lists lower fares on 60% of itineraries (avg. ‑0.13%), indicating broad revenue leakage."
+    },
+    {
+      "line_title": "Parity Improving",
+      "line_content": "Price-match share rose 7 ppt month-over-month to 38%, led by gains in the close-in window."
+    },
+    {
+      "line_title": "Long-Haul Hotspot",
+      "line_content": "88% of long-haul journeys are underpriced with a deeper ‑0.20% gap and zero ‘higher-than-site’ cases."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Missing Low",
+      "line_content": "Only 0.5% of searches lacked a website fare on MSE, down 0.05 ppt WoW."
+    },
+    {
+      "line_title": "Parity Rises",
+      "line_content": "Identical fares now at 38%, up 2.8 ppt WoW and 7.0 ppt MoM—the fastest improvement across channels."
+    },
+    {
+      "line_title": "Channel Lower Majority",
+      "line_content": "Still 60% lower pricing, but incidence down 1.7 ppt WoW and 6.2 ppt MoM; discount unchanged at ‑0.13%."
+    },
+    {
+      "line_title": "Channel Higher Rare",
+      "line_content": "Premium pricing only 1% of cases, declining 1.1 ppt WoW with a modest +0.10% markup."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Easing",
+      "line_content": "Underpricing affects 58% of ODs (-0.12%), improving 6.6 ppt MoM as parity climbs to 42%."
+    },
+    {
+      "line_title": "Long-Haul Priority",
+      "line_content": "88% lower pricing and no parity on long-haul; deepest discount at ‑0.20%."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "US Origin Consistent",
+      "line_content": "Home-market mirrors global view: 60% lower, 38% same, 1% higher."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Gains",
+      "line_content": "Within 15 days, lower fares drop to 59% (-9 ppt MoM) as parity reaches 40%."
+    },
+    {
+      "line_title": "Far-Out Vigilance",
+      "line_content": "15+ days out: 63% lower pricing (-0.08% gap) and a 100% WoW spike in ‘higher’ cases—monitor beyond near term."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Parity Strong",
+      "line_content": "GDS matched the website on 97.9% of itineraries, keeping leakage risk low."
+    },
+    {
+      "line_title": "Long-Haul Overpricing",
+      "line_content": "Long-haul shows a 4.1% ‘GDS Higher’ rate—eight times short-haul—and up 177% WoW."
+    },
+    {
+      "line_title": "Close-In Focus",
+      "line_content": "87% of all higher-than-website fares occur in the 0-14-day window."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Missing Small",
+      "line_content": "1.24% of searches lacked a GDS fare, up 11% WoW—early sign of content gaps."
+    },
+    {
+      "line_title": "Parity Best-in-Class",
+      "line_content": "97.9% of itineraries priced identically; flat MoM and down just 0.3 ppt WoW."
+    },
+    {
+      "line_title": "GDS Higher Uptick",
+      "line_content": "0.81% of itineraries priced above web (+16% WoW); avg. premium +0.17%."
+    },
+    {
+      "line_title": "GDS Lower Negligible",
+      "line_content": "Only 0.05% discounting with a ‑0.14% markdown; no material trend."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "US Market Mirrors Network",
+      "line_content": "Parity at 97.9%; ‘GDS Higher’ contained at 0.81%—no regional divergence."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "US Origin Only",
+      "line_content": "All monitored traffic originates in the US; metrics align with overall performance."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Sensitivity",
+      "line_content": "0-14 days: parity 97.2%, but 1.03% ‘GDS Higher’ (avg. +0.16%)."
+    },
+    {
+      "line_title": "Far-Out Stability",
+      "line_content": "15+ days: parity 99.3%; only 0.33% priced higher—no deterioration observed."
+    }
+  ]
+}

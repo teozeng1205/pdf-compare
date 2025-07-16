@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Pricing Challenges",
+      "line_content": "OTA channels showed that 96.3% of itineraries had no available offers, resulting in minimal competitive pricing."
+    },
+    {
+      "line_title": "MSE Competitive Advantage",
+      "line_content": "MSE's offer frequency revealed 21.99% of listings were priced lower than the airline's website, indicating a competitive edge."
+    },
+    {
+      "line_title": "GDS Disparities",
+      "line_content": "GDS data indicated concerning trends, with 64.29% of long haul fares priced higher compared to direct airline offers."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Minimal OTA Lower Pricing",
+      "line_content": "Only 0.02% of all itineraries showed a lower price on the OTA channel last week."
+    },
+    {
+      "line_title": "High Percentage of Unavailable Offers",
+      "line_content": "The OTA channel had no price available for 96.3% of all itineraries last week."
+    },
+    {
+      "line_title": "Slight Price Increases Noted",
+      "line_content": "Average price differences for OTA higher offers remained under 0.07% in both the latest week and previous month."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Majority No OTA Offer",
+      "line_content": "96.3% of all offers were classified as OTA N/A last week, confirming a consistent trend toward limited OTA availability."
+    },
+    {
+      "line_title": "Sparse Price Matching",
+      "line_content": "Only 2.55% of offers matched the same price as the airline website last week, indicating limited competitiveness."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Insights",
+      "line_content": "Short-haul itineraries were 97.3% OTA N/A, indicating a strong predisposition toward direct bookings."
+    },
+    {
+      "line_title": "Limited Long Haul Comparisons",
+      "line_content": "For long-haul itineraries, 82.8% showed OTA N/A status, reflecting similar unavailability as short-haul."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic Route Dominance",
+      "line_content": "Domestic routes had 97.4% OTA N/A offers, underscoring a lack of availability on OTAs."
+    },
+    {
+      "line_title": "Foreign Routes Challenges",
+      "line_content": "Non-domestic routes faced 75.9% OTA N/A offers, indicating systemic issues with OTA uptake."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In Booking Patterns",
+      "line_content": "Close-in bookings showed a high OTA N/A rate of 97.7%, reflecting a potential risk in competitive pricing."
+    },
+    {
+      "line_title": "Far Out Booking Trends",
+      "line_content": "Far out bookings showed slightly better availability at 93.7% OTA N/A, suggesting improved options as departure dates approach."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "MSE Offer Frequency",
+      "line_content": "In the latest week, MSE recorded a 21.99% offer frequency of prices lower than the airline's website."
+    },
+    {
+      "line_title": "Pricing Consistency",
+      "line_content": "The percentage of same pricing offers across all ODs decreased slightly by 4.88% week-over-week."
+    },
+    {
+      "line_title": "Higher Pricing Incidence",
+      "line_content": "Instances where MSE prices were higher than the airline's website remain minimal, underlining competitive rates."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Latest Week Overview",
+      "line_content": "In the latest week, 21.99% of offers were lower through MSE, reflecting a strong performance, with 0.18% showing the same price."
+    },
+    {
+      "line_title": "Previous Week Insights",
+      "line_content": "From the previous week, offers being lower decreased by 20.38%, indicating reduced competitiveness."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Region",
+      "line_content": "Short haul offers demonstrated a lower price in 22.11% of cases in the latest week, although down from 42.37% the previous week."
+    },
+    {
+      "line_title": "Long Haul Region",
+      "line_content": "Long haul flights maintained low pricing in 20.54% of instances, a modest decline in competitiveness from the previous week."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "CN Point of Origin",
+      "line_content": "For CN origin flights, 22.52% showed lower prices, indicating a slight reduction from earlier weeks."
+    },
+    {
+      "line_title": "Non-CN Point of Origin",
+      "line_content": "Non-CN origin flights saw only 12.42% of offers being lower, which highlights a notable competitiveness decrease."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In Booking",
+      "line_content": "Close in bookings achieved the highest competitive edge with 23.47% at lower prices, through a significant improvement in cadence."
+    },
+    {
+      "line_title": "Far Out Booking",
+      "line_content": "Far out bookings showed a lower competitive presence, with only 19.19% lower offers against the airline’s pricing."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Critical GDS Pricing Trend",
+      "line_content": "For the latest week, 1.71% of itineraries showed higher prices on the GDS compared to the airline's website, indicating a potential loss in competitive pricing."
+    },
+    {
+      "line_title": "Short Haul vs Long Haul",
+      "line_content": "The short haul segment exhibits 0.01% of itineraries priced lower on the GDS, while 11.11% of long haul itineraries are priced higher on the GDS, suggesting a clear opportunity to optimize long haul pricing."
+    },
+    {
+      "line_title": "Booking Window Insights",
+      "line_content": "For close-in bookings, the GDS shows a 1.21% increase in higher-priced itineraries compared to the previous week, which could deter last-minute travelers."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Website Not Found",
+      "line_content": "1.53% of itineraries in the latest week did not have offers found on the GDS, representing a consistent trend in availability issues."
+    },
+    {
+      "line_title": "Identical Prices",
+      "line_content": "Merely 0.006% of fares were identical between the GDS and the website, emphasizing minimal price synchronization."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "GDS Performance in Short Haul",
+      "line_content": "In the short haul segment, 11.11% of GDS offerings were priced higher than the website, highlighting a significant pricing disparity."
+    },
+    {
+      "line_title": "Long Haul Exposure",
+      "line_content": "64.29% of long haul fares presented in the GDS were higher compared to the airline's direct offers, which is alarming for market competitiveness."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "China Origin Pricing",
+      "line_content": "For itineraries originating from China, GDS prices were consistently unavailable, limiting competitive visibility in the domestic market."
+    },
+    {
+      "line_title": "Non-China Performance",
+      "line_content": "Non-China itineraries showed 32.70% of fares priced higher on GDS, indicating a potential area for price alignment."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Trends",
+      "line_content": "Close-in bookings displayed a 1.21% increase in GDS-high prices, a concerning trend affecting last-minute travel decisions."
+    },
+    {
+      "line_title": "Far-Out Booking Stability",
+      "line_content": "Far-out bookings had a low incidence (2.65%) of higher GDS prices, indicating relatively better pricing for early bookers."
+    }
+  ]
+}

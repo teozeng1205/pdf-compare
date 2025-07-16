@@ -1,0 +1,204 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Discount Erosion",
+      "line_content": "OTAs remain cheaper on 40% of itineraries with a stable 6% average undercut, but the share of discounted cases slipped 0.6 ppts week-on-week, indicating a gradual loss of price advantage."
+    },
+    {
+      "line_title": "Persistent Micro-Undercutting on MSE",
+      "line_content": "MSEs undercut the airline website on 99.3% of observed itineraries, yet the gap is a negligible –0.11%, revealing systemic parity failure that poses limited absolute revenue risk."
+    },
+    {
+      "line_title": "Agency Leakage via GDS",
+      "line_content": "GDS fares beat the website on 41% of itineraries at a 6% discount while parity stagnates at 58%, signalling ongoing revenue dilution through indirect sales."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "OTA Cheaper in 40% of Cases",
+      "line_content": "OTAs delivered a 6% average saving vs the website, though discounted share slipped 0.6 ppts WoW and 3.7 ppts MoM."
+    },
+    {
+      "line_title": "Rising OTA Premiums",
+      "line_content": "Costlier-than-website instances jumped to 3.8% (2.4× WoW), with a 4% average premium that threatens price-promise messaging."
+    },
+    {
+      "line_title": "Offer Coverage Strengthens",
+      "line_content": "Missing fares on OTAs fell to 1.7%, a 68% WoW improvement, boosting distribution consistency."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Parity Dominant",
+      "line_content": "54% of price checks are at parity (–1.2 ppts WoW, +2.3 ppts MoM)."
+    },
+    {
+      "line_title": "Discount Share Slips",
+      "line_content": "OTA-lower share remains material at 40% but is trending down; average undercut steady at 6%."
+    },
+    {
+      "line_title": "Premium Pockets Growing",
+      "line_content": "OTA-higher cases more than doubled WoW to 3.8%, highlighting emerging risk areas."
+    },
+    {
+      "line_title": "Minimal Content Gaps",
+      "line_content": "Only 1.7% of web fares are missing on OTAs, down sharply from 2.4% last week."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Mirrors Network",
+      "line_content": "54% parity, 41% OTA cheaper, 4% OTA higher—consistent behaviour across European routes."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Croatia Departures",
+      "line_content": "67% parity; OTA discounts dip to 26% while premiums edge up to 4.6%."
+    },
+    {
+      "line_title": "Non-Croatia Departures",
+      "line_content": "OTAs undercut in 84% of cases with a steady 6% gap; premiums almost negligible at 1.4%."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0–7 d)",
+      "line_content": "44% cheaper via OTA, but premium cases, though just 1.5%, tripled WoW—worth monitoring."
+    },
+    {
+      "line_title": "Far-Out (21 +d)",
+      "line_content": "OTA premiums rise to 8.5% (5.5× WoW) and parity recedes, pressuring early shoppers."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Near-Universal Undercuts",
+      "line_content": "99.3% of itineraries cheaper on MSEs; website rarely wins."
+    },
+    {
+      "line_title": "Negligible Price Gap",
+      "line_content": "Average discount is –0.11%, suggesting rounding or tax-display artefacts rather than real revenue loss."
+    },
+    {
+      "line_title": "Pattern Stable",
+      "line_content": "Status mix shifted <0.4 ppts vs both prior week and month, indicating a systemic issue."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Channel Lower Dominates",
+      "line_content": "MSEs undercut on 99.3% of ODs, down only 0.35 ppts WoW."
+    },
+    {
+      "line_title": "True Parity Rare",
+      "line_content": "Exact matches occur in just 0.35% of checks."
+    },
+    {
+      "line_title": "Website Offer Missing",
+      "line_content": "MSE-only itineraries appear in 0.35% of checks, a small but growing leak."
+    },
+    {
+      "line_title": "Website Never Cheaper",
+      "line_content": "No MSE-higher cases recorded."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Europe",
+      "line_content": "Undercutting steady at 99.3% with the same –0.11% gap."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Croatia Origins",
+      "line_content": "99.5% of fares cheaper on MSEs; price gap –0.10%."
+    },
+    {
+      "line_title": "Non-Croatia Origins",
+      "line_content": "Undercut rate dips to 98.6%; missing-offer cases rise to 1.4%."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0–7 d)",
+      "line_content": "99.5% cheaper on MSEs; pattern unchanged WoW."
+    },
+    {
+      "line_title": "Far-Out (21 +d)",
+      "line_content": "Undercutting still 98.9%; 1.1 ppts lower WoW due to offer unavailability."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "41% GDS Undercut",
+      "line_content": "Persistent leakage as agencies offer 6% lower fares on 4 in 10 itineraries."
+    },
+    {
+      "line_title": "Low Overpricing Risk",
+      "line_content": "Only 1% of GDS fares higher, with a modest +0.21% premium."
+    },
+    {
+      "line_title": "Parity Plateau",
+      "line_content": "Parity sits at 58% with minimal month-on-month improvement."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Parity at 57.6%",
+      "line_content": "Little movement (–0.5 ppts WoW, +0.3 ppts MoM)."
+    },
+    {
+      "line_title": "GDS Lower Share",
+      "line_content": "Undercutting at 41.0%; average discount –6%."
+    },
+    {
+      "line_title": "GDS Higher Rare",
+      "line_content": "1.0% of itineraries carry a +0.21% premium; slight uptick WoW."
+    },
+    {
+      "line_title": "Content Coverage High",
+      "line_content": "Web-fare missing in only 0.34% of checks."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Snapshot",
+      "line_content": "41% cheaper in GDS, 1% higher, 58% parity—mirrors network view."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Croatia Departures",
+      "line_content": "73% at parity, 26% cheaper, <1% higher—better alignment at home."
+    },
+    {
+      "line_title": "Non-Croatia Departures",
+      "line_content": "85% cheaper in GDS, only 14% at parity—competitive pressure abroad."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (<14 d)",
+      "line_content": "45% cheaper, 1.5% higher; GDS-higher share up 46% WoW but still minimal."
+    },
+    {
+      "line_title": "Far-Out (15 +d)",
+      "line_content": "33% cheaper, 67% parity, zero overpricing—favourable early-booking landscape."
+    }
+  ]
+}

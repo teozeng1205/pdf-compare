@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Coverage Gap",
+      "line_content": "Over 90% of fares remain missing from OTAs, reflecting limited distribution in this channel."
+    },
+    {
+      "line_title": "MSE Undercut",
+      "line_content": "Up to 98% of long-haul fares are cheaper on MSE, offering a strong cost advantage."
+    },
+    {
+      "line_title": "GDS Price Premium",
+      "line_content": "Over 70% of itineraries are priced higher on GDS, particularly for far-out bookings."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "High OTA Unavailability",
+      "line_content": "Over 90% of fares were not found on OTAs this week, with only slight declines from previous periods indicating persistently limited channel coverage."
+    },
+    {
+      "line_title": "Long-Haul Contrast",
+      "line_content": "Short-haul routes show nearly 97% missing fares, whereas only about half of long-haul fares remain absent, highlighting more OTA coverage on extended flights."
+    },
+    {
+      "line_title": "Full Gap on PH Departures",
+      "line_content": "All flights originating in the Philippines remain entirely off OTAs, suggesting a complete absence of offers in this market segment."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Website Fare Missing (OTA N/A)",
+      "line_content": "Over 90% of fares stay absent from OTAs, climbing to 97% on short-haul but dropping to about 50% for long-haul."
+    },
+    {
+      "line_title": "Identical Pricing (SAME)",
+      "line_content": "Overall match rates linger below 10%, yet long-haul sees nearly 48% parity, indicating strong alignment on extended routes."
+    },
+    {
+      "line_title": "Channel Underpricing (OTA LOWER)",
+      "line_content": "Under 0.2% of fares undercut the website on average, rising closer to 1.9% in long-haul cases."
+    },
+    {
+      "line_title": "Channel Overpricing (OTA HIGHER)",
+      "line_content": "Fewer than 0.2% of fares exceed the website’s prices on short-haul, with no material overpricing for long-haul."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul: 97% Missing",
+      "line_content": "Limited OTA presence persists, with nearly all fares absent and minimal pricing deviations on the few listed."
+    },
+    {
+      "line_title": "Long Haul: 50% Unavailable",
+      "line_content": "Half of fares are off OTAs, while almost 48% match website pricing. About 2% show lower OTA rates."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "PH: No OTA Presence",
+      "line_content": "Every fare from Philippine origins is missing on OTAs, indicating a total coverage gap."
+    },
+    {
+      "line_title": "Non-PH: Predominantly Same",
+      "line_content": "Around 93% align with website fares, with small shares priced higher or lower on OTAs."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In: 92% Unavailable",
+      "line_content": "Most fares remain off OTAs. About 8% match the airline site, with sporadic lower or higher outliers."
+    },
+    {
+      "line_title": "Far Out: Similar Coverage",
+      "line_content": "Roughly 93% of fares go missing on OTAs, with 7% matching and negligible divergences."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "MSE Priced Lower in Most Cases",
+      "line_content": "Majority of observed itineraries were cheaper on MSE, especially on long-haul routes where 98% of fares undercut the website."
+    },
+    {
+      "line_title": "Minimal Same-Fare Occurrences",
+      "line_content": "Only about 38% of itineraries matched the airline website on short haul; even less for long haul at around 2%."
+    },
+    {
+      "line_title": "Slight Dip in MSE Advantage",
+      "line_content": "Across most segments, the portion of MSE-lower fares declined slightly from last week, signifying a modest narrowing of price gaps."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A",
+      "line_content": "No measurable data indicated missing fares, suggesting robust MSE coverage for these markets."
+    },
+    {
+      "line_title": "Same",
+      "line_content": "Around 33–42% of ODs remained at parity, reflecting stable same-fare conditions from week to week."
+    },
+    {
+      "line_title": "MSE Lower",
+      "line_content": "Roughly 62% of ODs were cheaper on MSE overall, though frequencies dipped by up to 4% versus last week."
+    },
+    {
+      "line_title": "MSE Higher",
+      "line_content": "No recorded instances of MSE exceeding the airline's direct website prices."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "58% of short-haul itineraries were MSE-lower last week, showing a 4.6% decrease from the previous week."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "Nearly all long-haul itineraries (98%) favored MSE-lower fares with negligible week-on-week fluctuation."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "PH",
+      "line_content": "59% of Philippine-origin itineraries were cheaper via MSE, seeing a slight 4.4% drop from the prior week."
+    },
+    {
+      "line_title": "Non-PH",
+      "line_content": "Over 98% of non-Philippine ODs were lower on MSE; coverage improved marginally by about 1% week to week."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "71% of last-minute itineraries were cheaper on MSE, down nearly 5% from the prior week."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "44% of advance bookings priced lower on MSE, roughly 9% fewer than last month, signaling a diminished discount advantage."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "High GDS Premium",
+      "line_content": "Over 70% of itineraries are priced higher on GDS, reaching up to 86% on Far Out bookings."
+    },
+    {
+      "line_title": "Rare GDS Undercuts",
+      "line_content": "Channel-lower offers remain under 4% across all segments, signaling minimal undercutting."
+    },
+    {
+      "line_title": "Limited Missing Fares",
+      "line_content": "GDS N/A occurrences stay low overall but spike to roughly 12% in Non-PH markets."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Website Not Found",
+      "line_content": "A low 1–2% frequency overall, yet peaks near 12% among Non-PH ODs, indicating select fare gaps."
+    },
+    {
+      "line_title": "Same Price",
+      "line_content": "About 20–25% in aggregate, but climbs above 90% in Non-PH markets, suggesting limited price differences outside PH."
+    },
+    {
+      "line_title": "GDS Lower",
+      "line_content": "Remains below 4% across all views, pointing to minimal fare advantages on GDS."
+    },
+    {
+      "line_title": "GDS Higher",
+      "line_content": "Dominates at 70% or more, illustrating a consistent premium over the airline website."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Nearly 78% of fares are higher on GDS, with under 4% showing a lower channel price."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "Close to half are GDS-higher, and more than 40% stay identical, reflecting a more balanced pattern."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "PH Origins",
+      "line_content": "Over 80% of fares register as GDS-higher, with minimal undercutting (3–4%)."
+    },
+    {
+      "line_title": "Non-PH Origins",
+      "line_content": "Most fares, above 85%, match the website, and GDS-higher fares are below 2%."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Roughly 69% priced higher on GDS, with a moderate portion (25–31%) matching the website."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "GDS-higher tops 86%, displaying a pronounced price premium versus the airline site."
+    }
+  ]
+}

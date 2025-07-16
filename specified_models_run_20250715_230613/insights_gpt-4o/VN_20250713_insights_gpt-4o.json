@@ -1,0 +1,200 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA High Pricing Prevalence",
+      "line_content": "The OTA channel continues to display higher prices than Vietnam Airlines' website for 91.61% of itineraries, indicating a trend of pricing above the airline's direct offerings."
+    },
+    {
+      "line_title": "MSE Showing More Competitive Pricing",
+      "line_content": "A growing number of itineraries are showing lower prices on the MSE channel, with a 1.97% increase in such instances, suggesting some competitive pricing opportunities."
+    },
+    {
+      "line_title": "GDS Price Consistency",
+      "line_content": "GDS maintains a strong price parity with the airline's website with minimal price discrepancies, suggesting stability and reliability in price alignment."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "OTA Higher Prices Dominate",
+      "line_content": "In the OTA channel, 91.61% of itineraries were priced higher than the Vietnam Airlines website last week, reflecting a consistent pattern with a slight weekly decrease."
+    },
+    {
+      "line_title": "Minimal OTA Discount",
+      "line_content": "Only 0.05% of itineraries were priced lower, suggesting the OTA rarely offers competitive pricing against the airline's own pricing."
+    },
+    {
+      "line_title": "Stable OTA N/A Status",
+      "line_content": "The status where offers are not found on OTAs remained unchanged from last month, indicating steadiness in data coverage on OTAs."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "SAME Pricing Consistent at 5.42%",
+      "line_content": "The percentage of itineraries with the same pricing on OTAs has increased by 1.91% over the previous month, suggesting improved alignment in some aspects."
+    },
+    {
+      "line_title": "OTA Higher at 91.61%",
+      "line_content": "The frequency of higher pricing on OTAs decreased slightly by 1.82% from the previous month, indicating minor improvements but still overwhelmingly predominant in price discrepancies."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Predominantly Higher Prices",
+      "line_content": "93.38% of short haul itineraries on OTAs were higher priced than the airline's site, exhibiting a consistent trend across periods."
+    },
+    {
+      "line_title": "Strong Alignment in Long Haul 'SAME' Status",
+      "line_content": "75.44% of long haul itineraries remained identically priced last week, though a minor decrease from the previous week."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Vietnam-Origin Strong Disparity",
+      "line_content": "For itineraries originating from Vietnam, the OTA channel presented higher prices 93.78% of the time, slightly adjusting from past periodic trends."
+    },
+    {
+      "line_title": "Non-VN Origin Volatility",
+      "line_content": "Non-Vietnam origins showed substantial variation, with a 15.86% increase in same pricing, but still maintaining high 'OTA Higher' values previously."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings Priced Higher",
+      "line_content": "93.38% of close-in bookings were priced higher on OTA channels, indicating a consistent premium compared to the airline's direct channel."
+    },
+    {
+      "line_title": "Far-Out Bookings Show Little Change",
+      "line_content": "There is a slight uptick in OTA 'Higher' pricing for far-out bookings, although overall patterns suggest consistent historical pricing structures."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "MSE Non-Matching Rates Steady",
+      "line_content": "Only 2% of itineraries couldn't find a matching rate on MSE, showing a slight decrease from last month."
+    },
+    {
+      "line_title": "Majority Higher on MSE",
+      "line_content": "Over 50% of prices are higher on MSE compared to the airline's website, albeit with a slight decrease recently."
+    },
+    {
+      "line_title": "MSE Lower Rates Growing",
+      "line_content": "Instances where MSE offered lower fares have increased by 1.97% compared to previous weeks."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Stable MSE Non-Matching Rates",
+      "line_content": "MSE non-availability has slightly reduced from previous weeks, indicating stabilizing listings."
+    },
+    {
+      "line_title": "Predominantly Higher Pricing on MSE",
+      "line_content": "MSE continues to show higher fares for over half the routes, although it has reduced slightly by approximately 11% from last week."
+    },
+    {
+      "line_title": "Growing Instances of Lower MSE Pricing",
+      "line_content": "The frequency of lower fares on MSE compared to the airline site has increased by 2% from the previous week."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Higher on MSE",
+      "line_content": "More than 52% of short-haul prices are higher on MSE, though there's a decrease of about 11.5% compared to last week."
+    },
+    {
+      "line_title": "Long Haul Mostly Lower on MSE",
+      "line_content": "For long-haul flights, MSE offers lower prices in over 82% of comparisons, which is slightly down by 2.86% from last week."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Vietnam POO Higher on MSE",
+      "line_content": "For flights originating in Vietnam, 52.62% are priced higher on MSE; trend shows a decrease over recent weeks."
+    },
+    {
+      "line_title": "Non-Vietnam POO Lower Advantage",
+      "line_content": "91% of non-Vietnam origin flights have lower fares on MSE, though they have seen a minimal reduction from previous periods."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings - Price Decline on MSE",
+      "line_content": "Significant drop in higher MSE fares for close-in bookings by 12.58%, reflecting more aggressive pricing."
+    },
+    {
+      "line_title": "Far-Out Bookings - Stable Lower Prices",
+      "line_content": "Price advantages on MSE for far-out bookings are consistent, with a slight increase in lower-priced offers by 3.18%."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS N/A Frequency Stability",
+      "line_content": "Across all dimensions, the frequency of website offers not found in the GDS channel remains consistently high, with minimal variation over the weeks."
+    },
+    {
+      "line_title": "Price Parity Consistency",
+      "line_content": "The channel maintains a robust level of price parity with the airline's website, with 'Same' status remaining stable across most dimensions."
+    },
+    {
+      "line_title": "Minor GDS Price Differences",
+      "line_content": "Where price discrepancies occur, prices in the GDS channel tend to be slightly higher than the airline's website, with differences being minimal."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Unmatched Offers in GDS",
+      "line_content": "The 'GDS N/A' status is most prevalent, indicating a stable majority of 93% when analyzed by the last week."
+    },
+    {
+      "line_title": "Parity Offerings",
+      "line_content": "'Same' status shows a slight increase, indicating consistently matched price offerings with an average frequency of 5.86%."
+    },
+    {
+      "line_title": "Slightly Higher GDS Prices",
+      "line_content": "Although less frequent, 1.08% of offers were found at higher prices on GDS, but with negligible price lift."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Uniformity",
+      "line_content": "Short haul routes show consistent parity and uniform lack of availability in GDS, reflecting a stable offering with minimal fluctuation."
+    },
+    {
+      "line_title": "Changing Long Haul Availability",
+      "line_content": "Long haul routes exhibit significant changes in availability with a 10.28% monthly frequency decline in unmatched offers."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Frequent VN Offer Parity",
+      "line_content": "Routes originating from Vietnam consistently demonstrate high parity, maintaining stable prices similar to those on the airline's website."
+    },
+    {
+      "line_title": "Non-VN Pricing Variability",
+      "line_content": "For non-Vietnam origins, a notable 18.34% decrease in higher-priced GDS instances indicates heightened competition or adjustments."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-in Window Stability",
+      "line_content": "For close-in bookings, pricing aligns closely with the airline's website, achieving 93.82% unmatched rates."
+    },
+    {
+      "line_title": "Far Out Window Price Adjustments",
+      "line_content": "Far out bookings reflect a 0.72% increase in unmatched availability but demonstrate a slight reduction in higher-priced instances."
+    }
+  ]
+}

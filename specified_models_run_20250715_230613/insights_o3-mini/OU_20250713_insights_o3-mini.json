@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Insight",
+      "line_content": "OTA prices show strong overall alignment with website fares (54% same) but feature significant lower fare prevalence (up to 83.6% for non-HR) and a modest rise in premium offerings."
+    },
+    {
+      "line_title": "MSE Insight",
+      "line_content": "MSE channel consistently delivers lower fares (nearly 99%) with minimal deviations from website pricing, indicating a highly competitive and stable price positioning."
+    },
+    {
+      "line_title": "GDS Insight",
+      "line_content": "GDS pricing exhibits substantial consistency with 57.6% fare parity and systematic discounting (41% lower), alongside stable frequency trends across different metrics."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Dominant Same Pricing",
+      "line_content": "OTA channel aligns with the airline website for over half of itineraries (54%), showcasing high pricing consistency."
+    },
+    {
+      "line_title": "Lower Fare Prevalence",
+      "line_content": "A significant share (40%-83.6%) of fares are offered at lower prices, with aggressive adjustments noted in non-HR origins."
+    },
+    {
+      "line_title": "Selective Premium Pricing",
+      "line_content": "Despite low overall frequency (3.8%-8.5%), a recent uptick in higher fare instances signals emerging premium opportunities."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A",
+      "line_content": "Offers missing on the OTA channel are minimal (1.73%), with a slight week-over-week decline."
+    },
+    {
+      "line_title": "SAME vs. Differential",
+      "line_content": "While 54% of fares are identical to website prices, minimal shifts in difference metrics underline stable alignment and strategic pricing signals."
+    },
+    {
+      "line_title": "Pricing Adjustments",
+      "line_content": "OTA higher instances are marginal but have increased modestly, contrasting with a stable negative differential in lower fare cases."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Trends",
+      "line_content": "Short haul routes mirror overall channel performance with 54% same, 3.8% higher, and 40.5% lower, confirming consistency in regional pricing."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "HR Market",
+      "line_content": "In HR origins, the majority of fares (67.6%) match the website, with moderate pricing deviations, reflecting strong market alignment."
+    },
+    {
+      "line_title": "Non-HR Market",
+      "line_content": "Non-HR itineraries expose aggressive discounting, with only 13.7% matching the website and 83.6% priced lower."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "For last-minute reservations, close-in bookings show conservative pricing with 52% same and 43.9% lower fares, and minimal premium instances."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Advanced bookings highlight increased pricing alignment (57.5% same) and a notable rise in premium fares (8.5%), indicating differentiated strategies."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Dominant Lower Pricing",
+      "line_content": "Approximately 99% of records indicate lower fares on MSE, underscoring the channel's strong competitive edge."
+    },
+    {
+      "line_title": "Stable Website Matches",
+      "line_content": "Few cases reflect website pricing parity, reinforcing overall consistency in the channel's discount-driven approach."
+    },
+    {
+      "line_title": "Minimal Differential",
+      "line_content": "Marginal price differences (around -0.06% to -0.11%) consistently characterize the MSE channel performance."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A",
+      "line_content": "Instances of missing price matches are very low, reinforcing data completeness in the MSE channel."
+    },
+    {
+      "line_title": "Consistent SAME",
+      "line_content": "The infrequent SAME status with 0.00% price differences confirms clear, consistent deviation from website fares."
+    },
+    {
+      "line_title": "Absence of Premium Pricing",
+      "line_content": "No higher fare instances are observed, with nearly all pricing falling under the lower category at around 99%."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "Short-haul routes maintain a 99.31% lower fare frequency with stable low price deviations, reinforcing competitive consistency."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "HR Origins",
+      "line_content": "Nearly all HR itineraries (99.54%) are offered at lower prices with minimal average deviation, pointing to uniform strategy."
+    },
+    {
+      "line_title": "Non-HR Origins",
+      "line_content": "Non-HR records exhibit a slightly lower frequency (98.63%) and marginally higher negative deviation, indicating regional pricing nuances."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Window",
+      "line_content": "Close-in bookings reveal robust lower fare presence (99.49%) with negligible price differences, showcasing competitive pricing for last-minute trips."
+    },
+    {
+      "line_title": "Far-Out Window",
+      "line_content": "Far-out itineraries are consistent with a 98.92% lower fare frequency, underlining stable channel performance across booking horizons."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Consistent Alignment",
+      "line_content": "GDS pricing predominantly aligns with the website (57.6% same) while offering systematic discounts (41% lower)."
+    },
+    {
+      "line_title": "Minimal Price Variance",
+      "line_content": "Overall price differences are negligible, with a slight premium (0.21%) in higher fare instances contrasting with small negative differences in lower fares."
+    },
+    {
+      "line_title": "Stable Trends",
+      "line_content": "Frequency trends remain stable over multiple time frames, indicating a reliable performance in pricing consistency."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A",
+      "line_content": "Cases of missing website offers are extremely low (0.0034 LW frequency), ensuring near-complete price availability."
+    },
+    {
+      "line_title": "Balanced Pricing",
+      "line_content": "With 57.6% same and 41.0% lower pricing, GDS exhibits a balanced pricing strategy with limited premium fare occurrences."
+    },
+    {
+      "line_title": "Minor Premium Instances",
+      "line_content": "A very small fraction of records (around 1%) reflect higher fare pricing, denoting an occasional uptick in premium offerings."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "Short-haul routes mirror overall figures with 57.6% same pricing and 41.0% discounting, reinforcing regional consistency."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "HR Markets",
+      "line_content": "In HR markets, 72.7% of itineraries are in line with website pricing, with only 25.9% priced lower, indicating strong local alignment."
+    },
+    {
+      "line_title": "Non-HR Markets",
+      "line_content": "Non-HR origins see more aggressive discounting with 84.9% lower fares and a lower same rate of 13.7%, emphasizing regional differentiation."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in bookings show 53.3% fare parity and 44.7% lower, with a slight 1.5% incidence of higher fares, balancing the pricing approach near departure."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out itineraries demonstrate high consistency with 66.7% same pricing and no premium cases, while 33.3% are offered at lower prices."
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Insight",
+      "line_content": "The OTA channel shows strong website price parity with about 70% of itineraries matching, despite a notable 11-14% reduction in OTA premium frequencies."
+    },
+    {
+      "line_title": "MSE Insight",
+      "line_content": "MSE maintains robust price consistency (75-85% parity) overall, yet long haul routes diverge with nearly 47% exhibiting lower prices, highlighting route-specific dynamics."
+    },
+    {
+      "line_title": "GDS Insight",
+      "line_content": "GDS demonstrates pricing parity in over 50% of cases while registering a modest upward price premium in roughly 47% of itineraries, reflecting a strategic upward bias."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "High Parity",
+      "line_content": "Approximately 70% of itineraries match the website pricing, showing strong alignment."
+    },
+    {
+      "line_title": "Declining Premiums",
+      "line_content": "OTA premium occurrences have dropped 11-14%, indicating fewer instances of higher channel pricing."
+    },
+    {
+      "line_title": "Stable Pricing",
+      "line_content": "An overall price difference of around 0.01% indicates a stable pricing environment on OTA."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "SAME Dominance",
+      "line_content": "The 'SAME' status dominates at 71-75%, with a 5.82% rise, emphasizing pricing consistency."
+    },
+    {
+      "line_title": "OTA Premium Shift",
+      "line_content": "While OTA HIGHER frequencies dropped by approximately 11.67%, OTA LOWER saw a modest increase of 5.7%."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Variability",
+      "line_content": "Short haul routes record 70.3% SAME, 19.1% OTA HIGHER (decline >12%), and 9.5% OTA LOWER, highlighting moderate variability."
+    },
+    {
+      "line_title": "Long Haul Consistency",
+      "line_content": "Long haul itineraries excel in consistency with a 94.2% SAME rate and only slight variations in channel pricing."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Canadian Routes",
+      "line_content": "For Canadian origins, 75.1% match the website, with OTA HIGHER at 16.1% (down 14.82%) and OTA LOWER at 8.4%."
+    },
+    {
+      "line_title": "Non-Canadian Routes",
+      "line_content": "Non-CA routes show 59.1% parity and a higher OTA HIGHER occurrence at 26.2%, indicating increased pricing divergence."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In Bookings",
+      "line_content": "Close-in bookings yield a 68.5% SAME rate with OTA HIGHER declining by 10.39% and OTA LOWER at 10.9%, reflecting near-term variability."
+    },
+    {
+      "line_title": "Far Out Bookings",
+      "line_content": "Far-out bookings maintain 78.1% SAME with OTA HIGHER down 14.27% and minimal OTA LOWER presence at 5.1%, indicating stronger price alignment for advanced purchases."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Price Consistency",
+      "line_content": "Ranging between 75-85% identical pricing, MSE shows strong baseline alignment with the website."
+    },
+    {
+      "line_title": "Long-Haul Divergence",
+      "line_content": "Long haul records show only ~50% matching with nearly 47% lower prices, revealing distinct pricing competition on these routes."
+    },
+    {
+      "line_title": "Regional Sensitivity",
+      "line_content": "Non-Canadian origins and far out booking windows experience up to a 20% price premium, warranting deeper market analysis."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Consistent SAME",
+      "line_content": "SAME status improved from 73.3% to 78.4%, underscoring stable pricing parity."
+    },
+    {
+      "line_title": "Premium Decline",
+      "line_content": "MSE HIGHER instances declined from 21.5% to 16.6% with an average price premium near 0.10%, while MSE LOWER remains stable below 5%."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Stability",
+      "line_content": "Short haul routes exhibit about 80% matching rates with minimal premium volatility."
+    },
+    {
+      "line_title": "Long Haul Variability",
+      "line_content": "Long haul segments nearly split between 52.7% same pricing and 47.3% lower pricing, indicating competitive differentiation."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Canadian Consistency",
+      "line_content": "Canadian routes achieve 85% pricing parity with only 13.7% showing a premium."
+    },
+    {
+      "line_title": "Non-CA Variability",
+      "line_content": "Non-Canadian routes display greater variability with 54% matching, 27.2% higher, and 18.6% lower pricing."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In Window",
+      "line_content": "Close in bookings record 79.6% same pricing, with 14.9% at a premium and 5.4% discounted fares."
+    },
+    {
+      "line_title": "Far Out Window",
+      "line_content": "Far-out bookings reflect 75.9% same pricing and a notable 20.1% premium, with a minimal 3.7% lower rate."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Parity Dominance",
+      "line_content": "Over 50% of itineraries maintain website price parity, reflecting strong consistency in GDS pricing."
+    },
+    {
+      "line_title": "Upward Bias",
+      "line_content": "Approximately 47% of cases display a modest premium (around 0.28%), indicating a slight upward price shift."
+    },
+    {
+      "line_title": "Minimal Discrepancies",
+      "line_content": "GDS N/A and LOWER rates are negligible, underscoring minimal missing or discounted offers."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Stable SAME",
+      "line_content": "SAME status exceeds 50% with an 11% increase from the previous week, ensuring pricing alignment."
+    },
+    {
+      "line_title": "Premium Moderation",
+      "line_content": "GDS HIGHER constitutes roughly 47% of itineraries, declining modestly by 10% weekly and 7% monthly, while LOWER remains under 1%."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Balance",
+      "line_content": "Short-haul itineraries split nearly equally with 50.84% SAME and 48.50% higher pricing, indicating balanced market behavior."
+    },
+    {
+      "line_title": "Long Haul Consistency",
+      "line_content": "Long-haul routes are predominantly aligned with 73.79% SAME and only 25.73% premium pricing."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic Balance",
+      "line_content": "Canadian origins show near equilibrium with 50.62% SAME and 49.18% higher pricing, accompanied by a 0.32% average premium."
+    },
+    {
+      "line_title": "International Alignment",
+      "line_content": "Non-Canadian routes exhibit tighter alignment at 57.63% SAME with a reduced 40.23% premium occurrence."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In Stability",
+      "line_content": "Close-in booking windows display nearly 60% SAME pricing and 39.61% premium, reflecting near-term market stability."
+    },
+    {
+      "line_title": "Far Out Strategy",
+      "line_content": "Far-out bookings reverse the trend with 62.78% higher pricing versus 36.73% parity, indicating strategic upward adjustments for advanced purchases."
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Pricing Discrepancy",
+      "line_content": "OTA channels show a significant pricing disadvantage, with almost all offers (95%) priced higher than the airline's website."
+    },
+    {
+      "line_title": "MSE Competitive Opportunities",
+      "line_content": "28.02% of offerings on the MSE channel are priced lower than the airline's website, indicating areas for potential market competitiveness."
+    },
+    {
+      "line_title": "GDS Price Consistency",
+      "line_content": "Similar to OTA, over 95% of fares on the GDS channel exceed the airline's direct pricing, emphasizing a need for strategic alignment."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "High OTA Price Discrepancy",
+      "line_content": "OTA pricing is predominantly higher, with approximately 95% of offers showing higher prices compared to the airline's website."
+    },
+    {
+      "line_title": "Minimal Price Lowering",
+      "line_content": "Only about 1.3% of the overall offers on OTA channels are priced lower than those on the airline's website."
+    },
+    {
+      "line_title": "Stable Same Pricing",
+      "line_content": "A consistent 0% of offers were found to be priced the same as the airline's official site across all dimensions last week."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "N/A on OTA Channel",
+      "line_content": "No offers were found on the OTA channel for 40% of itineraries examined this week."
+    },
+    {
+      "line_title": "Higher Prices Dominate",
+      "line_content": "95% of the total offers are reporting higher prices compared to the airline's website."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "US Region Pricing Status",
+      "line_content": "Overall, 96% of US origin-destination pairs show higher prices on the OTA channel relative to the airline's site."
+    },
+    {
+      "line_title": "Non-US Region Insights",
+      "line_content": "For Non-US itineraries, 79% of offers are priced higher than on the airline’s website."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "US Origin Pricing Trends",
+      "line_content": "In the US, 95% of pricing data reflects higher OTA prices compared to the airline site."
+    },
+    {
+      "line_title": "Non-US Offers Overview",
+      "line_content": "Non-US origins primarily align with higher OTA pricing at 78%."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In Booking",
+      "line_content": "Close-in bookings predominantly show higher pricing on the OTA channel, with 95% of offers above the airline's website."
+    },
+    {
+      "line_title": "Far Out Bookings",
+      "line_content": "Far out bookings present a 96% higher pricing scenario relative to the airline’s direct offers."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "MSE Higher Dominance",
+      "line_content": "Over 52.9% of offerings had prices higher on the MSE channel compared to the airline's website, indicating a significant disparity."
+    },
+    {
+      "line_title": "Low Same Pricing",
+      "line_content": "Only 18.95% of prices were the same across channels, suggesting limited competitive pricing consistency."
+    },
+    {
+      "line_title": "MSE Lower Pricing",
+      "line_content": "28.02% of MSE offerings were priced lower, emphasizing opportunities for competitiveness in certain markets."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Prices Higher on MSE",
+      "line_content": "The majority (52.92%) of offers had higher prices on the MSE channel, affecting consumer visibility."
+    },
+    {
+      "line_title": "Prices Lower on MSE",
+      "line_content": "Prices were lower on MSE for 28.02% of offers, indicating some price advantage."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Pricing Trends",
+      "line_content": "Short haul routes showed a higher prevalence of MSE prices being higher, at 51.01%, contrasting with 22.47% lower pricing."
+    },
+    {
+      "line_title": "Long Haul Pricing Trends",
+      "line_content": "For long haul, 58.43% of fares were priced higher on MSE, highlighting consumer disadvantage."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "US Origin Pricing",
+      "line_content": "US point of origin fares were higher on MSE 52.04% of the time, with 29.08% lower pricing opportunities."
+    },
+    {
+      "line_title": "Non-US Origin Pricing",
+      "line_content": "Non-US origins had the highest discrepancy, with 64.66% of offerings priced higher on MSE."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In Booking Trends",
+      "line_content": "For close-in bookings, 50.59% of prices were higher on MSE, yet 30.17% were lower, indicating varied pricing strategies."
+    },
+    {
+      "line_title": "Far Out Booking Trends",
+      "line_content": "For far-out bookings, over 57.93% had higher prices on MSE, highlighting significant markup issues."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Widespread Price Discrepancy",
+      "line_content": "Over 95% of GDS channel fares were higher than the airline's website pricing, indicating significant discrepancies."
+    },
+    {
+      "line_title": "Stable Price Differences",
+      "line_content": "The average price difference remained relatively stable over the past week (0.28%) compared to the previous week."
+    },
+    {
+      "line_title": "Short Haul Disparities",
+      "line_content": "Price discrepancies for short-haul routes have increased slightly with a 2.06% rise in the last week compared to the prior week."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Higher Status Frequent",
+      "line_content": "A significant 95.27% of fares in the GDS channel were priced higher than the airline’s own site during the last week."
+    },
+    {
+      "line_title": "GDS Lower Status Rare",
+      "line_content": "Only 0.98% of fares were offered at a lower price on the GDS channel, reinforcing the continued trend of higher prices."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "US Prices Elevated",
+      "line_content": "In the US market, 97.65% of fares on the GDS were higher than those on the airline's website, reflecting a consistent pattern."
+    },
+    {
+      "line_title": "Non-US Competitive",
+      "line_content": "In contrast, 6.29% of non-US fares were higher than those listed on the website, highlighting a smaller disparity."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "US Origin High Prices",
+      "line_content": "A majority of fares from the US origin showed 97.65% being priced higher on GDS, indicating a major price alignment issue."
+    },
+    {
+      "line_title": "Non-US Origin Stability",
+      "line_content": "Only 2.59% of non-US fares were priced lower, demonstrating occasional competitive pricing."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Higher",
+      "line_content": "For tickets booked close-in, 94.54% were higher on the GDS, underscoring higher costs for urgent travel."
+    },
+    {
+      "line_title": "Far-Out Booking Discrepancies",
+      "line_content": "Fares for far-out bookings remained higher, with 96.86% exceeding website prices, suggesting a need for competitive adjustments in this segment."
+    }
+  ]
+}

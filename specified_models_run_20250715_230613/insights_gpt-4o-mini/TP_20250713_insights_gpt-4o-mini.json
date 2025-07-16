@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Price Consistency",
+      "line_content": "OTA listings displayed 66.91% price consistency with the airline's website, showcasing effective alignment."
+    },
+    {
+      "line_title": "MSE Competitive Pricing",
+      "line_content": "MSE channel offered 71% of fares lower than those on the airline's website, indicating significant competitive pricing."
+    },
+    {
+      "line_title": "GDS Premium Pricing",
+      "line_content": "GDS channel saw 68.3% of offers priced higher than the airline's website, reflecting a significant pricing disparity."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Frequent Price Matches",
+      "line_content": "The status 'SAME' accounted for an average of 66.91% among OTA listings last week, indicating strong price consistency with the airline's website."
+    },
+    {
+      "line_title": "Low OTA Pricing",
+      "line_content": "Only 2.29% of OTA offerings were priced lower than the airline's website last week, showcasing a stable pricing strategy."
+    },
+    {
+      "line_title": "Short Haul Trends",
+      "line_content": "For short haul routes, approximately 3.39% of fares were listed higher on OTAs last week, suggesting competitive pricing alignment."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A Status",
+      "line_content": "The 'OTA N/A' status was observed in 25.93% of cases last week, reflecting a consistent issue with availability on these channels."
+    },
+    {
+      "line_title": "High Pricing Discrepancy",
+      "line_content": "Only 4.87% of fares listed on OTAs were higher than the airline's website, indicating a favorable overall pricing landscape."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Region Pricing",
+      "line_content": "Short haul routes exhibited a 'SAME' status for 68.24% of prices last week, signifying a reliable pricing strategy."
+    },
+    {
+      "line_title": "Long Haul Stability",
+      "line_content": "Long haul routes reported 58.29% of prices matching those on the airline's website last week, indicating effective price control."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "PT Origin Consistency",
+      "line_content": "For itineraries originating in Portugal (PT), 68.10% matched website prices, highlighting strong alignment in this market."
+    },
+    {
+      "line_title": "Non-PT Origin Trends",
+      "line_content": "Non-PT origins also showed significant consistency with 65.23% of prices being the same as those on the airline's site."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In Bookings Stability",
+      "line_content": "Close-in bookings indicated a 65.10% match with the airline's website pricing last week, reinforcing stable pricing close to flight dates."
+    },
+    {
+      "line_title": "Far Out Booking Trends",
+      "line_content": "For far-out bookings, the 'SAME' status rose to 70.81%, showing robust pricing consistency well in advance."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "High Channel Offers",
+      "line_content": "In the latest week, 71% of MSE offers were lower than the airline website prices across all itineraries."
+    },
+    {
+      "line_title": "Stable Pricing Trends",
+      "line_content": "Price discrepancies remained consistent with minimal fluctuations in the percentage of lower offers from the previous week (11.58% increase)."
+    },
+    {
+      "line_title": "Frequent N/A Status",
+      "line_content": "Approximately 24% of sampled itineraries were categorized as MSE N/A, indicating opportunities for better engagement."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Lower Offers Dominating",
+      "line_content": "In the latest week, 71% of the opportunistic pricing status indicated lower MSE prices compared to the airline's website."
+    },
+    {
+      "line_title": "Minimal Same Pricing",
+      "line_content": "Only 3.44% of offers were priced the same as on the airline's site, a sign of limited direct price competition."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Advantage",
+      "line_content": "Short-haul itineraries exhibited 74% lower prices on MSE compared to the airline website."
+    },
+    {
+      "line_title": "Long Haul Viability",
+      "line_content": "For long-haul routes, 54% of prices were lower on the MSE, reflecting a competitive marketplace."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Strong Domestic Presence",
+      "line_content": "For departures from Portugal (PT), 74% of prices were lower on MSE, indicating effective market penetration."
+    },
+    {
+      "line_title": "Non-PT Offers",
+      "line_content": "MSE offers from non-PT origins yielded 67% lower prices, suggesting strong pricing strategies in these markets."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings Advantage",
+      "line_content": "Close-in bookings demonstrated 70% of prices lower on MSE, highlighting attractiveness in last-minute travel."
+    },
+    {
+      "line_title": "Sustained Value for Far-Out Travel",
+      "line_content": "Far-out bookings also reflected competitiveness with 73% lower prices on MSE, encouraging early bookings."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "High Pricing Discrepancy",
+      "line_content": "For the latest week, 68.3% of offers on the GDS channel were priced higher compared to the airline's website."
+    },
+    {
+      "line_title": "Stability in Same Offers",
+      "line_content": "The frequency of offers available at the same price across both channels remained consistent, with no notable changes."
+    },
+    {
+      "line_title": "N/A Status Decrease",
+      "line_content": "There was a decrease in 'N/A' status offers by 13.07% week-over-week, indicating improved price visibility on the GDS channel."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Higher Dominates",
+      "line_content": "68.32% of all offers were higher on the GDS channel, reflecting a significant premium for travelers using this channel."
+    },
+    {
+      "line_title": "N/A Offer Insights",
+      "line_content": "The 'N/A' status for offers decreased, suggesting better integration of inventory or improved pricing strategies."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Pricing",
+      "line_content": "For short haul routes, GDS pricing was higher 67.82% of the time, indicating a consistent premium for these itineraries."
+    },
+    {
+      "line_title": "Long Haul Insights",
+      "line_content": "The percentage of higher-priced offers on long haul routes was 70.97%, which highlights the elevated fares expected from this segment."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "PT Offers Higher",
+      "line_content": "For offers from Portugal (PT), 69.32% of GDS fares were priced higher, demonstrating the strong presence of premium pricing strategies."
+    },
+    {
+      "line_title": "Non-PT Observations",
+      "line_content": "Conversely, 66.67% of offers from Non-PT were found to be higher, showing a similar trend across different origin markets."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In Higher Pricing",
+      "line_content": "For close-in bookings, 67.88% of fares were higher, indicating that last-minute travelers face significant premiums."
+    },
+    {
+      "line_title": "Far Out Pricing Insights",
+      "line_content": "Far out bookings show a higher percentage of listings priced higher at 69.06%, confirming that advance booking does not guarantee lower fares."
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA High Parity",
+      "line_content": "Consistent fare matching at 84–87%, with fewer discount undercuts each period."
+    },
+    {
+      "line_title": "MSE Dominant Discounts",
+      "line_content": "Over 90% of fares undercut the airline site, with a 20% month-over-month growth in MSE-lower rates."
+    },
+    {
+      "line_title": "GDS Consistent Pricing",
+      "line_content": "Over 75% of itineraries match airline prices, with moderate pricing gaps in short-haul segments."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Stable Fares",
+      "line_content": "Over 84% of itineraries matched the airline's site across all periods, reflecting consistent pricing alignment."
+    },
+    {
+      "line_title": "Declining OTA Discounts",
+      "line_content": "OTA-lower share dropped from 7.34% last week to 4.49% last month, indicating fewer undercuts against the airline site."
+    },
+    {
+      "line_title": "Non-TH Volatility",
+      "line_content": "Non-TH markets recorded a substantially higher OTA-higher share (20.88% last week) compared to TH (2.03%)."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A",
+      "line_content": "Around 2–3% of itineraries did not feature a matching offer, showing minimal week-to-week fluctuation."
+    },
+    {
+      "line_title": "SAME",
+      "line_content": "Remained the dominant category at 84–87%, underscoring strong fare parity with the website."
+    },
+    {
+      "line_title": "OTA LOWER",
+      "line_content": "Decreased progressively from 7.34% (LW) to 4.49% (PM), signaling reduced discounting versus the carrier."
+    },
+    {
+      "line_title": "OTA HIGHER",
+      "line_content": "Fluctuated at roughly 5–6% of itineraries, showing limited variation over the monitoring periods."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Consistently ~83% SAME and ~9% OTA-lower, indicating moderate discount levels against the site."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "Over 91% SAME with no OTA-lower activity, highlighting minimal fare discrepancies."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "TH",
+      "line_content": "Over 92% matched pricing, and OTA-lower fell sharply from ~3% last week to under 1% last month."
+    },
+    {
+      "line_title": "Non-TH",
+      "line_content": "Greater fare gaps noted, with ~21% OTA-higher and ~22% OTA-lower last week, thereby reducing SAME share."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "Held ~80% SAME fares; OTA-lower share halved from 9.82% to 4.79% month over month."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Maintained over 90% fare parity; OTA-lower frequency fluctuated between 2.65% and 5.41%."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Dominant MSE Discount",
+      "line_content": "Over 90% of MSE itineraries are priced lower than the airline’s site, with a 20% month-over-month growth in that segment."
+    },
+    {
+      "line_title": "Minimal Missing Offers",
+      "line_content": "MSE N/A remains minimal (under 1% last week) yet grew 46% from the previous week, suggesting possible data gaps."
+    },
+    {
+      "line_title": "Stable Price Gaps",
+      "line_content": "MSE-lower fares average around 8–10% below web fares; MSE-higher fares remain rare, within 8% above."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A",
+      "line_content": "Consistently small share but rose from last week; short-haul drives most of this slight increase."
+    },
+    {
+      "line_title": "SAME",
+      "line_content": "Declines of around 4% from last week and 20% from last month, reflecting fewer exact matches."
+    },
+    {
+      "line_title": "MSE HIGHER",
+      "line_content": "Very low frequency, holding near 1%; price premium about 8–9% above the airline site."
+    },
+    {
+      "line_title": "MSE LOWER",
+      "line_content": "Remains the majority at roughly 92%, up over 3% week-over-week, now 20% higher than last month."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "MSE-lower fares top 91%, rising 4% vs. last week; average discount is around 9% below airline prices."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "MSE-lower passes 93%, with a modest monthly lift of over 3%; higher fares are minimal at 4–5%."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Thailand (TH)",
+      "line_content": "MSE-lower leads at 91.6%, jumping 5% week-over-week; missing offers remain minimal at under 1%."
+    },
+    {
+      "line_title": "Non-TH",
+      "line_content": "MSE-lower still dominates at 91.2% though down 2.3% from last week; higher fares increase slightly but remain small."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "MSE-lower hits 93.7%, up nearly 4% from last week, with around a 10% discount vs. airline site."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "MSE-lower at 88%, rising 2.8% week-on-week; fare gaps average 6–7% below airline pricing."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Strong Parity",
+      "line_content": "Over 75% of itineraries remain the same price in GDS as on the airline site, reflecting stable alignment week over week."
+    },
+    {
+      "line_title": "Moderate Pricing Gaps",
+      "line_content": "GDS-lower and GDS-higher offers each capture under 16% of bookings, with small but consistent increases in short-haul routes."
+    },
+    {
+      "line_title": "Minimal Unavailability",
+      "line_content": "GDS N/A sightings are rare at below 1%, though show up slightly in Non-TH or overall metrics."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A",
+      "line_content": "Remains under 1% across most dimensions with steady trends from previous periods. Indicates near-complete GDS coverage."
+    },
+    {
+      "line_title": "Same Price",
+      "line_content": "Dominates at 76–85% of itineraries. Minor week-on-week dips do not materially affect overall parity levels."
+    },
+    {
+      "line_title": "GDS Lower",
+      "line_content": "Appears in roughly 9–25% of routes, rising about 1–2% in certain short-haul and Thai-origin segments."
+    },
+    {
+      "line_title": "GDS Higher",
+      "line_content": "Stays in single-digit to low double-digit territory. Grows modestly from last week in most regions."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Over 74% price alignment, with GDS-lower near 16% and trending upward. GDS-higher hovers near 9%."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "Over 84% price alignment. GDS-higher stands at 12%, while GDS-lower remains low at around 3% with slight week-on-week decrease."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Thailand (TH)",
+      "line_content": "SAME exceeds 79%. GDS-lower is around 11% and rising, GDS-higher near 10% with limited week-on-week changes."
+    },
+    {
+      "line_title": "Non-TH",
+      "line_content": "SAME hovers at 65%. GDS-lower is noticeably higher at 25%, while GDS-higher remains under 10%."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "Around 73% price match, with GDS-lower near 17% edging up. GDS-higher stands just above 10%."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Price alignment exceeds 81%. GDS-lower trails at 9%, while GDS-higher hovers near 10% with positive but modest growth."
+    }
+  ]
+}

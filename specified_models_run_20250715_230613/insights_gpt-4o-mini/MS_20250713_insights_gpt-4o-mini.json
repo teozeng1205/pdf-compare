@@ -1,0 +1,184 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Competitive Advantage",
+      "line_content": "The OTA channel offers lower pricing in 47% of cases, making it an appealing option for price-sensitive customers."
+    },
+    {
+      "line_title": "MSE Dominance in Lower Pricing",
+      "line_content": "The MSE channel provides significantly lower fares 97.2% of the time, presenting a strong competitive posture."
+    },
+    {
+      "line_title": "GDS Stability",
+      "line_content": "The GDS channel maintains a consistent price alignment, with 68.25% of fares matching the airline's website."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "High Channel Lower Rates",
+      "line_content": "The OTA channel exhibited a significant 47% of offers priced lower than the airline's own website across all routes, indicating strong competitive pricing."
+    },
+    {
+      "line_title": "Consistent Pricing",
+      "line_content": "36% of OTA offerings matched the airline's pricing consistently in the last week, showcasing stable price alignment."
+    },
+    {
+      "line_title": "Improvement in Same Status",
+      "line_content": "The percentage of routes showing the same price on both the OTA channel and the airline increased by 5.62% compared to the previous week."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA Higher Pricing",
+      "line_content": "OTA higher pricing status was noted in 13% of cases, a slight increase from the previous week."
+    },
+    {
+      "line_title": "Overall Lower Pricing Advantage",
+      "line_content": "The OTA channel maintained a dominant lower pricing status in nearly 47% of comparisons, reinforcing its appeal to price-sensitive travelers."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Strong Lower Pricing in EG",
+      "line_content": "In Egypt (EG), the OTA channel offered lower prices for 35% of the itineraries analyzed, which provides a competitive edge for local travelers."
+    },
+    {
+      "line_title": "Non-EG Higher Price Instances",
+      "line_content": "For non-Egypt routes, the OTA channel presented higher pricing in 2.33% of cases, which points to less competitiveness in that segment."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Competitive Edge for EG",
+      "line_content": "Pricing from Egypt showed a lower offer status in approximately 35% of cases, strengthening competitiveness within the domestic market."
+    },
+    {
+      "line_title": "Limited Competitive Offerings for Non-EG",
+      "line_content": "Non-Egypt routes displayed higher pricing in about 2.33% of cases, indicating a need for price adjustments to enhance competitiveness."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In Offers Competitive",
+      "line_content": "Closer booking windows of 0-7 days demonstrated lower pricing in 45% of cases, appealing to last-minute travelers."
+    },
+    {
+      "line_title": "Far Out Competitive Pricing",
+      "line_content": "For bookings more than 30 days out, 49% of fares were lower than the airline's website, suggesting favorable options for early planners."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Overall Lower Pricing",
+      "line_content": "For the latest week, the MSE channel offerings were lower compared to the airline's website 97.2% of the time."
+    },
+    {
+      "line_title": "Stable Pricing Trends",
+      "line_content": "Price discrepancies remained consistent over the past month, with only a minor average price difference of -0.11% across regions."
+    },
+    {
+      "line_title": "Frequent Same Pricing",
+      "line_content": "In the latest data, 2.59% of pricing records reflected the same prices on both the website and MSE channel."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "High-Level Price Status",
+      "line_content": "The MSE channel had no records where airline prices were higher compared to its own website for the latest week."
+    },
+    {
+      "line_title": "Dominance of Lower Pricing",
+      "line_content": "99.6% of MSE offerings were lower than those on the airline's website over the latest week, showcasing a strong competitive advantage."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Same Pricing in Egypt",
+      "line_content": "In the Egyptian market, pricing remained the same between the MSE channel and the airline's site across the latest week."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Egyptian Consumers Benefit",
+      "line_content": "For origin points within Egypt, the MSE channel had lower prices 96.4% of the time in the latest week, improving consumer options."
+    },
+    {
+      "line_title": "Non-Egyptian ODs",
+      "line_content": "For origin points outside Egypt, 99.2% of pricing reflects MSE channel offerings being lower, indicating a strong value proposition for international travelers."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings Savings",
+      "line_content": "For close-in bookings, the MSE channel recorded lower prices 96.2% of the time, reflecting significant savings for last-minute travelers."
+    },
+    {
+      "line_title": "Competitive Long-Term Offerings",
+      "line_content": "For far-out bookings, the MSE channel still maintained lower prices 98.9% of the time, suggesting favorable long-term pricing strategies."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Competitive GDS Rates",
+      "line_content": "The GDS channel showed a significant proportion of lower prices, with 24.8% of deals priced lower than the airline's website in the latest week."
+    },
+    {
+      "line_title": "Stable Pricing Trends",
+      "line_content": "Pricing between the GDS channel and the airline website has remained consistent, as indicated by a lack of price changes in the 'Same' status across dimensions."
+    },
+    {
+      "line_title": "Minor Price Increases",
+      "line_content": "A small proportion of GDS fares, approximately 1.9%, were found higher compared to the airline's website last week, reflecting minor discrepancies."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Availability Issues",
+      "line_content": "0.0497 frequency of 'N/A' status in the latest week indicates minimal offer availability on GDS, which slightly improved from the previous week."
+    },
+    {
+      "line_title": "Stable Pricing Match",
+      "line_content": "The 'Same' status was predominant at 68.25% in GDS for the latest week, showing stable aligning pricing to the airline's website."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Regional GDS Pricing",
+      "line_content": "GDS pricing for short-haul routes shows improved competitive pricing, with approximately 24.84% lower compared to the website."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic vs International Pricing",
+      "line_content": "For domestic (EG) origin flights, 22.09% were priced lower on GDS, signifying competitive advantages for travelers."
+    },
+    {
+      "line_title": "Limited Offers for Non-EG",
+      "line_content": "GDS shows higher prices for Non-EG routes in 2.33% of the cases, suggesting a need for competitive adjustments."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Benefits",
+      "line_content": "For close-in bookings, 29.76% GDS fares were lower than website prices, encouraging travelers to book last minute."
+    },
+    {
+      "line_title": "Far Out Stability",
+      "line_content": "Far-out bookings revealed a stable situation with 17.14% lower GDS fares, suggesting attractive pricing for early planners."
+    }
+  ]
+}

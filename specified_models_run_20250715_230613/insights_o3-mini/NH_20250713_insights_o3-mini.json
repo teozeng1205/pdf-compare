@@ -1,0 +1,204 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Stability",
+      "line_content": "OTA channel demonstrates stable frequency trends with a modest increase in premium pricing and negligible discounting, indicating consistent channel performance."
+    },
+    {
+      "line_title": "MSE Parity & Discounting",
+      "line_content": "MSE exhibits high price parity overall with balanced trends across segments, although long haul routes show a significant prevalence of lower pricing."
+    },
+    {
+      "line_title": "GDS Premium Presence",
+      "line_content": "GDS consistently registers higher fares compared to the website, with over 94% of itineraries showing a price premium and minimal occurrences of lower pricing."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Stable Trends",
+      "line_content": "Modest week-over-week increases in frequency (up to 5.8% for premium statuses) indicate reliability in OTA performance."
+    },
+    {
+      "line_title": "Negligible Discounts",
+      "line_content": "Lower incidences remain under 1%, reflecting a rare occurrence of fares priced below website levels."
+    },
+    {
+      "line_title": "Minimal Differential",
+      "line_content": "Overall price differences average 0.14%, evidencing minimal variance compared to the airline’s website."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "N/A Prevalence",
+      "line_content": "Approximately 35% of OTA itineraries are classified as N/A with a slight increase (around 2%) from the previous week."
+    },
+    {
+      "line_title": "Matching & Premium",
+      "line_content": "About 31% of fares match website prices while 34% command a higher premium, with the latter marking an average premium near 0.7%."
+    },
+    {
+      "line_title": "Lower Rarity",
+      "line_content": "Fares priced lower on OTA make up less than 1%, underscoring limited discounting trends."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Balance",
+      "line_content": "For short haul routes, OTA HIGHER frequencies are 33.5% compared to 29.7% SAME rates, with minimal discounting."
+    },
+    {
+      "line_title": "Long Haul Consistency",
+      "line_content": "Long haul segments show strong parity with 50.7% matching rates alongside 35.7% premium pricing, indicating stable pricing."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "JP Market",
+      "line_content": "Domestic JP itineraries present a balanced mix (30-35%) across N/A, SAME, and premium pricing, signifying consistent fare parity."
+    },
+    {
+      "line_title": "Non-JP Premium",
+      "line_content": "Non-JP routes have a dominant 72% premium pricing incidence, suggesting a targeted higher pricing strategy."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Consistency",
+      "line_content": "Close-in bookings show approximately 43% N/A and 40% matching fares, with moderate premium pricing."
+    },
+    {
+      "line_title": "Far-Out Premiums",
+      "line_content": "Advance bookings (far-out window) display nearly 69% premium rates, signifying a higher pricing strategy for early purchases."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "High Parity",
+      "line_content": "Approximately 60% of MSE itineraries reflect price parity, demonstrating stable alignment with website pricing."
+    },
+    {
+      "line_title": "Tight Differentials",
+      "line_content": "Both premium and discount statuses maintain minimal differences (around ±1%), ensuring predictable pricing movements."
+    },
+    {
+      "line_title": "Long Haul Discounting",
+      "line_content": "Long haul routes are dominated by a 91% incidence of lower pricing, highlighting aggressive discounting in this segment."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Low N/A",
+      "line_content": "Missing offers are rare at 1.48%, with negligible weekly or monthly change."
+    },
+    {
+      "line_title": "Dominant Parity",
+      "line_content": "Overall, 62% of fares match the website’s pricing, reflecting consistent competitive behavior."
+    },
+    {
+      "line_title": "Premium & Lower Split",
+      "line_content": "Limited premium pricing (8%) contrasts with nearly 28% of itineraries showing lower prices on MSE."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Balance",
+      "line_content": "Short haul routes register about 64% parity and 25% lower pricing, mirroring overall competitive alignment."
+    },
+    {
+      "line_title": "Aggressive Long Haul",
+      "line_content": "Long haul segments see 91% lower pricing, indicating a more competitive pricing strategy for extended routes."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "JP Consistency",
+      "line_content": "Domestic routes reflect 63% parity versus 27% lower pricing, maintaining stable local pricing alignment."
+    },
+    {
+      "line_title": "Non-JP Discounting",
+      "line_content": "International itineraries are heavily discounted with 82% lower pricing, suggesting a distinct regional pricing approach."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Variance",
+      "line_content": "Close-in bookings exhibit 50% parity but also show 37% lower pricing, reflecting active pricing adjustments."
+    },
+    {
+      "line_title": "Far-Out Uniformity",
+      "line_content": "Far-out booking windows are highly consistent, with 87% of fares matching website prices and minimal deviations."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "High Premium Dominance",
+      "line_content": "GDS channel consistently shows a premium pricing trend, with 'GDS HIGHER' statuses exceeding 94% across dimensions."
+    },
+    {
+      "line_title": "Stable Over Time",
+      "line_content": "Weekly and monthly metrics remain remarkably stable, supporting predictable and persistent pricing discrepancies."
+    },
+    {
+      "line_title": "Scarce Discounts",
+      "line_content": "Instances of fares below website pricing are nearly non-existent, reinforcing a strong premium pricing profile."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "N/A & SAME Overview",
+      "line_content": "Missing offers (N/A) and identical fares (SAME) are observed at low frequencies, approximately 0.014 and 0.036-0.041 respectively."
+    },
+    {
+      "line_title": "Premium Consistency",
+      "line_content": "The 'GDS HIGHER' status dominates with frequencies above 94% and a typical price premium around 2%."
+    },
+    {
+      "line_title": "Lower Instances Rare",
+      "line_content": "Recorded occurrences of 'GDS LOWER' are virtually zero, confirming the channel’s price premium."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Uniformity",
+      "line_content": "Short haul itineraries demonstrate a steady 'GDS HIGHER' frequency of about 98.5%, indicating stable pricing premiums."
+    },
+    {
+      "line_title": "Long Haul Variability",
+      "line_content": "Long haul segments show volatility in same pricing (a notable weekly drop of 11.51%), though sample sizes are smaller."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "JP Stability",
+      "line_content": "For domestic routes, 'GDS HIGHER' dominates at 96.41% with minimal fluctuations, reinforcing consistent premium trends."
+    },
+    {
+      "line_title": "Non-JP Exception",
+      "line_content": "Non-JP itineraries diverge with a 76.47% same pricing rate and 23.53% premium classification, warranting cautious interpretation due to limited data."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Reliability",
+      "line_content": "Close-in bookings maintain a strong premium presence at approximately 94.33% with very minor weekly/monthly shifts."
+    },
+    {
+      "line_title": "Far-Out Dynamics",
+      "line_content": "For far-out bookings, a 96.26% premium rate coupled with a monthly increase to 2.85% suggests potential variability in longer-range pricing."
+    }
+  ]
+}

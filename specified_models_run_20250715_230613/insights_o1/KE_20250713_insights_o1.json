@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Key Insight",
+      "line_content": "OTA fares seldom undercut the airline’s site (0.07%); about a third of flights are missing, and roughly a quarter are priced higher."
+    },
+    {
+      "line_title": "MSE Key Insight",
+      "line_content": "Over half of fares are cheaper on MSE, with under 1% higher and the remainder matching website prices."
+    },
+    {
+      "line_title": "GDS Key Insight",
+      "line_content": "GDS pricing skews same or higher, with minimal undercuts and a small decline in unlisted flights."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Rarely Cheaper",
+      "line_content": "OTA undercuts the airline site in under 1% of cases, showing almost no competitive discounting."
+    },
+    {
+      "line_title": "One Quarter Higher",
+      "line_content": "Around 26% of listings come in higher than the airline’s fares, though this figure has declined from last month’s 32%."
+    },
+    {
+      "line_title": "Growing Missing Fares",
+      "line_content": "Over a third of flights lack a matching offer on the channel, slightly higher than a month ago."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Missing",
+      "line_content": "33.65% of flights were not found on the channel last week, representing a slight drop week-over-week but a modest increase from last month."
+    },
+    {
+      "line_title": "Same Fare",
+      "line_content": "Matching fares stand at 40.42%, up from both the previous week and last month, indicating modest alignment."
+    },
+    {
+      "line_title": "Channel Higher",
+      "line_content": "At about 25.86%, the channel fares are higher roughly one-quarter of the time, though down 6.11% versus last month."
+    },
+    {
+      "line_title": "Channel Lower",
+      "line_content": "A minimal 0.07% shows the channel rarely undercuts the airline’s site."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "OTA listings are missing or pricier 63% of the time; same-rate flights make up 37%, and price undercuts are negligible."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "87.50% of fares are identical, 12.50% are missing, with no instances of the channel going higher or lower."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "KR Routes",
+      "line_content": "Missing or higher fares account for 73% of listings, while exact matches sit at 27%, and no undercutting occurs."
+    },
+    {
+      "line_title": "Non-KR Routes",
+      "line_content": "78.73% of flights match fares, roughly 11% go higher, and undercuts remain rare at under 1%."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "Nearly half of flights have no matched listing, about 37% are the same, and 13% are marked higher, with minimal undercuts."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Around 49% of itineraries are more expensive on the channel, 46% match, and only 4.55% are missing."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Mostly Lower or Same",
+      "line_content": "Over half of last-week itineraries were cheaper on MSE, and close to half matched website pricing."
+    },
+    {
+      "line_title": "Minimal Higher Instances",
+      "line_content": "Less than 1% of all last-week fares were higher on MSE, showing stable, negligible overpricing."
+    },
+    {
+      "line_title": "Distinct Patterns by Geography",
+      "line_content": "Non-Korean origins and long-haul routes heavily favor MSE-lower outcomes, while domestic (KR) routes have more same-price occurrences."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A",
+      "line_content": "A low share of ~1.7% last week with small week-to-week changes, indicating few missing website fares."
+    },
+    {
+      "line_title": "Same",
+      "line_content": "Just under half (47%) of last-week itineraries matched the website, slightly lower than prior weeks."
+    },
+    {
+      "line_title": "MSE Higher",
+      "line_content": "Rarely observed (~0.2% last week) and remains stable, posing minimal concern for overpricing."
+    },
+    {
+      "line_title": "MSE Lower",
+      "line_content": "Over half (51%) were cheaper on MSE last week, a modest uptick from previous periods."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Nearly half (47%) are cheaper on MSE, while about half match website. Higher fares remain insignificant."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "All observed long-haul fares are MSE-lower, with no higher or same-price instances in the latest data."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "KR Origins",
+      "line_content": "63% match website pricing, while about 35% are cheaper on MSE, indicating a balanced distribution."
+    },
+    {
+      "line_title": "Non-KR Origins",
+      "line_content": "96% of fares are cheaper on MSE, underscoring a pronounced gap in favor of metasearch rates."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "About half match the website and half are cheaper, with negligible higher incidences."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Over half are cheaper on MSE, and around 45% match website pricing, reflecting a stronger MSE advantage."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS Dominance",
+      "line_content": "Around 95% of listed fares are either priced the same or higher on GDS, suggesting limited lower-fare opportunities."
+    },
+    {
+      "line_title": "Minimal Lower Fares",
+      "line_content": "GDS undercuts are nearly nonexistent in the latest data, showing no competitive edge in lower pricing."
+    },
+    {
+      "line_title": "Slight Decline in N/A",
+      "line_content": "The share of fares not found on GDS shows a small downward trend compared to previous periods."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offer Not Found",
+      "line_content": "Represents around 5% of cases overall, down slightly from previous weeks and months."
+    },
+    {
+      "line_title": "Same",
+      "line_content": "Steady at about 44% of itineraries, reflecting consistent alignment with website fares."
+    },
+    {
+      "line_title": "Channel Higher",
+      "line_content": "Over half of fares remain higher on GDS, averaging a modest 1% uplift."
+    },
+    {
+      "line_title": "Channel Lower",
+      "line_content": "Close to 0% occurrence, indicating little competitive underpricing on GDS."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "GDS fares are higher in about 55% of cases, with minimal week-to-week variation."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "Almost all long-haul fares match the website, revealing a tight price alignment in this segment."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "KR",
+      "line_content": "GDS is higher in about 63% of cases, with around 6% not found, and no meaningful lower fares."
+    },
+    {
+      "line_title": "Non-KR",
+      "line_content": "Same fares predominate at 84%, leaving only 16% priced higher on GDS."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "Over half of these bookings are higher on GDS, with only slight fluctuations from prior periods."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Roughly half priced higher and half the same, reflecting a balanced pricing pattern in advance."
+    }
+  ]
+}

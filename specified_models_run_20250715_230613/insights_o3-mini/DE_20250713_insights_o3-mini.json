@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Consistency",
+      "line_content": "OTA pricing shows robust alignment with website prices, with nearly 90% of offers identical and only minor deviations noted for higher or lower pricing."
+    },
+    {
+      "line_title": "MSE Discounting",
+      "line_content": "MSE consistently offers lower prices, dominating nearly 90% of the records, with tailored discount strategies evident for long haul routes."
+    },
+    {
+      "line_title": "GDS Premium",
+      "line_content": "GDS employs a premium pricing strategy, where over 88% of fares are marked above website rates, with minimal occurrences of price parity."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Alignment",
+      "line_content": "Nearly 90% of OTA prices match the airline website, indicating strong consistency in pricing."
+    },
+    {
+      "line_title": "Minor Deviations",
+      "line_content": "Only 6.5% of OTA records are higher and 1.7% lower, with very modest average differences (+0.18% and -0.04%)."
+    },
+    {
+      "line_title": "Stable Trends",
+      "line_content": "Week-over-week and month-over-month changes remain minimal, highlighting overall pricing stability."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A",
+      "line_content": "The OTA N/A status shows a 2.12% occurrence with modest increases of 0.70% (PW) and 0.80% (PM)."
+    },
+    {
+      "line_title": "Consistency & Deviations",
+      "line_content": "Approximately 89.7% of prices are identical, while 6.48% are higher and 1.72% lower compared to the website."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Short haul itineraries exhibit 91.3% consistency with only 5.9% higher and 1.6% lower deviations."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "Long haul routes show lower price consistency at 76.9%, with a notable 11.5% frequency of higher pricing."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic (DE)",
+      "line_content": "Domestic segments have 90.9% matching prices, with 7.7% slightly higher and 0.3% lower."
+    },
+    {
+      "line_title": "International",
+      "line_content": "Non-DE routes display an 88.6% match, with 5.3% higher and 3.1% lower pricing, indicating modest divergence."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In",
+      "line_content": "Close-in bookings are less consistent at 87.7%, with 7.9% higher and 2.0% lower, showing increased pricing volatility."
+    },
+    {
+      "line_title": "Far-Out",
+      "line_content": "Far-out itineraries reflect strong pricing alignment with 94.8% matching and minimal deviations (2.8% higher and 0.9% lower)."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Lower Pricing Dominance",
+      "line_content": "Nearly 90% of MSE records are lower than website prices, demonstrating a clear discounting focus."
+    },
+    {
+      "line_title": "Stable Rate Parity",
+      "line_content": "A consistent 6-10% of itineraries reflect same-price occurrences, maintaining a stable rate parity segment."
+    },
+    {
+      "line_title": "Long Haul Discounts",
+      "line_content": "Long haul routes show deeper discounts (up to -0.17%) compared to short haul (-0.05%), signaling a tailored pricing strategy."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A",
+      "line_content": "The 'MSE N/A' frequency is extremely low, between 0.0026 and 0.0051, indicating minimal missing website offers."
+    },
+    {
+      "line_title": "Lower Pricing Predominance",
+      "line_content": "The lower pricing category dominates at around 90%, with slight week-over-week decreases underscoring a maintained discount strategy."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Short haul routes see approximately 90% lower-priced itineraries with minimal discount differences."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "Long haul itineraries exhibit roughly 97% lower pricing with more significant discounts, emphasizing a differentiated approach."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic Aggression",
+      "line_content": "Domestic (DE) routes are aggressively discounted with 96.12% lower pricing and slightly deeper discounts (-0.08%)."
+    },
+    {
+      "line_title": "International Variation",
+      "line_content": "Non-DE routes have lower pricing at 85.24% with only 14.25% same-price occurrences, reflecting a less aggressive approach."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Mix",
+      "line_content": "Close-in bookings show 88.40% lower pricing alongside an 11.42% same-price occurrence, indicating a mix of discounting and parity."
+    },
+    {
+      "line_title": "Far-Out Focus",
+      "line_content": "Far-out bookings are nearly exclusively lower priced at approximately 95.28%, reflecting a strong discount strategy for advanced purchases."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Premium Focus",
+      "line_content": "Nearly 88% to 91% of GDS offers are priced higher than the website, affirming a strong premium pricing strategy."
+    },
+    {
+      "line_title": "Minimal Parity",
+      "line_content": "Instances of exact price matches are negligible (around 0.13%), reinforcing deliberate price differentiation."
+    },
+    {
+      "line_title": "Stable Trends",
+      "line_content": "Week-over-week and month-over-month changes are minimal, indicating a steady premium pricing structure."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A",
+      "line_content": "Approximately 10% of offers are not available on GDS, with a slight 0.16% week-over-week increase."
+    },
+    {
+      "line_title": "Premium & Rare Lower",
+      "line_content": "About 88.5% of records are higher priced, while lower offers are rare (around 1%) with minor positive adjustments."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Dominance",
+      "line_content": "Short haul routes see over 91% of offers priced higher, ensuring uniform premium pricing."
+    },
+    {
+      "line_title": "Long Haul Diversity",
+      "line_content": "Long haul routes display variability with 66.7% higher pricing, coupled with increased N/A (28.2%) and lower pricing (3.8%)."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic Premium",
+      "line_content": "Domestic itineraries exhibit strong premium pricing at 93.6% higher than website rates."
+    },
+    {
+      "line_title": "International Adjustment",
+      "line_content": "Non-DE routes follow a premium trend at 84.0%, with a slight adjustment relative to domestic figures."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Premium",
+      "line_content": "Close-in bookings are characterized by 87.3% higher pricing, demonstrating consistent last-minute premium pricing."
+    },
+    {
+      "line_title": "Far-Out Advantage",
+      "line_content": "Far-out bookings reach an even higher premium with 92.0% of offers exceeding website prices."
+    }
+  ]
+}

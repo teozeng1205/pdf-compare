@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Overview",
+      "line_content": "The OTA channel shows strong website pricing parity at 93.56% with minor deviations, though far out bookings exhibit a 12.63% N/A rate indicating potential discrepancies."
+    },
+    {
+      "line_title": "MSE Overview",
+      "line_content": "MSE offers are split evenly between SAME and lower pricing, underscoring a consistent discounting approach, particularly aggressive in the GB market."
+    },
+    {
+      "line_title": "GDS Overview",
+      "line_content": "GDS pricing remains highly consistent with 99% alignment, with only subtle deviations observed in fare adjustments across different segments."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "High Consistency",
+      "line_content": "Approximately 93.56% of OTA offers match website prices, indicating robust pricing alignment."
+    },
+    {
+      "line_title": "Negligible Premiums",
+      "line_content": "Instances of OTA pricing premiums are minimal, with almost zero last-week frequency."
+    },
+    {
+      "line_title": "Booking Impact",
+      "line_content": "Far out itineraries show a 12.63% N/A rate compared to 3.98% for close-in bookings, highlighting potential discrepancies in advanced bookings."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A",
+      "line_content": "OTA N/A incidents represent 6.44% with a slight week-over-week increase of 0.72%, suggesting minor data omission challenges."
+    },
+    {
+      "line_title": "SAME Dominance",
+      "line_content": "The SAME status clearly dominates at 93.56%, maintaining consistent pricing alignment."
+    },
+    {
+      "line_title": "Minimal Premiums",
+      "line_content": "Instances of OTA pricing being higher are negligible, while no occurrences of lower pricing are observed."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Long Haul Stability",
+      "line_content": "Long haul routes show 93.56% pricing consistency with minimal anomalies across regions."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "GB Market",
+      "line_content": "In the GB segment, the consistency is 89.66% with a notable OTA N/A rate of 10.34%."
+    },
+    {
+      "line_title": "Non-GB Market",
+      "line_content": "Non-GB markets exhibit stronger parity at 96.69%, with only slight historical adjustments observed."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In Bookings",
+      "line_content": "Close in bookings maintain high uniformity at 96.02% with a 3.98% OTA N/A rate."
+    },
+    {
+      "line_title": "Far Out Bookings",
+      "line_content": "Far out bookings register lower consistency at 87.37% and a higher OTA N/A frequency of 12.63%."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Balanced Pricing",
+      "line_content": "Nearly 100% of MSE offers fall into the SAME or LOWER categories, exhibiting a balanced and consistent pricing strategy."
+    },
+    {
+      "line_title": "Negligible Premium",
+      "line_content": "MSE HIGHER occurrences are effectively nonexistent, with only a 0.00% frequency observed."
+    },
+    {
+      "line_title": "Steady Trends",
+      "line_content": "Historical trends show a consistent -0.32% differential in MSE LOWER, underscoring stable competitive pricing."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A",
+      "line_content": "The MSE N/A category is minimal, with a -2.61% change from last month, indicating few unavailability issues."
+    },
+    {
+      "line_title": "SAME versus LOWER",
+      "line_content": "Offers split nearly 50-50 between SAME and LOWER statuses, with LOWER showing a consistent discount (~ -0.32%)."
+    },
+    {
+      "line_title": "Negligible Higher",
+      "line_content": "MSE HIGHER fares are virtually absent, reinforcing the absence of premium pricing."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Long Haul Consistency",
+      "line_content": "Long haul routes mirror overall trends with approximately 50.85% SAME and 49.15% LOWER, indicating steady pricing."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "GB Market",
+      "line_content": "For the GB market, all records fall under MSE LOWER, reflecting a competitive discounting approach."
+    },
+    {
+      "line_title": "Non-GB Market",
+      "line_content": "Non-GB itineraries are exclusively priced as SAME, showing strong parity with website prices."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "Close in bookings display a near-even split (51% SAME, 49% LOWER) with a slightly deeper discount on LOWER fares (~ -0.38%)."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Far out bookings exhibit an exact 50-50 split between SAME and LOWER statuses, with LOWER fares offering a moderate discount (~ -0.20%)."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Near-Perfect Consistency",
+      "line_content": "Approximately 99% of GDS offers match the website pricing, emphasizing strong overall alignment."
+    },
+    {
+      "line_title": "Subtle Deviations",
+      "line_content": "Observed deviations are marginal, with price differences up to 0.31% higher and -0.29% lower."
+    },
+    {
+      "line_title": "Stable Over Time",
+      "line_content": "Week-over-week and month-over-month changes remain minimal, reflecting steady pricing trends."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A",
+      "line_content": "Fares not found represent roughly 1% of cases, with a slight month-over-month reduction noted."
+    },
+    {
+      "line_title": "SAME Dominance",
+      "line_content": "Nearly 99% of the fares exhibit identical pricing to the website, reflecting tight consistency."
+    },
+    {
+      "line_title": "Limited Deviations",
+      "line_content": "When deviations occur, the adjustments are marginal (up to +0.31% or -0.29%), keeping overall impact minimal."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Long Haul Stability",
+      "line_content": "Long haul routes reflect near-identical pricing (98.99% SAME) with only minor upward adjustments in rare cases."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "GB Consistency",
+      "line_content": "GB itineraries maintain strong parity with website fares, showing negligible pricing differences."
+    },
+    {
+      "line_title": "Non-GB Variance",
+      "line_content": "Non-GB routes exhibit a slightly broader variance, with differences up to +0.16% and down to -0.50%."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In Certainty",
+      "line_content": "Close in bookings achieve virtually complete alignment at 99.5% SAME, underscoring immediate-booking stability."
+    },
+    {
+      "line_title": "Far Out Caution",
+      "line_content": "Far out bookings display a modest decrease in consistency with a higher GDS N/A frequency, suggesting room for improvement."
+    }
+  ]
+}

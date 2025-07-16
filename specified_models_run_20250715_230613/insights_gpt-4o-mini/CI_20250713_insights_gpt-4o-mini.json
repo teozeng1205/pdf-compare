@@ -1,0 +1,168 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Price Discrepancies",
+      "line_content": "OTA channel pricing is predominantly higher, with 93% of offers exceeding the airline's website rates."
+    },
+    {
+      "line_title": "MSE Competitive Pricing",
+      "line_content": "The MSE channel demonstrates a competitive edge, with 34.2% of fares lower than the airline's website, making it an attractive option for budget-conscious customers."
+    },
+    {
+      "line_title": "GDS Pricing Challenges",
+      "line_content": "GDS channel pricing is considerably elevated, with 97.35% of offers priced higher than those on the airline's website, indicating a tough market for consumers."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "OTA Pricing Higher",
+      "line_content": "The majority of recorded offers on the OTA channel show prices higher than the airline website, indicating potential pricing strategy misalignment."
+    },
+    {
+      "line_title": "Low Price Discrepancy",
+      "line_content": "The OTA channel has an average price difference of only -0.03%, suggesting competitive pricing compared to previous periods."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "High-Increase OTA Pricing",
+      "line_content": "Approximately 93% of offers were priced higher on the OTA channel compared to the airline's website during the last week."
+    },
+    {
+      "line_title": "Pricing Stability",
+      "line_content": "There was little to no change in the frequency of 'SAME' offers during the analyzed periods, demonstrating consistent pricing."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Pricing",
+      "line_content": "All short-haul offers featured greater pricing on the OTA channel, with no recorded lower offers in this category."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "TW Origin High Pricing",
+      "line_content": "Over 96% of offers from Taiwan were higher priced on the OTA channel versus the airline's website, indicating sharp pricing discrepancies."
+    },
+    {
+      "line_title": "Non-TW Origin Pricing",
+      "line_content": "Non-TW offers also showed a higher pricing trend, with 89.61% reflecting increases compared to the airline's website."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In Booking Higher Prices",
+      "line_content": "The Close In booking category showed over 92% of offers priced higher compared to the airline website."
+    },
+    {
+      "line_title": "Far Out Booking Stability",
+      "line_content": "Far Out bookings demonstrated a slightly lower but still significant percentage of offers at higher prices compared to other windows."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Same Pricing Gains",
+      "line_content": "Pricing on MSE matches the airline's website 64.8% of the time, reflecting consistency in value offered to consumers."
+    },
+    {
+      "line_title": "Lower Prices Common",
+      "line_content": "Approximately 34.2% of fares on the MSE channel are lower than the airline's website, highlighting competitive pricing strategies."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Frequent Same Pricing",
+      "line_content": "64.8% of all paths showed prices identical to the airline's website for the latest week, with a slightly increased frequency compared to the previous week."
+    },
+    {
+      "line_title": "Competitive Lower Pricing",
+      "line_content": "34.2% of offers were lower than the airline's site, providing a strong incentive for customers to use the MSE channel."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Pricing",
+      "line_content": "In the short-haul segment, 34.2% of fares were lower on the MSE channel, improving competitive positioning."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Taiwan Pricing Consistency",
+      "line_content": "For Taiwan departures, the MSE channel maintained a 72.67% match with the airline's pricing, indicating a favorable position."
+    },
+    {
+      "line_title": "Non-Taiwan Variability",
+      "line_content": "While 57.14% of prices were the same as the airline's site, 42.21% were lower, suggesting varied performance in price alignment."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In vs. Far Out Trends",
+      "line_content": "Close-in bookings showed 34.31% of fares lower than the airline's site, while far-out bookings were more favorable, with 34.34% lower prices."
+    },
+    {
+      "line_title": "Decreasing Lower Pricing Rates",
+      "line_content": "Lower fare offers for close-in bookings decreased by 8.05% week-over-week, indicating potential volatility as the departure date approaches."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Frequent Higher Prices",
+      "line_content": "In the GDS channel, 97.35% of the prices were higher compared to the airline's website across all dimensions last week."
+    },
+    {
+      "line_title": "Limited Lower Prices",
+      "line_content": "Only 2.32% of the pricing data in the GDS channel reported lower prices compared to the airline's own website in the latest week."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "High Prices Dominant",
+      "line_content": "97.35% of all prices in GDS were higher than on the airline's website last week, indicating a challenging market for consumers."
+    },
+    {
+      "line_title": "Diminished Lower Offers",
+      "line_content": "The option for lower prices was minimal at only 2.32%, emphasizing the lack of competitive fare offerings in the GDS channel."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Overall Performance",
+      "line_content": "Regionally, both domestic and international fare discrepancies align closely with overall findings, with 97% of prices higher than the airline’s website."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Taiwan Entries",
+      "line_content": "Pricing from Taiwan reflects a higher occurrence of elevated prices in the GDS channel, with 98.67% showing higher prices versus the website."
+    },
+    {
+      "line_title": "Non-Taiwan Performance",
+      "line_content": "For non-Taiwan origins, 95.45% of prices were again higher, maintaining the trend of inflated pricing across different point of origins."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings Higher",
+      "line_content": "For close-in bookings, 96.55% showed higher prices compared to the website, with little incentive for last-minute travelers."
+    },
+    {
+      "line_title": "Far Out Booking Insights",
+      "line_content": "Infar bookings, 98.00% of the fares were higher than offers on the airline's website, demonstrating persistent high pricing for advance purchases."
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Premium Issue",
+      "line_content": "OTAs priced higher than the website on 96% of itineraries with an 18% average markup, keeping the channel firmly uncompetitive."
+    },
+    {
+      "line_title": "MSE Parity Breakthrough",
+      "line_content": "Metasearch achieved 55% fare parity—first time above 50%—while undercutting fell but still affects 41% of trips."
+    },
+    {
+      "line_title": "GDS Visibility Gap",
+      "line_content": "GDS failed to display fares on 96% of itineraries; when shown, fares averaged 22% above the website, limiting agency sales potential."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Premium Dominance",
+      "line_content": "95.7% of OTA itineraries carried an 18% premium over direct fares."
+    },
+    {
+      "line_title": "Marginal Undercut Uptick",
+      "line_content": "OTA-cheaper share inched up to 1.4%, the only positive WoW movement."
+    },
+    {
+      "line_title": "Long-Haul Relief",
+      "line_content": "Long-haul saw just 78.7% OTA-higher cases versus 96.5% on short-haul."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA Higher (96%)",
+      "line_content": "Dominant status dipped only 0.03 ppt WoW; premium steady at ~18%."
+    },
+    {
+      "line_title": "Offer Missing (2.3%)",
+      "line_content": "Visibility improved 0.4 ppt WoW, 1.6 ppt MoM."
+    },
+    {
+      "line_title": "OTA Cheaper (1.4%)",
+      "line_content": "Up 0.4 ppt WoW yet remains a fringe scenario."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Weakness",
+      "line_content": "96.5% OTA-higher; disparity flat WoW."
+    },
+    {
+      "line_title": "Long-Haul Better",
+      "line_content": "78.7% OTA-higher, 9.3% OTA-cheaper; 15.7% not listed."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Brazil POS Issue",
+      "line_content": "97.2% OTA-higher; OTA-lower still <1%."
+    },
+    {
+      "line_title": "International POS Opportunity",
+      "line_content": "62.5% OTA-higher; OTA-cheaper surged to 17.3% (+5 ppt MoM)."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (≤7d)",
+      "line_content": "95.1% OTA-higher; OTA-lower doubled to 1.4% WoW."
+    },
+    {
+      "line_title": "Far-Out (≥21d)",
+      "line_content": "96.7% OTA-higher; premium slightly lower at 17%."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Parity Majority",
+      "line_content": "54.6% of itineraries now match website fares (+7 ppt WoW)."
+    },
+    {
+      "line_title": "Undercut Still Large",
+      "line_content": "41% of fares below website despite 2.6 ppt WoW drop."
+    },
+    {
+      "line_title": "Minimal Price Gaps",
+      "line_content": "Average variance only ±0.11%, making frequency—not depth—the risk."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Price Parity (55%)",
+      "line_content": "Up 7 ppt WoW, 6.8 ppt MoM—strong alignment progress."
+    },
+    {
+      "line_title": "Channel Lower (41%)",
+      "line_content": "Down 2.6 ppt WoW; small gaps erode margin."
+    },
+    {
+      "line_title": "Channel Higher (3.9%)",
+      "line_content": "Overpricing negligible and declining 4.5 ppt WoW."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Domestic Short-Haul",
+      "line_content": "54% parity, 42% undercut; parity improved 6.6 ppt WoW."
+    },
+    {
+      "line_title": "Long-Haul Strength",
+      "line_content": "67% parity, 28% undercut; parity jumped 16 ppt WoW."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Brazil POS",
+      "line_content": "56% parity, 41% undercut—mirrors network averages."
+    },
+    {
+      "line_title": "Non-Brazil POS",
+      "line_content": "58% undercut, only 28% parity; weakest cell despite 9 ppt WoW gain."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (<14d)",
+      "line_content": "Undercut 48% vs 47% parity; pressure persists."
+    },
+    {
+      "line_title": "Far-Out (15+d)",
+      "line_content": "68% parity, 29% undercut; parity up 12 ppt WoW."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Coverage Deficit",
+      "line_content": "96% of website itineraries absent from GDS, gap widening."
+    },
+    {
+      "line_title": "Premium Pricing",
+      "line_content": "On available 4%, fares average 22% above website; undercuts negligible."
+    },
+    {
+      "line_title": "Minor Premium Easing",
+      "line_content": "GDS-higher share fell 0.5 ppt WoW."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Not Available (95.8%)",
+      "line_content": "Structural distribution gap (+0.5 ppt WoW)."
+    },
+    {
+      "line_title": "GDS Higher (3.9%)",
+      "line_content": "Premium steady at 22%, share down 0.5 ppt WoW."
+    },
+    {
+      "line_title": "Parity (0.24%)",
+      "line_content": "Unchanged; essentially absent."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "96% N/A; when priced, 23% dearer on 3.7% routes."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "87% N/A; 7.3% priced higher at 11% premium (+1.9 ppt WoW)."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Brazil Origins",
+      "line_content": "100% itineraries unavailable—agency blackout continues."
+    },
+    {
+      "line_title": "Non-Brazil Origins",
+      "line_content": "92% priced higher with 22% premium; availability less the issue than competitiveness."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-7d)",
+      "line_content": "96% N/A; priced share shows 26% premium."
+    },
+    {
+      "line_title": "Far-Out (8+d)",
+      "line_content": "95% N/A; 18% premium on 4.7% priced itineraries."
+    }
+  ]
+}

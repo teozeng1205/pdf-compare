@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Channel Pricing Behavior",
+      "line_content": "OTA prices are higher than Pegasus Airlines' website 82.85% of the time, with only 0.55% instances of lower pricing, indicating a significant markup tendency."
+    },
+    {
+      "line_title": "MSE Channel Trends",
+      "line_content": "67.54% of MSE itineraries are priced higher than on Pegasus Airlines' website, with a consistent pricing pattern across short and long-haul flights."
+    },
+    {
+      "line_title": "GDS Pricing Dynamics",
+      "line_content": "GDS channel predominantly shows higher pricing, with 98.97% of fares above those on Pegasus Airlines' website, illustrating a strong markup practice."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Significant OTA Higher Pricing",
+      "line_content": "In overall comparisons, OTA prices were higher than the airline website 82.85% of the time last week, indicating a consistent markup in the OTA channel pricing."
+    },
+    {
+      "line_title": "Low OTA Lower Pricing Incidence",
+      "line_content": "OTA prices were lower only 0.55% of the time, suggesting rare instances of OTAs offering competitive discounts compared to the airline's website."
+    },
+    {
+      "line_title": "Stable Pricing Discrepancy Over Time",
+      "line_content": "Price discrepancies have shown relative stability over different periods, with minor fluctuations influenced mostly by OTA mark-up practices."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offer Not Found",
+      "line_content": "Airline's offers were not available on OTAs 14.34% of the time last week, showing a slight increase compared to the previous week."
+    },
+    {
+      "line_title": "OTA Higher Pricing Trend",
+      "line_content": "82.85% of OTA prices were higher than on the airline's website last week, showing a slight decline from the previous week's 84.61%."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul OTA Pricing Leadership",
+      "line_content": "For short-haul flights, OTAs were priced higher 82.38% of the time, maintaining a consistent premium compared to the airline's website."
+    },
+    {
+      "line_title": "Long Haul OTA Pricing Increase",
+      "line_content": "For long-haul flights, OTA's higher pricing frequency of 87.98% increased by 8.38% compared to the previous month, highlighting increasing pricing discrepancies on this route."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "TR Origins Show OTA Higher Pricing",
+      "line_content": "From Turkish origins, OTAs priced higher 89.76% of the time, reflecting a stable pattern in marked-up pricing."
+    },
+    {
+      "line_title": "Non-TR Origins Indicate High OTA Discrepancy",
+      "line_content": "From non-Turkish points of origin, OTA higher pricing rose to 64.29% with an 11.32% monthly increase, demonstrating a growing discrepancy."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings Prone to Higher Pricing",
+      "line_content": "For close-in booking windows, OTAs were higher 83.29% of the time last week, showing OTAs capitalize on urgency for higher markups."
+    },
+    {
+      "line_title": "Far-Out Bookings Show Pricing Variability",
+      "line_content": "Far-out bookings had OTA higher pricing 81.92% of the time, a decrease from the previous month, indicating occasional competitive pricing in the long-term booking window."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "High Percentage of Higher Prices on MSE",
+      "line_content": "In the MSE channel, 67.54% of all itineraries were priced higher than on the carrier's website last week, with a consistent trend in both short and long-haul."
+    },
+    {
+      "line_title": "Low Frequency of Lower Prices",
+      "line_content": "Only 8.56% of itineraries were priced lower on MSE compared to the airline website last week, reflecting a declining trend over the previous month."
+    },
+    {
+      "line_title": "Stable Pricing Parity",
+      "line_content": "Pricing remains stable where MSE prices match the airline's website, with a consistency seeing only slight fluctuations of less than 1% over the weeks."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE Channel Not Available",
+      "line_content": "The frequency of cases where offers were unavailable on MSE decreased slightly by 0.57% from the previous week but increased 8.88% from the last month, indicating a potential consistency improvement by monthly comparison."
+    },
+    {
+      "line_title": "Higher Prices on MSE",
+      "line_content": "A significant portion, over 67% of cases, saw higher prices on MSE compared to the airline's website, with negligible changes in the short term but a 4.23% increase from the past month."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Dominates Higher Prices",
+      "line_content": "Short-haul itineraries continue to show a high frequency of 67.44% for MSE higher prices, slightly decreasing from the previous week."
+    },
+    {
+      "line_title": "Long Haul Sees Higher Price Increase",
+      "line_content": "Long-haul itineraries increased in MSE higher prices with a 15.06% rise over the past month, signaling a growing pricing strategy disparity for these routes."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "High MSE Pricing in TR Markets",
+      "line_content": "For TR point of origin, 67.76% of cases saw MSE offering higher prices than the airline's website. This is a key area to address as it signals consistent market discrepancies."
+    },
+    {
+      "line_title": "Non-TR Markets Have Widest Variability",
+      "line_content": "In Non-TR markets, 66.94% of routes priced higher on MSE increased significantly from last month, highlighting potential market inefficiencies or opportunities."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Increased Price Parity",
+      "line_content": "Close-in booking window still sees high MSE prices 67.85% of the time, with a slight consistency over weeks, indicating short-term demand effects."
+    },
+    {
+      "line_title": "Far-Out Window Shows Stability",
+      "line_content": "The 'Far Out' booking window indicated relatively stable high MSE pricing at 66.84%, but with a slight decrease from the previous week, possibly due to booking demand corrections."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Predominant GDS Pricing",
+      "line_content": "For last week, 98.97% of itineraries analyzed were priced higher in the GDS channel compared to Pegasus Airlines' website."
+    },
+    {
+      "line_title": "Stable Pricing Dynamics",
+      "line_content": "The GDS channel consistently shows elevated prices across the analyzed weeks, with slight positive price changes, notably a 0.21% increase from the previous week."
+    },
+    {
+      "line_title": "Minor GDS Discounts",
+      "line_content": "Negligible instances of lower GDS pricing, only 0.10% of the cases, with discounts slightly increasing to 0.25% below website pricing over the past month."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A Consistency",
+      "line_content": "The proportion of GDS unavailability slightly dropped by 0.21% from last week, presenting minor fluctuations as compared to the previous month."
+    },
+    {
+      "line_title": "Significant GDS Higher Offering",
+      "line_content": "GDS prices were predominantly higher, increasing by 0.54% when compared with the previous month."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Dominance",
+      "line_content": "Short haul flights predominantly exhibited higher GDS pricing with a marked higher incidence of 2.40% last week."
+    },
+    {
+      "line_title": "Long Haul Stability",
+      "line_content": "Long haul showed less frequent GDS availability, but consistently reflected higher GDS pricing, while offering marginal decrease in price trends by 0.12% over the previous month."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Turkey Origins High GDS Prices",
+      "line_content": "Domestic routes in Turkey had 99.25% higher GDS pricing with only minor declines in percentage price differences, maintaining a notable 2.86% average GDS premium."
+    },
+    {
+      "line_title": "Non-Turkey Price Patterns",
+      "line_content": "Non-Turkey origins experienced slightly more GDS lower offerings, but still maintained a dominant proportion of higher GDS prices, with a slight downward trend in average differences over the month."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In Pricing Persistence",
+      "line_content": "Close in bookings continue to uphold a GDS higher pricing structure, with last week showing a 2.34% premium in this channel."
+    },
+    {
+      "line_title": "Far Out Marginal GDS Increase",
+      "line_content": "Far out bookings revealed a reducing trend in GDS price differences, with recent increases slightly tempered by a notable frequency drop compared to last month."
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA",
+      "line_content": "OTA-lower fares rose from 13% to 21% this period, with 77% matching."
+    },
+    {
+      "line_title": "MSE",
+      "line_content": "Maintained a 98% or greater rate of lower fares, showing near-total price advantage."
+    },
+    {
+      "line_title": "GDS",
+      "line_content": "Exhibited strong fare parity at 88–96%, with AE routes seeing higher GDS rates 19% of the time."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Majority Match",
+      "line_content": "Nearly 77% of OTA fares matched the airline site, showing strong consistency."
+    },
+    {
+      "line_title": "More OTA-Lower Fares",
+      "line_content": "OTA-lower fares climbed from 13% to over 21%, indicating intensified competitiveness."
+    },
+    {
+      "line_title": "Point-of-Origin Disparities",
+      "line_content": "OTA-lower fares for AE origins reached 40%, significantly higher than Non-AE at 3%."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Minimal N/A",
+      "line_content": "OTA not available remains near 1%, showing stable coverage."
+    },
+    {
+      "line_title": "Matched Fares Lead",
+      "line_content": "At 77%, matching fares dominate, though down from 80% previously."
+    },
+    {
+      "line_title": "Slightly Higher",
+      "line_content": "OTA-higher fares rose to just over 1%, up from near-zero."
+    },
+    {
+      "line_title": "Notably Lower",
+      "line_content": "OTA-lower fares now exceed 21%, up 8 points from last week."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Market",
+      "line_content": "77% match observed, and 21% lower fares indicate moderate undercutting."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "AE Origins",
+      "line_content": "40% OTA-lower fares reflect strong discounting strategies."
+    },
+    {
+      "line_title": "Non-AE Origins",
+      "line_content": "Over 94% match or exceed airline pricing, with only 3% priced lower."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "25% OTA-lower fares, a 12-point jump from the previous week, with 71% matching."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Matched rates at 86%, and OTA-lower fares hold at 14%."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Dominant Lower Fares",
+      "line_content": "Nearly all itineraries are priced below direct website, averaging over 98% coverage."
+    },
+    {
+      "line_title": "Minimal Variance",
+      "line_content": "Only a slight dip from 100% to 98% lowers, indicating steady competitiveness."
+    },
+    {
+      "line_title": "No Higher Pricing",
+      "line_content": "No MSE fares exceed direct rates, strengthening MSE’s position."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE Not Found",
+      "line_content": "Stays at 0% for certain ODs, reflecting limited availability."
+    },
+    {
+      "line_title": "Matches",
+      "line_content": "Under 2% of fares align with airline pricing."
+    },
+    {
+      "line_title": "Consistent Lower",
+      "line_content": "Over 98% of fare searches show MSE-lower pricing."
+    },
+    {
+      "line_title": "No Higher Fares",
+      "line_content": "No observed instances where MSE exceeds the airline website."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Over 98% MSE-lower share, underscoring a robust cost advantage."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "AE",
+      "line_content": "MSE-lower fares near 100%, with slight week-over-week dips around 2%."
+    },
+    {
+      "line_title": "Non-AE",
+      "line_content": "Similarly near 100% MSE-lower coverage, minimal variations noted."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "MSE-lower presence remains strong at 97.5–100%, with minor fluctuations."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "100% MSE-lower fare coverage, unchanged over the periods."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "High Parity",
+      "line_content": "GDS matches direct fares 88–96% of the time."
+    },
+    {
+      "line_title": "AE Premium",
+      "line_content": "19% of AE fares are higher on GDS, versus only 1% in Non-AE."
+    },
+    {
+      "line_title": "Limited Undercuts",
+      "line_content": "GDS-lower fares stay below 3%, mostly in Non-AE."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Broad Coverage",
+      "line_content": "Few missing GDS offerings, reflecting extensive distribution."
+    },
+    {
+      "line_title": "High Parity",
+      "line_content": "Over 88% of fares align with the direct site, slight changes week to week."
+    },
+    {
+      "line_title": "Moderate Premium",
+      "line_content": "1% higher in Non-AE, up to 19% in AE, signifying region-specific markup."
+    },
+    {
+      "line_title": "Minimal Undercut",
+      "line_content": "Under 3% GDS-lower rates, mostly confined to Non-AE ODs."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Around 88% parity, a 10% higher share, and limited lower pricing."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "AE",
+      "line_content": "Over 80% parity, 19% higher, and no lower fares observed."
+    },
+    {
+      "line_title": "Non-AE",
+      "line_content": "96% matching, small remainder split between higher and lower."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "88% parity, roughly 10% higher, 2% lower, with slight monthly variations."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "89% match, 10% higher, under 2% lower, minimal volatility noted."
+    }
+  ]
+}

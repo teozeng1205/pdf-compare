@@ -1,0 +1,180 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Insight",
+      "line_content": "OTA offers for Ethiopian Airlines are nearly 99% priced higher than website fares, consistently showing a 0.63% premium across various segments."
+    },
+    {
+      "line_title": "MSE Insight",
+      "line_content": "MSE exhibits almost perfect price parity with the airline website, with near 100% alignment across all dimensions and minimal discrepancies."
+    },
+    {
+      "line_title": "GDS Insight",
+      "line_content": "GDS consistently shows a marginal premium pricing pattern with an average increase of approximately 0.52%, demonstrating stable pricing across segments."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Dominant Higher",
+      "line_content": "Nearly 99% of OTA offers are priced higher than the website, with a consistent premium of about 0.63% observed across all segments."
+    },
+    {
+      "line_title": "Robust Data",
+      "line_content": "Minimal missing offers (approximately 1%) ensure robust data availability and confidence in the OTA channel performance."
+    },
+    {
+      "line_title": "Uniform Trends",
+      "line_content": "The OTA channel shows consistent pricing discrepancies across haul, point of origin, and booking window segments."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A",
+      "line_content": "Only about 1% of cases are marked as not available, confirming high data retrieval rates on OTA."
+    },
+    {
+      "line_title": "OTA HIGHER",
+      "line_content": "Nearly 99% of OTA records reflect higher pricing, consistently showing an average premium of 0.63%."
+    },
+    {
+      "line_title": "Price Divergence",
+      "line_content": "No identical or lower pricing cases were observed, indicating a clear divergence in OTA pricing strategy."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Short haul routes consistently exhibit a 99% higher pricing trend with an average premium around 0.63%, reinforcing uniform behavior."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "ET Origin",
+      "line_content": "For Ethiopian Airlines' point-of-origin, nearly 99% of itineraries show a 0.63% higher price, confirming a dominant pricing strategy."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "Close-in bookings show a consistent pattern with about 99% of offers priced higher by an average of 0.63%."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Far out bookings also mirror this trend, with nearly 99% of cases showing a premium ranging from 0.62% to 0.64%."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Uniform Pricing",
+      "line_content": "MSE exhibits almost 100% price parity with the airline website across all dimensions."
+    },
+    {
+      "line_title": "Stable Differences",
+      "line_content": "The overall average last-week price difference is 0.00%, confirming consistent fare alignment."
+    },
+    {
+      "line_title": "Robust Consistency",
+      "line_content": "Across short haul, booking windows, and point-of-origin segments, discrepancies are virtually non-existent, ensuring reliability."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A",
+      "line_content": "Instances of missing offers are minimal (0.40% to 1.06%), indicating high coverage."
+    },
+    {
+      "line_title": "SAME",
+      "line_content": "A near 100% same status confirms remarkable price parity with the website."
+    },
+    {
+      "line_title": "No Over/Undercutting",
+      "line_content": "There are no occurrences of either higher or lower fares, reinforcing consistent pricing."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "Short haul routes achieve near-complete price matching with a SAME frequency of 99.60%."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "ET Origin Consistency",
+      "line_content": "For Ethiopian Airlines origin, 99.60% of itineraries maintain exact price parity with the website."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In Bookings",
+      "line_content": "Close-in booking windows exhibit flawless price matching, achieving 100% SAME status."
+    },
+    {
+      "line_title": "Far Out Bookings",
+      "line_content": "Far out bookings maintain high consistency with 98.94% SAME status and only minor variance."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Premium Consistency",
+      "line_content": "GDS consistently shows higher pricing with an average last-week premium of about 0.52% over website fares."
+    },
+    {
+      "line_title": "Stable Frequency",
+      "line_content": "The channel shows near-universal higher status with stable week-over-week and month-over-month figures."
+    },
+    {
+      "line_title": "Data Gaps",
+      "line_content": "Certain data points for N/A and SAME statuses are missing, indicating some gaps in detailed price difference data."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A",
+      "line_content": "Missing website offers are minimal (e.g., 0.0010 overall), ensuring robust data coverage."
+    },
+    {
+      "line_title": "GDS HIGHER",
+      "line_content": "The prevailing status is GDS HIGHER with near-universal frequency and an average premium of about 0.52%."
+    },
+    {
+      "line_title": "No SAME/Lower",
+      "line_content": "There is negligible identical pricing and no instances of lower fares noted on GDS."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Focus",
+      "line_content": "Short haul routes observe a consistent trend with GDS HIGHER dominating and averaging a 0.52% premium."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Origin ET",
+      "line_content": "For Ethiopian Airlines' point-of-origin, GDS reflects similar behavior with predominant higher pricing and comparable premiums."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In Stability",
+      "line_content": "Close-in bookings depict a high frequency (approximately 0.9984) of higher pricing with a stable 0.52% premium."
+    },
+    {
+      "line_title": "Far Out Consistency",
+      "line_content": "Far out bookings maintain uniformity with a higher pricing frequency of 1.0000 and a slightly adjusted premium of around 0.51%."
+    }
+  ]
+}

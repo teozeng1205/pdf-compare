@@ -1,0 +1,184 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Pricing Consistency",
+      "line_content": "The OTA channel showed an overall trend of lower prices, with approximately 40.48% of fares cheaper compared to the airline's website."
+    },
+    {
+      "line_title": "MSE Competitive Edge",
+      "line_content": "MSE consistently offers lower prices for 99.3% of comparisons against the airline's website, highlighting its strong pricing advantage."
+    },
+    {
+      "line_title": "GDS Price Stability",
+      "line_content": "The GDS channel exhibited stable pricing, with around 57% of itineraries matching the airline's website, while providing lower prices for 41% of cases."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Frequent Higher Prices",
+      "line_content": "The OTA channel exhibited higher prices for 4.09% of itineraries on average last week, indicating potential pricing inconsistency."
+    },
+    {
+      "line_title": "Lower Prices Dominate",
+      "line_content": "About 40.48% of fare offers were cheaper on the OTA compared to the airline's website, with no significant changes from previous periods."
+    },
+    {
+      "line_title": "Stable Comparisons",
+      "line_content": "Pricing remains stable with over 53.98% of OTA comparisons showing fares labeled as the same."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA Not Found",
+      "line_content": "For the last week, 1.73% of itineraries had no corresponding prices on the OTA channel, marking a slight decrease from the previous week."
+    },
+    {
+      "line_title": "Lower Prices Stable",
+      "line_content": "Prices on the OTA channel remained lower by an average of 0.06%, unchanged from previous weeks."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Overall Consistency",
+      "line_content": "Each region displayed consistent pricing behavior with 40.48% lower prices found on the OTA channel overall."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "HR Offers",
+      "line_content": "On average, 25.93% of offers from HR were lower on the OTA channel, maintaining a competitive edge."
+    },
+    {
+      "line_title": "Non-HR Comparison",
+      "line_content": "Only 1.37% of Non-HR fares were not found on the OTA, indicating strong availability in this group."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In Prices",
+      "line_content": "The booking window close in showed that 43.88% of fares were priced lower on the OTA, suggesting a favorable choice for last-minute travelers."
+    },
+    {
+      "line_title": "Far Out Pricing",
+      "line_content": "In the far-out booking category, 32.98% of fares were lower, but saw a slight decrease in lower pricing offers by 1.35% from the previous week."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "High Discount On MSE",
+      "line_content": "The MSE channel consistently offers lower prices, with 99.3% of the time presenting fares below those found directly on the airline's website."
+    },
+    {
+      "line_title": "Stable Pricing Trends",
+      "line_content": "There is negligible price fluctuation observed over the last week (-0.11%), maintaining consistency across comparisons."
+    },
+    {
+      "line_title": "Short Haul Advantage",
+      "line_content": "MSE shows similar benefits for short-haul routes, where 99.3% of fares were lower than the airline website offerings."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE Lower",
+      "line_content": "Across all records, 99.3% of prices on the MSE channel were lower than those on the airline's website."
+    },
+    {
+      "line_title": "MSE Same",
+      "line_content": "A stable 0.35% of offerings matched the airline's pricing, indicating a consistent price-sharing approach."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Croatia (HR) Pricing Trends",
+      "line_content": "Pricing data for Croatia indicates high competitiveness, with 99.5% of offerings being cheaper than the airline's website."
+    },
+    {
+      "line_title": "Non-Croatia Offers",
+      "line_content": "For the non-Croatia segment, MSE pricing remains beneficial, with 98.6% of fares lower than those listed directly by the airline."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Origin Country (HR)",
+      "line_content": "Route offerings originating from Croatia maintain an impressive 99.5% lower ticket price on the MSE compared to the airline's website."
+    },
+    {
+      "line_title": "Non-Origin Country Pricing",
+      "line_content": "For itineraries not originating in Croatia, the MSE channel demonstrates a lower fare rate of 98.6%, affirming consistent pricing benefits."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking",
+      "line_content": "Close-in bookings reveal that 99.5% of offerings via MSE are priced lower than the airline's direct sales."
+    },
+    {
+      "line_title": "Far-Out Booking",
+      "line_content": "Fares for far-out bookings maintain competitive pricing, with 98.9% of MSE offers being lower than those found on the airline's website."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Frequent Same Prices",
+      "line_content": "The GDS channel maintained a consistent offering for approximately 57% of itineraries with prices matching the airline's website across all dimensions."
+    },
+    {
+      "line_title": "Price Discrepancies",
+      "line_content": "The GDS channel exhibited higher prices in around 1% of cases compared to the airline website, while it provided lower prices for approximately 41% of itineraries."
+    },
+    {
+      "line_title": "Close In Bookings",
+      "line_content": "The 'Close In' booking window showed a slight increase in GDS lower prices by 1.16% compared to the previous week."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS-N/A Instances",
+      "line_content": "Prices were not found on the GDS channel for 0.34% of itineraries last week."
+    },
+    {
+      "line_title": "SAME Status",
+      "line_content": "Approximately 57.5% of all itineraries had prices that were the same between the GDS channel and the airline website."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Pricing",
+      "line_content": "For short haul flights, 41% of prices were lower on the GDS channel, while only 1% were higher compared to the website."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic (HR) Advantage",
+      "line_content": "In the domestic market (HR), 26% of prices on the GDS channel were lower than the airline's website."
+    },
+    {
+      "line_title": "Non-HR Variability",
+      "line_content": "For non-HR flights, a significant 84.9% of GDS prices were lower than on the airline website."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Near-Term Bookings",
+      "line_content": "Close-in bookings on the GDS channel revealed about 44.7% of fares were lower compared to the website."
+    },
+    {
+      "line_title": "Far-Out Opportunity",
+      "line_content": "In far-out bookings, while no higher rates were found on the GDS, 33% offered lower prices than the website."
+    }
+  ]
+}

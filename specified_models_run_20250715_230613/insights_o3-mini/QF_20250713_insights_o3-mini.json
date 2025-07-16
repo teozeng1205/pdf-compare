@@ -1,0 +1,204 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Consistency & Gaps",
+      "line_content": "OTA data shows strong price parity with 67% SAME rates, though nearly 27% of records are missing corresponding website offers, highlighting potential customer perception challenges."
+    },
+    {
+      "line_title": "MSE Regional Nuances",
+      "line_content": "MSE performance is characterized by a robust 49% SAME rate overall, with marked regional differences—particularly lower parity and heightened discrepancies in non-AU markets."
+    },
+    {
+      "line_title": "GDS Premium Pricing",
+      "line_content": "GDS channels predominantly report premium pricing with approximately 70% of fares listed as higher than the website fare, indicating consistent upward adjustments and minimal discounting."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "High SAME Consistency",
+      "line_content": "Approximately 67% of OTA offers match the website, underscoring strong pricing consistency despite minor fluctuations."
+    },
+    {
+      "line_title": "OTA N/A Occurrence",
+      "line_content": "Roughly 26%-28% of OTA records lack a corresponding website offer, which may impact customer perceptions."
+    },
+    {
+      "line_title": "Modest Deviations",
+      "line_content": "Price differences are minimal; last-week deviations are around 0.01% with slightly higher positive variances on long-haul routes."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A",
+      "line_content": "OTA N/A frequencies average 26.5% with consistent week-over-week and month-over-month trends."
+    },
+    {
+      "line_title": "SAME Rates",
+      "line_content": "About 67% of records remain identical, indicating stable pricing, with minor positive shifts recently."
+    },
+    {
+      "line_title": "OTA HIGHER & LOWER",
+      "line_content": "Both OTA HIGHER and OTA LOWER account for approximately 3.2% each, reflecting modest premiums (+0.19%) and discounts (-0.23%) compared to the website."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Short haul routes report a 66% SAME rate with ~27.7% OTA N/A, and minor price variances of +0.15% and -0.23%."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "Long haul segments have enhanced consistency at 76.7%, though display a slightly higher OTA HIGHER differential at +0.34%."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "AU Routes",
+      "line_content": "Domestic routes maintain a robust 67.3% SAME rate with controlled pricing variations (+0.16% and -0.25%)."
+    },
+    {
+      "line_title": "Non-AU Routes",
+      "line_content": "Non-AU itineraries exhibit lower parity at 62.2% and an elevated OTA HIGHER frequency (around 21%), indicating increased premium adjustments."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In Bookings",
+      "line_content": "Close-in bookings show pricing alignment in about 66.1% of cases with OTA N/A at 27.3% and modest deviations of +0.20% and -0.23%."
+    },
+    {
+      "line_title": "Far Out Bookings",
+      "line_content": "Advanced bookings report slightly higher SAME rates (69.3%) and reduced OTA HIGHER differences (+0.15%), suggesting tighter pricing alignment."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Consistent SAME Pricing",
+      "line_content": "MSE channels show nearly 49% of offers matching website prices overall, indicating strong pricing parity."
+    },
+    {
+      "line_title": "Discrepancy Trends",
+      "line_content": "Notable fluctuations in MSE LOWER pricing point to evolving channel behavior, with higher discrepancies observed over the month."
+    },
+    {
+      "line_title": "Regional Nuances",
+      "line_content": "Distinct differences are evident between short haul and long haul, with long haul records showing a more pronounced premium in MSE HIGHER."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A",
+      "line_content": "MSE N/A records stand at 25.74% last week with minimal weekly changes and a modest 5.66% monthly decline."
+    },
+    {
+      "line_title": "SAME Status",
+      "line_content": "The SAME category is robust at 49.08%, marking increases of 4.43% week-over-week and 13.19% month-over-month."
+    },
+    {
+      "line_title": "MSE HIGHER & LOWER",
+      "line_content": "MSE HIGHER appears at 10.81% (with minor recent drops) while MSE LOWER registers at 14.37%, reflecting channel-specific pricing adjustments."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Short haul routes show 48.43% parity with moderate discrepancies (11.22% for HIGHER and 13.60% for LOWER)."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "Long haul pricing is more aligned at 54.50% SAME, yet exhibits a distinct premium in MSE HIGHER (7.35% with a 23% differential)."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "AU Market",
+      "line_content": "AU origins report a balanced profile with 49.93% SAME, 10.55% HIGHER, and 12.84% LOWER frequency."
+    },
+    {
+      "line_title": "Non-AU Market",
+      "line_content": "Non-AU itineraries show lower parity at 27.52% and heightened discrepancies, especially a 53.69% frequency in LOWER pricing."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In Bookings",
+      "line_content": "Close-in booking windows exhibit 48.26% SAME with greater discounting (15.15% LOWER) and a HIGHER frequency of 10.72%."
+    },
+    {
+      "line_title": "Far Out Bookings",
+      "line_content": "Far out reservations see slightly improved parity at 50.84% SAME with stable HIGHER (10.95%) and reduced LOWER (12.71%) frequencies."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Predominant Premium",
+      "line_content": "With roughly 70% frequency, GDS HIGHER entries dominate, indicating that fares are generally priced above the airline’s website."
+    },
+    {
+      "line_title": "Marginal Parity",
+      "line_content": "Instances of SAME and GDS LOWER statuses remain very low (<5%), signaling scarce occurrences of matching or discounted fares."
+    },
+    {
+      "line_title": "Stable Trends",
+      "line_content": "Despite steady weekly levels, month-on-month data indicates a gradual increase in the price premium."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A Consistency",
+      "line_content": "GDS N/A frequencies remain stable (around 0.25 to 0.31) with minor declines over recent periods."
+    },
+    {
+      "line_title": "GDS HIGHER Dominance",
+      "line_content": "The HIGHER category is prevalent at approximately 70%, with weekly premiums around 0.10% and increasing monthly differentials."
+    },
+    {
+      "line_title": "GDS LOWER Marginality",
+      "line_content": "GDS LOWER instances are limited (3-4%) with consistent negative differences of about -0.17%."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Patterns",
+      "line_content": "Short haul routes exhibit nearly 70% HIGHER frequency with consistent price differentials, reinforcing overall channel trends."
+    },
+    {
+      "line_title": "Long Haul Nuances",
+      "line_content": "Long haul segments have a slightly higher HIGHER frequency (approximately 76%), though with modestly reduced price differences."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "AU Market Stability",
+      "line_content": "In the AU market, GDS HIGHER persists at around 70.2% with minimal fluctuations in SAME and LOWER statuses."
+    },
+    {
+      "line_title": "Non-AU Variations",
+      "line_content": "Non-AU segments report higher SAME (10.1%) and LOWER (14.1%) rates, suggesting regional pricing differences potentially influenced by local market factors."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In Bookings",
+      "line_content": "For immediate bookings, GDS HIGHER dominates at roughly 70.1% with slightly sharper negative deviations in LOWER (-0.18%)."
+    },
+    {
+      "line_title": "Far Out Bookings",
+      "line_content": "Advanced itineraries maintain a consistent HIGHER frequency (around 71.1%) with marginally lower deviations in the LOWER category (-0.15%)."
+    }
+  ]
+}

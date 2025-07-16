@@ -1,0 +1,204 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Revenue Leakage",
+      "line_content": "OTAs priced below the EgyptAir site on 47 % of itineraries (78 % for non-Egypt origins), signalling sizable cross-border yield loss."
+    },
+    {
+      "line_title": "MSE Near-Parity Bias",
+      "line_content": "Metasearch undercut 97 % of fares, yet the average discount is only 0.13 %, indicating systemic—but shallow—price drift."
+    },
+    {
+      "line_title": "GDS Deep Discounts",
+      "line_content": "Despite 68 % parity, one in four GDS fares is 17 % cheaper than the website, with non-Egypt and close-in traffic most exposed."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "OTAs Cheaper Nearly Half the Time",
+      "line_content": "46.9 % of monitored fares were lower on OTAs than on EgyptAir.com last week, driving material revenue dilution."
+    },
+    {
+      "line_title": "Severe Undercut Outside Egypt",
+      "line_content": "In non-Egypt origin markets, OTAs undercut 77.5 % of fares and priced higher only 2.3 % of the time."
+    },
+    {
+      "line_title": "Parity Trending Up",
+      "line_content": "Parity cases rose 5.6 ppts week-over-week to 37.6 %, reflecting early gains from recent pricing fixes."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offer Missing (2.6 %)",
+      "line_content": "Web fares were absent on OTAs for just 2.6 % of itineraries, signalling sound coverage."
+    },
+    {
+      "line_title": "Price Parity (37.6 %)",
+      "line_content": "Parity improved 5.6 ppts WoW and 7.3 ppts MoM, now covering more than one-third of inventory."
+    },
+    {
+      "line_title": "OTA Lower (46.9 %)",
+      "line_content": "Undercut remains dominant, though share fell 7.3 ppts WoW; average discount is modest at 0.07 %."
+    },
+    {
+      "line_title": "OTA Higher (12.9 %)",
+      "line_content": "Instances of OTA premiums edged up to 12.9 % with a slim 0.7 % average mark-up."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Mirrors Network",
+      "line_content": "Short-haul shows 46.9 % OTA-lower, 37.6 % parity, 12.9 % OTA-higher—confirming the issue is network-wide."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Egypt Origins Balanced",
+      "line_content": "For Egypt-origin traffic, parity leads (46.3 %) yet 35 % remain OTA-lower; OTA-higher doubles to 17 % versus the network."
+    },
+    {
+      "line_title": "Non-Egypt Origins Critical",
+      "line_content": "Outside Egypt, 77.5 % of fares are OTA-lower and only 15.5 % at parity, highlighting urgent need for tighter global control."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (≤14 days)",
+      "line_content": "45.2 % OTA-lower; undercut share dropped 7.4 ppts WoW but remains elevated."
+    },
+    {
+      "line_title": "Far-Out (>14 days)",
+      "line_content": "Parity improved to 44 %, yet OTAs still cheaper on 49 % of fares and rarely higher (6 %)."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "97 % Channel Undercut",
+      "line_content": "Metasearch priced below the website on 97.2 % of routes last week; no higher-priced cases observed."
+    },
+    {
+      "line_title": "Minimal Price Gap",
+      "line_content": "Average discount when lower is only 0.13 %, indicating near-parity but consistently in MSE’s favour."
+    },
+    {
+      "line_title": "Stable Trend",
+      "line_content": "Undercut share fell just 1.7 ppts WoW, confirming a persistent discrepancy."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found (0.22 %)",
+      "line_content": "Missing fares on MSE are negligible, limiting distribution risk."
+    },
+    {
+      "line_title": "Parity Emerging (2.6 %)",
+      "line_content": "Parity doubled WoW but remains low, suggesting gradual alignment."
+    },
+    {
+      "line_title": "Lower Still Dominant (97 %)",
+      "line_content": "Undercut prevalence slipped slightly but remains overwhelming; gap steady at 0.13 %."
+    },
+    {
+      "line_title": "No Premium Pricing",
+      "line_content": "Zero instances of MSE pricing above EgyptAir.com."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Consistency",
+      "line_content": "All short-haul ODs replicate the network pattern: 97 % lower, 0.13 % discount."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Egypt Market Slightly Better",
+      "line_content": "Home-market undercuts at 96.4 % with a narrow 0.08 % discount; parity up 2 ppts WoW."
+    },
+    {
+      "line_title": "Non-Egypt Heavy Discount",
+      "line_content": "From abroad, MSE is cheaper on 99 % of itineraries and the discount widens to 0.24 %."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (≤7 days)",
+      "line_content": "96 % undercut; share eased 2 ppts WoW with gap steady at 0.14 %."
+    },
+    {
+      "line_title": "Far-Out (≥21 days)",
+      "line_content": "Undercut peaks at 99 % though discount narrows to 0.11 %; parity cases virtually absent."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "High Parity Level",
+      "line_content": "68 % of GDS fares matched the website, up 2 ppts WoW."
+    },
+    {
+      "line_title": "Undercutting Outweighs Premiums",
+      "line_content": "24.8 % of itineraries were 17 % cheaper in GDS, while only 1.9 % were dearer (+14 %)."
+    },
+    {
+      "line_title": "Non-Egypt & Close-In Risk",
+      "line_content": "GDS undercuts rise to 32 % (-28 %) for non-Egypt origins and 30 % close-in, marking priority hotspots."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Missing (5 %)",
+      "line_content": "Website fares absent on 5 % of GDS searches, down 1 ppt WoW."
+    },
+    {
+      "line_title": "Price Parity (68 %)",
+      "line_content": "Parity improved 2 ppts WoW but sits 2 ppts below last month, leaving headroom for tighter control."
+    },
+    {
+      "line_title": "GDS Lower (25 %)",
+      "line_content": "Nearly a quarter of fares are 17 % cheaper, driving margin erosion."
+    },
+    {
+      "line_title": "GDS Higher (2 %)",
+      "line_content": "Premium pricing rare and moderate, limiting upside opportunity."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Drives Exposure",
+      "line_content": "Short-haul reflects network mix: 68 % parity, 25 % lower (-17 %), 2 % higher (+14 %)."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Egypt Origin Well-Controlled",
+      "line_content": "75 % parity, 22 % lower (-10 %), offer gaps at 1.5 %."
+    },
+    {
+      "line_title": "Non-Egypt Origin High Risk",
+      "line_content": "Parity falls to 52 %; 32 % of fares are 28 % cheaper and offer gaps rise to 14 %."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (≤14 days)",
+      "line_content": "65 % parity, but 30 % of fares are 16 % cheaper; leakage intensifies near departure."
+    },
+    {
+      "line_title": "Far-Out (>14 days)",
+      "line_content": "Parity climbs to 74 %; GDS-lower shrinks to 17 %, yet offer absence rises to 8.6 %."
+    }
+  ]
+}

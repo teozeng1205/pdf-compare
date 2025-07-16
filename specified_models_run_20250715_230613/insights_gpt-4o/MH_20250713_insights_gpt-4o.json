@@ -1,0 +1,200 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Pricing Insight",
+      "line_content": "The OTA channels often showed higher fares than Malaysia Airlines' own website, impacting 84.47% of analyzed cases slightly decreasing over the weeks."
+    },
+    {
+      "line_title": "MSE Pricing Advantage",
+      "line_content": "MSE channels consistently offered lower fares in 97.14% of the cases in the latest analysis, underscoring their strong competitive positioning."
+    },
+    {
+      "line_title": "GDS Pricing Premium",
+      "line_content": "GDS channels predominantly exhibited higher pricing compared to Malaysia Airlines' website, with a 95.66% occurrence last week, showing a minor decline over previous periods."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "High OTA Pricing",
+      "line_content": "For Malaysia Airlines, the OTA channel often displayed higher fares than the airline's website, accounting for 84.47% of cases analyzed last week."
+    },
+    {
+      "line_title": "Stable Pricing Over Time",
+      "line_content": "The OTA channel pricing reflected minimal changes in the comparison with previous periods, showing a slight decrease in instances of higher prices."
+    },
+    {
+      "line_title": "Website Offers Unavailable",
+      "line_content": "Instances where website offers were unavailable on OTAs remained relatively low, with minor fluctuations across different dimensions."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA Higher Dominant",
+      "line_content": "In 84.47% of cases, prices were higher on OTA versus the airline's direct channel last week, though this is a slight decrease compared to previous weeks."
+    },
+    {
+      "line_title": "Website Offer Discrepancy",
+      "line_content": "The percentage of occasions where the airline’s website offer was not available on OTA showed a minor increase of 1.20% over the last week."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Dominance",
+      "line_content": "OTA often showed higher pricing for short haul routes with an 84.19% frequency last week."
+    },
+    {
+      "line_title": "Long Haul Trend",
+      "line_content": "Long haul destinations had a higher frequency of OTA prices exceeding airline pricing, with an increase noted against last week."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Malaysian Origin Insights",
+      "line_content": "For routes originating in Malaysia, OTA higher pricing was recorded with a 93.06% frequency, slightly declining over the month."
+    },
+    {
+      "line_title": "Non-Malaysian Origin",
+      "line_content": "Non-Malaysian routes showed a significant frequency of OTA higher pricing but displayed minor decreases over the month."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Window Analysis",
+      "line_content": "For close-in bookings, OTA shown higher pricing 80.69% of the time, although instances of price disparities decreased slightly over time."
+    },
+    {
+      "line_title": "Far-Out Bookings Stability",
+      "line_content": "Far-out booking windows saw 91.10% of OTA fares higher than the airline's website, maintaining a stable trend from past comparisons."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Dominance of MSE Lower Pricing",
+      "line_content": "MSE consistently offers lower prices compared to the airline’s own site, with a substantial 97.14% of cases showing lower prices in the latest week, marking a significant advantage for consumers using MSE."
+    },
+    {
+      "line_title": "Stable Pricing Discrepancies",
+      "line_content": "Despite lower MSE prices, the price difference percentage has remained relatively stable over the past weeks and months, indicating consistent competitive pricing on MSE."
+    },
+    {
+      "line_title": "Minimal MSE N/A Incidences",
+      "line_content": "The occurrence of the website offer not found on MSE is nearly negligible, indicating robust availability of Malaysia Airlines offers on MSE platforms."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE Lower Prevalence",
+      "line_content": "For the latest week, 97.14% of entries showed lower prices available on MSE compared to Malaysia Airlines' website, increasing from 87.74% the previous week."
+    },
+    {
+      "line_title": "Same Pricing Decline",
+      "line_content": "Instances where MSE and airline website prices were the same declined by 9.17% from the previous week."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Trends",
+      "line_content": "In the short haul segment, MSE offers lower prices 97.03% of the time, with a notable 9.66% increase from the previous week."
+    },
+    {
+      "line_title": "Long Haul Consistency",
+      "line_content": "For the long haul, MSE undercuts the airline’s pricing 100% of the time, albeit with a smaller sample size."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "MY Origin Price Superiority",
+      "line_content": "From Malaysia's origin, MSE shows lower prices 97.56% of the time, a 6.71% increase week-over-week, reinforcing MSE’s pricing advantage."
+    },
+    {
+      "line_title": "Non-MY Variation",
+      "line_content": "Non-Malaysia origins still see significant MSE lower pricing, though less consistently than MY, with MSE lower at 92.71% but experiencing a higher week-over-week increase of 31.01%."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Strength",
+      "line_content": "For close-in bookings, MSE offers lower pricing 97.81% of the time, with an impressive week-over-week increase of 12.28%."
+    },
+    {
+      "line_title": "Far-Out Booking Advantage",
+      "line_content": "MSE also shows a strong price advantage for far-out bookings, with lower prices in 96.01% of cases, marking a steady increase in pricing competitiveness."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "High GDS Higher Rate",
+      "line_content": "In the GDS channel, prices were higher than on the airline's website 95.66% of the time last week, indicating a significant premium on GDS pricing."
+    },
+    {
+      "line_title": "GDS Lower Gains",
+      "line_content": "There is a positive shift with GDS offering lower prices in 1.26% of cases last week, expanding from 0.57% the week before."
+    },
+    {
+      "line_title": "Stability in Same Pricing",
+      "line_content": "The cases where prices were the same on GDS and the airline website remained stable at around 2.40%."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offer Not Found",
+      "line_content": "The frequency of website offers not found on the GDS decreased by 0.22% compared to the previous week, showing slight improvement in availability."
+    },
+    {
+      "line_title": "Price Parity Consistency",
+      "line_content": "Same pricing instances were consistent over the weeks with a negligible change of 0.02%, maintaining a stabilized parity."
+    },
+    {
+      "line_title": "GDS Premium Slight Decrease",
+      "line_content": "The percentage of cases where GDS prices were higher than the website reduced slightly by 0.48% from the previous week."
+    },
+    {
+      "line_title": "GDS Lower Price Growth",
+      "line_content": "Instances where GDS offered lower prices increased by 0.69% compared to the previous week, a notable positive trend."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Dominance of GDS Higher in Short Haul",
+      "line_content": "Short haul routes showed that GDS prices were higher in 95.72% of cases last week, a slight drop from 96.10% the previous week."
+    },
+    {
+      "line_title": "Long Haul Opportunities",
+      "line_content": "GDS offered lower prices 5.88% in long haul segments, recovering from no lower price offerings in the previous week."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "MY Market High GDS Premium",
+      "line_content": "For routes originating in Malaysia, GDS prices are predominantly higher, showing in 96.28% of cases."
+    },
+    {
+      "line_title": "Non-MY Competitive Edge",
+      "line_content": "Non-Malaysian origins saw some price competitiveness with GDS showing lower prices 8.25% of the time last week, up from 3.19% the week prior."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In GDS Higher Decline",
+      "line_content": "GDS was higher close-in 93.62% of the time, decreasing by a noticeable 1.13% from the previous week."
+    },
+    {
+      "line_title": "Far Out Limited Lower Pricing",
+      "line_content": "For far-out bookings, GDS lower price offerings grew slightly to 0.61%, indicating limited price competitiveness."
+    }
+  ]
+}

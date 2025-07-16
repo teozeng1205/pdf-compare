@@ -1,0 +1,204 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Gap Growing",
+      "line_content": "OTAs undercut AR’s site on 41% of itineraries (-9% avg.), while parity slid to 22%, signalling rising price-discipline risk in third-party retail."
+    },
+    {
+      "line_title": "MSE Near-Universal Undercut",
+      "line_content": "Metasearch shows cheaper fares on 88% of trips—albeit by only −0.3%—keeping AR’s website visually uncompetitive in fare-shopping environments."
+    },
+    {
+      "line_title": "GDS Deep Discount",
+      "line_content": "GDS channels price 13% lower on 86% of ODs, with 90% short-haul exposure, representing the airline’s largest revenue leakage point."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "41% Undercut",
+      "line_content": "OTAs cheaper in 4 of 10 cases, but the gap narrowed 6 ppts WoW as higher-priced cases rose."
+    },
+    {
+      "line_title": "9–11% Swing",
+      "line_content": "Average discount when OTAs are lower is 9%; when higher, the premium is 11%, creating volatile customer price perceptions."
+    },
+    {
+      "line_title": "Advance Risk",
+      "line_content": "Far-out bookings see OTAs cheaper 44% of the time, pointing to inventory-control opportunities in early booking windows."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Missing 3%",
+      "line_content": "Only 3.5% of ODs have no OTA listing, confirming broad distribution reach."
+    },
+    {
+      "line_title": "Parity Down to 22%",
+      "line_content": "Exact price match fell 3 ppts WoW, underscoring growing misalignment."
+    },
+    {
+      "line_title": "Cheaper 41% / Higher 33%",
+      "line_content": "Largest share remains cheaper OTAs (-9% gap), yet higher-priced cases climbed 8 ppts, averaging +11% over website."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "OTAs beat the site on 42% of short-haul ODs (-8% gap); 35% price above (+12% premium)."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "Fewer cheaper cases (37%) but deeper discount (-14%); premiums moderate at +4%."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Argentina Origin",
+      "line_content": "46% cheaper (-9%) vs 37% higher (+11%), indicating domestic-market sensitivity."
+    },
+    {
+      "line_title": "Non-AR Origin",
+      "line_content": "Limited sample shows full parity, suggesting tighter overseas control."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In",
+      "line_content": "Balanced split: 39% cheaper (-10%) vs 36% higher (+9%)."
+    },
+    {
+      "line_title": "Far-Out",
+      "line_content": "OTAs lead 44% of time (-9%); when higher, premium jumps to +14%."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "88% Undercut",
+      "line_content": "Metasearch continues to display lower fares than the website on nearly nine of ten itineraries."
+    },
+    {
+      "line_title": "Sub-1% Gap",
+      "line_content": "Average discount is just −0.29%, yet high visibility on MSE magnifies the perceived deal."
+    },
+    {
+      "line_title": "Long-Haul Missing 11%",
+      "line_content": "Website fares absent in 11% of long-haul searches, risking loss of premium traffic."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Missing ↑",
+      "line_content": "Absent fares at 3.9% (+1.3 ppts WoW), signalling widening gaps."
+    },
+    {
+      "line_title": "Parity 6%",
+      "line_content": "Exact matches remain rare and flat week-over-week."
+    },
+    {
+      "line_title": "Undercut 88%",
+      "line_content": "Dominant bucket despite a 3-ppt dip; average discount −0.29%."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "89% undercut rate (−0.30%); offer absence minimal at 2.4%."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "85% undercut, but 11.3% fares missing, compounding revenue risk."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Argentina Origin",
+      "line_content": "91% undercut (−0.31%) with 4.4% offers missing."
+    },
+    {
+      "line_title": "Ex-Argentina",
+      "line_content": "Undercut falls to 69%; parity jumps to 31%, indicating better overseas alignment."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In",
+      "line_content": "88% cheaper (−0.32%); offers missing 3%."
+    },
+    {
+      "line_title": "Far-Out",
+      "line_content": "89% cheaper but gap narrows to −0.24%; offer absence nearly doubles to 5.7%."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "86% Undercut",
+      "line_content": "GDS fares average 13% below the website, virtually unchanged MoM."
+    },
+    {
+      "line_title": "Domestic Pressure",
+      "line_content": "90% of short-haul routes undercut (−14%), driving the largest yield leakage."
+    },
+    {
+      "line_title": "Argentina Origin Gap",
+      "line_content": "96% of home-market itineraries priced lower in GDS, vs near-total parity from non-AR origins."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Missing 2.9%",
+      "line_content": "Mainly long-haul gaps (11%), hurting high-value demand."
+    },
+    {
+      "line_title": "Parity 10%",
+      "line_content": "True parity rare and concentrated in non-AR origins."
+    },
+    {
+      "line_title": "Lower 86%",
+      "line_content": "Persistent 13% average discount; overpricing cases tiny (0.6%) but steep (+35%)."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "90% cheaper (−14%) with minimal overpricing (0.7%)."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "69% cheaper (−8%) yet highest offer-missing rate at 11%."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Argentina Origin",
+      "line_content": "96% undercut (−13%); missing offers 3.2%."
+    },
+    {
+      "line_title": "Non-Argentina Origin",
+      "line_content": "Price parity dominates at 98.5%, indicating controlled distribution abroad."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In ≤14d",
+      "line_content": "87% cheaper (−12%); offer gaps 2.0%."
+    },
+    {
+      "line_title": "Far-Out >14d",
+      "line_content": "85% cheaper (−14%); offer gaps double to 4.4%."
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA ‑ Parity Improving",
+      "line_content": "CX achieved 91% price parity on OTAs last week, a +2 pp week-on-week gain, leaving only small premium pockets in Non-HK and far-out bookings."
+    },
+    {
+      "line_title": "MSE ‑ Systemic Undercut",
+      "line_content": "Meta-search engines priced below the website on 77% of itineraries, eroding yields by an average 8% and showing no cases of premiums."
+    },
+    {
+      "line_title": "GDS ‑ Near-Total Alignment",
+      "line_content": "GDS parity reached 95.5% with price deltas below ±0.1%, while offer availability gaps shrank to 3.3%."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Parity Strengthening",
+      "line_content": "Price parity climbed to 91.1% (+2 pp WoW, +1.2 pp MoM), covering 96% of long-haul and HK traffic."
+    },
+    {
+      "line_title": "Premiums Shrinking",
+      "line_content": "‘OTA Higher’ cases fell to 5.8% (-2.3 pp WoW); the average premium remained minimal at +0.33%."
+    },
+    {
+      "line_title": "Issue Hot-Spots",
+      "line_content": "Residual gaps concentrate in Non-HK origins (11.4% priced higher) and far-out bookings (7.6% priced higher)."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Price Parity Dominates",
+      "line_content": "91.1% of itineraries match website pricing, with long-haul parity at 96%."
+    },
+    {
+      "line_title": "Higher-Priced Cases",
+      "line_content": "5.8% of fares are higher on OTA—primarily Non-HK and far-out—yet the premium averages only +0.33%."
+    },
+    {
+      "line_title": "Offer Absence Rising",
+      "line_content": "Website offer not found in 2.6% of OTA searches, up 0.5 pp WoW, mainly on short-haul routes."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Focus",
+      "line_content": "Parity 90%; however, 6.9% higher pricing and 2.8% unavailability flag clean-up needs."
+    },
+    {
+      "line_title": "Long-Haul Clean",
+      "line_content": "Parity 96.3% with only 1.2% premiums averaging +0.12% and negligible gaps."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "HK Origins Solid",
+      "line_content": "96.8% parity, OTA premiums just 0.2%, and availability gaps 2.7%."
+    },
+    {
+      "line_title": "Non-HK Origins Lag",
+      "line_content": "Parity 85.5%; 11.4% fares priced higher with +0.34% premium—largest remediation area."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (≤7 days)",
+      "line_content": "Parity 90.9%; 5.0% premiums at +0.26%, while unavailability rises to 3.8%."
+    },
+    {
+      "line_title": "Far-Out (>30 days)",
+      "line_content": "Parity 91.7%; 7.6% premiums with the steepest +0.44% delta, indicating monitoring need."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Undercut Dominance",
+      "line_content": "MSE priced below direct in 77% of cases, up 0.6 pp WoW and 2.3 pp MoM."
+    },
+    {
+      "line_title": "Long-Haul Exposure",
+      "line_content": "Long-haul flights undercut 96% of the time, albeit with a milder ‑6% average gap."
+    },
+    {
+      "line_title": "Full Coverage",
+      "line_content": "0.1% ‘offer not found’ and zero premium cases—MSE consistently lists all CX content but cheaper."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Parity Erosion",
+      "line_content": "Parity share down to 22% (-0.6 pp WoW); undercutting trend intensifies."
+    },
+    {
+      "line_title": "Channel Lower",
+      "line_content": "77% of itineraries cheaper on MSE, with an 8% average discount driving revenue leakage."
+    },
+    {
+      "line_title": "Availability Solid",
+      "line_content": "Only 0.1% of offers missing—distribution reach is near-perfect."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Undercut",
+      "line_content": "73% of fares lower by ~8%; pattern stable week-on-week."
+    },
+    {
+      "line_title": "Long-Haul Severe",
+      "line_content": "96% lower pricing, up 3.8 pp WoW; discount gentler at ‑6% but parity nearly absent."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "HK Origins",
+      "line_content": "81% of HK itineraries undercut with a deeper ‑9% gap."
+    },
+    {
+      "line_title": "Non-HK Origins",
+      "line_content": "74% undercut frequency; average discount ‑6%, parity limited."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (≤14 days)",
+      "line_content": "78% undercut share; ‑9% average delta highlights last-minute margin risk."
+    },
+    {
+      "line_title": "Far-Out (>14 days)",
+      "line_content": "76% undercut share; ‑6% average discount challenges advance-purchase strategy."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Parity at 95.5%",
+      "line_content": "Alignment improved +1.7 pp WoW; price differences remain financially immaterial."
+    },
+    {
+      "line_title": "Availability Gap Shrinks",
+      "line_content": "‘Offer not found’ down to 3.3% (-1.9 pp WoW), reflecting better fare loading."
+    },
+    {
+      "line_title": "Minimal Deltas",
+      "line_content": "When present, GDS prices deviate by only +0.11% or ‑0.05%."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "High Parity",
+      "line_content": "95.5% of itineraries match website prices; trend still positive."
+    },
+    {
+      "line_title": "Small Availability Gap",
+      "line_content": "3.3% offers missing, improving steadily week-on-week."
+    },
+    {
+      "line_title": "Rare Deltas",
+      "line_content": "GDS lower in 0.9% (-0.05%) and higher in 0.34% (+0.11%)—operationally negligible."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Stable",
+      "line_content": "Parity 95.3%; unavailability 3.7% and trending down."
+    },
+    {
+      "line_title": "Long-Haul Slight Premiums",
+      "line_content": "Parity 96.3%; premiums rise to 1.2% of ODs but remain minor."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "HK Near-Perfect",
+      "line_content": "98.9% parity and 0.7% unavailability—the benchmark market."
+    },
+    {
+      "line_title": "Non-HK Gaps",
+      "line_content": "Parity 92%; 6% unavailability and double the price delta incidence vs HK."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Strong",
+      "line_content": "Parity 97.7%; unavailability 1.5%, improving 2.5 pp WoW."
+    },
+    {
+      "line_title": "Far-Out Needs Work",
+      "line_content": "Parity drops to 91%; unavailability rises to 6.9%, flat WoW."
+    }
+  ]
+}

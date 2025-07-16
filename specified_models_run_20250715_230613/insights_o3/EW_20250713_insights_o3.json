@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA – Improving Parity, Gaps Persist",
+      "line_content": "Price parity now covers 58% of itineraries (+6.8 ppts MoM), yet 32% of offers are still missing and long-haul overpricing remains material at 29% exposure."
+    },
+    {
+      "line_title": "MSE – Widespread Undercutting",
+      "line_content": "MSE lists lower prices on 68% of routes and achieves near-total undercut (98%) on far-out bookings, signalling significant direct-revenue leakage."
+    },
+    {
+      "line_title": "GDS – Severe Visibility Shortfall",
+      "line_content": "85% of web fares do not appear in GDS and, when they do, 100% are equal-or-higher; German origins are completely absent, shutting out core agency demand."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Parity Improving",
+      "line_content": "SAME fares now cover 57.8 % of itineraries, +6.8 ppts vs last month and holding week-on-week, indicating stronger alignment with direct prices."
+    },
+    {
+      "line_title": "Long-Haul Overpricing",
+      "line_content": "28.8 % of long-haul ODs are higher on OTA—five times the short-haul rate—although the average premium is a modest 4 %."
+    },
+    {
+      "line_title": "DE vs Non-DE Contrast",
+      "line_content": "Only 2.2 % of DE-origin trips are dearer on OTA but at a steep 25 % premium, whereas Non-DE origins see 12.5 % overpricing at a lower 6 % premium."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found (32%)",
+      "line_content": "OTA still lacks fares on 32.1 % of itineraries, edging up 1 ppt vs both prior periods—distribution fix required."
+    },
+    {
+      "line_title": "Dominant Parity (58%)",
+      "line_content": "Parity drives 57.8 % of OD pairs, flat WoW and +6.8 ppts MoM, marking the best monthly improvement."
+    },
+    {
+      "line_title": "Channel Higher (7%)",
+      "line_content": "Overpricing has fallen to 7.1 % (-0.5 ppt WoW, ‑7.8 ppts MoM); average premium when it occurs is 9 %."
+    },
+    {
+      "line_title": "Channel Lower (3%)",
+      "line_content": "Undercutting is confined to 3.0 % of cases with an average 22 % discount—material when it appears."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "59.2 % parity; 5.6 % higher (10 % premium) and 32.1 % not offered—availability remains the primary issue."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "Parity drops to 36.0 %; 28.8 % higher-priced and 32.2 % not offered, highlighting the largest improvement upside."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "DE Origins",
+      "line_content": "64.5 % parity; overpricing rare (2.2 %) yet severe (25 % premium), warranting targeted checks."
+    },
+    {
+      "line_title": "Non-DE Origins",
+      "line_content": "Parity sinks to 50.5 % with 12.5 % overpricing (6 % premium) and 33.3 % offer gaps—international POS needs closer monitoring."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (<3 wks)",
+      "line_content": "40.5 % of fares missing; overpricing limited (6.7 %, 8 % premium) but visibility drags performance."
+    },
+    {
+      "line_title": "Far-Out (3 + mo)",
+      "line_content": "Parity strong at 87.8 % with negligible gaps, yet 8.5 % still price higher (12 % premium)—scope to fine-tune future inventory."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Persistent Undercut",
+      "line_content": "MSE underprices the site on 68 % of OD pairs; the average gap is small (-0.07 %) but volume is revenue-dilutive."
+    },
+    {
+      "line_title": "Far-Out Exposure",
+      "line_content": "For bookings 3+ months out, 98 % of itineraries are cheaper on MSE, up 17 ppts MoM—strategic misalignment in early demand period."
+    },
+    {
+      "line_title": "Visibility Shortfall",
+      "line_content": "Website fares are absent in 31 % of MSE searches, +0.5 ppt WoW, risking lost traffic and brand exposure."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found (31%)",
+      "line_content": "31.2 % of OD pairs lacked a website offer, +0.5 ppts WoW and +0.6 ppts MoM—availability slipping."
+    },
+    {
+      "line_title": "Channel Lower (68%)",
+      "line_content": "MSE is cheaper in 68.4 % of cases; share dipped 0.5 ppt WoW but is 2.2 ppts higher MoM, sustaining downward pressure."
+    },
+    {
+      "line_title": "Exact Parity (<1%)",
+      "line_content": "True parity is almost non-existent at 0.4 % and unchanged."
+    },
+    {
+      "line_title": "Channel Higher (0.03%)",
+      "line_content": "Instances of MSE being higher remain negligible, offering minimal offset to revenue leakage."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "MSE undercuts 68.6 % with a ‑0.07 % gap; non-presence at 31.2 %, +0.7 ppt WoW."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "66.2 % undercut and intensifying (+2.3 ppts WoW) on higher-value trips; visibility static at 31 % missing."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Germany Origins",
+      "line_content": "69.3 % cheaper on MSE; 30.6 % not found; parity virtually absent (0.1 %)."
+    },
+    {
+      "line_title": "Non-DE Origins",
+      "line_content": "67.5 % cheaper, 31.8 % not found (+0.8 ppt WoW); visibility weaker than home market."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (<3 wks)",
+      "line_content": "MSE undercuts 60.4 % (-1.4 ppts WoW); non-presence high at 39.3 %; ‑0.08 % average gap."
+    },
+    {
+      "line_title": "Far-Out (3 + mo)",
+      "line_content": "MSE cheaper on 98.3 % of itineraries (+5.6 ppts WoW, +17.3 ppts MoM), underscoring early-booking mis-pricing."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS Visibility Gap",
+      "line_content": "85 % of website fares absent; only 15 % of OD pairs bookable through GDS last week."
+    },
+    {
+      "line_title": "Price Positioning",
+      "line_content": "When present, GDS fares are higher in 14.6 % of cases with a 0.6 % average premium; no undercuts recorded."
+    },
+    {
+      "line_title": "Home-Market Absence",
+      "line_content": "For German origins, 100 % of website offers missing in GDS—total blackout for core market agency sales."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found (85%)",
+      "line_content": "Visibility improved slightly (-0.07 ppt WoW) but remains the dominant outcome."
+    },
+    {
+      "line_title": "Channel Higher (15%)",
+      "line_content": "0.146 frequency (+0.07 ppt WoW); average premium stable at 0.62 %—small but consistent mark-up."
+    },
+    {
+      "line_title": "Same Fare (0%)",
+      "line_content": "No parity cases observed, indicating systemic mis-alignment."
+    },
+    {
+      "line_title": "Channel Lower (0%)",
+      "line_content": "No GDS undercuts detected, removing dilution risk but reducing competitiveness."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "86.5 % fares missing; 13.5 % carry a 0.64 % premium—unchanged MoM."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "Visibility slightly better (69 % missing); 31 % higher-priced with a slimmer 0.45 % premium."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "DE Origins",
+      "line_content": "100 % of web fares absent, unchanged WoW—critical gap."
+    },
+    {
+      "line_title": "Non-DE Origins",
+      "line_content": "69 % missing, 31 % higher-priced (0.62 % premium); small 0.28 ppt improvement in visibility WoW."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-14d)",
+      "line_content": "87.3 % missing; 12.7 % higher-priced; visibility worsened 0.26 ppt WoW."
+    },
+    {
+      "line_title": "Far-Out (15d+)",
+      "line_content": "N/A share drops to 78.4 % (-1.8 ppt WoW); 21.6 % higher with largest premium (0.65 %)."
+    }
+  ]
+}

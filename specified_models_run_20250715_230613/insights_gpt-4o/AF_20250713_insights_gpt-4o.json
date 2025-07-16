@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Dominates Lower Prices",
+      "line_content": "OTAs consistently offer lower prices, making them a crucial channel for price-sensitive consumers."
+    },
+    {
+      "line_title": "MSE Offers Lowest Pricing",
+      "line_content": "The MSE channel shows the highest occurrence of lower prices, outperforming other channels in providing competitive fares."
+    },
+    {
+      "line_title": "GDS Priced Higher",
+      "line_content": "The GDS channel often presents higher prices, with a notable trend of increasing overpricing against the airline's website."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "High OTA Lower Frequency",
+      "line_content": "The OTA channel showed the highest frequency of lower prices with a LW frequency of 48.62%, reflecting a consistent cost advantage over the airline's site."
+    },
+    {
+      "line_title": "Stability in OTA Availability",
+      "line_content": "Price stability is observed with a 26.89% 'same' status in the OTA channel over the last week, indicating consistent pricing across channels for a significant portion of routes."
+    },
+    {
+      "line_title": "Decreasing OTA Higher Instances",
+      "line_content": "OTA 'higher' instances showed a slight decrease of 0.41% from the previous week, suggesting more competitive pricing over time."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Availability Gap Persistence",
+      "line_content": "'OTA N/A' status slightly decreased by 0.48% from the previous week, indicating a marginal improvement in availability matching."
+    },
+    {
+      "line_title": "Consistent Price Parity",
+      "line_content": "The frequency of the 'Same' status decreased by 0.92% from last week to this week, but overall remains stable at 26.89%."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Dominance of Lower Prices",
+      "line_content": "Short haul routes in the OTA channel feature lower prices 61.94% of the time, an increase of 1.93% from the previous week."
+    },
+    {
+      "line_title": "Long Haul Pricing Stability",
+      "line_content": "For long haul routes, 43.45% of prices are the same as the airline site, up by 0.62% from the previous week, indicating stable price matching."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "French Origin Price Advantage",
+      "line_content": "Routes originating in France showed a strong 71.31% lower pricing frequency on OTAs, with a 2.10% increase from last week."
+    },
+    {
+      "line_title": "Non-French Routes Price Benefit",
+      "line_content": "Non-French origin routes displayed 58.73% of prices being higher on OTA channels, with a slight decrease of 0.27% from the previous week."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Far Out Price Leadership",
+      "line_content": "For bookings made far in advance, OTAs offer lower prices 57.89% of the time, increasing significantly by 3.40% from last week."
+    },
+    {
+      "line_title": "Close In Competitive Pricing",
+      "line_content": "For close-in bookings, OTAs hold a lower price frequency of 43.33%, showing a reasonable 0.90% increase over the last week."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "MSE Lower Prices Prevalent",
+      "line_content": "The MSE channel shows lower prices 79.5% of the time, indicating customers are often presented with better deals compared to the airline's website."
+    },
+    {
+      "line_title": "Minimal Price Difference",
+      "line_content": "The price discrepancy between the MSE channel and Air France’s website is insignificant, with an overall average last-week price difference of merely 0.03%."
+    },
+    {
+      "line_title": "Stable Price Trends",
+      "line_content": "Most statuses show minimal fluctuations, suggesting a very stable pricing strategy across weekly and monthly changes."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offers Often Missing",
+      "line_content": "About 2.3% of Air France's website offers are not found on the MSE channel, showing a slight decrease over the previous weeks."
+    },
+    {
+      "line_title": "Majority Same or Lower",
+      "line_content": "99% of the time, prices are either the same (18%) or lower (79.5%) on MSE, compared to Air France's website, pointing to effective competitive pricing strategies."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Dominates MSE Lower",
+      "line_content": "Short haul routes account for a significant 90.6% where MSE prices are lower than Air France's website."
+    },
+    {
+      "line_title": "Long Haul Stability",
+      "line_content": "Long haul flights exhibit stable pricing, with a slight trend towards lower prices on the MSE channel, showing a 0.74% increase from the previous week."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "France-Origin Deals",
+      "line_content": "For flights originating in France, MSE offers lower fares 94.38% of the time, indicating strong deal competitiveness."
+    },
+    {
+      "line_title": "Non-France Offers Up",
+      "line_content": "Non-France origins see an increase in 'Same' statuses, up by 11.54% from the previous week, showcasing increasing pricing alignment with Air France’s site."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-in Lower by MSE",
+      "line_content": "Close-in bookings typically have lower fares on MSE, with prices lower 77.15% of the time, reflecting strategic discounts in last-minute sales."
+    },
+    {
+      "line_title": "Far-Out Consistent Lowering",
+      "line_content": "For bookings further out, MSE channel offers lower prices in 83.71% of the instances, with a 2.62% decrease week-on-week in those being just marginally lower."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Website Offers Unavailable on GDS",
+      "line_content": "The GDS channel has a consistent low occurrence of offers not found on the platform, with minimal change over the weeks and month, indicating stable availability."
+    },
+    {
+      "line_title": "GDS Prices Generally Higher",
+      "line_content": "The majority of itineraries in the GDS channel have higher prices than the airline's website, with a slight increasing trend over the past month."
+    },
+    {
+      "line_title": "Minimal Lower Prices on GDS",
+      "line_content": "Very few itineraries show lower prices on the GDS channel compared to the website, with this trend remaining stable over time."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Stable Availability",
+      "line_content": "Price comparison status shows that about 5.66% of total itinerary offers are not found on the GDS channel, with a stable week-over-week change."
+    },
+    {
+      "line_title": "GDS Overpricing",
+      "line_content": "GDS channel prices are higher than those on the airline website for about 79.53% of itineraries, with a slight increase in comparison to previous records."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Dominated by Higher Prices",
+      "line_content": "In short-haul markets, approximately 89.22% of itineraries are priced higher in the GDS than on the airline's website."
+    },
+    {
+      "line_title": "Competitive Long Haul",
+      "line_content": "Long-haul itineraries also predominantly see higher prices in GDS, though 44.52% lower than in short-haul, indicating less price divergence in this segment."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "French Origin",
+      "line_content": "Originating from France, a significant majority (76.38%) of the fares on GDS are higher than website prices, slightly more than the previous month."
+    },
+    {
+      "line_title": "Non-French Origin",
+      "line_content": "For non-French origin itineraries, GDS fares are higher in 86.23% of cases, showing a steady trend."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in bookings see 76.97% of fares on GDS being higher, though there's a slight increase compared to the airline's direct channels over the past month."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings reflect a pronounced GDS pricing premium, with 84.03% of fares higher than on the airline's website, especially marked in the past month."
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Summary Insight",
+      "line_content": "Over 90% of itineraries match the airline’s site, with up to 16% price premiums in Non-HK markets."
+    },
+    {
+      "line_title": "MSE Summary Insight",
+      "line_content": "Roughly 77% of fares are cheaper on MSE, with no MSE-higher occurrences observed."
+    },
+    {
+      "line_title": "GDS Summary Insight",
+      "line_content": "More than 95% fare parity with minimal unavailability and under 1% pricing deviations."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "High Match Rates",
+      "line_content": "Over 90% of itineraries consistently match the airline’s site across most segments, indicating stable fare parity."
+    },
+    {
+      "line_title": "Notable Non-HK Premiums",
+      "line_content": "Non-HK locations show OTA fares above website up to 16% of the time, far exceeding HK’s sub-1% levels."
+    },
+    {
+      "line_title": "Short vs Long Haul Contrast",
+      "line_content": "Short Haul sees about 7% of fares priced higher via OTA, whereas Long Haul is around 1%."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A",
+      "line_content": "Below 3% overall, with slight fluctuations from the previous week, suggesting minimal missing offers."
+    },
+    {
+      "line_title": "SAME",
+      "line_content": "Continues to dominate at over 90%, reflecting strong alignment between the OTA and airline site."
+    },
+    {
+      "line_title": "OTA HIGHER",
+      "line_content": "Generally ranges near 5–6% for most routes, driven up by certain markets like Non-HK."
+    },
+    {
+      "line_title": "OTA LOWER",
+      "line_content": "Remains below 1% across all dimensions, indicating limited undercutting on OTA prices."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "About 90% price parity, with approximately 7% of fares higher on OTA and under 1% lower."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "Over 96% fare alignment, only around 1% are OTA Higher, maintaining near-perfect parity."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "HK",
+      "line_content": "SAME at nearly 97% with negligible OTA Higher under 1%, suggesting stable pricing alignment."
+    },
+    {
+      "line_title": "Non-HK",
+      "line_content": "OTA Higher accounts for 11–16% of fares, with SAME dipping near 85%, highlighting more frequent OTA premiums."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "SAME surpassed 90%; OTA Higher at around 5% last week, down slightly from the previous week’s spike."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Maintains about 92% parity, with OTA Higher dropping from nearly 9.8% to 7.6% in the latest view."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Dominant MSE-Lower",
+      "line_content": "Over 77% of itineraries priced lower on MSE than on the airline’s site, indicating a strong cost advantage in this channel."
+    },
+    {
+      "line_title": "Zero MSE-Higher",
+      "line_content": "No instances of MSE being more expensive were recorded, suggesting consistent undercutting of website fares."
+    },
+    {
+      "line_title": "Big Gap Long Haul",
+      "line_content": "Long-haul routes see about 96% MSE-Lower frequency, significantly higher than short haul’s 73%."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A",
+      "line_content": "A negligible share under 0.2% indicates limited cases of website fares missing on MSE."
+    },
+    {
+      "line_title": "Same",
+      "line_content": "Around 22% overall match rate this week, slightly down from prior periods."
+    },
+    {
+      "line_title": "MSE Lower",
+      "line_content": "Remains the majority at roughly 77% of offers, with a mild increase over previous week and month."
+    },
+    {
+      "line_title": "MSE Higher",
+      "line_content": "No occurrences this period, reflecting stable below-website fares in the channel."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "73% of fares are lower on MSE, while 26% match website pricing. Small week-to-week shifts."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "96% of fares are lower on MSE, up from 92% in the prior week, with only 4% priced the same."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "HK",
+      "line_content": "81% of fares are cheaper on MSE, up from 79% previously, while 19% remain the same."
+    },
+    {
+      "line_title": "Non-HK",
+      "line_content": "74% of fares are cheaper on MSE, down slightly from 75% last week, with 26% matching website."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "Over 78% of fares are cheaper on MSE, improving almost 1% from the prior week."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Roughly 76% of fares remain lower on MSE, holding steady compared to the previous week."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "High Same Rates",
+      "line_content": "Over 95% of fares match the website, reflecting consistent GDS pricing across most itineraries."
+    },
+    {
+      "line_title": "Lower N/A on Long Haul",
+      "line_content": "Just 1.84% of long-haul flights are unavailable on GDS versus 3.71% for short-haul."
+    },
+    {
+      "line_title": "Higher N/A Far Out",
+      "line_content": "Far-out bookings show a 6.9% GDS unavailability rate, significantly above the 1.5% close-in figure."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A",
+      "line_content": "Affects about 3.26% of all itineraries, showing slight declines since last month. Short-haul and far-out bookings are most impacted."
+    },
+    {
+      "line_title": "Same",
+      "line_content": "Maintains over 95% consistency with the website, stable across the latest week and month comparisons."
+    },
+    {
+      "line_title": "GDS Higher",
+      "line_content": "Remains under 0.5% overall, with a minor uptick in long-haul routes."
+    },
+    {
+      "line_title": "GDS Lower",
+      "line_content": "Accounts for under 1% across segments, marginally down from the prior month in short-haul and non-HK markets."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Over 95% fare parity, though 3.71% GDS N/A last week. GDS Higher stands at just 0.14%."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "1.84% GDS N/A last week, slightly rising from earlier. Over 96% remain aligned under Same, with 1.23% GDS Higher."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "HK",
+      "line_content": "Nearly 99% parity, minimal GDS N/A at 0.68%. Stable trends overall."
+    },
+    {
+      "line_title": "Non-HK",
+      "line_content": "6.01% GDS N/A last week. Same remains high at about 92% despite a 1.56% GDS Lower rate."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "97.67% fare parity, with only 1.5% GDS N/A. GDS Higher and Lower remain negligible."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "6.9% GDS N/A frequency, 91% Same rate, and a 1.72% GDS Lower share that surpasses GDS Higher substantially."
+    }
+  ]
+}

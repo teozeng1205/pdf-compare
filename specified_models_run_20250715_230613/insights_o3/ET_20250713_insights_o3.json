@@ -1,0 +1,180 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Mark-Up Entrenched",
+      "line_content": "OTAs priced 0.63 % above Ethiopian Airlines’ website on 98.9 % of itineraries, with no parity or undercutting observed in three straight months."
+    },
+    {
+      "line_title": "MSE Parity Safeguard",
+      "line_content": "Metasearch maintained 99.6 % exact parity and only a 0.4 % visibility gap, making it the lowest-risk distribution channel."
+    },
+    {
+      "line_title": "GDS Systematic Premium",
+      "line_content": "GDS fares were higher in 99.9 % of checks, though the +0.52 % average premium remains small enough to avoid immediate demand diversion."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Premium Entrenched",
+      "line_content": "OTAs priced above the website on 98.9 % of tracked itineraries last week with a steady 0.63 % markup."
+    },
+    {
+      "line_title": "No Parity or Undercuts",
+      "line_content": "Zero cases of OTAs matching or beating ET.com for the third consecutive month—signalling stable yet uncompetitive pricing."
+    },
+    {
+      "line_title": "Rising Offer Gaps",
+      "line_content": "Website fares missing on 1.1 % of OTA searches, up 0.23 ppt WoW, driven by far-out departures."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found",
+      "line_content": "1.1 % of web fares absent on OTAs last week, slightly below the 1.2 % level one month ago."
+    },
+    {
+      "line_title": "OTA Higher",
+      "line_content": "Higher-priced OTA offers dominated 98.9 % of itineraries; premium unchanged at 0.63 %."
+    },
+    {
+      "line_title": "No Parity or Lower",
+      "line_content": "Price parity and OTA-lower scenarios remain at 0 %, removing dilution risk but limiting reach."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Mirror",
+      "line_content": "Short-haul routes replicate network trends—98.9 % OTA higher with 0.63 % premium; 1.1 % offer absence."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Ethiopia Origin",
+      "line_content": "Domestic point-of-sale shows identical 98.9 % higher share and 0.63 % markup; no parity or undercuts."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-14 Days)",
+      "line_content": "OTAs higher on 98.9 % of searches; premium flat at 0.63 %; offer gaps minimal (1.1 %)."
+    },
+    {
+      "line_title": "Far-Out (60 + Days)",
+      "line_content": "Missing offers doubled WoW to 1.1 %, slightly reducing OTA-higher share; premium holds near 0.62 %."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Near-Perfect Parity",
+      "line_content": "99.6 % of MSE quotes exactly matched ET.com last week; no higher or lower cases recorded."
+    },
+    {
+      "line_title": "Visibility Gains",
+      "line_content": "Offer absence fell to 0.4 %, improving 0.4 ppt versus both prior week and month."
+    },
+    {
+      "line_title": "Risk-Free Distribution",
+      "line_content": "Lack of price deltas preserves revenue and brand integrity, reflecting strong channel governance."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Same Price",
+      "line_content": "Parity sits at 99.6 %, down marginally from flawless 100 % last period."
+    },
+    {
+      "line_title": "Offer Not Found",
+      "line_content": "Website fare missing in only 0.4 % of cases, now limited to far-out searches."
+    },
+    {
+      "line_title": "No Over/Under Pricing",
+      "line_content": "Zero instances of MSE higher or lower pricing across all observed windows."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Consistency",
+      "line_content": "Short-haul markets show 99.6 % parity with a minor 0.4 % visibility gap; no price variance."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Ethiopia Origin",
+      "line_content": "Domestic searches mirror overall results—99.6 % parity, 0.4 % offer gap, positive trend."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-7 Days)",
+      "line_content": "100 % price alignment; zero availability gaps."
+    },
+    {
+      "line_title": "Far-Out (21 + Days)",
+      "line_content": "Parity still strong at 98.9 %, but 1.1 % of itineraries lacked web offers—main opportunity area."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Universal Mark-Up",
+      "line_content": "99.9 % of GDS fares priced above ET.com; no parity or undercuts detected."
+    },
+    {
+      "line_title": "Small Premium",
+      "line_content": "+0.52 % average GDS premium—unlikely to deter travellers but evidences systematic mis-alignment."
+    },
+    {
+      "line_title": "Slight MoM Slippage",
+      "line_content": "‘GDS Higher’ share 0.5 ppt above last month, indicating marginal deterioration in parity compliance."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Higher",
+      "line_content": "Dominant at 99.9 % of itineraries; premium steady at +0.52 %."
+    },
+    {
+      "line_title": "Offer Not Found",
+      "line_content": "Only 0.1 % of checks lacked a website fare, showing robust coverage."
+    },
+    {
+      "line_title": "No Parity or Lower",
+      "line_content": "Zero like-for-like or under-pricing cases, highlighting opportunity to deploy tactical parity for corporate accounts."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Alignment",
+      "line_content": "Short-haul reflects overall: 99.9 % higher with +0.52 % premium; slight 0.1 ppt WoW improvement."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Ethiopia Origin",
+      "line_content": "99.9 % of Ethiopian itineraries priced higher in GDS; premium steady, mark-up frequency up 0.5 ppt MoM."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-7 Days)",
+      "line_content": "98.8 % higher, +0.52 % premium; ‘higher’ share dipped 0.16 ppt WoW—minor progress."
+    },
+    {
+      "line_title": "Far-Out (>21 Days)",
+      "line_content": "100 % of far-out searches higher; MoM frequency down 1.4 ppt, hinting at early correction signs."
+    }
+  ]
+}

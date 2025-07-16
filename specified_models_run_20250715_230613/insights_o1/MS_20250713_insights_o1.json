@@ -1,0 +1,204 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Lower Predominance",
+      "line_content": "OTA offered lower fares 47% of the time last week, down from 54% previously, but remains the channel’s leading share."
+    },
+    {
+      "line_title": "MSE Consistently Cheapest",
+      "line_content": "Over 97% of itineraries on MSE were below the airline site, reflecting a near-universal discount advantage."
+    },
+    {
+      "line_title": "GDS Steady Parity",
+      "line_content": "Around two-thirds of GDS fares matched the site price, with lower fares about 25% of the time."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "OTA Lower Dominates",
+      "line_content": "OTA offered lower fares 47% of the time last week, though it decreased from 54% in the prior week."
+    },
+    {
+      "line_title": "Stable Price Parity",
+      "line_content": "Fares matched the airline site 38% of cases, up from 32% previously, indicating mild improvement in parity."
+    },
+    {
+      "line_title": "Minimal Gaps",
+      "line_content": "Only about 3% of itineraries were missing from the OTA channel, reflecting broad coverage."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A",
+      "line_content": "Just 2.6% of itineraries were unavailable last week, nearly flat from the prior periods."
+    },
+    {
+      "line_title": "SAME",
+      "line_content": "Matching fares climbed to 37.6%, a modest rise of around 6% from the previous week."
+    },
+    {
+      "line_title": "OTA HIGHER",
+      "line_content": "Sits at 13% share last week, up slightly from 11% the prior week, with a 0.7% price premium."
+    },
+    {
+      "line_title": "OTA LOWER",
+      "line_content": "At 47%, it remains the largest share but dipped from 54% previously, averaging a 7% discount."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "All data are short-haul; OTA-lower leads with 47% last week, down slightly from previous week levels."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "EG",
+      "line_content": "Price parity leads at 46%, rising from 38% previously. OTA-lower follows at 35%, stable over the past month."
+    },
+    {
+      "line_title": "Non-EG",
+      "line_content": "OTA-lower dominates at 78%, with a slight 1.7% dip from the prior week. Coverage remains high."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "OTA-lower leads at 45% but fell from 53% previously. OTA-higher accounts for 17%, up slightly week over week."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Nearly half (49%) of far-out bookings are OTA-lower, shrinking 7.7% since the prior week. Parity stands at 44%."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Dominant Lower Pricing",
+      "line_content": "Over 97% of itineraries on MSE are priced below the airline site, indicating a strong cost advantage."
+    },
+    {
+      "line_title": "Minimal Parity",
+      "line_content": "Matching fares remain under 3%, showing limited price alignment with the airline."
+    },
+    {
+      "line_title": "Stable Trends",
+      "line_content": "Lower pricing frequency rose slightly over time, with average differences in the -0.08% to -0.25% range."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "N/A",
+      "line_content": "Less than 1% of itineraries lack an MSE fare, reflecting near-complete channel coverage."
+    },
+    {
+      "line_title": "SAME",
+      "line_content": "Only about 2–3% of fares match the airline price, with minimal week-to-week changes."
+    },
+    {
+      "line_title": "MSE LOWER",
+      "line_content": "Over 97% of itineraries remain consistently cheaper on MSE, slightly improving each period."
+    },
+    {
+      "line_title": "MSE HIGHER",
+      "line_content": "No cases observed of MSE outpricing the airline site."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Nearly all short-haul itineraries are cheaper via MSE, consistently at or above 97% frequency, with minimal same-price occurrences."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "EG",
+      "line_content": "MSE fares are lower for over 96% of itineraries, with a slight but steady drop in the price gap from last week to last month."
+    },
+    {
+      "line_title": "Non-EG",
+      "line_content": "Coverage is near 100% at lower fares, indicating a more pronounced discount averaging around 24%."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "Over 96% of close-in itineraries are cheaper on MSE, with roughly a 14% discount widening slightly over time."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Lower fares approach 99% and rise to full coverage week-to-week, with discounts around 11%."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Stable Match Level",
+      "line_content": "Over two-thirds of GDS fares matched the website, showing little fluctuation across the weeks."
+    },
+    {
+      "line_title": "Lower Fares Stand Out",
+      "line_content": "GDS-lower scenarios appeared about 25% of the time, significantly surpassing GDS-higher occurrences of around 2%."
+    },
+    {
+      "line_title": "Minimal Unavailability",
+      "line_content": "GDS failed to display website fares only about 5% of the time, with slight weekly variations."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A",
+      "line_content": "Remained close to 5% across all comparisons; minimal but persistent fare unavailability."
+    },
+    {
+      "line_title": "SAME",
+      "line_content": "Ranged from 66–70% over the periods, indicating stable alignment between GDS and website fares."
+    },
+    {
+      "line_title": "GDS HIGHER",
+      "line_content": "Stayed near 2% with negligible weekly shifts, posing minimal risk of higher prices on GDS."
+    },
+    {
+      "line_title": "GDS LOWER",
+      "line_content": "Held around 25% share, reflecting frequent promotional or discounted offers compared to the website."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Mirrors overall trends with ~68% SAME rates and ~25% GDS-lower frequency, showing stable, consistent distribution."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "EG",
+      "line_content": "Displayed a strong match rate near 75% and a modest 1–2% GDS-higher incidence, suggesting stable local pricing."
+    },
+    {
+      "line_title": "Non-EG",
+      "line_content": "Had higher GDS-lower frequency (~32%) and N/A occurrences (~14%), indicating more price variability outside Egypt."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "GDS-lower share reached nearly 30% for last-minute bookings, while GDS-higher stayed minimal (3%)."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Around 74% SAME fares dominated long-range bookings, with GDS N/A (~9%) more common than close-in."
+    }
+  ]
+}

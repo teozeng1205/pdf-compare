@@ -1,0 +1,204 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Insight",
+      "line_content": "OTA shows strong pricing parity (75-92%) with the website, though about 15-23% of offers are missing and selective routes command a modest premium of up to 0.34%."
+    },
+    {
+      "line_title": "MSE Insight",
+      "line_content": "MSE consistently underprices relative to the website with up to 76% of fares lower, exhibits stable small price differences (~0.03%), and only rarely shows higher pricing instances."
+    },
+    {
+      "line_title": "GDS Insight",
+      "line_content": "GDS uniformly applies a premium with nearly 98-99% of fares higher than the website, while achieving negligible frequency for price parity or lower pricing, indicating a distinct pricing strategy."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Dominant Parity",
+      "line_content": "OTA consistently maintains pricing parity with 75-92% SAME status across dimensions, reflecting alignment with the airline website."
+    },
+    {
+      "line_title": "Missing Offers",
+      "line_content": "Significant missing offers (15-23% OTA N/A) indicate that a considerable portion of website fares is not visible on the OTA channel."
+    },
+    {
+      "line_title": "Selective Premium",
+      "line_content": "Occasional premium pricing (OTA HIGHER up to 0.34%) on Long Haul and Non-GR routes suggests a nuanced pricing strategy on select itineraries."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Missing Offers (OTA N/A)",
+      "line_content": "The OTA N/A status averages around 20%, with incremental increases (~3-4%) from previous periods."
+    },
+    {
+      "line_title": "Pricing Parity (SAME)",
+      "line_content": "SAME status dominates at 74-92%, indicating strong consistency with website pricing."
+    },
+    {
+      "line_title": "Premium Pricing (OTA HIGHER)",
+      "line_content": "Premium differentials, although infrequent, reach up to 0.34% on specific routes, highlighting targeted price adjustments."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Insights",
+      "line_content": "Short Haul routes show approximately 74.5% parity, with a moderate OTA HIGHER differential of around 0.20% and OTA N/A near 22.8%."
+    },
+    {
+      "line_title": "Long Haul Insights",
+      "line_content": "Long Haul itineraries maintain strong parity (>91%) while reflecting a higher premium (OTA HIGHER averaging 0.34%), indicating strategic pricing adjustments."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "GR Routes",
+      "line_content": "GR routes exhibit tight pricing with 81.3% SAME, a modest 0.18% OTA HIGHER differential, and a 16% OTA N/A occurrence."
+    },
+    {
+      "line_title": "Non-GR Routes",
+      "line_content": "Non-GR routes have lower parity at 62.3%, with a higher OTA N/A rate (35.7%) and OTA HIGHER differentials averaging 0.34%."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In Bookings",
+      "line_content": "Close In bookings register a pricing parity of 73.7% but feature a higher OTA N/A frequency (23.9%) and a premium differential averaging 0.26%."
+    },
+    {
+      "line_title": "Far Out Bookings",
+      "line_content": "Far Out bookings show improved parity at 82.9%, lower OTA N/A frequency (14.2%), and a reduced premium differential of approximately 0.13%."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Dominant Lower Pricing",
+      "line_content": "MSE predominantly undercuts website prices, with up to 76% falling under the 'MSE LOWER' status on aggregated OD-levels."
+    },
+    {
+      "line_title": "Stable Differences",
+      "line_content": "Historical week-over-week and month-over-month price changes remain minimal, with average differences around 0.03%."
+    },
+    {
+      "line_title": "Rare Premium Cases",
+      "line_content": "Instances of prices exceeding the website are extremely rare, with 'MSE HIGHER' occurrences nearly negligible."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A",
+      "line_content": "Missing comparisons are nearly non-existent (around 0.16%), ensuring a comprehensive dataset."
+    },
+    {
+      "line_title": "SAME Pricing",
+      "line_content": "Moderate 'SAME' frequencies (~22.93%) confirm partial alignment, though most fares are lower."
+    },
+    {
+      "line_title": "Dominant Lower Pricing",
+      "line_content": "'MSE LOWER' accounts for approximately 76.36% of records, underscoring a clear tendency to underprice relative to the website."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Dynamics",
+      "line_content": "Short Haul routes record roughly 73% 'MSE LOWER' with 26% SAME status, indicating a strong downward pricing trend."
+    },
+    {
+      "line_title": "Long Haul Trends",
+      "line_content": "Long Haul routes further intensify the trend with 97% 'MSE LOWER' and nearly zero higher pricing, reflecting competitive underpricing."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Greek Routes (GR)",
+      "line_content": "GR itineraries show around 70% 'MSE LOWER' and 29% SAME, suggesting a moderately balanced comparison."
+    },
+    {
+      "line_title": "Non-GR Routes",
+      "line_content": "Non-GR routes emphasize the lower pricing strategy with 96% undercutting, and minimal SAME or higher pricing events."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in bookings feature roughly 78% lower pricing and 21% SAME, reinforcing a robust discounting approach as departure nears."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings similarly display about 72% lower pricing with a slightly higher SAME frequency (~28%), with minimal premium deviations."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Dominant GDS Higher",
+      "line_content": "GDS almost exclusively presents higher pricing than the website, with 98-99% of records classified as GDS HIGHER."
+    },
+    {
+      "line_title": "Negligible Parity",
+      "line_content": "Instances of SAME or lower pricing are minimal, emphasizing the channel's focus on premium fare offerings."
+    },
+    {
+      "line_title": "Steady Trends",
+      "line_content": "The channel exhibits stable historical price differences, consistently around a 0.36% premium during the last week."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A",
+      "line_content": "Approximately 1-1.5% of offers are not visible on the channel, a minor but consistent occurrence."
+    },
+    {
+      "line_title": "GDS HIGHER",
+      "line_content": "Dominates with an average frequency above 98% and a typical last-week price premium of about 0.36%."
+    },
+    {
+      "line_title": "GDS LOWER",
+      "line_content": "Occurrences of GDS LOWER are extremely rare (around 0.16%), confirming minimal discounting activity."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "Short Haul itineraries see a GDS HIGHER frequency of approximately 98.3% with a price difference of 0.37%, ensuring consistent premium pricing."
+    },
+    {
+      "line_title": "Long Haul Variations",
+      "line_content": "Long Haul routes exhibit an even higher GDS HIGHER rate (~99.1%) but a slightly lower average premium (0.28%), with a minor variation in lower pricing presence."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "GR Markets",
+      "line_content": "Within GR markets, about 98.2% of records are marked as GDS HIGHER with a 0.40% premium, reinforcing strong markups."
+    },
+    {
+      "line_title": "Non-GR Markets",
+      "line_content": "Non-GR records show an even higher incidence (99.1%) of elevated fares, albeit with a lower average premium (0.20%)."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In Windows",
+      "line_content": "For close-in bookings, GDS attains a 97.7% frequency for higher fares with an average premium of 0.33%, demonstrating consistent pricing behavior."
+    },
+    {
+      "line_title": "Far Out Windows",
+      "line_content": "Far out bookings exhibit a 100% GDS HIGHER frequency with a slightly increased average premium of 0.40%, confirming strategy stability over extended booking windows."
+    }
+  ]
+}

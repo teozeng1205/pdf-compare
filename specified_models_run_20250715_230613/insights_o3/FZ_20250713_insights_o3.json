@@ -1,0 +1,208 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA ‑ Price Pressure Abroad",
+      "line_content": "OTAs mark up 38 % of fares and omit 26 % of offers, with non-UAE markets showing 62 % premiums—largest external exposure for Flydubai."
+    },
+    {
+      "line_title": "MSE ‑ Benign Undercuts",
+      "line_content": "81 % of itineraries are cheaper on MSE but by only –0.08 %, limiting revenue dilution while signalling strong channel competitiveness."
+    },
+    {
+      "line_title": "GDS ‑ Systematic Premium",
+      "line_content": "GDS quotes are higher in 82 % of cases (+0.20 % average) and ‘fare not found’ has risen to 14 %, indicating both cost and availability concerns."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "38 % OTA Premiums",
+      "line_content": "Over one-third of monitored fares were higher on OTAs than on flydubai.com, versus just 2 % cheaper."
+    },
+    {
+      "line_title": "26 % Offer Gaps",
+      "line_content": "More than one in four website fares were missing on OTAs, a 3 pp widening month-on-month."
+    },
+    {
+      "line_title": "UAE Parity Advantage",
+      "line_content": "Home-market origins achieve 59 % parity and only 13 % OTA premiums, outperforming non-UAE markets."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Supply Leakage Rising",
+      "line_content": "OTA ‘not-found’ share climbed to 26 %, up 3.3 pp WoW and MoM."
+    },
+    {
+      "line_title": "Premium Still Dominant",
+      "line_content": "OTA-higher cases remain the main outcome at 38 %, though down 3.2 pp WoW."
+    },
+    {
+      "line_title": "Parity Trending Up",
+      "line_content": "Parity improved slightly to 35 %, indicating early signs of channel alignment."
+    },
+    {
+      "line_title": "Discounting Negligible",
+      "line_content": "Only 2 % of fares are cheaper on OTAs, reducing immediate undercut risk."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Overpricing",
+      "line_content": "OTAs overprice 40 % of short-haul fares and undercut just 1 %, challenging core-network competitiveness."
+    },
+    {
+      "line_title": "Long-Haul Stable",
+      "line_content": "Long-haul maintains 75 % parity with no OTA premiums, illustrating effective control on lower-volume routes."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "UAE Strength",
+      "line_content": "59 % parity and 13 % premiums show solid home-market execution."
+    },
+    {
+      "line_title": "Non-UAE Weakness",
+      "line_content": "62 % of non-UAE fares carry an OTA markup and parity slumps to 10 %."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "0-7 Days",
+      "line_content": "Close-in searches see 38 % OTA premiums and 27 % missing fares, driving last-minute leakage."
+    },
+    {
+      "line_title": "8+ Days",
+      "line_content": "Beyond one week, parity leads at 39 % and premiums ease to 36 %, suggesting time to intervene."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "81 % Undercuts",
+      "line_content": "Most itineraries are cheaper on MSE, yet the average gap is minimal (–0.08 %)."
+    },
+    {
+      "line_title": "Zero Premiums",
+      "line_content": "No fares priced higher on MSE this week, removing prior customer-unfriendly spreads."
+    },
+    {
+      "line_title": "UAE Focus",
+      "line_content": "97 % of UAE-origin fares are cheaper on MSE, the highest incidence across all splits."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Near-Full Coverage",
+      "line_content": "‘Fare not found’ is only 0.18 %, keeping availability virtually intact."
+    },
+    {
+      "line_title": "Parity Growing",
+      "line_content": "Exact matches rose to 18.4 %, up 0.5 pp WoW—healthy convergence."
+    },
+    {
+      "line_title": "Benign Discount",
+      "line_content": "Undercut share is high (81.5 %) but depth stays at –0.08 %, limiting revenue erosion."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Exposure",
+      "line_content": "82 % of short-haul fares are MSE-lower; gap remains –0.08 % after a 1.1 pp WoW dip."
+    },
+    {
+      "line_title": "Long-Haul Moderation",
+      "line_content": "Long-haul undercuts at 65 % with a shallower –0.05 % gap; parity backslid slightly."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "UAE Dominant Undercut",
+      "line_content": "97.5 % of UAE fares show an MSE discount, reinforcing domestic price sensitivity."
+    },
+    {
+      "line_title": "Non-UAE Balanced",
+      "line_content": "Non-UAE markets see 65.6 % undercut and 34.4 % parity, offering room to protect yield."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "≤14 Days",
+      "line_content": "83.6 % of close-in searches are cheaper on MSE; incidence eased 1.2 pp WoW."
+    },
+    {
+      "line_title": ">14 Days",
+      "line_content": "Far-out window posts 76.7 % undercut with a milder –0.06 % discount."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "82 % GDS Premium",
+      "line_content": "GDS continues to price above the website on most itineraries, albeit by a modest +0.20 %."
+    },
+    {
+      "line_title": "14 % Missing Fares",
+      "line_content": "Availability gaps rose ~3 pp WoW/MoM, particularly on close-in searches."
+    },
+    {
+      "line_title": "UAE Vulnerability",
+      "line_content": "91 % of UAE-origin quotes carry a premium, versus 73 % for non-UAE."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Premium Dominance",
+      "line_content": "82 % higher-priced fares, down 2 pp WoW; parity remains scarce at 2 %."
+    },
+    {
+      "line_title": "Availability Erosion",
+      "line_content": "‘Not found’ rate reached 14 %, driven by close-in demand spikes."
+    },
+    {
+      "line_title": "Undercuts Rare",
+      "line_content": "Only 2 % of itineraries are cheaper on GDS, with –0.08 % average discount."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Risk",
+      "line_content": "82 % of short-haul fares are higher on GDS (+0.21 %); gaps widened to 15 %."
+    },
+    {
+      "line_title": "Long-Haul Opportunity",
+      "line_content": "Premium share drops to 79 % (+0.08 % markup) and parity improved to 14 % on long-haul sample."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "UAE Highest Premium",
+      "line_content": "91 % of UAE fares GDS-higher; markup +0.18 %, and unavailability doubled to 4 % WoW."
+    },
+    {
+      "line_title": "Non-UAE Gaps",
+      "line_content": "Premium share at 73 % but higher markup (+0.24 %); 25 % of fares missing altogether."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In",
+      "line_content": "16 % ‘not found’ and 80 % premiums at +0.23 % highlight short-term risk."
+    },
+    {
+      "line_title": ">60 Days",
+      "line_content": "Premium share grows to 86 % though markup eases to +0.14 %; parity stuck at 2 %."
+    }
+  ]
+}

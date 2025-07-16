@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA",
+      "line_content": "96% of direct fares were absent, with under 0.1% undercutting observed."
+    },
+    {
+      "line_title": "MSE",
+      "line_content": "59.5% of fares not found, while 22% undercut website prices last week."
+    },
+    {
+      "line_title": "GDS",
+      "line_content": "Nearly 98% of offers unlisted; 32.7% higher in non-CN markets, though down 19% week over week."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "High Offer Invisibility",
+      "line_content": "Over 96% of website fares were not displayed on the OTA this past week, increasing 2.2% from the prior week and 4.3% from last month."
+    },
+    {
+      "line_title": "Minimal Price Parity",
+      "line_content": "Fares were the same in fewer than 3% of examined markets, reflecting a slight drop from previous periods."
+    },
+    {
+      "line_title": "Scarce Undercutting",
+      "line_content": "OTA-lower fares appeared in under 0.1% of itineraries, indicating negligible instances of strategic discounting."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offer Not Found",
+      "line_content": "Over 96% of ODs did not feature the direct fare, rising 2.2% from last week."
+    },
+    {
+      "line_title": "SAME",
+      "line_content": "Just 2.5% of total fares matched, with a marginal decline from previous intervals."
+    },
+    {
+      "line_title": "OTA HIGHER",
+      "line_content": "Roughly 1.2% of tickets on OTA were priced above the airline’s site, down slightly from the prior week."
+    },
+    {
+      "line_title": "OTA LOWER",
+      "line_content": "Less than 0.1% of fares were cheaper on OTA, showing negligible shifts over time."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "97% of offers remained absent from the OTA, up 1.56% week over week. Price parity was notably low at around 2%."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "While 83% of fares were not found, that figure jumped 10.65% from last week; about 7% of markets showed higher OTA pricing."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "CN",
+      "line_content": "97% of itineraries were unseen on the OTA, leaving minimal scope for lower or matching fares."
+    },
+    {
+      "line_title": "Non-CN",
+      "line_content": "Fares not found accounted for 76%, but 22% were higher on the OTA versus the website."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "Nearly 98% of last-minute itineraries were missing from OTA listings, with only about 2% at parity or higher."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Though still high at 94%, not-found rates eased slightly for advanced bookings, leaving room for parity or higher fares in around 6% of cases."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "High N/A Rates",
+      "line_content": "Over half of fares are not visible on MSE (59.5% last week). This has grown by over 42% from the previous month."
+    },
+    {
+      "line_title": "Stable Same Pricing",
+      "line_content": "Matching fares remain around 18%, with a small decrease from the prior week."
+    },
+    {
+      "line_title": "Drop in MSE Lower Fares",
+      "line_content": "22% of fares were lower on MSE last week, down from 42% the previous week."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offer Not Found",
+      "line_content": "59.5% of fares were missing on MSE last week, up from 34.1% previously."
+    },
+    {
+      "line_title": "Same",
+      "line_content": "18.2% parity with the website, a slight decline compared to the prior week."
+    },
+    {
+      "line_title": "Channel Higher",
+      "line_content": "Less than 0.3% of fares are above the website, with minimal weekly fluctuations."
+    },
+    {
+      "line_title": "Channel Lower",
+      "line_content": "22% of fares undercut website pricing, a 20% drop from the previous week’s 42%."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "N/A frequency is nearly 60%, with MSE-lower at 22%, down 20% week over week."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "56% of fares are missing on MSE, up 26% from the prior week. MSE-lower stands at 20.5%, down about 22%."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "CN",
+      "line_content": "59.3% N/A last week. MSE-lower fares at 22.5%, down 21% from the previous week."
+    },
+    {
+      "line_title": "Non-CN",
+      "line_content": "64.7% N/A rate, rising over 23%. MSE-lower is 12.4%, down nearly 9% week over week."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "74.7% of fares not found on MSE, a 23% increase from prior. MSE-lower dropped to 23.5%, down 21.5%."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "30.6% N/A last week, up 26%. MSE-lower is about 19.2%, an 18.8% decline from the previous week."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "High N/A Rates",
+      "line_content": "Nearly 98% of listings are not matched in GDS, indicating a slight but steady increase vs prior weeks."
+    },
+    {
+      "line_title": "Non-CN Markups",
+      "line_content": "Non-CN markets show 32.7% GDS-higher frequency, though it has dropped nearly 19% from last week."
+    },
+    {
+      "line_title": "Long Haul Higher",
+      "line_content": "Long Haul flights more often listed at higher fares (9.28%) vs just 1.11% for Short Haul."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A",
+      "line_content": "Dominates at 97.68% last week, up by 1.53% vs previous week and 2.39% vs last month."
+    },
+    {
+      "line_title": "Same",
+      "line_content": "Minimal at 0.6% last week, with negligible week-over-week and month-over-month movement."
+    },
+    {
+      "line_title": "GDS Lower",
+      "line_content": "Rare at 0.02% last week, showing around a 13% discount vs airline site."
+    },
+    {
+      "line_title": "GDS Higher",
+      "line_content": "Appears 1.71% of the time last week, pricing roughly 4% above the airline’s website."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "High GDS N/A segment at 98.27%; only 1.11% flights see GDS fares above the website."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "GDS N/A at 90.50%, with a higher share (9.28%) priced above the website."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "CN",
+      "line_content": "99.49% listings not matched by GDS; minimal overlap in fares or statuses."
+    },
+    {
+      "line_title": "Non-CN",
+      "line_content": "64.44% not matched, while 32.70% are priced higher on GDS, down 19% from last week."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "98.74% unlisted on GDS; 1.21% shows GDS fares higher by about 4%."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "95.72% unlisted; 2.65% sees higher fares on GDS, still around a 3–4% premium."
+    }
+  ]
+}

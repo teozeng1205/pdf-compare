@@ -1,0 +1,208 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA premiums rising",
+      "line_content": "37% of itineraries priced higher on OTAs last week (+4 ppts MoM) while parity slipped to 62%, signalling growing margin leakage."
+    },
+    {
+      "line_title": "MSE consistently cheaper",
+      "line_content": "Metasearch undercut the website on 99.6% of fares with a 6% average discount and zero premium cases, maintaining strong price discipline."
+    },
+    {
+      "line_title": "GDS premiums widespread",
+      "line_content": "36.7% of GDS fares exceeded the site (+4 ppts MoM), chiefly on Italy-origin short-haul and far-out bookings, exposing advanced-purchase revenue risk."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "OTA premium gaining ground",
+      "line_content": "37% of itineraries priced higher on OTAs last week, up 4 ppts versus last month, while parity slipped to 62%."
+    },
+    {
+      "line_title": "Advance purchases exposed",
+      "line_content": "Far-out bookings show a 59% OTA-higher frequency—more than double the 26% seen in close-in windows."
+    },
+    {
+      "line_title": "Italy origins driving variance",
+      "line_content": "In-country markets record a 43% OTA-higher rate (+5 ppts MoM); non-IT routes stay near parity but carry a 12% premium when gaps occur."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Offer missing rare",
+      "line_content": "Website fare absent on OTAs only 0.7% of the time; no availability concern."
+    },
+    {
+      "line_title": "Parity eroding",
+      "line_content": "62% of fares match, down 3.6 ppts MoM, indicating weakening alignment."
+    },
+    {
+      "line_title": "OTA cheaper negligible",
+      "line_content": "Under-pricing appears in just 0.1% of cases but averages a deep 28% cut when it occurs."
+    },
+    {
+      "line_title": "OTA premiums broader",
+      "line_content": "37% of itineraries carry a 2% mark-up, up 3.9 ppts MoM—small depth but widening breadth."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-haul pressure",
+      "line_content": "39% of short-haul ODs are OTA-higher (+4 ppts MoM) with a steady 2% premium; parity holds 60% share."
+    },
+    {
+      "line_title": "Long-haul parity",
+      "line_content": "All long-haul observations remain in perfect parity for the third consecutive period."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Italy origins exposed",
+      "line_content": "43% OTA-higher share (+4.6 ppts MoM) with a modest 2% premium."
+    },
+    {
+      "line_title": "Non-Italy isolated gaps",
+      "line_content": "99% parity; the rare 0.5% OTA-higher cases carry a 12% mark-up."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-in (0-7 days)",
+      "line_content": "Parity at 73%, yet OTA premiums already affect 26% of near-term bookings and are rising."
+    },
+    {
+      "line_title": "Far-out (8+ days)",
+      "line_content": "Only 41% parity; OTA-higher frequency reaches 59% (+3 ppts MoM) with a stable 2% premium."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "MSE undercuts website",
+      "line_content": "Prices beat the airline site in 99.6% of cases, delivering a 6% average saving."
+    },
+    {
+      "line_title": "No premium cases",
+      "line_content": "Zero instances of MSE prices exceeding the website, consistent with prior periods."
+    },
+    {
+      "line_title": "Coverage steady",
+      "line_content": "Website fares missing on just 0.15% of ODs—up slightly WoW but far below last month’s 0.68%."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Website fare absent",
+      "line_content": "0.15% of itineraries lacked a metasearch offer, marginally higher WoW but improved MoM."
+    },
+    {
+      "line_title": "Parity rare",
+      "line_content": "Exact matches only 0.23% of cases; MSE usually diverges downward."
+    },
+    {
+      "line_title": "MSE cheaper dominant",
+      "line_content": "99.62% of ODs show a 6% discount; share remains near perfect."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-haul gap stable",
+      "line_content": "99.6% cheaper on MSE with a 6% discount; frequency down 0.32 ppt WoW but up 0.40 ppt MoM."
+    },
+    {
+      "line_title": "Long-haul bigger savings",
+      "line_content": "100% cheaper, averaging an 8% undercut; share dipped 1.43 ppt MoM as sample grows."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic Italy",
+      "line_content": "99.56% lower on MSE with a 5% discount; frequency slightly softer WoW yet above MoM."
+    },
+    {
+      "line_title": "International origins",
+      "line_content": "100% lower with an 8% gap, though penetration eased 0.54 ppt MoM due to a few website-only cases."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-in (<14 days)",
+      "line_content": "99.66% cheaper with a 6% saving; share slipped 0.23 ppt WoW but up 0.81 ppt MoM."
+    },
+    {
+      "line_title": "Far-out (14+ days)",
+      "line_content": "99.55% cheaper at a 6% discount; 0.45% of fares missing on MSE—a new gap to monitor."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS premium 36.7%",
+      "line_content": "One-third of itineraries price higher in GDS with a modest ~2% mark-up; share up 4 ppts MoM."
+    },
+    {
+      "line_title": "Core market disparity",
+      "line_content": "Italy-origin and short-haul segments show >40% GDS premiums; long-haul remains price-matched."
+    },
+    {
+      "line_title": "Far-out booking risk",
+      "line_content": "59% of advanced-purchase itineraries display GDS mark-ups versus 26% in close-in sales."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Offer coverage solid",
+      "line_content": "Missing offers at 0.2%, but creeping up—requires monitoring."
+    },
+    {
+      "line_title": "Parity slipping",
+      "line_content": "63% of fares match the site, down 3.6 ppts MoM—early sign of widening gaps."
+    },
+    {
+      "line_title": "GDS higher broadening",
+      "line_content": "Premium cases at 36.7% (+4 ppts MoM) with stable 2% uplift—breadth, not depth, is the issue."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-haul premiums",
+      "line_content": "38.7% of short-haul ODs higher in GDS (avg +2%); parity down 1.7 ppt WoW."
+    },
+    {
+      "line_title": "Long-haul parity",
+      "line_content": "100% parity on limited long-haul sample; continue to monitor as volume grows."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Italy origin exposure",
+      "line_content": "42.6% GDS premiums; parity down 4.4 ppts MoM—watch home market closely."
+    },
+    {
+      "line_title": "Rest-of-world parity",
+      "line_content": "99.5% parity; rare premiums (~0.5%) carry ~10% mark-ups, indicating isolated errors."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-in (0-7 days)",
+      "line_content": "25.7% GDS premiums (+2 ppts WoW); parity still solid at 74% but trending down."
+    },
+    {
+      "line_title": "Far-out (8+ days)",
+      "line_content": "58.5% GDS premiums (+4.3 ppts MoM), highlighting early-booking revenue leakage risk."
+    }
+  ]
+}

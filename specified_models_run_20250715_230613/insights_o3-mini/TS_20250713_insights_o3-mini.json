@@ -1,0 +1,196 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Trends",
+      "line_content": "OTA analysis shows dominance of the SAME status at around 55% with noticeable shifts in short haul and close-in booking segments, reflecting modest pricing adjustments and inventory challenges."
+    },
+    {
+      "line_title": "MSE Discounting",
+      "line_content": "MSE consistently delivers lower pricing on over 85% of itineraries with a negligible average discount, evidencing a stable and aggressive discount strategy across regions and booking windows."
+    },
+    {
+      "line_title": "GDS Alignment",
+      "line_content": "GDS pricing is tightly aligned with website rates overall, with a slight premium trend in higher-priced cases, particularly in non-Canadian segments and far-out bookings."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Dominance of SAME",
+      "line_content": "OTA records show the SAME status dominating at approximately 55%, although this represents a 5.67% decline from the prior week."
+    },
+    {
+      "line_title": "Balanced Pricing Shifts",
+      "line_content": "Both OTA HIGHER and OTA LOWER statuses display minimal pricing differences of around +0.04% and -0.03% respectively, suggesting only slight deviations from website pricing."
+    },
+    {
+      "line_title": "Marginal Non-availability",
+      "line_content": "About 8.53% of itineraries lack a corresponding website offer on OTA, remaining relatively constant over recent periods."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Non-availability & Parity",
+      "line_content": "Approximately 8.53% of itineraries are missing a website offer, while the SAME category covers 55% of cases, though it is contracting gradually."
+    },
+    {
+      "line_title": "Price Adjustments",
+      "line_content": "OTA HIGHER covers 24.57% of cases with a slight average premium, whereas OTA LOWER at 11.60% shows a marked increase, indicating a mild shift toward discounted pricing."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Shifts",
+      "line_content": "Short haul routes experience a 13.44% drop in SAME status and a 12.30% jump in OTA LOWER listings, indicating a pivot towards lower pricing."
+    },
+    {
+      "line_title": "Long Haul Stability",
+      "line_content": "Long haul routes remain stable with minor changes, with SAME status seeing a small increase and minimal adjustments in higher or lower pricing."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "CA Market Dynamics",
+      "line_content": "The CA market exhibits 14.56% OTA N/A and a 10.76% rise in OTA LOWER, reflecting a trend towards discounted fares."
+    },
+    {
+      "line_title": "Non-CA Premiums",
+      "line_content": "Non-CA origins maintain a low OTA N/A frequency of 0.74% paired with a high OTA HIGHER occurrence at 52.59%, highlighting a premium pricing trend."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In Adjustments",
+      "line_content": "For close-in bookings, the SAME category is down by 8.96% while OTA LOWER increases by 8.46%, suggesting a stronger discount strategy for last-minute itineraries."
+    },
+    {
+      "line_title": "Far Out Stability",
+      "line_content": "Far out bookings are stable with minimal changes, maintaining a high consistency in the SAME pricing category at 63.04%."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Consistent Discounts",
+      "line_content": "MSE consistently records lower prices in over 85% of itineraries, underscoring a robust discount strategy."
+    },
+    {
+      "line_title": "Stable Pricing Trends",
+      "line_content": "Week-over-week and month-over-month changes are minimal, reflecting a stable approach to pricing on the MSE channel."
+    },
+    {
+      "line_title": "Negligible Differential",
+      "line_content": "Even with around 90% lower pricing, the average price difference remains minimal at about -0.06%."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Limited Identicals",
+      "line_content": "Only 7-16% of itineraries show identical pricing between the website and MSE, while some records are missing website offers, indicating potential inventory display issues."
+    },
+    {
+      "line_title": "Discount Dominance",
+      "line_content": "A dominant 90% of itineraries are priced lower on the MSE channel, reinforcing the competitive discount strategy."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "Short haul itineraries exhibit 92.35% lower pricing with negligible differences, showcasing consistent discounting."
+    },
+    {
+      "line_title": "Long Haul Trends",
+      "line_content": "Long haul routes have 88.71% lower pricing with a slightly elevated share of identical pricing, maintaining an overall focus on lower fares."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "CA Variability",
+      "line_content": "In the CA market, 84.18% of offers are lower, while 15.82% match the website, indicating moderate pricing variability."
+    },
+    {
+      "line_title": "Non-CA Discounts",
+      "line_content": "Non-Canadian origin records exhibit lower pricing in 98.52% of cases, highlighting a strong discount emphasis across these markets."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In Discounts",
+      "line_content": "Close-in booking windows reflect 90.05% lower pricing, indicative of robust last-minute discounting."
+    },
+    {
+      "line_title": "Far Out Discounts",
+      "line_content": "Far out bookings maintain competitive discounting at 92.47% lower pricing, demonstrating consistent strategy regardless of booking lead time."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Minimal Discrepancy",
+      "line_content": "GDS pricing closely aligns with website rates, with an overall average price difference of nearly zero (-0.01%)."
+    },
+    {
+      "line_title": "Slight Premium",
+      "line_content": "Instances of GDS HIGHER status show a marginal premium of 0.03%-0.04%, indicating modest upward price adjustments in select cases."
+    },
+    {
+      "line_title": "Segmented Variations",
+      "line_content": "Pricing segmentation is evident, with Canadian routes mostly matching and non-Canadian routes leaning towards higher prices, especially in far-out bookings."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Price Parity",
+      "line_content": "A majority of records fall under the SAME category, confirming strong parity between GDS and website rates."
+    },
+    {
+      "line_title": "Premium Occurrence",
+      "line_content": "Approximately 40% of origin-destination pairs display higher pricing on GDS, suggesting a consistent, though modest, premium trend."
+    },
+    {
+      "line_title": "Limited Discounts",
+      "line_content": "Only about 3.74% of records are priced lower on GDS, indicating scant occurrence of discounting."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Dynamics",
+      "line_content": "Short haul routes show 56.47% parity and a 38.82% incidence of higher pricing with an average markup of around 0.04%, with limited discount activity."
+    },
+    {
+      "line_title": "Long Haul Nuances",
+      "line_content": "Long haul records maintain similar parity at 54.47%, while higher pricing is slightly less pronounced (43.90%), accompanied by minor discounts."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "CA Consistency",
+      "line_content": "Canadian origin itineraries show 97.47% price parity with the website, reflecting exceptional consistency across GDS records."
+    },
+    {
+      "line_title": "Non-CA Variability",
+      "line_content": "Non-Canadian origins exhibit greater variation, with 86.67% in the higher pricing category, confirming the presence of a modest premium trend."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Stability",
+      "line_content": "Close-in bookings maintain stable pricing with 57.21% matching the website and 41.29% showing a slight premium."
+    },
+    {
+      "line_title": "Far-Out Fluctuation",
+      "line_content": "Far-out bookings reveal broader pricing adjustments with 52.17% parity, 39.13% indicating higher prices, and a noticeable increase in discount occurrences."
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Price Discrepancies",
+      "line_content": "OTA channels predominantly show higher pricing, with a significant 73.43% of cases last week; limited opportunities for lower prices."
+    },
+    {
+      "line_title": "MSE Price Advantage",
+      "line_content": "MSE channels consistently offer lower pricing than the airline's site, achieving an 85.46% lower rate last week with improving availability."
+    },
+    {
+      "line_title": "GDS Pricing Trend",
+      "line_content": "GDS channels generally present higher fare structures, recording 71.28% higher prices than the airline's offers last week."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "OTA Price Parity Mostly Maintained",
+      "line_content": "In the latest week, 13.29% of website prices aligned with OTA prices, showing stable parity."
+    },
+    {
+      "line_title": "OTA Higher Prevalent",
+      "line_content": "More than 73% of tickets last week were priced higher on OTAs, though this increased by 2.10% from the previous week."
+    },
+    {
+      "line_title": "Infrequent OTA Lower Opportunities",
+      "line_content": "OTA prices were rarely lower, with only 0.90% of occurrences in the latest week, slightly declining compared to the previous data."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "SAME Status Stability",
+      "line_content": "Pricing was identical across channels for 13.29% last week, consistent with prior trends."
+    },
+    {
+      "line_title": "OTA Higher Dominance",
+      "line_content": "The trend of higher OTA pricing continues, reflected in 73.43% of recorded cases last week."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "Short haul routes show stable OTA pricing patterns, with 75.63% of cases being higher than the website."
+    },
+    {
+      "line_title": "Long Haul Pricing Shift",
+      "line_content": "Long haul routes witnessed 57.23% OTA price hikes, albeit with a slight increase over the previous week."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Norwegian Origin Observations",
+      "line_content": "Tickets originating in Norway had 73.75% priced higher on OTAs, slightly up compared to the prior week."
+    },
+    {
+      "line_title": "Non-Norwegian Origins Variability",
+      "line_content": "Non-Norwegian origins saw a 72.51% incidence of higher OTA pricing, a noteworthy 6.27% rise from the previous week."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Trends",
+      "line_content": "Close-in bookings had a 72.49% frequency of OTA price hikes, marking a significant decrease of 4.39% from the prior period."
+    },
+    {
+      "line_title": "Far-Out Future Observations",
+      "line_content": "Far-out bookings reflect a 75.35% prevalence of higher OTA pricing with a notable week-over-week 13.40% increase."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Majority Lower on MSE",
+      "line_content": "Across all dimensions, MSE prices were lower than the airline's website 85.46% of the time last week, showing a rising trend from 84.12% the previous week."
+    },
+    {
+      "line_title": "Improving Price Matching",
+      "line_content": "There was a decrease in the frequency of identical pricing across last week at 5.4%, down from 6.71% the week prior, suggesting fewer matched prices."
+    },
+    {
+      "line_title": "Decreased 'Not Available' Status",
+      "line_content": "The instances where offers were not found on MSE decreased slightly to 9.14% from 9.87% a month ago, indicating improved availability."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Price Lower on MSE",
+      "line_content": "MSE consistently provided lower prices compared to the Norwegian Air Shuttle's website, increasing by 1.34% over the previous week."
+    },
+    {
+      "line_title": "Same Price Decline",
+      "line_content": "The occurrence of identical pricing dropped by 1.31% from the previous week, indicating less price matching."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Reduces Price Match",
+      "line_content": "On short haul, MSE lower pricing rose by 0.58% from last week, with same pricing decreasing slightly by 0.43%."
+    },
+    {
+      "line_title": "Long Haul Pricing Advantage",
+      "line_content": "Long haul routes saw a notable 7.26% increase in MSE prices being lower, maintaining a strong price advantage."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "NO Market Dominance",
+      "line_content": "For origin Norway (NO), MSE showed prices lower 92.11% of the time last week, with a slight decrease of 0.29%."
+    },
+    {
+      "line_title": "Non-NO Growth",
+      "line_content": "On non-NO routes, MSE lower pricing rose significantly by 5.06%, contributing to a narrowing price gap."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Discounting",
+      "line_content": "In close-in bookings, MSE provided lower prices for 85.82% of itineraries last week with a notable increase from 82.68%."
+    },
+    {
+      "line_title": "Far-Out Stability",
+      "line_content": "For far-out bookings, the rate of lower prices on MSE increased by 1.62%, reflecting stable competitive pricing."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS Pricing Higher",
+      "line_content": "A significant portion of itineraries have GDS prices higher than the airline’s own site, with a last-week frequency of 71.28% across all records."
+    },
+    {
+      "line_title": "Minor GDS Lower Occurrences",
+      "line_content": "Instances where GDS offered lower prices than the airline were rare, constituting only 0.90% of the itineraries last week."
+    },
+    {
+      "line_title": "Stability in Website Offers Found",
+      "line_content": "The frequency of website offers not found on GDS is declining slightly, with a decrease by 0.51% from the previous week to the last week."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offers Unavailable",
+      "line_content": "Offers not available on GDS decreased slightly to 14.60% last week, showing a modest improvement in availability."
+    },
+    {
+      "line_title": "Price Parity",
+      "line_content": "Static at 13.22% last week, the instances where GDS matched airline website prices showed slight variation from previous measures."
+    },
+    {
+      "line_title": "Higher GDS Prices",
+      "line_content": "The GDS channel tends to offer higher fares, with a slight increase to 71.28% last week, up by 0.62% from the previous week."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Trends",
+      "line_content": "Short haul records mostly reflect higher priced GDS offers (74.29% last week), showing a minor trend reversal with price reductions previously more pronounced."
+    },
+    {
+      "line_title": "Long Haul Dynamics",
+      "line_content": "Long haul sees substantial high pricing by GDS at 49.13% frequency, with a slight increase observed week-over-week."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Norway Origin Impact",
+      "line_content": "Offers originating from Norway show a 73.66% incidence of higher GDS prices, reinforcing a competitive disadvantage on this channel."
+    },
+    {
+      "line_title": "Non-Norwegian Point of Origin",
+      "line_content": "Similar trends in non-Norwegian origins with GDS frequently pricing higher (64.75%), accentuated by a minor increase last week."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In Variability",
+      "line_content": "Close in booking itinerary frequencies show price increases on GDS at 70.05%, reflecting a slight negative trend shift over time."
+    },
+    {
+      "line_title": "Far Out Seasonal Shifts",
+      "line_content": "Far out bookings present increased GDS pricing in 73.75% of cases, marking a notable hike from the previous period."
+    }
+  ]
+}

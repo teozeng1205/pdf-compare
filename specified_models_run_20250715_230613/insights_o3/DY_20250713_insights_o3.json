@@ -1,0 +1,204 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Premium Risk",
+      "line_content": "73 % of OTA fares price above direct with a steady 6 % mark-up, signalling margin loss and potential customer deterrence."
+    },
+    {
+      "line_title": "MSE Leakage",
+      "line_content": "85 % of itineraries are cheaper on MSE by 9 % on average, representing the largest uncontrolled revenue leakage across channels."
+    },
+    {
+      "line_title": "GDS Overpricing",
+      "line_content": "GDS displays a 71 % higher-than-direct frequency (avg +6 %), limiting corporate agency competitiveness despite improved availability."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Premium Dominates",
+      "line_content": "OTA prices exceed direct in 73 % of cases, a 2-pt increase WoW, at a consistent 6 % surcharge."
+    },
+    {
+      "line_title": "Parity Elusive",
+      "line_content": "Only 13 % of offers match direct pricing, down 0.9 pt WoW, reflecting volatile alignment."
+    },
+    {
+      "line_title": "Advance-Booking Gap",
+      "line_content": "Far-out departures now see 75 % OTA overpricing (+13 pts WoW), heightening early-purchase risk."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Missing Offers (12 %)",
+      "line_content": "12 % of website itineraries are absent on OTA, limiting shelf presence."
+    },
+    {
+      "line_title": "Rare Undercuts (0.9 %)",
+      "line_content": "True OTA discounts continue to fade, shrinking 0.7 pt WoW."
+    },
+    {
+      "line_title": "Stable 6 % Premium",
+      "line_content": "Despite share shifts, the absolute price gap remains a steady +6 %."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Premium",
+      "line_content": "76 % of short-haul fares are higher on OTA (+6 %); availability gaps are modest (10 %)."
+    },
+    {
+      "line_title": "Long-Haul Variability",
+      "line_content": "Long-haul shows 29 % offer gaps and a lower 57 % overpricing rate (+4 %)."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Norway Origins",
+      "line_content": "74 % of fares price higher on OTA (+5 %), with only 8 % availability gaps."
+    },
+    {
+      "line_title": "Non-Norway Origins",
+      "line_content": "Offer gaps rise to 24 %, and OTA premiums deepen to +7 %."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (≤7 days)",
+      "line_content": "OTA higher share eased to 72 % (−4 pts WoW) but still commands a 6 % premium."
+    },
+    {
+      "line_title": "Far-Out (≥30 days)",
+      "line_content": "Overpricing surged to 75 % (+13 pts WoW), while parity plunged 9 pts."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Leakage at 85 %",
+      "line_content": "MSE undercuts direct on 85 % of itineraries, averaging a 9 % discount—up 8 pts MoM."
+    },
+    {
+      "line_title": "Parity Collapse",
+      "line_content": "Matched pricing down to 5 %, a 7-pt MoM decline, eroding price discipline."
+    },
+    {
+      "line_title": "Norway Exposure",
+      "line_content": "92 % of Norway-origin fares are cheaper on MSE by 11 % on average."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Offers Missing (9 %)",
+      "line_content": "9 % of web itineraries are unavailable on MSE; small week-to-week change."
+    },
+    {
+      "line_title": "MSE Lower (85 %)",
+      "line_content": "Channel delivers an average −9 % fare, frequency up 1 pt WoW."
+    },
+    {
+      "line_title": "Negligible Overpricing",
+      "line_content": "Cases where MSE is higher remain below 0.1 %, offering limited upside."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Leak",
+      "line_content": "86 % of short-haul ODs are lower-priced on MSE (−10 %)."
+    },
+    {
+      "line_title": "Long-Haul Deepening",
+      "line_content": "83 % of long-haul itineraries are cheaper, discount widening to −6 %."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Norway Origins",
+      "line_content": "Leakage peaks at 92 % with an 11 % discount; parity minimal (3 %)."
+    },
+    {
+      "line_title": "Non-Norway Origins",
+      "line_content": "67 % of fares cheaper (−5 %); threefold higher parity than Norway."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (≤7 days)",
+      "line_content": "MSE is cheaper on 86 % at −8 %; leakage widened 3 pts WoW."
+    },
+    {
+      "line_title": "Far-Out (≥30 days)",
+      "line_content": "85 % undercut rate with a deeper −12 % gap; share slipped 2 pts WoW."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Overpricing at 71 %",
+      "line_content": "GDS fares average a 6 % premium and show little month-over-month movement."
+    },
+    {
+      "line_title": "Availability Gains",
+      "line_content": "Website-only gaps fell to 14.6 %, lowest in three months, yet remain high on long-haul (38 %)."
+    },
+    {
+      "line_title": "Window Divergence",
+      "line_content": "Close-in parity improving (+4 pts), far-out overpricing worsening (+9 pts)."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Offers Missing (14.6 %)",
+      "line_content": "Gaps improved 0.5 pt WoW, aiding agency access."
+    },
+    {
+      "line_title": "Parity (13.2 %)",
+      "line_content": "Alignment slipped 0.7 pt WoW but remains 3 pts higher than last month."
+    },
+    {
+      "line_title": "GDS Higher (71 %)",
+      "line_content": "Premium stable at +6 %, suggesting entrenched mark-up strategy."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Premium",
+      "line_content": "74 % higher-price frequency (+6 %), availability gap down to 11 %."
+    },
+    {
+      "line_title": "Long-Haul Gaps",
+      "line_content": "38 % of fares missing; only 49 % overpriced, with a smaller +4 % premium."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Norway Origins",
+      "line_content": "74 % overpricing (+5 %); availability gap limited to 9 %, parity at 17 %."
+    },
+    {
+      "line_title": "Non-Norway Origins",
+      "line_content": "65 % higher fares but 31 % missing offers; parity only 2 %."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-14 days)",
+      "line_content": "GDS higher share down to 70 % (−4 pts); parity up to 12.5 %."
+    },
+    {
+      "line_title": "Far-Out (15+ days)",
+      "line_content": "Overpricing climbed to 74 % (+9 pts); parity dipped to 14.6 %."
+    }
+  ]
+}

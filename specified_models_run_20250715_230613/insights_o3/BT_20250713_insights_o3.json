@@ -1,0 +1,188 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTAs Mostly Higher",
+      "line_content": "96.6% of itineraries are marked-up on OTAs, yet the average premium is only 0.11%, implying perception risk outweighs revenue loss."
+    },
+    {
+      "line_title": "MSE Advantage Fading",
+      "line_content": "Metasearch is still cheaper 45% of the time, but this share fell 15 ppt MoM and flips to a 14% premium for >30-day bookings."
+    },
+    {
+      "line_title": "GDS Higher but Disciplined",
+      "line_content": "GDS lists BT fares in 99% of cases and is higher-priced 98.8% of the time, though with a token 0.10% markup."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Near-Universal Mark-Up",
+      "line_content": "96.6% of monitored OTA fares exceed BT.com, with no cases of parity or under-cutting."
+    },
+    {
+      "line_title": "Negligible Price Gap",
+      "line_content": "Average OTA premium is just 0.11%, limiting direct revenue impact."
+    },
+    {
+      "line_title": "Far-Out Risk",
+      "line_content": "For >30-day bookings the premium widens to 0.17% and incidence is 100%."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA Higher Dominates",
+      "line_content": "96.6% share last week, flat WoW, +0.04 ppt vs month; 0.11 pp premium."
+    },
+    {
+      "line_title": "Availability Gaps Small",
+      "line_content": "3.4% of ODs not surfaced on OTAs; parity and under-cutting remain at 0%."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Mirrors System",
+      "line_content": "Same 96.6% higher share and 0.11 pp premium as overall view."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Latvia Slightly Better",
+      "line_content": "LV itineraries show 95.5% OTA-higher with 0.09% premium; availability gaps widened WoW."
+    },
+    {
+      "line_title": "Non-LV Slightly Worse",
+      "line_content": "97.7% higher with 0.12% premium and improved availability."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (<30d)",
+      "line_content": "94.9% higher, 0.07% premium; 5.1% not available."
+    },
+    {
+      "line_title": "Far-Out (≥30d)",
+      "line_content": "100% higher, 0.17% premium; full availability."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Advantage Shrinking",
+      "line_content": "MSE cheaper on 45% of OD pairs, down 15 ppt MoM."
+    },
+    {
+      "line_title": "Far-Out Premium",
+      "line_content": "For advance sales, 54% price higher on MSE with a 14% premium."
+    },
+    {
+      "line_title": "Latvia Gap Closing",
+      "line_content": "LV origins still discounted 53% of the time, but advantage fell 19 ppt MoM."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Full Coverage",
+      "line_content": "No ‘offer not found’ instances across periods."
+    },
+    {
+      "line_title": "Parity Rising",
+      "line_content": "Same-price cases now 26% (+6 ppt MoM)."
+    },
+    {
+      "line_title": "Lower Cases Dip",
+      "line_content": "Cheaper 45% (-15 ppt) with 3–4% saving."
+    },
+    {
+      "line_title": "Higher Cases Grow",
+      "line_content": "29% dearer with 11% premium (+9 ppt)."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Trends Align",
+      "line_content": "Cheaper 45%, higher 29%, savings/premiums ±3–11%."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "LV Origins",
+      "line_content": "Cheaper 53% (-19 ppt) with 2% saving; higher 21% cases doubled."
+    },
+    {
+      "line_title": "Non-LV Markets",
+      "line_content": "Lower & higher each 37%; higher cases carry 16% premium vs 4% saving when lower."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (<14d)",
+      "line_content": "Cheaper 57% (-13 ppt) with ~4% saving."
+    },
+    {
+      "line_title": "Far-Out (>30d)",
+      "line_content": "Higher 54% (+23 ppt) with 14% premium; only 21% cheaper."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Near-Universal Presence",
+      "line_content": "99% of itineraries available and 98.8% higher-priced."
+    },
+    {
+      "line_title": "Minimal Mark-Up",
+      "line_content": "Average premium just 0.10%, indicating tight control."
+    },
+    {
+      "line_title": "Far-Out Premium Lift",
+      "line_content": "Markup doubles to 0.17% for >30-day bookings."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Higher Standard",
+      "line_content": "98.8% higher last week, +0.1 ppt MoM; 0.10% premium."
+    },
+    {
+      "line_title": "Availability Improves",
+      "line_content": "N/A share down to 1.2% (-1.2 ppt MoM)."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Focus",
+      "line_content": "98.8% higher with 0.10% premium; 1.2% N/A."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Latvia Perfect Coverage",
+      "line_content": "100% higher with 0.09% premium; 0% N/A."
+    },
+    {
+      "line_title": "Non-LV Slightly Less Tight",
+      "line_content": "97.7% higher, 0.12% premium, 2.3% N/A."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (≤30d)",
+      "line_content": "98.3% higher, 0.07% premium; 1.7% N/A."
+    },
+    {
+      "line_title": "Far-Out (>30d)",
+      "line_content": "100% higher, 0.17% premium; full availability."
+    }
+  ]
+}

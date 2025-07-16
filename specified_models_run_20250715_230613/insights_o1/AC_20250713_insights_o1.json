@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Strong Parity",
+      "line_content": "Over 70% of fares matched the airline website, though short-haul itineraries showed greater price shifts."
+    },
+    {
+      "line_title": "MSE Long-Haul Advantage",
+      "line_content": "78% matched overall; nearly half of long-haul fares were cheaper than the airline site."
+    },
+    {
+      "line_title": "GDS Improving Match",
+      "line_content": "Matched fares rose to 52%, but around 47% remain higher compared to the website."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Sizable Matched Fares",
+      "line_content": "Over 70% of fares in the latest week mirrored the website, demonstrating strong price alignment."
+    },
+    {
+      "line_title": "Short Haul Variability",
+      "line_content": "Nearly one-fifth priced higher on short-haul routes, while long-haul flights remained over 90% matched."
+    },
+    {
+      "line_title": "Moderate OTA-Lower Presence",
+      "line_content": "OTA-lower fares appeared in around 9% of itineraries last week, centered on short-haul flights."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA Not Found",
+      "line_content": "Remains minimal at about 1% overall, reflecting consistent OTA listings for most routes."
+    },
+    {
+      "line_title": "Same",
+      "line_content": "Dominated at roughly 72% in the latest week, indicating continued price parity."
+    },
+    {
+      "line_title": "OTA Higher",
+      "line_content": "Peaked near 30% previously but eased to about 18% last week, showing a downward correction."
+    },
+    {
+      "line_title": "OTA Lower",
+      "line_content": "Near 9% last week, with short-haul seeing a slight increase from prior data."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "70% matched, 19% OTA-higher, and a small uptick in OTA-lower."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "94% matched, almost no OTA-lower, and less than 5% OTA-higher."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "CA",
+      "line_content": "75% matched; OTA-higher dropped from above 30% to around 16% recently."
+    },
+    {
+      "line_title": "Non-CA",
+      "line_content": "Approximately 60% matched, 26% OTA-higher, and around 11–14% OTA-lower."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "OTA-higher at 19% last week, down from a spike, with a slightly increased OTA-lower share."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "78% matched, with a brief rise above 30% OTA-higher reverting closer to 16%."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "High Match Rate",
+      "line_content": "Over 78% matched last week, a stable trend compared to previous periods."
+    },
+    {
+      "line_title": "Long-Haul Edge",
+      "line_content": "Nearly half of long-haul fares were cheaper than the airline website, short-haul mostly matched or slightly higher."
+    },
+    {
+      "line_title": "Far-Out Premium",
+      "line_content": "20% of far-out itineraries priced higher on MSE, with only 15% for close-in."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A",
+      "line_content": "Remains negligible at 0.13%, slightly up from 0.11%."
+    },
+    {
+      "line_title": "SAME",
+      "line_content": "78.44% last week, holding steady from prior data."
+    },
+    {
+      "line_title": "MSE HIGHER",
+      "line_content": "16.61%, down from 19.50%, averaging a 10% premium over the website."
+    },
+    {
+      "line_title": "MSE LOWER",
+      "line_content": "4.82%, up slightly from 4.43%, offering around a 15% discount."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "80% matched, 18% higher, 2% lower last week."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "53% matched, 47% lower, no higher fares reported."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Canada (CA)",
+      "line_content": "85% matched, 14% higher, 1% lower, maintaining strong alignment."
+    },
+    {
+      "line_title": "Non-CA",
+      "line_content": "54% matched, 27% higher, 19% lower, showing wider variability."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "80% matched, 15% higher, 5% lower for near-term itineraries."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "76% matched, 20% higher, 4% lower, indicating a premium on longer horizons."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "More Matches",
+      "line_content": "Matched fares rose from 41% to 52%, signaling improved alignment."
+    },
+    {
+      "line_title": "High but Dipping",
+      "line_content": "47% remain higher on GDS, a slight decline from earlier weeks."
+    },
+    {
+      "line_title": "Minimal Undercuts",
+      "line_content": "GDS-lower fares are under 1%, showing limited underpricing."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offer Not Found",
+      "line_content": "Less than 1% of fares, unchanged from prior observation."
+    },
+    {
+      "line_title": "Same",
+      "line_content": "Matched fares range 39–74%, with short haul rising to about 51%."
+    },
+    {
+      "line_title": "Channel Higher",
+      "line_content": "Covers 40–60% of itineraries, declining on short haul but stable on long haul."
+    },
+    {
+      "line_title": "Channel Lower",
+      "line_content": "Remains below 1%, slightly higher in non-CA markets."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "51% matched, 48% higher, under 1% lower."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "74% matched, 26% higher, no lower fares observed."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "CA",
+      "line_content": "Half matched, 49% higher, mere 0.2% lower."
+    },
+    {
+      "line_title": "Non-CA",
+      "line_content": "58% matched, 40% higher, and up to 4% channel-lower."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "60% matched, 40% higher, negligible lower fares, minimal not-found."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "37% matched, 63% higher, 0.4% lower, very few not-found cases."
+    }
+  ]
+}

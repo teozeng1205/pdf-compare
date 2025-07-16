@@ -1,0 +1,188 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Competitive Pricing Edge",
+      "line_content": "The OTA channel offers lower prices 37.6% of the time compared to the airline's website."
+    },
+    {
+      "line_title": "MSE Channel Advantage",
+      "line_content": "The MSE channel significantly leads with 77.1% of offers priced lower than those on the airline's website."
+    },
+    {
+      "line_title": "GDS Pricing Margins",
+      "line_content": "The GDS channel reveals that 66.5% of itineraries feature higher prices compared to KLM's website, indicating less competitive positioning."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "High OTA Lower Rates",
+      "line_content": "In the latest week, 37.6% of offers on the OTA channel were priced lower than the airline's website."
+    },
+    {
+      "line_title": "Stable Pricing Trend",
+      "line_content": "Pricing showed minimal changes, with a less than 1% decline over the previous month in the percentage of offers priced lower on OTA."
+    },
+    {
+      "line_title": "Close In Booking Preference",
+      "line_content": "For close-in bookings, 36.4% were lower on the OTA, with slight stability in pricing trends compared to prior periods."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "N/A Status Dominance",
+      "line_content": "33.3% of all entries indicated no price comparison could be made between the OTA and the airline's website."
+    },
+    {
+      "line_title": "OTA Higher Prices",
+      "line_content": "21.4% of prices on the OTA channel were higher than on the airline's website."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Pricing Overview",
+      "line_content": "In short-haul routes, OTA offers displayed lower rates 46.8% of the time, reflecting consumer bargaining power."
+    },
+    {
+      "line_title": "Long Haul Exposure",
+      "line_content": "Long-haul routes had a significant 60.8% of entries indicating no available OTA pricing, limiting customer choices."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Dutch Origin Pricing",
+      "line_content": "For Dutch points of origin, OTA pricing was lower 74.6% of the time, showcasing strong competitive advantages."
+    },
+    {
+      "line_title": "Non-Dutch Comparison",
+      "line_content": "Non-Dutch origin routes had 43.5% of offers listed as higher on the OTA channel, suggesting potential issues with competitive alignment."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In Advantage",
+      "line_content": "36.4% of close-in booking fares were lower on the OTA channel, highlighting better deals for last-minute travelers."
+    },
+    {
+      "line_title": "Far Out Pricing Stability",
+      "line_content": "For far-out bookings, 39.8% of the finds were lower on the OTA, but trends were stable without significant price reductions."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Predominant Lower Pricing",
+      "line_content": "The MSE channel shows a significant predominance of lower pricing, with 77.1% of offers classified as lower compared to the airline's website in the latest week."
+    },
+    {
+      "line_title": "Stable Pricing Trend",
+      "line_content": "The pricing dynamics over the past month indicate a stable trend, with a slight decrease in instances of higher prices on MSE from the previous month."
+    },
+    {
+      "line_title": "Minimal Availability Issues",
+      "line_content": "Only 0.2% of offers experienced availability issues where no corresponding airline website offer was found, indicating strong alignment in offer availability."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "High Instances of Lower Prices",
+      "line_content": "In the latest week, 77.1% of prices on MSE were lower than those on the airline website, demonstrating a consistent competitive advantage."
+    },
+    {
+      "line_title": "Marginal Same Pricing",
+      "line_content": "Just 10.3% of offerings matched the airline's website prices, reflecting limited price parity in the current landscape."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Lower Pricing Dominance in Regions",
+      "line_content": "The MSE channel demonstrates a consistent lower pricing strategy across all regions, with over 70% of prices being lower, particularly notable in non-NL destinations."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Competitive Pricing in Non-NL",
+      "line_content": "Non-NL point-of-origin routes exhibit a remarkable 69.2% lower pricing on the MSE channel, ensuring competitive positioning against the airline's direct prices."
+    },
+    {
+      "line_title": "Higher Prices for NL Routes",
+      "line_content": "MSE prices for NL routes show a higher percentage with 0.2% classified as higher than the website offerings, suggesting room for pricing improvement."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Consistent Lower Prices for Close-In Bookings",
+      "line_content": "Close-in bookings benefit from 76.4% being lower on MSE, which can drive higher turnover for last-minute travelers."
+    },
+    {
+      "line_title": "Far-Out Bookings Stable",
+      "line_content": "For far-out bookings, lower prices on MSE stand at 78.4%, suggesting a stable pricing strategy over the longer term."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS Channel Dominance",
+      "line_content": "67% of GDS itineraries showed higher pricing compared to KLM's website, indicating a potential area for review to improve competitiveness."
+    },
+    {
+      "line_title": "Stable Price Offerings",
+      "line_content": "The percentage of prices marked as 'same' has remained stable with a slight increase of 1.19% in the last week."
+    },
+    {
+      "line_title": "Minimal Discounts Noted",
+      "line_content": "Price discrepancies indicating 'lower' values on the GDS channel remain negligible, highlighting a consistent pricing strategy."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Higher Pricing",
+      "line_content": "66.5% of all assessed itineraries in the GDS channel have prices that are higher than KLM's website across the last week."
+    },
+    {
+      "line_title": "Infrequent Lower Offers",
+      "line_content": "Only 0.06% of itineraries displayed lower prices on the GDS channel compared to the airline's website, suggesting limited competitive advantage."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Non-NL Pricing Strategy",
+      "line_content": "In the Non-NL segment, 80% of GDS itineraries had higher pricing compared to the website, aligning with overall trends."
+    },
+    {
+      "line_title": "NL Market Offers",
+      "line_content": "Among NL itineraries, 54.3% were priced higher on the GDS channel, indicating a more competitive pricing approach."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "NL Origin Discrepancies",
+      "line_content": "Pricing disparities for origins within the Netherlands showed a 54.3% higher rate on GDS, reinforcing the need for pricing evaluations."
+    },
+    {
+      "line_title": "Non-NL Stability",
+      "line_content": "Non-NL routes reflect 80% higher pricing within the GDS context, indicating uniformity in premium positioning."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "60.4% of close-in bookings were priced higher on GDS, suggesting a strategic push for premium rate visibility for last-minute travelers."
+    },
+    {
+      "line_title": "Far-Out Pricing Trends",
+      "line_content": "Far-out bookings indicated a 80.3% higher pricing status on the GDS channel, signaling consistent pricing across longer-term bookings."
+    }
+  ]
+}

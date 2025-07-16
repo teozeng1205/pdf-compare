@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Pricing Disparity",
+      "line_content": "In the OTA channel, 48.6% of offers were lower priced compared to the airline's website, marking a slight increase from the previous week."
+    },
+    {
+      "line_title": "MSE Competitive Edge",
+      "line_content": "The MSE channel demonstrated a competitive advantage with lower fares in 79.5% of cases over the last week."
+    },
+    {
+      "line_title": "GDS Pricing Challenges",
+      "line_content": "GDS pricing was higher in 79.53% of cases, indicating significant pricing misalignment compared to the airline's direct offers."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Dominance of Lower Prices",
+      "line_content": "In the OTA channel, 48.6% of offers were priced lower compared to the airline's website last week."
+    },
+    {
+      "line_title": "Stable Comparisons",
+      "line_content": "The percentage of items marked as 'same' remained stable, indicating consistent pricing between the airlines and OTA."
+    },
+    {
+      "line_title": "Increased Higher Pricing",
+      "line_content": "The percentage of offers priced higher in the OTA channel increased slightly from 19.7% the previous week to 20.0% last week."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Lower Offers Dominate",
+      "line_content": "48.6% of all offers in the latest week were lower priced in the OTA channel compared to the airline's website, demonstrating a slight increase from the previous week."
+    },
+    {
+      "line_title": "Stable Same Prices",
+      "line_content": "The same offers accounted for 26.9% of the total in the latest week, highlighting continued consistency in pricing."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Advantage",
+      "line_content": "In the short haul segment, 61.9% of prices were lower in the OTA channel last week, emphasizing competitive pricing."
+    },
+    {
+      "line_title": "Long Haul Challenges",
+      "line_content": "Long haul pricing showed minimal competitiveness, with only 0.4% of offers being lower, signifying a price disparity."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "FR Market Dominance",
+      "line_content": "In the French market, 71.3% of offers were lower priced in the OTA channel last week, indicating strong value for travelers."
+    },
+    {
+      "line_title": "Non-FR Higher Pricing",
+      "line_content": "For non-FR origins, 58.7% of offers were priced higher, suggesting a weaker competitive position in those markets."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Far Out Strength",
+      "line_content": "The far-out booking window showed a significant 57.9% of offers priced lower in the OTA channel last week, enhancing value for early planners."
+    },
+    {
+      "line_title": "Close In Stagnation",
+      "line_content": "In the close-in booking window, lower pricing offers slightly declined to 43.3%, reflecting less competitiveness compared to far-out bookings."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Predominantly Competitive Pricing",
+      "line_content": "The MSE channel offered lower fares approximately 79.5% of the time last week, demonstrating a strong competitive advantage."
+    },
+    {
+      "line_title": "Consistency in Pricing",
+      "line_content": "The proportion of offers matching the airline's website has increased by 4% week-over-week, indicating persistent pricing consistency."
+    },
+    {
+      "line_title": "Reduction in Higher Prices",
+      "line_content": "Instances where MSE prices were higher than the airline's website remain negligible, with only 0.12% of offers last week reflecting this status."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE Offers Same Price",
+      "line_content": "The percentage of MSE offers matching the airline's prices was 18.06% last week, signaling stable pricing."
+    },
+    {
+      "line_title": "MSE Lower Pricing Dominance",
+      "line_content": "A noteworthy 79.5% of offers were lower through MSE, reinforcing the channel's competitive pricing strategy."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Advantage",
+      "line_content": "For short haul routes, 90.6% of offers were priced lower in the MSE compared to the airline's own pricing last week."
+    },
+    {
+      "line_title": "Long Haul Stability",
+      "line_content": "MSE offers for long haul routes showed lower pricing 39.39% of the time, reflecting different competitive pressures than short haul markets."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic Pricing Trends",
+      "line_content": "For domestic fares originating in France, 94.38% of offers were lower on MSE, enhancing market share potential."
+    },
+    {
+      "line_title": "Non-Domestic Competitiveness",
+      "line_content": "The MSE channel had lower prices for 48.56% of non-French origin routes last week, indicating room for growth in those markets."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In Deals",
+      "line_content": "MSE displayed lower fares for 77.15% of close-in bookings last week, enhancing value for last-minute travelers."
+    },
+    {
+      "line_title": "Far Out Offers",
+      "line_content": "Pricing for far-out bookings was also favorable, with 83.71% of MSE offers priced lower, attracting early planners."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS Higher Pricing Dominates",
+      "line_content": "For the latest week, 79.53% of GDS offers were priced higher than the airline's website, indicating a lack of competitive pricing on GDS."
+    },
+    {
+      "line_title": "Consistent GDS Pricing",
+      "line_content": "Over the previous month, the proportion of offers found at the same price on GDS has remained stable, demonstrating an ongoing pattern in pricing strategy."
+    },
+    {
+      "line_title": "Slight Varying Discount Trend",
+      "line_content": "GDS presents a slight discount trend, with a 0.16% average lower price compared to the website across all dimensions, particularly less prevalent in longer hauls."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Dominance of Higher Pricing",
+      "line_content": "In the latest week, GDS pricing was higher compared to the airline site in 79.53% of segments, reflecting potential pricing misalignments."
+    },
+    {
+      "line_title": "Static Offer Comparison",
+      "line_content": "For the past month, 0% of offers were at a lower price, indicating limited competitive positioning of GDS versus direct offerings."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul- GDS Higher",
+      "line_content": "In the short-haul market, 89.22% of offers were higher on GDS last week, suggesting that this regional segment lacks competitive GDS pricing."
+    },
+    {
+      "line_title": "Long Haul- Minimal GDS Presence",
+      "line_content": "Only 0.72% of long-haul offers showed lower pricing on the GDS channel, highlighting limited value offered to consumers in this segment."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "FR Origin Offers Most Protection",
+      "line_content": "Offers sourced from France were found priced higher in 76.38% of cases, reflecting a consistent strategy in protecting pricing from the lower GDS channel."
+    },
+    {
+      "line_title": "Non-FR Segment Constraints",
+      "line_content": "In the Non-FR segment, GDS consistently shows higher pricing (86.23% of offers), posing a risk for customer acquisition through competitive pricing."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings Hold Similar Patterns",
+      "line_content": "For close-in bookings, 76.97% of GDS pricing was higher, which could discourage purchases from budget-sensitive travelers."
+    },
+    {
+      "line_title": "Far Out Booking Constraints",
+      "line_content": "For far out bookings, GDS also exhibited high pricing (84.03%), making it less appealing for customers planning ahead."
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Premiums",
+      "line_content": "94 % of itineraries priced higher on OTAs, yet the share is sliding ~1 ppt week-over-week—a slow move toward alignment."
+    },
+    {
+      "line_title": "MSE Parity & Leakage",
+      "line_content": "Metasearch shows 75 % price parity but still undercuts the website on 23 % of cases at a steep 9 % average discount."
+    },
+    {
+      "line_title": "GDS Premium Strategy",
+      "line_content": "GDS maintains a deliberate 99 % premium stance with near-total fare coverage, averaging a 0.44 % uplift over avianca.com."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Widespread Premium",
+      "line_content": "OTAs priced above avianca.com in 94 % of cases with a 0.36 % markup."
+    },
+    {
+      "line_title": "Convergence Trend",
+      "line_content": "OTA-higher share fell 1 ppt vs. prior week and 1.3 ppt vs. month, while parity and discounts rose."
+    },
+    {
+      "line_title": "Far-Out Risk",
+      "line_content": "For bookings >30 days, 97.6 % of fares carry the steepest 0.39 % OTA premium."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA Higher",
+      "line_content": "Dominant at 94.2 %; frequency easing week-over-week while maintaining a 0.36 % premium."
+    },
+    {
+      "line_title": "OTA Lower",
+      "line_content": "Still rare (2.4 %) but growing; average discount minimal at 0.04 %, limiting revenue loss."
+    },
+    {
+      "line_title": "Parity Cases",
+      "line_content": "Up to 1.5 % of itineraries, a small yet positive shift toward alignment."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "94.2 % higher pricing with a 0.38 % premium; only segment showing any OTA discounts (2.5 %)."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "94.9 % higher but near-zero 0.04 % premium; 5 % of itineraries lack OTA visibility."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Colombia Origins",
+      "line_content": "93.8 % higher pricing; parity+discount share now above 4.5 %, up 1 ppt MoM."
+    },
+    {
+      "line_title": "Non-CO Origins",
+      "line_content": "Misalignment sharpest: 96.4 % higher, zero discounts, 3.6 % offers missing."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (≤30 d)",
+      "line_content": "92.1 % higher with a 0.34 % premium; OTA-lower rose to 3.1 %."
+    },
+    {
+      "line_title": "Far-Out (>30 d)",
+      "line_content": "Misalignment peaks: 97.6 % higher and top 0.39 % premium; discounts nearly absent."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Robust Parity",
+      "line_content": "75 % of MSE itineraries match website pricing; only 0.6 % priced higher."
+    },
+    {
+      "line_title": "Discount Exposure",
+      "line_content": "23 % of fares are 9 % cheaper on MSE, down 0.7 ppt WoW but still above last month."
+    },
+    {
+      "line_title": "Long-Haul Gains",
+      "line_content": "Long-haul parity jumped 13 ppt WoW; no higher-price incidences remain."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Price Parity",
+      "line_content": "Stable at 75.5 %; slight WoW improvement despite being 1 ppt below last month."
+    },
+    {
+      "line_title": "MSE Lower",
+      "line_content": "Discounts on 23.2 % of cases at ~9 %; share easing WoW but up YoY."
+    },
+    {
+      "line_title": "MSE Higher",
+      "line_content": "Negligible 0.6 % incidence with a 6 % premium; risk minimal."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "Parity 75.8 %; 23.1 % lower-price, 0.6 % higher—little weekly change."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "Parity up to 70.3 % (+13.6 ppt); discounts down to 25.2 %, zero premiums."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "CO Origins",
+      "line_content": "76.3 % parity; 23.1 % MSE discounts, flat WoW."
+    },
+    {
+      "line_title": "Non-CO Origins",
+      "line_content": "Parity 70.8 % (+2.2 ppt); discounts 23.5 % (–2 ppt), showing improving control."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-7 d)",
+      "line_content": "Leakage highest: 25.3 % cheaper on MSE at 9 % discount; parity 73 %."
+    },
+    {
+      "line_title": "Far-Out (8+ d)",
+      "line_content": "Best parity 79.2 %; discounts drop to 19.9 %; premiums almost nil."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Near-Total Coverage",
+      "line_content": "Only 0.7 % of itineraries missing in GDS—gap continues to shrink."
+    },
+    {
+      "line_title": "Consistent Premium",
+      "line_content": "99.2 % of GDS fares priced higher with a 0.44 % uplift, inching upward."
+    },
+    {
+      "line_title": "Premium Hot-Spots",
+      "line_content": "Largest uplifts in far-out sales (0.47 %) and non-CO origins (0.50 %)."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Higher",
+      "line_content": "Premium strategy near-universal at 99.2 %; slight upward drift."
+    },
+    {
+      "line_title": "GDS Lower",
+      "line_content": "Only 0.03 % cheaper than website; dilution negligible."
+    },
+    {
+      "line_title": "Offer Not Found",
+      "line_content": "Availability issue minimal at 0.74 %, improved vs. last month."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "99.5 % higher pricing with a 0.45 % premium; widening week-over-week."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "94.9 % higher but small 0.12 % premium; margin thinning."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "CO Origins",
+      "line_content": "99.8 % higher, 0.43 % premium; frequency up slightly WoW."
+    },
+    {
+      "line_title": "Non-CO Origins",
+      "line_content": "96.6 % higher with largest 0.50 % premium, expanding 0.2 ppt WoW."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (≤7 d)",
+      "line_content": "98.9 % higher with 0.42 % uplift; stable trend."
+    },
+    {
+      "line_title": "Far-Out (≥8 d)",
+      "line_content": "Premium peaks: 99.8 % higher, 0.47 % gap; fastest widening segment."
+    }
+  ]
+}

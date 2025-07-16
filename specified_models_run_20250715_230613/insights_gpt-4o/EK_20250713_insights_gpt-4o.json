@@ -1,0 +1,200 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Consistent Parity",
+      "line_content": "The OTA channel maintains consistent price parity or higher prices compared to Emirates' site, with a notable 58% higher pricing occurrence."
+    },
+    {
+      "line_title": "MSE Price Advantage",
+      "line_content": "MSE predominantly offers lower prices than Emirates' site with 91.55% of flights priced lower last week."
+    },
+    {
+      "line_title": "GDS Premium Pricing",
+      "line_content": "GDS dominantly presents higher pricing in 64.3% of instances, with limited instances of offering lower prices at just 0.19%."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "OTA Price Parity",
+      "line_content": "In the latest week, there is no instance where OTA prices are lower than Emirates' site, maintaining a status of price parity or higher on the OTA channel."
+    },
+    {
+      "line_title": "High OTA Pricing Frequency",
+      "line_content": "OTA pricing is higher than Emirates in approximately 58% of cases, with a slight upward trend from the previous month."
+    },
+    {
+      "line_title": "Stable Price Comparisons",
+      "line_content": "The frequency of offering same prices compared to Emirates’ site is stable at around 38%. This reflects a consistent strategy in price alignment from OTAs."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Website N/A Referencing",
+      "line_content": "When Emirates’ website pricing is not found, the frequency is low and slightly declining at 3%, showing improved data alignment with OTAs."
+    },
+    {
+      "line_title": "Equal Price Offering",
+      "line_content": "Price matches stand stable at nearly 39% of instances, indicating strong parity in the market."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Dominance in Higher Pricing",
+      "line_content": "Short haul routes show a higher discrepancy with 77% of prices exceeding Emirates’ site, although this is slightly tapering."
+    },
+    {
+      "line_title": "Long Haul Parity and Competitive Pricing",
+      "line_content": "Long haul routes are closer to parity with about 53% same pricing and only 42% higher pricing compared to Emirates."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "AE Origin Variability",
+      "line_content": "From UAE origins, OTA prices are higher in about 58% and this trend is consistent over recent months."
+    },
+    {
+      "line_title": "Consistency in Non-AE Origins",
+      "line_content": "Non-UAE points of origin align more frequently with Emirates pricing, showing competitive parity in over 41% of cases."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Short-Term Price Competition",
+      "line_content": "In close-in booking windows, OTA prices are higher than Emirates in roughly 59% cases, increasing slightly over the month."
+    },
+    {
+      "line_title": "Long-Term Consistency",
+      "line_content": "Far-out booking windows see stable pricing with OTAs showing competitive strategies, aligning closely with airline’s pricing in around 40% of cases."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Majority Lower on MSE",
+      "line_content": "The majority of flights have lower prices on MSE, with 91.55% of offers undercutting the website's prices last week."
+    },
+    {
+      "line_title": "Negligible MSE Price Excess",
+      "line_content": "Instances where MSE prices are higher are minimal, with only 0.38% occurrences last week, slightly increased from the previous week."
+    },
+    {
+      "line_title": "Stable Price Parity",
+      "line_content": "Price parity, where MSE prices matched the airline's, saw a slight decrease by 0.21% compared to the preceding week."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offer Not Found",
+      "line_content": "A negligible rate of 0.19% last week indicates almost all flight offers are listed on MSE."
+    },
+    {
+      "line_title": "Lower Prices on MSE",
+      "line_content": "MSE continues to offer lower prices consistently, with a slight decrease of 0.18% in frequency compared to the previous week."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Discounts",
+      "line_content": "Short haul flights are predominantly cheaper on MSE, with 83.26% offering lower prices than the site prices last week."
+    },
+    {
+      "line_title": "Long Haul Price Stability",
+      "line_content": "For long haul flights, 98.58% offered lower prices on MSE, with minimal variance in frequency from the previous period."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "AE Origin Stability",
+      "line_content": "Flights originating from AE maintain a high percentage of MSE lower prices at 98.72%, with minimal changes from prior data."
+    },
+    {
+      "line_title": "Non-AE Price Advantages",
+      "line_content": "Non-AE origin flights have an 85.96% frequency of lower prices on MSE, with a notable 4.63% increase from the previous month."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Window Advantage",
+      "line_content": "Travelers booking close-in see better offers with 91.01% flights cheaper on MSE, slightly decreased from previous trends."
+    },
+    {
+      "line_title": "Far-Out Stability",
+      "line_content": "Far-out booking windows maintain consistent discounts, with 92.61% priced lower on MSE."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS Dominance",
+      "line_content": "GDS shows a higher price 64.3% of the time on average, with only a slight decrease from previous reports."
+    },
+    {
+      "line_title": "Price Equivalence",
+      "line_content": "Across all dimensions, prices are identical to the airline’s website in 16.3% of cases, showing a stable trend."
+    },
+    {
+      "line_title": "Limited GDS Value",
+      "line_content": "Instances where GDS offers a lower price are negligible at 0.19%, indicating limited competitive pricing on this channel."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "No Offer Found",
+      "line_content": "Prices not available on GDS increased by 1.85% from pw to 19.2%. This signals potential missed opportunities."
+    },
+    {
+      "line_title": "Same Pricing",
+      "line_content": "Stable alignment, with minimal change, maintaining around 16% similarity with website prices."
+    },
+    {
+      "line_title": "GDS Higher Pricing",
+      "line_content": "GDS consistently higher, covering 64.3% in lw with minor recent decreases. This may impact competitiveness."
+    },
+    {
+      "line_title": "GDS Lower Pricing",
+      "line_content": "Instances of GDS offering lower prices remain extremely rare at 0.19%. This reiterates GDS’s premium pricing approach."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Premium",
+      "line_content": "GDS higher pricing on short haul consistently holds at roughly 60% with minimal change from previous."
+    },
+    {
+      "line_title": "Long Haul Higher Pricing",
+      "line_content": "GDS prices outpaced website 68.1% in lw, with a slight decrease signaling potential price corrections."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic AE Trends",
+      "line_content": "Prices missing from GDS increased to 8.4% in AE; growing trend suggests possible data gaps or restrictions."
+    },
+    {
+      "line_title": "International Non-AE Insights",
+      "line_content": "Non-AE same pricing has slightly improved, but high GDS pricing still dominates at 65.5%."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Patterns",
+      "line_content": "Price parity holds at 16.5% close-in, with GDS maintaining higher pricing at 65.5% in contrast to website."
+    },
+    {
+      "line_title": "Far-Out Booking Differences",
+      "line_content": "GDS enjoys higher pricing at 62.5% far-out, but parity gains slightly at 15.9% indicating potential positioning opportunities."
+    }
+  ]
+}

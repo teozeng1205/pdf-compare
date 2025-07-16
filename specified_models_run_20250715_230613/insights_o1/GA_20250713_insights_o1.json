@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA",
+      "line_content": "All sample routes show no official fares, presenting an untapped distribution opportunity."
+    },
+    {
+      "line_title": "MSE",
+      "line_content": "Consistently cheaper than the website (64% of the time), with minimal premium cases."
+    },
+    {
+      "line_title": "GDS",
+      "line_content": "Over half the flights are priced higher, but coverage remains nearly complete."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Market Presence Gaps",
+      "line_content": "OTA data show 100% 'offer not found' across our sample, indicating no official fares are visible on this channel."
+    },
+    {
+      "line_title": "Stable Inactivity",
+      "line_content": "No change from previous weeks or months, confirming a consistent lack of distribution on OTA."
+    },
+    {
+      "line_title": "Untapped Potential",
+      "line_content": "With no visibility on OTA, opportunities for incremental bookings remain unrealized."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offer Not Found",
+      "line_content": "All itineraries (100%) are missing on OTA, unchanged from earlier periods."
+    },
+    {
+      "line_title": "Same",
+      "line_content": "No instance where OTA matched the website fare."
+    },
+    {
+      "line_title": "Channel Lower",
+      "line_content": "No data found indicating OTA undercut the website."
+    },
+    {
+      "line_title": "Channel Higher",
+      "line_content": "No instance observed of OTA surpassing the website price."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "All 19 short-haul ODs show 'offer not found' with no change from prior intervals."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Indonesia",
+      "line_content": "All 19 origin-destinations remain absent on OTA, maintaining the same pattern week over week."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "All 655 itineraries are not listed on OTA, reflecting the same inactivity as before."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "All 388 itineraries also show no presence on OTA, consistent with previous observations."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Frequent Undercut",
+      "line_content": "MSE is cheaper 64% of the time, showing a 15% leap from last month."
+    },
+    {
+      "line_title": "Parity Level",
+      "line_content": "Price matches stand at about 31% of routes, but dipped 14% versus last month."
+    },
+    {
+      "line_title": "Minimal Premium",
+      "line_content": "MSE is higher only 5% of the time, with a negligible 0.1% price difference."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE Not Found",
+      "line_content": "Less than 1% of itineraries. Slight uptick from last week but not significant."
+    },
+    {
+      "line_title": "Same",
+      "line_content": "Held steady near 31% last week; down 14% from the previous month’s levels."
+    },
+    {
+      "line_title": "MSE Lower",
+      "line_content": "Covers two-thirds of flights; up 15% from last month with a modest 0.06% discount."
+    },
+    {
+      "line_title": "MSE Higher",
+      "line_content": "Remains around 5% share, with only a 0.08–0.10% premium over the website."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "MSE is cheaper for most flights, mirroring overall patterns of limited premium."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "ID",
+      "line_content": "MSE undercuts about 64% of fares, with any premium minimal."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "MSE lower 62% of the time, jumping over 20% from last month."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "MSE cheaper in 67% of itineraries, rising about 2% from the prior month."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS Higher Trend",
+      "line_content": "Over half of itineraries (56% last week) were above website fares, but dipped by 2.39% from the prior week."
+    },
+    {
+      "line_title": "Strong Price Parity",
+      "line_content": "Around 44% matched website fares last week, up 2.49% week over week."
+    },
+    {
+      "line_title": "Minimal GDS Gaps",
+      "line_content": "Very few offers not found (0.19% last week), demonstrating broad GDS coverage."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A",
+      "line_content": "Minimal coverage gaps at 0.19% last week, slightly decreasing from prior periods."
+    },
+    {
+      "line_title": "SAME",
+      "line_content": "Steady at 44% last week, signaling strong parity with the website."
+    },
+    {
+      "line_title": "GDS HIGHER",
+      "line_content": "Dominant share at 56% last week, though down 2.39% from the prior week."
+    },
+    {
+      "line_title": "GDS LOWER",
+      "line_content": "No instances noted, indicating no discounted fares on GDS."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "56% of short-haul fares were higher on GDS; parity at 44%, with negligible gaps."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "ID",
+      "line_content": "Similar results: 56% higher, 44% same, demonstrating consistent Indonesian market trends."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "GDS higher at 54%, slightly down from the prior week, while parity rose to 45%."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "58% higher, no discounted fares, and 42% parity, showing a stable long-term trend."
+    }
+  ]
+}

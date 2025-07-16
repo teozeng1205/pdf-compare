@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Consistency",
+      "line_content": "OTA fares exhibit excellent consistency with approximately 95% parity compared to website rates, with only minor deviations and a slight premium in select instances."
+    },
+    {
+      "line_title": "MSE Competitive Pricing",
+      "line_content": "MSE fares reflect a competitive strategy with over 52% priced lower than website rates, particularly aggressive on long haul and non-MX routes."
+    },
+    {
+      "line_title": "GDS Parity & Premium",
+      "line_content": "GDS listings achieve strong parity at around 88%, while demonstrating a stable premium of approximately 0.3%, especially on international and long haul segments."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "High Consistency",
+      "line_content": "Approximately 95% of OTA fares match the website, underscoring strong parity across metrics."
+    },
+    {
+      "line_title": "Minor Premium Discrepancy",
+      "line_content": "Fares marked as 'OTA HIGHER' show a modest premium of around 0.26% consistently across weekly and monthly periods."
+    },
+    {
+      "line_title": "Stable Trends",
+      "line_content": "Frequency metrics remain minimal in fluctuation, indicating consistent performance over time."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A Trends",
+      "line_content": "About 2.63% of offers are not found on OTA with modest increases observed (PW +2.22%, PM +1.57%), hinting at slight upward inventory changes."
+    },
+    {
+      "line_title": "Dominant SAME & Minor Deviations",
+      "line_content": "Approximately 95% of fares match the website with minor dips in PW (-1.86%) and PM (-1.16%), while OTA HIGHER maintains 1.77% frequency, and OTA LOWER remains rare at 0.29%."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Stability",
+      "line_content": "Short Haul routes closely mirror overall trends with 95% fare matching and consistent OTA HIGHER pricing."
+    },
+    {
+      "line_title": "Long Haul Variability",
+      "line_content": "Long Haul routes show increased OTA HIGHER frequency rising from 1.76% to 3.47% PW, suggesting noteworthy price variations."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "MX Routes",
+      "line_content": "Domestic MX itineraries present 95.3% parity with minor deviations, reflecting stable domestic pricing."
+    },
+    {
+      "line_title": "Non-MX Routes",
+      "line_content": "Non-MX routes display a slightly higher premium with OTA HIGHER at 2.30% and a 95.4% match rate."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In Window",
+      "line_content": "Bookings made close to travel exhibit a 93.52% parity with elevated OTA HIGHER frequency (2.22%) and a 3.84% OTA N/A rate, indicating sensitivity to last-minute pricing."
+    },
+    {
+      "line_title": "Far Out Window",
+      "line_content": "Advanced bookings maintain high consistency with a 99.22% SAME rate and minimal OTA HIGHER frequency (0.78%)."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Lower Price Dominance",
+      "line_content": "Over 52% of the MSE channel fares are priced lower than website rates, demonstrating an assertive competitive stance."
+    },
+    {
+      "line_title": "Negligible Price Increases",
+      "line_content": "Instances of fares exceeding website prices are virtually non-existent (<0.04%), reinforcing a consistent discount approach."
+    },
+    {
+      "line_title": "Marginal Differential",
+      "line_content": "Average price differences are minimal with lower offers averaging around -0.14% relative to website rates."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A Minimal",
+      "line_content": "Frequencies for inactive comparisons remain near zero, ensuring nearly complete data validity."
+    },
+    {
+      "line_title": "Equal Split in SAME vs Lower",
+      "line_content": "About 47.1% of itineraries exactly match while 52.8% register lower fares, with minor week-over-week and month-over-month declines."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Balance",
+      "line_content": "Short haul itineraries exhibit a near split with approximately 50.15% same and 49.80% lower fares, indicating balanced competitive pricing."
+    },
+    {
+      "line_title": "Long Haul Advantage",
+      "line_content": "Long haul routes significantly favor lower pricing (92.98%) over parity (7.02%), exhibiting a robust discount strategy."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "MX Origins Moderate",
+      "line_content": "MX departures display moderate competitiveness with 52.56% matching and 47.40% lower fares."
+    },
+    {
+      "line_title": "Non-MX Aggressive",
+      "line_content": "Non-MX itineraries are predominantly lower-priced (98.08%), indicating an aggressively competitive pricing method."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Sensitivity",
+      "line_content": "Close-in bookings see heightened price sensitivity with 63.30% lower fares, a sign of aggressive last-minute competitive tactics."
+    },
+    {
+      "line_title": "Far-Out Conservatism",
+      "line_content": "Far-out bookings maintain conservatism with nearly 70% matching fares, suggesting less aggressive discounting for advanced purchases."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Dominant Parity",
+      "line_content": "GDS data reflects strong pricing consistency with an 88% SAME status, ensuring robust price alignment."
+    },
+    {
+      "line_title": "Consistent Premiums",
+      "line_content": "A stable GDS HIGHER frequency of 9-10% is observed with an average premium of 0.3%, highlighting a modest upward price difference."
+    },
+    {
+      "line_title": "Low Variability",
+      "line_content": "GDS N/A and LOWER statuses remain minimal (<2%), indicating infrequent deviations from standard pricing."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A Minimal",
+      "line_content": "The GDS channel has extremely low N/A frequencies (0.16% LW) with negligible impact on overall comparisons."
+    },
+    {
+      "line_title": "Balanced SAME & HIGHER",
+      "line_content": "While 88% of fares show parity, approximately 10% register a slight premium, with GDS LOWER occurrences being rare (1.5%)."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "Short haul routes maintain strong parity (around 89%) with minor premium adjustments (approximately 9% GDS HIGHER)."
+    },
+    {
+      "line_title": "Long Haul Variation",
+      "line_content": "Long haul segments show reduced parity at about 76% and a higher occurrence of premium pricing (nearly 19% GDS HIGHER)."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "MX Stability",
+      "line_content": "For MX departures, the SAME status dominates at roughly 90%, with a low premium incidence (around 9% for GDS HIGHER)."
+    },
+    {
+      "line_title": "Non-MX Premium",
+      "line_content": "Non-MX routes display a lower parity rate (approximately 78%) and a notable increase in premium pricing (20% GDS HIGHER)."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In Trends",
+      "line_content": "Close in bookings average 87.5% same fares while showing a slight premium with 10.4% GDS HIGHER."
+    },
+    {
+      "line_title": "Far Out Strength",
+      "line_content": "Far out bookings improve parity to roughly 90% with reduced premium activity, reflecting more competitive advanced pricing."
+    }
+  ]
+}

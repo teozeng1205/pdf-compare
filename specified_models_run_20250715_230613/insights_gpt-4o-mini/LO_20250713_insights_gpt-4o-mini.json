@@ -1,0 +1,184 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Pricing Higher Overall",
+      "line_content": "98% of itineraries sold through OTAs showed higher prices compared to the airline's website."
+    },
+    {
+      "line_title": "MSE Price Dominance",
+      "line_content": "The MSE channel presented lower prices in 96% of cases, indicating a strong competitive edge."
+    },
+    {
+      "line_title": "GDS Severe Pricing Challenges",
+      "line_content": "GDS prices were higher in 98.9% of cases, highlighting significant competitive issues."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Channel Pricing Higher Overall",
+      "line_content": "The OTA channel prices are generally higher than the airline's website offerings, with 98% of itineraries showing higher prices in the latest week."
+    },
+    {
+      "line_title": "Inconsistent Availability",
+      "line_content": "For short haul and non-PL itineraries, there were no lower fares available on the OTA channel, indicating a lack of competitive pricing."
+    },
+    {
+      "line_title": "Price Stability",
+      "line_content": "Despite higher average pricing, the percentage differences have remained stable over the last month, with only minor fluctuations."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Price Discrepancies",
+      "line_content": "The OTA channel recorded a price higher than the airline's website in 98% of cases during the latest week, reflecting a consistent trend from previous periods."
+    },
+    {
+      "line_title": "Stable Price Differences",
+      "line_content": "Price differences compared to the previous week showed minimal change, with an average increase of only 0.50%."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Regional Consistency in Pricing",
+      "line_content": "Across all regions, the OTA channel consistently shows higher prices compared to the airline's website, particularly in short haul flights."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic vs Non-Domestic Pricing",
+      "line_content": "For Polish point-of-origin itineraries, higher prices were noted 98.71% of the time, while Non-PL itineraries have a similar trend in OTA pricing."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Higher",
+      "line_content": "OTA prices are particularly high for close-in bookings, with 97.44% presenting higher fares compared to the airline's website."
+    },
+    {
+      "line_title": "Far Out Bookings Consistent",
+      "line_content": "For far-out bookings, all offered fares on the OTA channel are higher, making it less attractive for early bookings."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Dominance of Lower Prices",
+      "line_content": "In the MSE channel, 96% of the pricing scenarios offered lower prices compared to the airline's website across all records."
+    },
+    {
+      "line_title": "Increasing Price Parity",
+      "line_content": "There was a minor increase in the percentage of instances where prices are the same in comparison to the previous month, indicating a trend towards price parity."
+    },
+    {
+      "line_title": "Short Haul Highlights",
+      "line_content": "For short haul flights, the dominance of lower pricing stands at 95.8% across the MSE channel, reflecting consistent competitive pricing."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Prevalence of Lower Prices",
+      "line_content": "Overall, 96% of pricing records in the MSE channel were found to be lower than the airline's website in the last week."
+    },
+    {
+      "line_title": "MSE Higher Instances",
+      "line_content": "Instances where the MSE channel prices were higher than the website constituted only 0.67%, demonstrating effective MSE pricing strategy."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "PL Dominance",
+      "line_content": "Within Poland (PL), 96.4% of the cases exhibited lower prices in the MSE channel, underscoring strong regional competitiveness."
+    },
+    {
+      "line_title": "Non-PL Insights",
+      "line_content": "For non-Polish routes, 91.2% of cases were lower in the MSE channel, showing competitive pricing but less dominance compared to PL."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Strong Polish Performance",
+      "line_content": "Polish origins yielded a 96.4% lower pricing prevalence, highlighting effective pricing strategies for local travelers."
+    },
+    {
+      "line_title": "Non-Polish Context",
+      "line_content": "Non-Polish origins had 91.2% of records listed at lower prices, suggesting room for enhanced pricing efficiency."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Successful Strategies for Close In",
+      "line_content": "Close-in bookings showed a lower price rate of 95.2%, indicating effective pricing models catering to last-minute travelers."
+    },
+    {
+      "line_title": "Far Out Pricing Patterns",
+      "line_content": "For far-out bookings, 97.8% were lower priced in the MSE channel, illustrating aggressive long-term pricing strategies."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS Pricing Stability",
+      "line_content": "The GDS channel consistently shows higher prices for short haul routes, with a significant frequency of higher pricing status recorded."
+    },
+    {
+      "line_title": "Booking Window Surge",
+      "line_content": "The 'Close In' booking window reveals a frequency of 98.4% of fares being higher in the GDS channel compared to the airline's website."
+    },
+    {
+      "line_title": "Frequent Non-PL Higher",
+      "line_content": "Non-Polish routes showcase a concerning trend where 94.6% of fares are consistently higher on the GDS channel, indicating a potential impact on competitive positioning."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Higher Dominance",
+      "line_content": "Across the overall dimension, 98.9% of analyzed fares are higher on the GDS channel compared to the airline's website in the latest week."
+    },
+    {
+      "line_title": "Low Price Competition",
+      "line_content": "Only 0% of fares were found cheaper in GDS, implying missed opportunities for competitive pricing in this channel."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul High Prices",
+      "line_content": "In the short haul category, 98.8% of fares are priced higher in the GDS channel, reinforcing pricing challenges in this segment."
+    },
+    {
+      "line_title": "Long Haul Inactivity",
+      "line_content": "Long haul routes show no variation in GDS pricing due to lack of data, needing more examination."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Non-Polish Markets",
+      "line_content": "For non-Polish routes, 94.6% of prices in the GDS channel are higher, highlighting a significant pricing disparity."
+    },
+    {
+      "line_title": "Polish Markets Stability",
+      "line_content": "Polish routes maintained a slim 0.5% difference making them less vulnerable to GDS pricing issues."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In Strategy Issues",
+      "line_content": "In the Close In window, 98.4% of GDS fares are higher, indicating a crucial area for potential price adjustment strategies."
+    },
+    {
+      "line_title": "Far Out Market Insights",
+      "line_content": "The Far Out window reveals a complete lack of lower fares in GDS, suggesting potential competitive vulnerabilities."
+    }
+  ]
+}

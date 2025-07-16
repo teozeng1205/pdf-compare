@@ -1,0 +1,196 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Consistency & Premiums",
+      "line_content": "OTA channels exhibit high pricing consistency (84% matching) while showing emerging premium trends, with a slight uptick in OTA higher offers from 2.33% to 5.98%."
+    },
+    {
+      "line_title": "MSE Discount Dominance",
+      "line_content": "MSE consistently offers discount fares, with 89-91% of itineraries priced lower than the website and virtually no premium instances, reflecting a stable competitive discount strategy."
+    },
+    {
+      "line_title": "GDS Premium Markup",
+      "line_content": "GDS fares predominantly carry a price premium, with over 92% higher pricing compared to the airline website and a notable increase in far-out booking premiums."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Consistency",
+      "line_content": "Approximately 84% of OTA offers match the airline website, indicating strong price alignment."
+    },
+    {
+      "line_title": "Emerging Premiums",
+      "line_content": "OTA premiums have increased from 2.33% to 5.98%, signaling evolving pricing dynamics."
+    },
+    {
+      "line_title": "Minimal Overall Diff",
+      "line_content": "The minimal average price difference of 0.05% reinforces the close alignment between OTA and the airline website."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A",
+      "line_content": "Around 9% of records lack an OTA offer, demonstrating stable non-availability across time periods."
+    },
+    {
+      "line_title": "Price Matching",
+      "line_content": "Between 83-89% of comparisons show identical pricing, underscoring overall consistency."
+    },
+    {
+      "line_title": "OTA Higher & Lower",
+      "line_content": "While OTA higher occurrences show a modest increase in price differences (0.15% to 0.30%), OTA lower offers remain steady at 4-5%."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Stability",
+      "line_content": "Short haul routes maintain an 83% matching rate with minimal OTA pricing deviations."
+    },
+    {
+      "line_title": "Long Haul Observations",
+      "line_content": "Long haul routes, though limited in sample, show 100% matching in the latest week with minor OTA higher incidences in other periods."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Swiss Domestic Strength",
+      "line_content": "CH-origin itineraries exhibit nearly 89% matching with negligible lower pricing, indicating robust local parity."
+    },
+    {
+      "line_title": "Non-CH Variability",
+      "line_content": "Non-CH origins have a lower matching rate (~79%) and higher instances of OTA lower pricing (~9%), suggesting regional pricing differences."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Dynamics",
+      "line_content": "For close-in bookings, roughly 81% mirror the airline website, with stable premium and discount frequencies."
+    },
+    {
+      "line_title": "Far Out Premiums",
+      "line_content": "Far-out bookings maintain a higher match rate (nearly 89%) but show a significant increase in price differences when OTA premiums occur."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Lower Pricing Dominance",
+      "line_content": "Approximately 89-91% of MSE offers are lower than the website, reflecting a consistent focus on discounts."
+    },
+    {
+      "line_title": "Negligible Premiums",
+      "line_content": "Instances of MSE prices exceeding the website are virtually non-existent, affirming the channel’s discount strategy."
+    },
+    {
+      "line_title": "Stability Over Time",
+      "line_content": "Week-over-week changes are marginal, indicating predictable channel performance."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A",
+      "line_content": "Offers marked as 'MSE N/A' average around 7.4%, with low fluctuation across periods."
+    },
+    {
+      "line_title": "SAME & Lower",
+      "line_content": "About 3-4% of offers match the website, while dominant lower pricing accounts for 89-91%, with almost no premium cases."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Trends",
+      "line_content": "Short Haul routes have 89.4% lower pricing, demonstrating consistent discount behavior."
+    },
+    {
+      "line_title": "Long Haul Trends",
+      "line_content": "Long Haul itineraries show an even higher discount rate (93.8%), despite a smaller sample size."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "CH Routes",
+      "line_content": "Swiss CH itineraries display 90.3% lower pricing with slightly reduced matching, emphasizing the discount approach."
+    },
+    {
+      "line_title": "Non-CH Routes",
+      "line_content": "Non-CH itineraries show 88.7% lower pricing with marginally higher matching rates, reflecting consistent behavior."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-In bookings on MSE result in 88.6% lower pricing and stable offer distributions."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-Out bookings demonstrate an even higher lower-pricing rate of 91.3% and reduced same-price incidences."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Price Premium Dominance",
+      "line_content": "Over 92% of GDS itineraries are priced higher than the website, with an average last-week difference of about 0.36%."
+    },
+    {
+      "line_title": "Stable Trends",
+      "line_content": "GDS pricing trends remain consistent over time, with minimal fluctuations observed in weekly and monthly comparisons."
+    },
+    {
+      "line_title": "Booking Window Impact",
+      "line_content": "Far-out bookings exhibit a higher premium (around 0.49%) compared to close-in bookings (approximately 0.30%), indicating advanced booking price sensitivity."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A",
+      "line_content": "Approximately 7.4% of cases fall under 'GDS N/A', consistent across all dimensions."
+    },
+    {
+      "line_title": "Dominant GDS HIGHER",
+      "line_content": "With over 92% of records displaying higher fares and negligible 'SAME' and 'GDS LOWER' instances, the premium pricing is clear."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "Short haul routes mirror the overall trend with around 92.3% higher fares and an average price difference close to 0.37%."
+    },
+    {
+      "line_title": "Long Haul Anomaly",
+      "line_content": "Despite a small sample, long haul itineraries show uniformly higher fares but with a markedly lower price difference (0.04-0.05%)."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "CH Market",
+      "line_content": "For CH-origin records, 92.7% of fares are higher with an average difference of 0.34%, aligning well with overall trends."
+    },
+    {
+      "line_title": "Non-CH Premium",
+      "line_content": "Non-CH markets show a similar frequency (about 92.4%) but with a slightly larger average premium of around 0.39%."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in itineraries maintain a premium on 92.5% of cases, with an average difference of about 0.30%."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings lead to a more pronounced premium, with about 92.8% of cases and an average price difference of approximately 0.49%."
+    }
+  ]
+}

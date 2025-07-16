@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Premium",
+      "line_content": "OTA pricing consistently exceeds website fares with over 97% frequency, underscoring a dominant upward pricing trend."
+    },
+    {
+      "line_title": "MSE Discount",
+      "line_content": "MSE exhibits a strong discount strategy with approximately 96% lower offers, ensuring competitive fare positioning."
+    },
+    {
+      "line_title": "GDS Upcharge",
+      "line_content": "GDS channels are characterized by nearly 99% higher pricing relative to website values, particularly evident in short-haul and domestic segments."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "OTA HIGHER Dominance",
+      "line_content": "OTA HIGHER prevails with frequencies above 97%, consistently reflecting higher pricing compared to the website."
+    },
+    {
+      "line_title": "Modest Price Differential",
+      "line_content": "A 0.11% average last-week price difference indicates a modest upward price discrepancy on the OTA channel."
+    },
+    {
+      "line_title": "Negligible OTA LOWER",
+      "line_content": "OTA LOWER incidences are virtually non-existent, confirming a stable premium pricing strategy on OTA."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A",
+      "line_content": "OTA N/A occurrences register at 1.8%, indicating very few missing offers compared to website listings."
+    },
+    {
+      "line_title": "SAME",
+      "line_content": "Instances where OTA prices exactly match website fares are nearly zero, reinforcing a pricing premium."
+    },
+    {
+      "line_title": "OTA HIGHER",
+      "line_content": "OTA HIGHER dominates at 98.2% frequency with an approximate 0.5% average price difference, affirming higher fare consistency."
+    },
+    {
+      "line_title": "OTA LOWER",
+      "line_content": "OTA LOWER is consistently non-existent across datasets, solidifying the channel's premium pricing approach."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "Short Haul routes show around 98.0% OTA HIGHER frequency with an average price uplift of 0.55%, matching overall trends."
+    },
+    {
+      "line_title": "Long Haul Uniformity",
+      "line_content": "Long Haul routes exhibit a 100% OTA HIGHER occurrence with minimal price differences, confirming a uniform bonus pricing approach."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "PL Origin Strength",
+      "line_content": "Within PL origins, OTA HIGHER accounts for approximately 98.7% of records with a 0.56% margin, indicating consistent premium pricing."
+    },
+    {
+      "line_title": "Non-PL Variation",
+      "line_content": "Non-PL origins show a slightly lower OTA HIGHER frequency at 94.6% and a reduced price difference of 0.07%, suggesting competitive nuances."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "For close-in bookings, OTA HIGHER registers 97.4% with a 0.44% price differential, highlighting modest last-minute pricing discrepancies."
+    },
+    {
+      "line_title": "Far-Out Premium",
+      "line_content": "Far-out bookings exhibit a 100% OTA HIGHER rate and a higher 0.65% price difference, indicative of more pronounced advanced booking premiums."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Dominant Lower Pricing",
+      "line_content": "Approximately 96% of offers on the MSE channel are priced lower than the website, establishing a clear discount trend."
+    },
+    {
+      "line_title": "Stable Differentials",
+      "line_content": "The average last-week price difference of around -0.08% demonstrates consistency and predictability in MSE pricing."
+    },
+    {
+      "line_title": "Segment Nuances",
+      "line_content": "While short haul and close-in windows maintain uniform lower pricing, long haul segments show isolated cases of premium pricing."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A",
+      "line_content": "Negligible N/A occurrences (near 0.007) indicate minimal data gaps between MSE and website prices."
+    },
+    {
+      "line_title": "Same Pricing",
+      "line_content": "Only 2.7% of offers exhibit the same pricing, suggesting rare parity with website fares."
+    },
+    {
+      "line_title": "MSE Higher",
+      "line_content": "A small segment (around 0.67 frequency) is priced higher on MSE with a noticeable 0.73% differential, representing isolated cases."
+    },
+    {
+      "line_title": "MSE Lower",
+      "line_content": "Nearly 96% of offers are lower priced on MSE, affirming a strong competitive discounting strategy."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "Short haul routes show about 95.8% lower-priced offers, reinforcing the overall discount approach on MSE."
+    },
+    {
+      "line_title": "Long Haul Variability",
+      "line_content": "Long haul itineraries, though based on limited data, exhibit a higher frequency of premium cases with a 0.72% average differential."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "PL Market Stability",
+      "line_content": "Within PL origins, over 96% of offers are lower priced, indicating a very stable pricing environment."
+    },
+    {
+      "line_title": "Non-PL Sensitivity",
+      "line_content": "Non-PL origins show a slightly higher incidence of premium pricing, suggesting sensitivity in select markets."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Window",
+      "line_content": "Close-in bookings (312 itineraries) have 95.2% lower-priced offers, with a small outlier of MSE HIGHER at 0.75% differential."
+    },
+    {
+      "line_title": "Far-Out Stability",
+      "line_content": "Far-out booking windows (133 itineraries) maintain a 97.8% lower pricing consistency, reinforcing the channel's aggressive discounting."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Dominant Higher Pricing",
+      "line_content": "Nearly 99% of itineraries on the GDS channel are priced higher than on the website, confirming a robust upward pricing bias."
+    },
+    {
+      "line_title": "Consistent Differential",
+      "line_content": "Average last-week price differences in GDS HIGHER range from approximately 0.59% to 0.65%, with a slight downward trend recently."
+    },
+    {
+      "line_title": "Segment Variability",
+      "line_content": "Short-haul and domestic routes show higher differentials (around 0.65%) compared to long-haul and non-PL segments which exhibit minimal discrepancies."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A",
+      "line_content": "GDS N/A instances are minimal at approximately 1.12%, indicating that nearly all records have comparable pricing data."
+    },
+    {
+      "line_title": "SAME",
+      "line_content": "The absence of SAME status reinforces that matching website prices are effectively nonexistent in the GDS channel."
+    },
+    {
+      "line_title": "GDS HIGHER",
+      "line_content": "Dominating at nearly 99% frequency with an average premium of about 0.59%, GDS HIGHER confirms the channel's upward price adjustment."
+    },
+    {
+      "line_title": "GDS LOWER",
+      "line_content": "The GDS LOWER status is negligible, with almost 0% frequency, underscoring the rarity of lower pricing on this channel."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Short-haul routes show a high 98.76% frequency for GDS HIGHER pricing with a 0.65% average differential, indicating a consistent premium."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "Long-haul routes have a 100% GDS HIGHER rate with a minimal 0.04% average difference, suggesting near parity despite the premium listing."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Polish Origin (PL)",
+      "line_content": "For PL-origin flights, nearly 99.49% reflect GDS HIGHER pricing with an average differential of 0.65%, reinforcing domestic premium patterns."
+    },
+    {
+      "line_title": "Non-Polish Origin",
+      "line_content": "Non-PL itineraries display a slightly lower 94.64% frequency and a modest 0.10% difference, indicating a subtler pricing adjustment."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in booking windows show a 98.40% GDS HIGHER rate with a 0.51% average differential, reflecting moderate last-minute premium pricing."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out bookings register a full 100% GDS HIGHER frequency and the highest differential of 0.76%, indicating a stronger premium on advanced reservations."
+    }
+  ]
+}

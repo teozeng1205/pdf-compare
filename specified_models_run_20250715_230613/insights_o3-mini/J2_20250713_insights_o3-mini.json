@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Consistency",
+      "line_content": "OTA shows a strong alignment with the website pricing at approximately 92% consistency, with only a modest premium of around +0.22% in 5-6% of cases."
+    },
+    {
+      "line_title": "MSE Undercut",
+      "line_content": "MSE predominantly undercuts the website, with around 73.5% of itineraries priced lower, especially aggressive for AZ origin routes, while missing pricing data occurs in about 21.6% of cases."
+    },
+    {
+      "line_title": "GDS Alignment",
+      "line_content": "GDS maintains balance with roughly 50% of records matching the website pricing, displaying only marginal premiums of about 0.07% and rare underpricing."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Consistency",
+      "line_content": "Approximately 92% of OTA records match the airline website, confirming strong overall pricing alignment."
+    },
+    {
+      "line_title": "Modest Premium",
+      "line_content": "Instances of a pricing premium occur in 5-6% of records with an average markup of +0.22%."
+    },
+    {
+      "line_title": "Negligible Discounts",
+      "line_content": "About 1% of cases show slightly lower prices (around -0.15%), indicating stable pricing competitiveness."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Gaps",
+      "line_content": "Missing website offers on OTA are minimal at approximately 1%, indicating high offer consistency."
+    },
+    {
+      "line_title": "Price Parity",
+      "line_content": "Identical pricing dominates at around 92%, with slight deviations represented by higher or lower pricing in the remaining ~8%."
+    },
+    {
+      "line_title": "Minor Deviations",
+      "line_content": "The OTA Higher and Lower instances are confined to small percentages (5-6% and 1%, respectively), with average differences of +0.22% and -0.15%."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Within the Short Haul segment, the pricing aligns at 92% with only a slight OTA premium of 5.9% and under 1% reductions, mirroring overall trends."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "AZ Origin",
+      "line_content": "For points originating in AZ, over 91% of records match the website, with a modest premium averaging +0.26% in about 5% of cases."
+    },
+    {
+      "line_title": "Non-AZ Origin",
+      "line_content": "Non-AZ origins show 91.7% price parity, with a slightly higher premium occurrence (6.25%), maintaining overall minimal pricing deviation."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "Close In bookings exhibit 89.3% price parity, with an 8% premium occurrence and very few discount cases."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Far Out bookings demonstrate complete pricing consistency at 100%, supporting reliable advanced purchase pricing."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Undercut Dominance",
+      "line_content": "Approximately 73.5% of MSE itineraries are priced lower than the website, highlighting a clear undercut strategy."
+    },
+    {
+      "line_title": "Stable Trends",
+      "line_content": "Week-to-week comparisons show minimal variations, affirming steady pricing performance on this channel."
+    },
+    {
+      "line_title": "Segmented Strategy",
+      "line_content": "Distinct pricing behaviors are evident by origin and booking window, with AZ origins and far-out bookings exhibiting aggressive undercut practices."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Missing Data",
+      "line_content": "Approximately 21.6% of itineraries lack comparable pricing data, indicating potential data or display gaps."
+    },
+    {
+      "line_title": "Price Parity Rarity",
+      "line_content": "Only 4.9% of records reflect identical pricing, while no instances of pricing above the website are observed."
+    },
+    {
+      "line_title": "Undercut Prevalence",
+      "line_content": "A dominant 73.5% of records are priced lower on MSE, reinforcing its competitive pricing strategy."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Focus",
+      "line_content": "Short Haul data mirrors overall findings with 21.6% missing pricing, 4.9% parity, and 73.5% lower pricing, signifying consistent strategy."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "AZ Dominance",
+      "line_content": "For the AZ origin, an exceptional 92.6% undercut frequency with no missing prices emphasizes an aggressive pricing approach."
+    },
+    {
+      "line_title": "Non-AZ Variability",
+      "line_content": "Non-AZ routes register a higher 45.8% missing data rate and a less aggressive 52.1% undercut frequency."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In Stability",
+      "line_content": "Close In bookings maintain a steady undercut frequency of 73.3% with minimal short-term variations."
+    },
+    {
+      "line_title": "Far Out Volatility",
+      "line_content": "Far Out bookings show a 74.1% undercut frequency with more pronounced week-to-week and month-to-month changes (up to 14.50% and 11.85%), indicating heightened responsiveness."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "SAME Dominance",
+      "line_content": "Approximately 50% of GDS records have the same pricing as the website, demonstrating strong overall consistency."
+    },
+    {
+      "line_title": "Marginal Premiums",
+      "line_content": "A slight premium of about 0.07% has been observed, with modest increases on a monthly basis."
+    },
+    {
+      "line_title": "Rare Discounts",
+      "line_content": "Occasionally, GDS records show a -0.15% discount, confirming that underpricing is minimal on this channel."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Data Limitations",
+      "line_content": "The 'GDS N/A' category is not available, restricting full comparative analysis in this area."
+    },
+    {
+      "line_title": "Balanced Parity",
+      "line_content": "The 'SAME' status is balanced with no price difference, albeit with a slight decline in weekly frequency."
+    },
+    {
+      "line_title": "Minor Premium/Deduction",
+      "line_content": "GDS exhibits a modest 0.07% premium and infrequent -0.15% discount occurrences, with changes more notable on a monthly basis."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "Short Haul itineraries reflect the overall trend with about 50% SAME status and only marginal deviations in premium and discount occurrences."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "AZ Routes",
+      "line_content": "For AZ-origin routes, the SAME status dominates with a frequency of 0.93, while a slight premium of 0.25% is noted recently."
+    },
+    {
+      "line_title": "Non-AZ Routes",
+      "line_content": "Non-AZ routes maintain a stable pricing profile with a 1.00 frequency in the premium category and a modest 0.05% price difference."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close In bookings show nearly equal distribution with 49.33% SAME status and a 0.07% premium under GDS HIGHER."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far Out bookings exhibit slightly higher stability with 51.85% matching pricing and a lower 0.04% premium."
+    }
+  ]
+}

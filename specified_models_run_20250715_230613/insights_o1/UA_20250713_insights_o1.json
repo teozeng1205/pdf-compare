@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Gist",
+      "line_content": "Over half of itineraries are missing on OTA, while 46% match the airline’s site and under 2% show a price difference."
+    },
+    {
+      "line_title": "MSE Overview",
+      "line_content": "Approximately half of fares are missing on MSE, with nearly half matching the airline’s site and minimal undercutting."
+    },
+    {
+      "line_title": "GDS Status",
+      "line_content": "Over half of itineraries are not on GDS, about one-third are higher than the airline’s site, and under 0.1% are cheaper."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Over Half Unavailable",
+      "line_content": "More than 51% of itineraries had no OTA listing, a modest uptick from last month. This could reduce overall channel visibility."
+    },
+    {
+      "line_title": "Stable Parity",
+      "line_content": "Approximately 46% of fares on the OTA matched the website, with negligible week-to-week or month-to-month changes."
+    },
+    {
+      "line_title": "Few Price Deviations",
+      "line_content": "Fewer than 2% of itineraries showed a price difference; OTA was higher in around 1.7% of cases, and lower in under 0.1%."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A",
+      "line_content": "No OTA listing in about half the sample. This rose by 0.21% week over week and 0.24% month over month."
+    },
+    {
+      "line_title": "SAME",
+      "line_content": "Matched fares for 46% of itineraries, essentially unchanged from previous periods."
+    },
+    {
+      "line_title": "OTA HIGHER",
+      "line_content": "Around 1.7% of the sample, up by 0.04% from last week but remains a small segment."
+    },
+    {
+      "line_title": "OTA LOWER",
+      "line_content": "Below 0.1% of itineraries, showing no significant shift from prior intervals."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "OTA listing unavailable in ~50%, while OTA Higher runs at about 1.65%. Same fares remain near 48%."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "Missing fares reach nearly 59%. OTA price is higher in ~2.3% of cases, compared to 38.6% parity."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "US",
+      "line_content": "No OTA fare in 51.2%. OTA Higher at 0.95%, and OTA Lower remains minimal at 0.03%."
+    },
+    {
+      "line_title": "Non-US",
+      "line_content": "Higher unavailability at 54%. OTA prices top the website 7.1% of the time, vs. 0.48% lower."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "Unavailability at 51.5%, with 46.6% matched fares. OTA Higher appears ~1.9% of the time."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Similar unavailability at 51.8%. Prices match in 46.6%. OTA Higher occurs in ~1.5% of cases."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "About Half Unavailable",
+      "line_content": "Around 51% of itineraries show no matching website offer on MSE, suggesting limited channel coverage."
+    },
+    {
+      "line_title": "Prices Mostly Aligned",
+      "line_content": "Nearly 48% of listings match the airline site one-to-one, with minimal week-over-week variance."
+    },
+    {
+      "line_title": "Undercuts Rare",
+      "line_content": "MSE-only lower fares occur in negligible volumes, indicating little undercutting risk."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A",
+      "line_content": "Hovers consistently near 51% of itineraries, showing slight declines versus prior periods."
+    },
+    {
+      "line_title": "Same Fare",
+      "line_content": "Remains stable at roughly 48% frequency, reflecting price parity across most routes."
+    },
+    {
+      "line_title": "MSE Higher",
+      "line_content": "Represents just about 1% of all cases, climbing marginally for a few long-haul itineraries."
+    },
+    {
+      "line_title": "MSE Lower",
+      "line_content": "Accounts for well below 1% of observed fares, with no material change over time."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Around 50% of fares are missing on MSE; another 1.46% are priced higher. Price alignment dominates at 48%."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "MSE coverage gap rises to 57.7%, while higher fares appear in just 0.47% of itineraries."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "US Routes",
+      "line_content": "MSE N/A stays near 50.8% for domestic markets, with only 0.41% reported as higher than website prices."
+    },
+    {
+      "line_title": "Non-US Routes",
+      "line_content": "Coverage gap is slightly higher at 53.1%, but MSE outpricing spikes to 7.47% of observed itineraries."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "MSE N/A is about 50.6%, same fares at 48%, and higher fares remain near 1.28% frequency."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "N/A fares edge up to 51.9%. Matching fares hover at 46.6%, with marginally higher fares at 1.42%."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Many Itineraries Missing",
+      "line_content": "Over half of website fares are unavailable on GDS, showing little month-over-month change."
+    },
+    {
+      "line_title": "Minimal Lower Fares",
+      "line_content": "Less than 0.1% of itineraries are cheaper on GDS, with no meaningful shifts from prior periods."
+    },
+    {
+      "line_title": "Frequent Higher Fares",
+      "line_content": "Roughly one-third of listed fares are higher on GDS, holding steady across recent weeks."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Not Found",
+      "line_content": "Half of priced itineraries fail to appear on GDS, with nearly unchanged trends over the last month."
+    },
+    {
+      "line_title": "Same Pricing",
+      "line_content": "Around 14% of fares match the airline’s site, stable from week to week."
+    },
+    {
+      "line_title": "Lower on GDS",
+      "line_content": "Only 0.1% of observed fares are lower on GDS, no notable variation compared to prior periods."
+    },
+    {
+      "line_title": "Higher on GDS",
+      "line_content": "Approximately 34% of fares are higher on GDS, reflecting a minor but persistent increase this month."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Patterns",
+      "line_content": "About half of website fares are missing, while 36% are costlier on GDS. These ratios remain relatively consistent."
+    },
+    {
+      "line_title": "Long-Haul Patterns",
+      "line_content": "Nearly 58% of fares are unavailable on GDS, with 24% priced higher. Changes since last month are minimal."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "US Departures",
+      "line_content": "Around 50% of flights are not found on GDS. Over one-third that do appear are higher than direct site fares."
+    },
+    {
+      "line_title": "Outside US",
+      "line_content": "Slightly more missing fares at 53%, yet only 15% of fares are higher on GDS, and 32% match the airline’s site."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Around 51% of site fares are missing, with 31% costing more on GDS. Overall patterns remain steady."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Over half of fares are missing, while 41% of listed fares are higher on GDS. Month-over-month change is modest."
+    }
+  ]
+}

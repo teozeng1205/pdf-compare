@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Price Consistency",
+      "line_content": "The OTA channel maintains strong price parity with the airline's site, with 90% of itineraries matching in price."
+    },
+    {
+      "line_title": "MSE Competitive Edge",
+      "line_content": "MSE channels frequently offer lower fares than the airline's site, leading with 95.75% of itineraries priced lower."
+    },
+    {
+      "line_title": "GDS Price Increase",
+      "line_content": "GDS channel predominantly shows higher prices compared to the airline's site, especially for short haul flights."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "OTA Stability",
+      "line_content": "The OTA channel's pricing was largely consistent with the airline's site, with 93% of fares showing no price difference last week."
+    },
+    {
+      "line_title": "Trends in OTA Higher Pricing",
+      "line_content": "OTAs frequently offered higher prices, especially in the 'Far Out' booking window, with 3.51% fewer such cases than last month."
+    },
+    {
+      "line_title": "Minor Instances of Cheaper OTA Fares",
+      "line_content": "Instances where OTAs offered lower prices decreased by 0.18% over the past month across all dimensions."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Price Parity Predominance",
+      "line_content": "90% of itineraries remained the same price on OTA as the airline's website last week, indicating strong parity."
+    },
+    {
+      "line_title": "Occasions of Higher OTA Pricing",
+      "line_content": "5% of itineraries were more expensive on OTA when compared to the airline's site, indicating potential additional charges."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Price Parity",
+      "line_content": "94% of short-haul itineraries matched the airline's website pricing last week, indicating stable pricing for regional flights."
+    },
+    {
+      "line_title": "Long Haul Price Variability",
+      "line_content": "Price parity for long-haul itineraries showed variance, with 12% of cases being higher priced on OTAs slightly decreasing by 0.36% over the month."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "AT Routes Maintain Parity",
+      "line_content": "94% of itineraries for flights originating in Austria were priced the same on OTA last week, reflecting strong price alignment."
+    },
+    {
+      "line_title": "Non-AT Region Stability",
+      "line_content": "93% of itineraries originating outside Austria showed consistent pricing with the airline's website last week."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Window Alignment",
+      "line_content": "Pricing for close-in bookings remained consistent with the airline's site in 93% of cases, with a slight 1.69% improvement week-over-week."
+    },
+    {
+      "line_title": "Far Out Window Higher OTA Pricing",
+      "line_content": "During the far-out booking window, 9% of prices were higher on OTA, though this decreased by 0.15% from last month."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Consistent Lower Prices",
+      "line_content": "Austrian Airlines offers consistently lower prices on the MSE channel with a last-week frequency of 95.75% where MSE prices were lower than on the airline's website."
+    },
+    {
+      "line_title": "Stable Price Matches",
+      "line_content": "The frequency of same prices between the MSE channel and Austrian Airline's website remains low, averaging 1.56% last week and showing a decrease from previous periods."
+    },
+    {
+      "line_title": "Insignificant Higher Pricing Events",
+      "line_content": "Occurrences where MSE prices were higher than the airline's website are virtually non-existent, noted only occasionally across data sets with negligible frequencies."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE Lower Dominance",
+      "line_content": "A notable 2.05% increase was observed from the previous week in flights priced lower on MSE than the airline's site, maintaining overall lower price leadership."
+    },
+    {
+      "line_title": "Reduced Website Parity",
+      "line_content": "Price matches decreased by 1.91% compared to the previous week, reflecting a shift towards more competitive pricing on MSE."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Trends",
+      "line_content": "Short Haul dominates with 95.98% of flights priced lower on MSE, showing a 2.22% increase from the previous week."
+    },
+    {
+      "line_title": "Long Haul Stability",
+      "line_content": "For Long Haul routes, 87.5% of the flights continue to show lower pricing on MSE, although there's a slight decline observed compared to previous periods."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Austrian Market Pricing",
+      "line_content": "In the Austrian point of origin, MSE channel offers 96.75% of flights at lower rates, showing a significant 3.72% weekly increase."
+    },
+    {
+      "line_title": "Consistent Non-AT Advantages",
+      "line_content": "The Non-AT market sees 94.70% of flights priced lower on MSE with a small increase of 0.28% from the previous week."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Competitive Edge",
+      "line_content": "For Close-In bookings, MSE prices are lower 95.42% of the time, with a marginal increase of 0.59% compared to the past week."
+    },
+    {
+      "line_title": "Far-Out Consistency",
+      "line_content": "Far-Out bookings hold a 96.48% rate of lower pricing on MSE, showing a notable increase of 5.09% over the previous week."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Dominant GDS Higher Pricing",
+      "line_content": "In most dimensions, the GDS channel consistently shows higher pricing compared to the airline's website, especially prevailing in short haul and non-Austrian origin markets."
+    },
+    {
+      "line_title": "Minimal Pricing Parity",
+      "line_content": "Instances of pricing parity between GDS and the airline's site are rare, with only 0.11% of all itineraries showing no price difference over the last week."
+    },
+    {
+      "line_title": "Negligible GDS Lower Pricing",
+      "line_content": "GDS seldom offers lower prices compared to the website, with insignificant changes across any observed periods."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Not Available",
+      "line_content": "GDS not available status has declined slightly by 0.14% from the previous week and 0.47% over the last month, indicating a reduction in instances where GDS fails to match website offers."
+    },
+    {
+      "line_title": "GDS Higher",
+      "line_content": "The frequency of higher GDS pricing has grown modestly by 0.14% from the prior week, reinforcing GDS as a predominantly higher-priced channel."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Dominance",
+      "line_content": "For short haul flights, GDS prices were higher 97.24% of the time last week, with a minor frequency increase compared to previous periods."
+    },
+    {
+      "line_title": "Long Haul Stability",
+      "line_content": "While long haul GDS offers higher prices 91.67% of the time, this reflects a significant month decline of 8.33% in such instances."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Austrian Origin Pricing Trends",
+      "line_content": "Originating from Austria, GDS fares are higher than the airline’s site for 97.18% of cases, with minimal frequency change noted."
+    },
+    {
+      "line_title": "Non-Austrian Origins Consistent",
+      "line_content": "Non-Austrian origin markets show similar GDS higher trends at 96.78%, experiencing a slight increase over the previous week."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bias",
+      "line_content": "Bookings closer to departure exhibit GDS higher prices 96.89% of the time, revealing a slight movement from the previous month."
+    },
+    {
+      "line_title": "Far-Out Variability",
+      "line_content": "For bookings made well in advance, GDS maintained higher prices 97.54% last week, showing greater fluctuation from month-to-month comparisons."
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA – Eroding Parity",
+      "line_content": "Price alignment slipped to 70% of itineraries and OTA-higher fares rose to 28%, exposing a growing leakage risk, particularly on Morocco-origin routes."
+    },
+    {
+      "line_title": "MSE – Systemic Undercuts",
+      "line_content": "Metasearch shows 85% of fares at a 6% discount to the website and 99% undercut incidence outside Morocco, signalling significant revenue dilution."
+    },
+    {
+      "line_title": "GDS – Limited Filing",
+      "line_content": "69% of website fares are absent from the GDS; where filed, 30% price at parity, keeping agency exposure tightly controlled."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Parity Slippage",
+      "line_content": "Network-wide parity fell to 70% (-2.4 pts WoW) while OTA-higher fares climbed to 28%."
+    },
+    {
+      "line_title": "Negligible Undercuts",
+      "line_content": "Only 0.1% of itineraries are cheaper on OTAs and the average gap is under 0.1%."
+    },
+    {
+      "line_title": "Domestic Exposure",
+      "line_content": "OTA-higher fares hit 38% on Morocco-origin routes—eight times higher than non-MA origins."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Gaps",
+      "line_content": "OTAs carried no comparable fare for 1.5% of trips; the miss-rate nearly doubled WoW (+0.8 pts)."
+    },
+    {
+      "line_title": "Parity",
+      "line_content": "Parity averages 70.3% but is trending down (-2.4 pts WoW; ‑0.9 pts MoM)."
+    },
+    {
+      "line_title": "OTA Higher",
+      "line_content": "OTAs price above the site on 28.0% of itineraries at a 0.52% premium."
+    },
+    {
+      "line_title": "OTA Lower",
+      "line_content": "Undercuts remain rare at 0.13%, limiting downward pressure."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "Metrics mirror the network: 70% parity, 28% OTA-higher, <1% OTA-lower."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Morocco POS",
+      "line_content": "Parity drops to 60% and OTA-higher rises to 38% with a 0.53% premium."
+    },
+    {
+      "line_title": "Non-Morocco POS",
+      "line_content": "Strong control: 93% parity and only 5% OTA-higher."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (≤7d)",
+      "line_content": "Parity 72%, OTA-higher 26%, premium 0.51%; stable WoW."
+    },
+    {
+      "line_title": "Far-Out (≥30d)",
+      "line_content": "Parity slips to 67% and OTA-higher climbs to 32% (+1.9 pts WoW)."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "85% Undercuts",
+      "line_content": "Metasearch prices are 6% lower than the site on 85% of itineraries."
+    },
+    {
+      "line_title": "Non-MA Origins",
+      "line_content": "99% of non-Morocco itineraries are cheaper on MSE, with zero higher-priced cases."
+    },
+    {
+      "line_title": "Close-In Deterioration",
+      "line_content": "Undercut share in the 0–7-day window rose to 86% (+2 pts MoM)."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Gaps",
+      "line_content": "‘Website offer not found’ remains low at 0.3% but doubled WoW."
+    },
+    {
+      "line_title": "Parity",
+      "line_content": "True parity covers only 1.9% of O&Ds—far below best-practice thresholds."
+    },
+    {
+      "line_title": "MSE Lower",
+      "line_content": "Undercuts affect 85.3% of fares (-6% average)."
+    },
+    {
+      "line_title": "MSE Higher",
+      "line_content": "Premium cases fell to 12.6%, with a modest +3% markup."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "Pattern unchanged: 85% lower, 13% higher, price gap steady at ‑6%."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Morocco POS",
+      "line_content": "79% cheaper on MSE (-5%), 18% higher (+3%); undercuts +0.4 pp WoW."
+    },
+    {
+      "line_title": "Non-Morocco POS",
+      "line_content": "99.6% cheaper on MSE (-6%); situation 0.9 pp worse than last month."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0–7d)",
+      "line_content": "86% undercuts, up 0.6 pp WoW and 2 pp MoM; gap steady at ‑6%."
+    },
+    {
+      "line_title": "Far-Out (8+d)",
+      "line_content": "83% undercuts, essentially flat WoW; discount remains ‑6%."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Limited Presence",
+      "line_content": "69% of website fares are not filed in the GDS, constraining agency sales."
+    },
+    {
+      "line_title": "Parity When Filed",
+      "line_content": "30% of itineraries price exactly the same as the website; premiums and discounts are <1% each."
+    },
+    {
+      "line_title": "Stable Trend",
+      "line_content": "All week-over-week and month-over-month shifts are below 1 ppt."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found",
+      "line_content": "Fare absence steady at 69.4% (-0.1 ppt WoW)."
+    },
+    {
+      "line_title": "Exact Match",
+      "line_content": "Parity fares represent 29.8% of cases, edging up 0.1 ppt WoW."
+    },
+    {
+      "line_title": "GDS Higher",
+      "line_content": "Only 0.67% of itineraries show a premium, averaging +0.20%."
+    },
+    {
+      "line_title": "GDS Lower",
+      "line_content": "Undercuts virtually nil at 0.13%."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "Matches overall: 69% missing, 30% parity, <1% price deltas."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Morocco POS",
+      "line_content": "100% of website fares absent—no GDS visibility for local agents."
+    },
+    {
+      "line_title": "Non-Morocco POS",
+      "line_content": "97% parity, 2% premium cases; visibility adequate but undifferentiated."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0–14d)",
+      "line_content": "68% missing; remaining fares: 30% parity, 1% +0.20% premium."
+    },
+    {
+      "line_title": "Far-Out (>14d)",
+      "line_content": "71% missing; pricing behaviour identical to close-in segment."
+    }
+  ]
+}

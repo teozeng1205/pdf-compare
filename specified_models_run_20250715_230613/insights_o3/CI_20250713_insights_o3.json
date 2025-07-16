@@ -1,0 +1,204 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA – Modest Premium",
+      "line_content": "OTAs price above CI.com on 93 % of routes, yet the uplift is only 0.09 %, suggesting limited near-term revenue impact but continued brand-price misalignment."
+    },
+    {
+      "line_title": "MSE – Parity Tightening",
+      "line_content": "Metasearch parity jumped to 65 % (+10 ppts WoW) while average undercut narrowed to –0.06 %, signalling improved price control."
+    },
+    {
+      "line_title": "GDS – Significant Mark-Up",
+      "line_content": "97 % of GDS fares are higher by an average 5 %, making this channel the largest source of over-pricing and potential competitiveness risk."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "93 % OTA Premium",
+      "line_content": "OTAs list higher prices than CI.com on 93 % of routes; average uplift is a negligible 0.09 %."
+    },
+    {
+      "line_title": "Content Leakage 6.6 %",
+      "line_content": "Website fare missing on 6.6 % of OD pairs (+1 ppt WoW), signalling mapping or distribution gaps."
+    },
+    {
+      "line_title": "Undercuts Return",
+      "line_content": "OTA-cheaper cases resurfaced on 0.3 % of routes (–0.16 % gap) after a month of absence."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Higher Still Dominant",
+      "line_content": "93.1 % of fares are higher on OTAs; premium narrowed to 0.09 % (-0.01 ppt WoW)."
+    },
+    {
+      "line_title": "Offer-Not-Found Rising",
+      "line_content": "Missing fares climbed to 6.6 %, up 1 ppt WoW."
+    },
+    {
+      "line_title": "Undercut Share Minimal",
+      "line_content": "Only 0.3 % of itineraries are OTA-lower; monitor for competitive shifts."
+    },
+    {
+      "line_title": "Parity Absent",
+      "line_content": "No price-parity cases observed across the network."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Mirrors Total",
+      "line_content": "Short-haul shows 93 % OTA-higher with a 0.09 % premium; offer gaps also at 6.6 %."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Taiwan Origin – Higher Uplift",
+      "line_content": "96.6 % OTA-higher with a slightly larger 0.11 % premium; zero undercuts."
+    },
+    {
+      "line_title": "Non-TW – More Volatile",
+      "line_content": "OTA-higher share falls to 89.6 %; undercuts 0.7 % and offer gaps 9.7 %."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (<14 d)",
+      "line_content": "92.6 % OTA-higher; undercuts 0.5 %; offer gaps 6.9 %."
+    },
+    {
+      "line_title": "Far-Out (≥14 d)",
+      "line_content": "94.0 % OTA-higher (-2 ppt WoW); no undercuts; offer gaps 6.0 %."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Parity Covers 65 %",
+      "line_content": "Website-to-MSE parity surged 10 ppts WoW to 64.8 %, reversing prior erosion."
+    },
+    {
+      "line_title": "Discounts Small",
+      "line_content": "MSE prices below CI.com on 34.2 % of ODs, but average gap is just –0.06 %."
+    },
+    {
+      "line_title": "Premium Negligible",
+      "line_content": "MSE-higher cases remain rare (0.3 %) with a +0.25 % delta."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Missing <1 %",
+      "line_content": "Not-found fares edged up to 0.7 %, still operationally minor."
+    },
+    {
+      "line_title": "Parity Momentum",
+      "line_content": "Parity rose to 64.8 % (+9.7 ppts WoW; +15 ppts MoM)."
+    },
+    {
+      "line_title": "Channel Lower Downshift",
+      "line_content": "MSE-cheaper share fell 10 ppts WoW to 34.2 %; gap slim at –0.06 %."
+    },
+    {
+      "line_title": "Channel Higher Flat",
+      "line_content": "MSE-higher steady at 0.3 %; reputational risk minimal."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Focus",
+      "line_content": "Entire short-haul sample mirrors network results: 64.8 % parity, 34.2 % undercut."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Taiwan – Strong Control",
+      "line_content": "Parity 72.7 %; no MSE-higher; undercuts limited to 26 % at –0.07 %."
+    },
+    {
+      "line_title": "Non-TW – Wider Discounting",
+      "line_content": "Parity 57.1 %; undercuts 42.2 % (–0.05 %), priority for action."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-15 d)",
+      "line_content": "Parity 64.2 % (+7.6 ppts); undercuts 34.3 % (–0.06 %)."
+    },
+    {
+      "line_title": "Far-Out (>15 d)",
+      "line_content": "Parity 65.7 % (+13.7 ppts); same 34.3 % undercut share but smaller –0.04 % gap."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Premium Dominates",
+      "line_content": "97 % of GDS fares priced above CI.com with an average +5 % mark-up."
+    },
+    {
+      "line_title": "Rare but Deep Discounts",
+      "line_content": "Only 2 % of itineraries cheaper in GDS, averaging –10 %."
+    },
+    {
+      "line_title": "Marginal Improvement",
+      "line_content": "GDS-higher share eased 0.44 ppt MoM, indicating slight but non-structural progress."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Higher",
+      "line_content": "97.35 % fares carry a +5 % premium; change negligible WoW."
+    },
+    {
+      "line_title": "GDS Lower",
+      "line_content": "2.32 % of fares undercut CI.com by –10 %; incidence down 0.31 ppt WoW."
+    },
+    {
+      "line_title": "Parity Tiny",
+      "line_content": "Only 0.33 % parity; +0.33 ppt WoW."
+    },
+    {
+      "line_title": "Offer Complete",
+      "line_content": "No missing fares, down from 0.34 % last month."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Exposure",
+      "line_content": "97.35 % GDS-higher with +5 % premium, mirroring network."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Taiwan Origin",
+      "line_content": "98.67 % higher; premium lower at +4 %."
+    },
+    {
+      "line_title": "Non-Taiwan Origin",
+      "line_content": "95.45 % higher, but premium climbs to +7 %."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (≤3 d)",
+      "line_content": "96.55 % higher; +6 % premium; over-pricing share down 0.82 ppt MoM."
+    },
+    {
+      "line_title": "Far-Out (≥21 d)",
+      "line_content": "98 % higher; premium moderates to +4 %; parity still just 1 %."
+    }
+  ]
+}

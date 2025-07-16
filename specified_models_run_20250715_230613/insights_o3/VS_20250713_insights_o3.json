@@ -1,0 +1,204 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA – Solid but Early Gaps",
+      "line_content": "Website price matched on 93.6 % of OTA itineraries; however, 12.6 % of far-out searches showed no VS offer, signalling first-load visibility risk."
+    },
+    {
+      "line_title": "MSE – Small, Targeted Discounting",
+      "line_content": "Parity reached 51 %, with the remaining 49 % averaging only −0.32 % vs. website and confined entirely to GB-origin traffic."
+    },
+    {
+      "line_title": "GDS – Near-Flawless Alignment",
+      "line_content": "Parity peaked at 99 %; missing offers fell to 1 % and all overpricing/undercutting was eliminated week-on-week."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Parity at 94 %",
+      "line_content": "OTA prices matched the website on 93.6 % of itineraries last week—flat WoW and nearly +3 pp MoM."
+    },
+    {
+      "line_title": "No Undercutting",
+      "line_content": "For the second consecutive week the OTA never under-priced the website, protecting direct revenue."
+    },
+    {
+      "line_title": "Quote Absence Far-Out",
+      "line_content": "Missing website offers on OTA climb to 12.6 % in the >60-day window versus 4.0 % close-in, signalling a content gap when inventory first loads."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found 6 %",
+      "line_content": "Website fare absent in 6.4 % of OTA checks—up 0.7 pp WoW but 1.3 pp better MoM; still the main parity defect."
+    },
+    {
+      "line_title": "Price Same 94 %",
+      "line_content": "Parity maintained at 93.6 %, up 2.9 pp MoM, confirming stable governance."
+    },
+    {
+      "line_title": "OTA Higher 0 %",
+      "line_content": "No OTA mark-ups recorded, a 0.3 pp WoW and 1.6 pp MoM improvement."
+    },
+    {
+      "line_title": "OTA Lower 0 %",
+      "line_content": "Zero OTA discounts for three straight periods, confirming leak-free distribution."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Long-Haul",
+      "line_content": "Mirrors network average: 93.6 % parity, 6.4 % offer gaps, and no price deltas."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "GB Origin",
+      "line_content": "Parity dips to 89.7 % with 10.3 % missing offers—triple the Non-GB rate—making home-market content the priority fix."
+    },
+    {
+      "line_title": "Non-GB Origin",
+      "line_content": "Parity high at 96.7 %; prior OTA premiums have been fully removed."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (<7 d)",
+      "line_content": "96.0 % parity and only 4.0 % missing offers; OTA over-pricing eradicated after a 0.5 pp WoW drop."
+    },
+    {
+      "line_title": "Far-Out (>60 d)",
+      "line_content": "Parity falls to 87.4 %; offer gaps swell to 12.6 % and worsened 2.1 pp WoW, highlighting early-load visibility issues."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Full Offer Visibility",
+      "line_content": "Zero missing website fares on MSE, erasing the 3 % outage seen a month ago."
+    },
+    {
+      "line_title": "Thin Undercuts Persist",
+      "line_content": "Parity covers 51 % of itineraries, yet MSE remains marginally cheaper overall at −0.06 %."
+    },
+    {
+      "line_title": "GB Origin Drives Gap",
+      "line_content": "Every GB-origin itinerary priced lower on MSE (-0.32 %), while all non-GB itineraries sat at full parity."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found 0 %",
+      "line_content": "Coverage improved from 3 % last month to zero gaps, eliminating lost-revenue risk."
+    },
+    {
+      "line_title": "Price Same 51 %",
+      "line_content": "Parity share up 0.5 pp WoW and 3 pp MoM, reflecting tighter alignment."
+    },
+    {
+      "line_title": "MSE Lower 49 %",
+      "line_content": "Undercuts slipped 0.2 pp WoW; average gap a modest −0.32 %, limiting margin erosion."
+    },
+    {
+      "line_title": "MSE Higher 0 %",
+      "line_content": "Over-pricing virtually eliminated, reducing competitiveness concerns."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Long-Haul Mirror",
+      "line_content": "Long-haul reflects overall: 51 % parity, 49 % lower on MSE, and a negligible −0.32 % gap."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "GB – 100 % Undercut",
+      "line_content": "All GB-origin ODs priced below website with a uniform −0.32 % discount."
+    },
+    {
+      "line_title": "Non-GB – 100 % Parity",
+      "line_content": "Every non-GB itinerary matched website pricing; no gaps or price deltas observed."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-30 d)",
+      "line_content": "51 % parity, 49 % undercut; average discount −0.38 %, stable WoW."
+    },
+    {
+      "line_title": "Far-Out (31 d+)",
+      "line_content": "Even 50/50 split between parity and undercut; smaller average gap at −0.20 % and no over-pricing detected."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Parity at 99 %",
+      "line_content": "98.99 % of itineraries priced identically in GDS vs. website—best result this month."
+    },
+    {
+      "line_title": "Offers Rarely Missing",
+      "line_content": "‘Website fare not found’ down to 1.0 %, 25 % lower WoW and 65 % lower MoM."
+    },
+    {
+      "line_title": "Overpricing Gone",
+      "line_content": "‘GDS Higher’ cases fell from 0.34 % to zero, eliminating all channel premiums."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Same Fares 99 %",
+      "line_content": "Parity improved to 98.99 % (+0.68 pp WoW, +2.24 pp MoM)."
+    },
+    {
+      "line_title": "Offer Not Found 1 %",
+      "line_content": "GDS N/A at 1.01 % of itineraries, down 0.34 pp WoW and 1.91 pp MoM."
+    },
+    {
+      "line_title": "Channel Higher 0 %",
+      "line_content": "No itineraries priced higher after removing 0.34 pp last week."
+    },
+    {
+      "line_title": "Channel Lower 0 %",
+      "line_content": "Undercutting fully eradicated since last month (-0.32 pp)."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Long-Haul",
+      "line_content": "Parity at 99.0 %, 1.0 % missing offers, zero price discrepancies."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "GB Origins",
+      "line_content": "UK routes show 99.3 % parity; missing offers minimal at 0.7 % and down 1.9 pp MoM."
+    },
+    {
+      "line_title": "Non-GB Origins",
+      "line_content": "Non-UK parity also 99.3 %; missing offers cut from 2.0 % to 0.7 % WoW."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-14 d)",
+      "line_content": "Parity highest at 99.5 %; missing offers reduced by 1.0 pp WoW and 1.9 pp MoM."
+    },
+    {
+      "line_title": "Far-Out (15 d+)",
+      "line_content": "Parity solid at 98.9 %; missing offers stable WoW at 1.1 % but 2.9 pp lower than a month ago."
+    }
+  ]
+}

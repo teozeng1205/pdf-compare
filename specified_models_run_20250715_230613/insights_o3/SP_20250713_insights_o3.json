@@ -1,0 +1,180 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Gap Small, Ubiquitous",
+      "line_content": "OTAs undercut the website on 96.8 % of itineraries, albeit by just –0.16 %, and hold 96.8 % offer coverage."
+    },
+    {
+      "line_title": "MSE Lowest Risk",
+      "line_content": "Metasearch delivers the largest discount (–0.23 %) and 100 % fare coverage, pricing below the site on 99.4 % of routes."
+    },
+    {
+      "line_title": "GDS Improving Coverage",
+      "line_content": "GDS prices are lower on 97.4 % of itineraries (–0.16 %), while missing‐fare incidence improved to 2.6 %."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Cheapest Channel",
+      "line_content": "OTAs priced below the airline site on 96.8 % of observed itineraries last week (–0.16 % gap)."
+    },
+    {
+      "line_title": "Small Content Gap",
+      "line_content": "Website-only fares rose slightly to 3.2 %, signalling a mild erosion in OTA coverage."
+    },
+    {
+      "line_title": "No Parity or Premiums",
+      "line_content": "Zero cases of OTAs matching or exceeding website prices keep downward pressure intact."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Coverage 96.8 %",
+      "line_content": "Only 3.2 % of website fares were missing on OTAs; the gap widened +1.6 ppts month-over-month."
+    },
+    {
+      "line_title": "Persistent Undercut",
+      "line_content": "OTAs remain cheaper on virtually all itineraries with an average –0.16 % delta."
+    },
+    {
+      "line_title": "Parity Absent",
+      "line_content": "No parity or higher-price instances recorded, eliminating competitive matching risk."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Mirror",
+      "line_content": "On all short-haul routes, OTAs repeated the network pattern: 96.8 % cheaper, –0.16 % gap."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Portugal Origins",
+      "line_content": "97 % of PT-departure itineraries were cheaper on OTAs; missing offers limited to 3 %."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "0–7 Days",
+      "line_content": "Lower-fare share dips to 95.1 % while missing offers rise to 4.9 %; discount widens slightly to –0.17 %."
+    },
+    {
+      "line_title": ">21 Days",
+      "line_content": "Coverage rebounds to 98.6 % with a stable –0.15 % price gap."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Broad Discount",
+      "line_content": "MSE undercut the airline on 99.4 % of itineraries last week, averaging –0.23 %."
+    },
+    {
+      "line_title": "Zero Content Loss",
+      "line_content": "All website fares were present on MSE; no discoverability gaps."
+    },
+    {
+      "line_title": "Close-In Strength",
+      "line_content": "Inside 14 days, lower-fare frequency reached a full 100 % with –0.24 % gap."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Full Coverage",
+      "line_content": "Offer-not-found cases stand at 0 % across the sample."
+    },
+    {
+      "line_title": "Negligible Parity",
+      "line_content": "Price parity remains marginal at 0.6 %, stable week-on-week."
+    },
+    {
+      "line_title": "Largest Undercut",
+      "line_content": "Discount magnitude (–0.23 %) leads all channels, with 99.4 % of fares cheaper."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Consistency",
+      "line_content": "99.4 % of regional itineraries cheaper on MSE, mirroring network averages."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Portugal Consistency",
+      "line_content": "PT-origin itineraries exhibit identical 99.4 % lower pricing and –0.23 % gap."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "≤14 Days",
+      "line_content": "100 % of close-in fares are lower, erasing previous parity cases; –0.24 % discount sustained."
+    },
+    {
+      "line_title": "≥15 Days",
+      "line_content": "Far-out bookings maintain a flawless 100 % lower-price record at –0.23 %."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Widespread Discount",
+      "line_content": "GDS fares were cheaper on 97 % of itineraries last week with an average –0.16 % delta."
+    },
+    {
+      "line_title": "Coverage Improving",
+      "line_content": "Missing offers fell to 2.6 %, a week-on-week improvement."
+    },
+    {
+      "line_title": "No Premium Risk",
+      "line_content": "No instances of GDS pricing above the website recorded."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Lower Fares 97.4 %",
+      "line_content": "Share of cheaper GDS fares inched up +0.47 ppt WoW, –0.16 % average gap."
+    },
+    {
+      "line_title": "Missing Only 2.6 %",
+      "line_content": "Offer-not-found cases declined vs. last month, improving inventory parity."
+    },
+    {
+      "line_title": "No Parity/High Cases",
+      "line_content": "Zero identical or higher prices detected, sustaining discount positioning."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Snapshot",
+      "line_content": "97.4 % of intra-regional ODs priced lower in GDS (–0.16 %)."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Portugal Origin",
+      "line_content": "PT departures mirror overall trend: 97.4 % cheaper in GDS, –0.16 % gap."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "≤7 Days",
+      "line_content": "GDS undercut the website on 96.3 % of close-in bookings (–0.17 %), a +0.9 ppt lift WoW."
+    },
+    {
+      "line_title": ">21 Days",
+      "line_content": "Far-out trips show 98.7 % cheaper fares with a –0.15 % discount; slight coverage dip WoW."
+    }
+  ]
+}

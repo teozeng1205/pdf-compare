@@ -1,0 +1,200 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Pricing Stability",
+      "line_content": "American Airlines maintains stable pricing in OTA channels, with 91% of prices matching those on the airline's website."
+    },
+    {
+      "line_title": "MSE Pricing Parity",
+      "line_content": "American Airlines achieves 98.93% price parity between MSE channels and its website, underscoring a highly competitive presence."
+    },
+    {
+      "line_title": "GDS Channel Higher Pricing",
+      "line_content": "The GDS channel exhibits higher pricing compared to the airline's website in 56.1% of cases, highlighting a significant price premium."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Stable Pricing Across Several Dimensions",
+      "line_content": "American Airlines maintains stability in airfare pricing, with 91% of OTA prices matching those on the airline's website during the latest week."
+    },
+    {
+      "line_title": "OTA Pricing Trends Upwards",
+      "line_content": "Instances where OTA prices were higher showed a slight increase, with short and long-haul routes experiencing respective price increments of 0.14% and 0.20%."
+    },
+    {
+      "line_title": "Minimal Price Disadvantages",
+      "line_content": "OTA channels occasionally offered lower prices, yet this had a marginal impact with price differences averaging around -0.10% lower than the airline's site."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offers Unavailable on OTA",
+      "line_content": "Only 2-3% of the time website prices were unlisted on OTAs last week, an increase from 1.5% the prior week."
+    },
+    {
+      "line_title": "Price Parity with OTA Channel",
+      "line_content": "A high degree of price parity is observed, as 91% of OTA bookings are priced the same as on the airline's site."
+    },
+    {
+      "line_title": "Higher Prices on OTAs",
+      "line_content": "4.3% of the time, OTA prices exceeded those on the airline’s website, with slight week-over-week and month-over-month increments."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "US Market Consistency",
+      "line_content": "95% of US-originating itineraries maintained price parity between OTA offers and American Airlines' website."
+    },
+    {
+      "line_title": "Non-US Market Variability",
+      "line_content": "In the Non-US region, OTAs more frequently listed higher prices than the airline's site, with 38% of itineraries reflecting such a trend."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "US-Origin Price Stability",
+      "line_content": "US-origin flights show robust pricing consistency with more than 95% parity; OTAs rarely offer lower prices."
+    },
+    {
+      "line_title": "Non-US-Origin Price Fluctuations",
+      "line_content": "Non-US-origin prices display greater variability with a significant portion showing higher OTA pricing compared to American’s website."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Pricing Trends",
+      "line_content": "Close-in bookings mostly reflect uniform pricing across channels, but OTAs occasionally list higher prices (~4.2% of the time)."
+    },
+    {
+      "line_title": "Far-Out Pricing Steadiness",
+      "line_content": "Far-out booking periods saw 94% pricing alignment with site prices. OTA listings were marginally higher 4.3% of the time."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "High Website Parity",
+      "line_content": "American Airlines had 98.93% of itineraries showing the same prices on both MSE channels and their website last week."
+    },
+    {
+      "line_title": "Slight Competitive Edge",
+      "line_content": "MSE prices were lower than American Airlines' website prices for 0.22% of itineraries, reflecting a minor competitive edge for MSE."
+    },
+    {
+      "line_title": "Minimal Higher Pricing",
+      "line_content": "For 0.50% of itineraries, MSE prices exceeded those on American Airlines' website, showing limited premium pricing."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Website N/A on MSE",
+      "line_content": "A negligible 0.35% of American Airlines' itineraries were not found on MSE channels last week."
+    },
+    {
+      "line_title": "Identical Pricing",
+      "line_content": "98.93% of itineraries had identical pricing between American Airlines' website and MSE channels, indicating stable parity."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Insights",
+      "line_content": "Short haul routes maintained high parity with 98.84% showing identical pricing, and a slight increase in MSE listings as higher by 0.56%."
+    },
+    {
+      "line_title": "Long Haul Parity",
+      "line_content": "Long haul itineraries exhibited 99.32% price consistency, with a minor increase to 0.22% in MSE prices listed lower than the website."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "US Origin Consistency",
+      "line_content": "Usual routes from the US matched website prices 99.38% of the time, with notable low MSE price variance of 0.23% lower."
+    },
+    {
+      "line_title": "Non-US Variety",
+      "line_content": "Non-US itineraries showed slightly greater variance, with 3.17% priced higher and 1.20% priced lower than MSE."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In Window",
+      "line_content": "In itineraries booked close to departure, 98.99% showed price parity, while 0.52% listed higher on MSE."
+    },
+    {
+      "line_title": "Far Out Trends",
+      "line_content": "Far out bookings registered 98.80% identical prices, with 0.08% MSE prices noticeably lower, offering a rare discount advantage."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS Higher Most Common",
+      "line_content": "The GDS channel showed higher pricing compared to the airline's website in over half of the origin-destination cases analyzed, precisely 56.1% of the time."
+    },
+    {
+      "line_title": "Long Haul Price Increases",
+      "line_content": "Long-haul itineraries exhibit the highest frequency of GDS prices being higher than the website, with a notable 54.6% occurrence last week."
+    },
+    {
+      "line_title": "U.S.-Origin Itineraries Trend Higher",
+      "line_content": "Itineraries originating from the U.S. have a 54.8% rate of GDS prices being higher than the airline’s website, underscoring regional price elevation for domestic flights."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A Stable",
+      "line_content": "A minimal change in the occurrence of website offers not available on the GDS channel, maintaining an insignificant presence in the overall analysis."
+    },
+    {
+      "line_title": "SAME Pricing Slight Decline",
+      "line_content": "The proportion of prices that were the same on the GDS and airline website saw a minor decline by 0.74% from the previous week."
+    },
+    {
+      "line_title": "GDS Higher Increase",
+      "line_content": "Pricing on the GDS channel occurred higher than the airline website by 0.69% more than the previous week, marking an upward trend in GDS's pricing premium."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul GDS Higher Rates",
+      "line_content": "Short-haul trips are priced higher on GDS 56.6% of the time, with a slightly increasing trend from the previous week (+0.70%)."
+    },
+    {
+      "line_title": "Long Haul Trends Upward",
+      "line_content": "Long-haul GDS pricing shows a significant upward trend, with a 2.07% increase from the previous month for prices being higher on GDS."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "High GDS Prices on US Itineraries",
+      "line_content": "For US-originating itineraries, GDS prices were higher 54.8% of the time, reflecting a steady uptick in pricing relative to the airline's site over past periods."
+    },
+    {
+      "line_title": "Non-US Origin Trends High",
+      "line_content": "Non-US itineraries exhibit an increase in GDS pricing with a notable 1.76% rise from last week, showing strong international pricing pressure on GDS."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In GDS Pricing Higher",
+      "line_content": "Close-in bookings experienced a 1.01% increase in higher GDS pricing compared to last week, remaining a critical segment for pricing strategy revision."
+    },
+    {
+      "line_title": "Far-Out GDS Consistency",
+      "line_content": "Far-out bookings show remarkable consistency with GDS higher pricing hovering just above 70% with negligible weekly change."
+    }
+  ]
+}

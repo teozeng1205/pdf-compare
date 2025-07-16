@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Pricing Stability",
+      "line_content": "OTA channel prices are largely stable, with 67% offering the same rates as the airline's website."
+    },
+    {
+      "line_title": "MSE Competitive Pricing Enhances",
+      "line_content": "The MSE channel shows improved price consistency, with 49.08% of offers at the same price as the airline's website, an increase from the previous week."
+    },
+    {
+      "line_title": "GDS Higher Pricing Prevalence",
+      "line_content": "The GDS channel reports that approximately 70% of fares are categorized as higher compared to prices on the airline's website."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Pricing Stability",
+      "line_content": "OTA prices remain stable, with 67% classified as the same compared to the airline's website."
+    },
+    {
+      "line_title": "Low Discrepancies",
+      "line_content": "Only 3.18% of OTA prices are higher than those on the airline's website."
+    },
+    {
+      "line_title": "Negative Trends in Lower Prices",
+      "line_content": "A slight decline in the share of lower price offers on the OTA channel suggests reduced competitiveness."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A Status",
+      "line_content": "26.5% of offers were not available compared to the airline's website, highlighting potential inventory issues."
+    },
+    {
+      "line_title": "Same Price Consistency",
+      "line_content": "67.1% of records were priced the same, maintaining stability compared to previous weeks."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Australian Market Stability",
+      "line_content": "67.3% of prices in the AU market matched the airline's website prices, indicating stable pricing."
+    },
+    {
+      "line_title": "Higher Discrepancies in Non-AU Market",
+      "line_content": "The Non-AU market sees 20.9% of fares priced higher compared to the airline's offers."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic Travel Stability",
+      "line_content": "For domestic travel, 67.3% of prices were the same, providing reliable comparisons."
+    },
+    {
+      "line_title": "International Travel Variability",
+      "line_content": "International routes show 20.95% priced higher, indicating less uniform pricing."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In Bookings Consistency",
+      "line_content": "66.1% of close-in bookings priced the same as from the airline's website."
+    },
+    {
+      "line_title": "Far Out Bookings Stability",
+      "line_content": "In far-out bookings, 2.72% of fares were offered at higher prices on the OTA."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Improved Price Consistency",
+      "line_content": "Pricing consistency has increased, with 49.08% of prices being the same as those on the airline's website."
+    },
+    {
+      "line_title": "Lower Prices on Short-Haul Routes",
+      "line_content": "MSE shows increased frequency of lower prices, especially on short-haul routes."
+    },
+    {
+      "line_title": "Stable Close-In Booking Pricing",
+      "line_content": "Close-in bookings demonstrate pricing stability with fewer higher offers."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Same Prices Leading",
+      "line_content": "49.08% of offers reflect the same price, an improvement from last week's 44.65%."
+    },
+    {
+      "line_title": "MSE Lower Price Stability",
+      "line_content": "The percentage of lower priced options remains stable, enhancing competitive visibility."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "AU Region Similar Pricing",
+      "line_content": "49.93% of prices in the AU region match those on the airline's website."
+    },
+    {
+      "line_title": "Competitive Pricing in Non-AU",
+      "line_content": "53.69% of non-AU region prices are lower, indicating a competitive edge in pricing."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "AU Origin Pricing Consistency",
+      "line_content": "Pricing remains predominantly 'same' at 49.93% for Australian origins."
+    },
+    {
+      "line_title": "Lower Prices Non-AU Opportunities",
+      "line_content": "53.69% of MSE prices for non-AU origin travelers offer lower pricing."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Pricing Stability",
+      "line_content": "48.26% of close-in bookings are priced the same, supporting market stability."
+    },
+    {
+      "line_title": "Far Out Booking Trends",
+      "line_content": "Far out bookings show 50.84% matched pricing, reflecting strategic pricing insights."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS Higher Pricing Dominance",
+      "line_content": "Approximately 70% of pricing records in the GDS channel are classified as higher."
+    },
+    {
+      "line_title": "Stable Competitive Position",
+      "line_content": "The GDS channel sees minor variations in offers same as the airline website."
+    },
+    {
+      "line_title": "Low Instance of Competitive Offers",
+      "line_content": "GDS maintains a low percentage, below 4%, of lower-priced offers."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A Dominance",
+      "line_content": "Over 70% of records classified as GDS Higher indicate limited competitive pricing availability."
+    },
+    {
+      "line_title": "Static Pricing Retention",
+      "line_content": "Approximately 0.7% of prices are the same as those on the airline's website, indicating low competition."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "High Short Haul Pricing",
+      "line_content": "69.7% of short-haul segment records are GDS Higher, showing increased pricing pressure."
+    },
+    {
+      "line_title": "Long Haul Consistency",
+      "line_content": "76% of long-haul pricing cases are GDS Higher, highlighting pricing challenges."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "AU Market Pricing Dominance",
+      "line_content": "70.2% of AU-origin pricing is GDS Higher, limiting competitive pricing."
+    },
+    {
+      "line_title": "Non-AU Market Challenges",
+      "line_content": "74.5% of Non-AU market records for GDS show higher prices, constraining competitiveness."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Offering Trends",
+      "line_content": "70% of close-in bookings are priced as GDS Higher, indicating competitive pricing issues."
+    },
+    {
+      "line_title": "Far Out Booking Dynamics",
+      "line_content": "71.1% of far-out bookings fall under GDS Higher, emphasizing pricing pressure with extended booking windows."
+    }
+  ]
+}

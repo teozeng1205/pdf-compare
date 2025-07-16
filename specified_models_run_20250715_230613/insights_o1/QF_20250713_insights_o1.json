@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Insight",
+      "line_content": "OTA coverage gap improved to around 27%, with 67% parity indicating stable price alignment."
+    },
+    {
+      "line_title": "MSE Insight",
+      "line_content": "MSE fares are missing roughly 26% of the time, yet when cheaper, discounts can reach double digits."
+    },
+    {
+      "line_title": "GDS Insight",
+      "line_content": "Over 70% of GDS fares are higher than direct, though the typical markup stays below 1%."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Improved Coverage",
+      "line_content": "OTA not-found rates fell by nearly six percentage points vs last month, signaling more comprehensive fare availability in the channel."
+    },
+    {
+      "line_title": "Stable Parity",
+      "line_content": "Over two-thirds of fares match the airline’s website, with price gaps staying under 0.3% when differences appear."
+    },
+    {
+      "line_title": "Minimal Fluctuations",
+      "line_content": "Week-on-week shifts remain small: SAME gained 0.4 percentage points, while OTA HIGHER and OTA LOWER each hover around 3%."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA Not Found",
+      "line_content": "Now at 27% coverage gap for the latest week, improving by 5.7 points from last month, underscoring expanded OTA presence."
+    },
+    {
+      "line_title": "Same",
+      "line_content": "Roughly 67% of fares align with the website, up modestly in both weekly and monthly comparisons."
+    },
+    {
+      "line_title": "OTA Higher",
+      "line_content": "Around 3% of itineraries cost more on the OTA, with a premium of about 0.2%, relatively unchanged over time."
+    },
+    {
+      "line_title": "OTA Lower",
+      "line_content": "Similarly at 3%, with savings near 0.2%, showing a slight increase from last month’s levels."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "OTA not-found is nearly 28%, with 66% in parity. Price differences remain small, and LOWER slightly outpaces HIGHER."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "Coverage gap is only 17%, while 77% match the website. A 6% higher share outweighs the 1% lower portion."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "AU",
+      "line_content": "Coverage gap stands at 27%, with 67% SAME and roughly 3% higher or lower on the OTA."
+    },
+    {
+      "line_title": "Non-AU",
+      "line_content": "Only 3% not-found, but 21% see a premium and 14% are lower, showing wider price swings outside AU."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "27% gap, 66% parity, and a near 3% split between HIGHER and LOWER, slightly improved from last month."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "25% gap, 69% parity, with HIGHER and LOWER shares near 3%. Month-over-month shifts are marginal."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Quarter of Fares Missing",
+      "line_content": "About 26% of fares are not listed on MSE, a slight improvement from last month."
+    },
+    {
+      "line_title": "Major International Savings",
+      "line_content": "Non-AU routes see the aggregator undercut the website in over half of cases."
+    },
+    {
+      "line_title": "Occasional Price Spikes",
+      "line_content": "When MSE is higher, it is generally about 5% above the website, jumping to 23% on select long-haul flights."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE Not Found",
+      "line_content": "Unlisted fares occur about one-quarter of the time, down roughly 6% from the previous month."
+    },
+    {
+      "line_title": "Same",
+      "line_content": "Aggregator matches website about half the time, showing modest growth from both last week and last month."
+    },
+    {
+      "line_title": "MSE Higher",
+      "line_content": "Seen in around 11% of cases, averaging a 5% premium over the website."
+    },
+    {
+      "line_title": "MSE Lower",
+      "line_content": "Happens in about 14% of instances, yielding a 13% average discount compared to the website."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "About 48% of fares match the website, with the aggregator cheaper 14% of the time by an average of 14%."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "MSE is cheaper 21% of the time with a 7% discount, but goes 23% higher in 7% of cases."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "AU",
+      "line_content": "Roughly half of flights match the website, while 27% are unlisted and only 13% see aggregator savings."
+    },
+    {
+      "line_title": "Non-AU",
+      "line_content": "Over 53% of flights feature an MSE discount, though about 17% show a 27% premium."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "Aggregator is missing about a quarter of the time but cheaper in 15% of itineraries."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Fares are absent 25% of the time, with marginally fewer discounts but more parity at nearly 51%."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "High GDS Premium",
+      "line_content": "Around 70% of fares in last week were higher on GDS versus direct, but the typical premium remains under 1%."
+    },
+    {
+      "line_title": "Limited GDS Discounts",
+      "line_content": "Only about 3–4% of itineraries showed GDS as cheaper, reflecting a minor slice of the market."
+    },
+    {
+      "line_title": "Decreasing 'Not Available'",
+      "line_content": "Website unavailability on GDS has fallen by up to 6% since last month, suggesting improved coverage."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offer Not Found (GDS N/A)",
+      "line_content": "Approximately a quarter of itineraries did not match on GDS last week, a noticeable drop from the previous month’s higher rates."
+    },
+    {
+      "line_title": "Same Fares",
+      "line_content": "This status remains scarce, at under 1% of itineraries, showing minimal exact parity."
+    },
+    {
+      "line_title": "GDS Lower",
+      "line_content": "GDS was cheaper for roughly 3–4% of offers last week, with minimal additional gains compared to last month."
+    },
+    {
+      "line_title": "GDS Higher",
+      "line_content": "Dominant scenario at around 70% frequency last week, increasing slightly since the previous period but usually within 1% of direct fares."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "GDS outprices website over two-thirds of the time, although the share of cheaper GDS fares slightly increased compared to last month."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "Long-haul routes see an even higher GDS premium of over 75% frequency, indicating a larger markup than on short-haul flights."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "AU Departures",
+      "line_content": "GDS fares are higher 70% of the time, a slight uptick from the prior month, while lower fares remain below 4%."
+    },
+    {
+      "line_title": "Non-AU Departures",
+      "line_content": "Roughly three-quarters of itineraries are higher on GDS, but 14% of last-week departures were lower, reflecting an emerging discount trend."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "GDS higher in about 70% of near-term searches, but coverage gaps have improved from the previous month."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "GDS pricing is higher just over 71% of the time for advance bookings, with a small increase in cheaper GDS fares noted."
+    }
+  ]
+}

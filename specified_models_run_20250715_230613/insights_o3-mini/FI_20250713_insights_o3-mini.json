@@ -1,0 +1,200 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Overview",
+      "line_content": "OTA analysis shows strong price alignment with over 87% of itineraries matching website pricing, though variability in N/A incidences across segments suggests areas for targeted improvement."
+    },
+    {
+      "line_title": "MSE Overview",
+      "line_content": "MSE consistently offers lower pricing in more than 85% of cases with stable discounting trends, yet exhibits variable data availability, especially in IS point-of-origin segments."
+    },
+    {
+      "line_title": "GDS Overview",
+      "line_content": "GDS maintains high price parity at approximately 87.5%, with a notable 11.8% of fares missing the related website offers and only isolated instances of competitive lower pricing."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "High Price Alignment",
+      "line_content": "Approximately 87.5% of OTA itineraries match website pricing, indicating excellent overall alignment."
+    },
+    {
+      "line_title": "Variable N/A Rates",
+      "line_content": "N/A incidences vary significantly across segments, reaching up to 18.1% for IS routes and 14.6% for short haul."
+    },
+    {
+      "line_title": "Minimal Differential Adjustments",
+      "line_content": "The negligible differences in OTA HIGHER (+0.13%) and OTA LOWER (-0.16%) corroborate the limited price variance."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A",
+      "line_content": "OTA N/A accounts for about 12.5% of records with segment variations and up to 10.5% monthly change, suggesting occasional missed pricing updates."
+    },
+    {
+      "line_title": "Price Consistency",
+      "line_content": "Over 85% of the records are priced the same as the website, ensuring strong consistency in pricing."
+    },
+    {
+      "line_title": "Negligible OTA Adjustments",
+      "line_content": "Both OTA HIGHER and LOWER instances are rare, underlining minimal pricing deviations on this channel."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Volatility",
+      "line_content": "Short haul routes show an OTA N/A rate of 14.6% with a 7.8% week-over-week increase, indicating slightly more pricing volatility."
+    },
+    {
+      "line_title": "Long Haul Stability",
+      "line_content": "Long haul routes feature an 8.2% N/A rate with 91.8% consistency, reflecting better stability in pricing."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "IS Routes",
+      "line_content": "IS routes experience higher OTA N/A (18.1%) along with minor OTA HIGHER occurrences, suggesting room for enhanced pricing alignment."
+    },
+    {
+      "line_title": "Non-IS Routes",
+      "line_content": "Non-IS routes maintain robust consistency with a low 3.4% OTA N/A rate and 96.6% SAME status."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In Bookings",
+      "line_content": "Close in itineraries have a higher OTA N/A rate of 14.95%, though they still show strong SAME status (85.05%)."
+    },
+    {
+      "line_title": "Far Out Bookings",
+      "line_content": "Far out bookings exhibit near-complete price consistency with only 4.44% OTA N/A and 95.56% SAME status."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Dominant Lower Pricing",
+      "line_content": "MSE consistently offers lower prices, with over 85% of recorded instances reflecting discounted fares compared to the website."
+    },
+    {
+      "line_title": "Stable Discount Trend",
+      "line_content": "A slight drop of 5.31% in MSE LOWER frequency over recent periods confirms a steady discounting trend."
+    },
+    {
+      "line_title": "Variable Availability",
+      "line_content": "MSE N/A rates vary significantly, ranging from 4.44% in far-out bookings to 18.09% for IS point-of-origin, pointing to selective data availability issues."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A",
+      "line_content": "Approximately 11.84% of origin-destination pairs lack pricing on MSE, remaining consistent over time."
+    },
+    {
+      "line_title": "Divergent Pricing",
+      "line_content": "No records show identical pricing with the website; 88.16% of cases fall under MSE LOWER, averaging a -0.10% price difference."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Dynamics",
+      "line_content": "Short haul routes reflect a 14.42% MSE N/A rate with 85.58% lower pricing, maintaining a stable -0.10% price difference."
+    },
+    {
+      "line_title": "Long Haul Consistency",
+      "line_content": "Long haul routes feature an 8.16% MSE N/A rate and a dominant 91.84% LOWER status with marginally narrower price differences."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "IS Origin Trends",
+      "line_content": "IS points-of-origin record 18.09% MSE N/A and 81.91% lower pricing, with a balanced -0.08% average difference."
+    },
+    {
+      "line_title": "Non-IS Aggressiveness",
+      "line_content": "Non-IS records show minimal MSE N/A (1.72%) and strong LOWER pricing (98.28%) with a slightly higher average reduction of -0.14%."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In Bookings",
+      "line_content": "Close-in itineraries demonstrate 14.95% MSE N/A and 85.05% lower pricing, reflecting consistent last-minute discounting at -0.11%."
+    },
+    {
+      "line_title": "Far Out Advantage",
+      "line_content": "Far-out bookings maintain a low 4.44% MSE N/A with 95.56% lower pricing and exhibit a modest -0.09% price difference."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Price Parity Dominance",
+      "line_content": "GDS records show an 87.5% rate of price parity with the website, signifying a consistent pricing strategy."
+    },
+    {
+      "line_title": "Missing Website Offers",
+      "line_content": "An overall 11.8% frequency of missing website offers is observed, with higher rates in short-haul and IS segments."
+    },
+    {
+      "line_title": "Minor Lower Pricing",
+      "line_content": "Occasional cases of channel lower pricing (around 1%) indicate selective competitive positioning without significant deviations."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Absence",
+      "line_content": "An 11.8% frequency of website offers not found on GDS highlights selective distribution across segments."
+    },
+    {
+      "line_title": "Consistent Parity",
+      "line_content": "With 87.5% of itineraries priced the same as the website, GDS emphasizes uniform pricing consistency."
+    },
+    {
+      "line_title": "Minimal Lower Pricing",
+      "line_content": "Lower pricing instances, observed at roughly 1%, reflect only sporadic deviations from the norm."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Insights",
+      "line_content": "Short haul segments exhibit 84.5% price parity, with 14.6% missing offers and a marginal 1% incidence of lower pricing."
+    },
+    {
+      "line_title": "Long Haul Insights",
+      "line_content": "Long haul itineraries show stronger parity at 91.8% and only an 8.2% rate of missing offers, indicating lower distribution variability."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "IS Markets",
+      "line_content": "For IS segments, 80.9% of fares match website pricing while 18.1% are missing and 1.1% show lower pricing, suggesting cautious pricing execution."
+    },
+    {
+      "line_title": "Non-IS Markets",
+      "line_content": "Non-IS records achieve robust parity at 98.3% with only 1.7% missing offers and no recorded lower pricing."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in bookings report 84.1% price parity, 15.0% missing offers, and a slight 0.9% occurrence of lower pricing."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Far-out itineraries demonstrate higher parity at 93.3% with a lower 4.4% missing offer incidence and a modest 2.2% lower pricing event."
+    }
+  ]
+}

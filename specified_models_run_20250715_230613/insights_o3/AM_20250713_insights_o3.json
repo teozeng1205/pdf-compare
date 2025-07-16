@@ -1,0 +1,212 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA: Parity Slips, Gaps Rise",
+      "line_content": "Price parity remains high at 95.3 %, yet ‘website offer not found’ jumped to 2.6 % of itineraries (+222 % WoW), signalling a growing visibility issue."
+    },
+    {
+      "line_title": "MSE: Frequent but Shallow Undercuts",
+      "line_content": "MSE undercuts occur on 53 % of OD pairs, but the average discount is just –0.14 %, indicating the risk is volume-driven rather than depth-driven."
+    },
+    {
+      "line_title": "GDS: Parity Solid, Premiums Clustered",
+      "line_content": "GDS holds 88 % parity; premiums surface on 10 % of ODs at only +0.3 %, but long-haul and non-MX origins show double the network premium frequency."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Parity >95 %",
+      "line_content": "Despite a 1.9 ppt slip, 95.3 % of OTA itineraries still match website fares, maintaining strong alignment."
+    },
+    {
+      "line_title": "Offer Gaps Spike",
+      "line_content": "‘Website fare missing’ rose from 0.4 % to 2.6 % of itineraries (+222 % WoW), driven by close-in short-haul searches."
+    },
+    {
+      "line_title": "Premiums Ease",
+      "line_content": "OTAs priced above the site on 1.8 % of itineraries (–0.6 ppt WoW), reducing customer price-perception risk."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Largest Issue: Missing Offers",
+      "line_content": "At 2.6 % of itineraries, ‘website offer not found’ is now the top non-parity concern and up 157 % MoM."
+    },
+    {
+      "line_title": "Parity Still Strong",
+      "line_content": "Same-price share at 95.3 % but trending downward by ~1.5 ppts vs both prior periods."
+    },
+    {
+      "line_title": "Minimal Undercuts",
+      "line_content": "OTAs cheaper on only 0.3 % of itineraries; nonetheless the share doubled WoW and merits monitoring."
+    },
+    {
+      "line_title": "Over-Pricing Declines",
+      "line_content": "Channel-higher cases dropped to 1.8 %, signalling progress on OTA over-pricing."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Weak Spot",
+      "line_content": "Parity 95.2 %; missing offers 2.7 %—the main source of recent content gaps."
+    },
+    {
+      "line_title": "Long-Haul Stable",
+      "line_content": "Parity 96.5 %; both missing offers and OTA premiums at 1.8 %—low but worth watching."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Mexico Origins",
+      "line_content": "Offer gaps rose to 2.7 % (+2.3 ppts WoW); OTA undercuts still limited at 0.3 %."
+    },
+    {
+      "line_title": "Non-Mexico Origins",
+      "line_content": "Higher OTA premiums (2.3 %) and equal share of missing offers indicate weaker international coverage."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-7d)",
+      "line_content": "Parity down to 93.5 %; missing offers 3.8 % and premiums 2.2 %—risking last-minute sales."
+    },
+    {
+      "line_title": "Far-Out (8+d)",
+      "line_content": "Near-perfect parity (99.2 %), zero gaps, and minimal premiums (0.8 %)."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Undercuts Dominate",
+      "line_content": "MSE cheaper on 53 % of OD pairs, though incidence fell 1.3 ppts WoW and 2.4 ppts MoM."
+    },
+    {
+      "line_title": "Discount Depth Thin",
+      "line_content": "Average undercut is just –0.14 %, limiting revenue dilution per ticket."
+    },
+    {
+      "line_title": "Over-Premiums Negligible",
+      "line_content": "MSE higher than the site on only 0.04 % of OD pairs and shrinking further."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "No Missing Content",
+      "line_content": "Zero ‘website offer not found’ cases eliminate visibility risk in MSE."
+    },
+    {
+      "line_title": "Parity Improving",
+      "line_content": "Parity reached 47 % (+1.7 ppts WoW); progressive alignment evident."
+    },
+    {
+      "line_title": "Undercutting Frequency",
+      "line_content": "Still the largest bucket at 53 %, but downward trend and shallow –0.14 % gap soften impact."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "50 % undercuts at –0.13 %; parity up 1.6 ppts WoW."
+    },
+    {
+      "line_title": "Long-Haul Hotspot",
+      "line_content": "93 % of long-haul OD pairs cheaper on MSE (–0.20 %); most material disparity despite recent 3 ppt improvement."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Mexico Origins Balanced",
+      "line_content": "Parity 53 %, undercuts 47 % (–0.12 %); undercutting down 1.2 ppts WoW."
+    },
+    {
+      "line_title": "Non-MX Origins Risk",
+      "line_content": "Undercutting nearly universal at 98 % (–0.20 %); parity remains scarce."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-14d)",
+      "line_content": "63 % undercuts (–0.14 %); share declining 1 ppt WoW."
+    },
+    {
+      "line_title": "Far-Out (15+d)",
+      "line_content": "Parity leads at 70 %; undercuts down to 31 % with a mild –0.11 % gap."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Parity Leads",
+      "line_content": "88 % of GDS fares match the website; stability within ±0.4 ppt over the month."
+    },
+    {
+      "line_title": "Moderate Premiums",
+      "line_content": "GDS higher on 10 % of ODs, average uplift +0.3 %, limiting revenue risk."
+    },
+    {
+      "line_title": "Long-Haul & Non-MX Clusters",
+      "line_content": "Premium frequency roughly doubles to ~20 % in these segments, warranting targeted audits."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Minimal Offer Gaps",
+      "line_content": "‘Website offer not found’ only 0.16 % of ODs and falling."
+    },
+    {
+      "line_title": "Parity Stable",
+      "line_content": "88.3 % parity, –0.6 ppt WoW but +0.4 ppt MoM."
+    },
+    {
+      "line_title": "Limited Undercuts",
+      "line_content": "Channel lower on 1.6 % of ODs at –0.2 %; decreasing slowly."
+    },
+    {
+      "line_title": "Premiums Uptick",
+      "line_content": "GDS higher on 9.9 % of ODs (+1.2 ppt WoW), yet uplift steady at +0.3 %."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Steady",
+      "line_content": "Parity 89 %; premiums 9.3 % at +0.32 %—little change MoM."
+    },
+    {
+      "line_title": "Long-Haul Exposure",
+      "line_content": "Parity 76 %; premiums 19.4 % despite 5.8 ppt parity improvement MoM."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "MX Origins Healthy",
+      "line_content": "Parity 89.5 %; premiums 8.7 % at +0.33 %."
+    },
+    {
+      "line_title": "Non-MX Origins Issue",
+      "line_content": "Parity 78 %; premiums 20.2 % though uplift modest at +0.26 %."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-15d)",
+      "line_content": "Parity 88 %; premiums 10.4 % at +0.29 %, flat over four weeks."
+    },
+    {
+      "line_title": "Far-Out (16+d)",
+      "line_content": "Best parity at 90 %; premiums 9.0 % but highest uplift at +0.38 %."
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Consistency",
+      "line_content": "OTA channel exhibits strong price matching with over 80% SAME status, though discrepancies exist on long haul routes."
+    },
+    {
+      "line_title": "MSE Parity & Competitive Edge",
+      "line_content": "MSE shows stable pricing parity at around 61% SAME along with competitive lower fares, with noticeable regional differences particularly for non-US origins."
+    },
+    {
+      "line_title": "GDS Dominance",
+      "line_content": "GDS maintains dominant price parity with over 80% of itineraries matching and only minor anomalies, despite significant long haul offer gaps."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Dominant Same Pricing",
+      "line_content": "SAME status exceeds 80% overall, indicating strong price alignment between JetBlue’s website and the OTA channel."
+    },
+    {
+      "line_title": "Variable OTA N/A",
+      "line_content": "Notable variation exists in OTA N/A rates between short haul (2.8%) and long haul (over 50%) itineraries."
+    },
+    {
+      "line_title": "Stable Price Differences",
+      "line_content": "Minor average differences of +0.20% for OTA HIGHER and -0.18% for OTA LOWER highlight consistent pricing behavior."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A Overall",
+      "line_content": "18.45% of website offers are missing on OTA, with marginal increases of +0.35% week-over-week and +0.25% month-over-month."
+    },
+    {
+      "line_title": "High Parity",
+      "line_content": "The SAME status is robust at around 80.20%, with only slight declines noted in historical comparisons."
+    },
+    {
+      "line_title": "Minor Price Increases",
+      "line_content": "OTA HIGHER instances are very low at 0.96% with negligible change, indicating isolated upward adjustments."
+    },
+    {
+      "line_title": "Slight Lower Adjustments",
+      "line_content": "OTA LOWER shows a small rise to 0.39% with modest increases over prior periods."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Alignment",
+      "line_content": "Short haul routes achieve 95.56% SAME status and minimal OTA N/A at 2.83%."
+    },
+    {
+      "line_title": "Long Haul Divergence",
+      "line_content": "Long haul itineraries display significant discrepancies with only 49.14% SAME status and 50.05% OTA N/A."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "US Itineraries",
+      "line_content": "US-based origins show 77.54% SAME and 21.26% OTA N/A with minor variations in higher and lower fares."
+    },
+    {
+      "line_title": "Non-US Itineraries",
+      "line_content": "Non-US routes are highly consistent with 95.07% SAME and a very low OTA N/A rate of 2.76%."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In Bookings",
+      "line_content": "Close-in bookings reveal 79.69% SAME, 18.68% OTA N/A, and minimal deviations for higher and lower offers."
+    },
+    {
+      "line_title": "Far Out Bookings",
+      "line_content": "Far-out bookings perform slightly better with 81.39% SAME and lower OTA N/A at 17.95%, ensuring consistent advance pricing."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Stable Parity",
+      "line_content": "Over 60% of MSE offers match website pricing, demonstrating stable pricing across itineraries."
+    },
+    {
+      "line_title": "Competitive Lower Offers",
+      "line_content": "Approximately 13-17% of fares are lower on MSE with a consistent -0.14% price difference, offering competitive advantages."
+    },
+    {
+      "line_title": "Regional Higher Anomalies",
+      "line_content": "Non-US routes show a significant anomaly with a 41.6% frequency of MSE higher fares."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Stable N/A",
+      "line_content": "MSE N/A rates hold steady at around 17.6%, indicating a stable portion of offers not present on the channel."
+    },
+    {
+      "line_title": "Consistent SAME",
+      "line_content": "SAME rates are maintained at roughly 61-62% across multiple dimensions with minimal fluctuations."
+    },
+    {
+      "line_title": "Notable Higher Variance",
+      "line_content": "Though overall MSE HIGHER is low at 6.8%, some regions experience up to a 9% weekly increase, warranting focus."
+    },
+    {
+      "line_title": "Downward Lower Trend",
+      "line_content": "MSE LOWER occurrences, averaging 13.7%, show a steady decline (approximately -1.75% week change) with uniform price differences."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Strength",
+      "line_content": "Short haul itineraries display 71.66% SAME and competitive lower fares at 16.59% with a -2.67% week change."
+    },
+    {
+      "line_title": "Long Haul Gaps",
+      "line_content": "Long haul data reveals only 42.16% SAME and minimal higher fare presence, indicating deeper segmentation challenges."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "US Stability",
+      "line_content": "US origins maintain 66.32% SAME and moderate lower fares at 12.84%, reflecting overall stable domestic pricing."
+    },
+    {
+      "line_title": "Non-US Variability",
+      "line_content": "Non-US origins experience pronounced divergence with a lower SAME rate of 37.08% and high MSE HIGHER prevalence at 41.62%."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Balance",
+      "line_content": "Close-in bookings register 58.99% SAME alongside competitive lower (16.58%) and moderate higher (6.84%) fare incidence."
+    },
+    {
+      "line_title": "Far-Out Tightness",
+      "line_content": "Far-out bookings show improved parity at 68.09% SAME and reduced lower fare instances at 7.60%, indicating tighter alignment."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Strong Price Parity",
+      "line_content": "Over 80% of GDS itineraries match website pricing, underscoring robust alignment."
+    },
+    {
+      "line_title": "Minor Anomalies",
+      "line_content": "GDS records only 0.9% higher and 0.3% lower discrepancies, with average differences remaining under 0.25%."
+    },
+    {
+      "line_title": "Long Haul Concerns",
+      "line_content": "Long haul routes show around 50% missing website offers, highlighting an area for further examination."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Notable N/A Rate",
+      "line_content": "17.91% of GDS offers are missing corresponding website matches, pointing to a significant gap."
+    },
+    {
+      "line_title": "High SAME Consistency",
+      "line_content": "80.92% SAME status confirms strong overall channel consistency."
+    },
+    {
+      "line_title": "Low Price Increases",
+      "line_content": "Only 0.87% of GDS itineraries package a higher fare, with minute increases averaging around 0.20%."
+    },
+    {
+      "line_title": "Minimal Lower Deviations",
+      "line_content": "GDS LOWER occurrences are limited to 0.30% with an average decrease near -0.18%."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Excellence",
+      "line_content": "Short haul routes achieve exceptional pricing alignment at 96.41% SAME, with negligible higher and lower discrepancies."
+    },
+    {
+      "line_title": "Long Haul Split",
+      "line_content": "Long haul segments show roughly 50% website offer gaps versus 49.59% matching, indicating variability in offer availability."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "US Performance",
+      "line_content": "US itineraries reveal 78.77% SAME with 20.28% missing offers and extremely low anomalies."
+    },
+    {
+      "line_title": "Non-US Reliability",
+      "line_content": "Non-US routes demonstrate higher consistency at 93.10% SAME and significantly lower missing offers (4.54%), despite a 2.17% incidence of higher fares."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Reliability",
+      "line_content": "Close-in bookings have 80.71% matching prices with 17.84% missing website offers and a slight increase in higher pricing up to 1.05%."
+    },
+    {
+      "line_title": "Far-Out Stability",
+      "line_content": "Far-out bookings mirror close-in performance with roughly 81.39% SAME status and a drop in higher discrepancies to 0.47%."
+    }
+  ]
+}

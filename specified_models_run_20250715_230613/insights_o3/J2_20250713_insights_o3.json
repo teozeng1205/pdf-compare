@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA – Parity Erosion",
+      "line_content": "92 % price parity still dominates OTAs, but all mis-matches concentrate in 0–7-day bookings and parity slid 4 ppts WoW."
+    },
+    {
+      "line_title": "MSE – Systematic Undercut",
+      "line_content": "Metasearch prices are lower on 74 % of itineraries (-4 % avg.) and the website is absent on 22 %, creating the greatest revenue leakage risk."
+    },
+    {
+      "line_title": "GDS – Widespread Premiums",
+      "line_content": "GDS quotes higher fares on 49 % of checks (+2.3 ppts MoM), and every non-Azerbaijan origin itinerary carries a markup, pressuring competitiveness abroad."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Parity Still Dominant",
+      "line_content": "92 % of OTA fares match the website, down 4 ppts WoW, indicating early signs of slippage."
+    },
+    {
+      "line_title": "Premiums Rising",
+      "line_content": "OTAs priced higher in 5.9 % of cases (+4.6 ppts WoW) but the average markup is a modest +0.22 %."
+    },
+    {
+      "line_title": "Leak Is Close-In",
+      "line_content": "100 % parity beyond 7 days; all discrepancies occur in the 0–7-day window, pointing to tactical, not systemic, issues."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Negligible ‘Not Found’",
+      "line_content": "Website fare missing on only 1 % of OTA checks, reducing content risk."
+    },
+    {
+      "line_title": "Parity Drifting",
+      "line_content": "Overall parity of 92.2 % fell 4.1 ppts WoW; continued monitoring required."
+    },
+    {
+      "line_title": "Higher-Priced Cases Up",
+      "line_content": "‘OTA higher’ frequency rose to 5.9 %, though the premium remains limited (+0.22 %)."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Mirrors Total",
+      "line_content": "Short-haul shows identical metrics: 92 % parity and 5.9 % OTA premiums."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "AZ Origins Slip",
+      "line_content": "Parity at Azerbaijan origins dropped to 91.1 %; OTA premiums quadrupled to 5.4 % (avg. +0.26 %)."
+    },
+    {
+      "line_title": "Non-AZ Wider Spread",
+      "line_content": "Outside Azerbaijan, parity 91.7 % with 6.3 % OTA premiums, but lower average markup (+0.19 %)."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-7d)",
+      "line_content": "Parity 89.3 % (-5.4 ppts WoW); OTA premiums 8 % with +0.22 % markup."
+    },
+    {
+      "line_title": "Far-Out (8+d)",
+      "line_content": "100 % price alignment across all 27 observations."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Undercuts Prevail",
+      "line_content": "73.5 % of itineraries cheaper on MSE, avg. 4 % discount, flat WoW."
+    },
+    {
+      "line_title": "Offer Absence",
+      "line_content": "21.6 % of O&Ds show no website fare on MSE, up 1.8 ppts WoW."
+    },
+    {
+      "line_title": "No Premium Risk",
+      "line_content": "Zero cases of MSE pricing above the website in any period."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "High ‘Not Found’",
+      "line_content": "21.6 % searches lack a J2 offer; small WoW deterioration (+1.8 ppts)."
+    },
+    {
+      "line_title": "Majority Cheaper",
+      "line_content": "73.5 % itineraries undercut the site (-4 % avg.), virtually unchanged WoW."
+    },
+    {
+      "line_title": "Low Parity Share",
+      "line_content": "Exact-match pricing sits at only 4.9 %, trending downward."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Same Pattern",
+      "line_content": "Short-haul matches network: 73.5 % undercut, 21.6 % missing, 4.9 % parity."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "AZ Origin – Content Strong",
+      "line_content": "0 % ‘not found’ and 92.6 % undercutting (4 % discount) for Azerbaijan departures."
+    },
+    {
+      "line_title": "Non-AZ – Content Gap",
+      "line_content": "45.8 % of external markets show no offer; only 52.1 % are cheaper, signalling urgent distribution fixes."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (≤7d)",
+      "line_content": "20 % offers missing; 73.3 % cheaper with stable 4 % discount."
+    },
+    {
+      "line_title": "Far-Out (≥30d)",
+      "line_content": "Undercut share up to 74.1 %; ‘not found’ down to 25.9 %, improving forward-book leakage."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Parity vs Premium",
+      "line_content": "50 % parity, 49 % premiums last week; discounts negligible (1 %)."
+    },
+    {
+      "line_title": "International Exposure",
+      "line_content": "100 % of non-AZ origin itineraries priced higher on GDS."
+    },
+    {
+      "line_title": "Parity Erosion",
+      "line_content": "Premium share up 2.35 ppts MoM; parity down 2.67 ppts."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Full Coverage",
+      "line_content": "0 % of website fares missing in GDS, ensuring content presence."
+    },
+    {
+      "line_title": "Premium Heavy",
+      "line_content": "49 % of fares carry a +7 % markup, rising MoM; parity at 50 %."
+    },
+    {
+      "line_title": "Discounts Rare",
+      "line_content": "Only 1 % of cases cheaper on GDS, though discounts are steep (-15 %)."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Mirrors Total",
+      "line_content": "49 % premiums (~7 %) and 50 % parity; parity down 2.7 ppts MoM."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "AZ Origins Resilient",
+      "line_content": "93 % parity, but premiums now 5.5 % with a hefty 25 % markup."
+    },
+    {
+      "line_title": "Non-AZ All Premium",
+      "line_content": "Every fare outside Azerbaijan higher on GDS (avg. +5 %)."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In",
+      "line_content": "49.3 % premiums (+7 %), parity down 3.5 ppts MoM."
+    },
+    {
+      "line_title": "Far-Out",
+      "line_content": "48.2 % premiums at lower +5 % markup; no discounts recorded."
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Higher Pricing Frequency",
+      "line_content": "OTA channels consistently show higher pricing compared to Air Baltic's website, with a frequency of over 95%, indicating a substantial price differential."
+    },
+    {
+      "line_title": "MSE Pricing Opportunity",
+      "line_content": "MSE channels demonstrate a unique opportunity with 45% of cases showing lower prices than Air Baltic's website, albeit with a decreasing trend."
+    },
+    {
+      "line_title": "GDS Higher Pricing Influence",
+      "line_content": "GDS channels predominantly exhibit higher prices than Air Baltic’s website, maintaining a 98% frequency of such instances."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "OTA Higher Pricing Trend",
+      "line_content": "Across all dimensions, Air Baltic's pricing is consistently higher on OTAs with a frequency over 95%."
+    },
+    {
+      "line_title": "Scarce Website Matches",
+      "line_content": "There are no cases where OTA prices are lower than the website prices, indicating a strong pricing differential."
+    },
+    {
+      "line_title": "Minimal Price Changes Over Time",
+      "line_content": "The price discrepancies between website and OTA have maintained stability, with changes below 0.1% on average."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offer Not Found",
+      "line_content": "Instances of OTA not having a comparable offer are minimal, having steady occurrences of around 3.45%."
+    },
+    {
+      "line_title": "Channel Higher Pricing",
+      "line_content": "OTA instances with higher prices compared to the Air Baltic website are predominant, consistently around 96.5%."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Dominance",
+      "line_content": "For short-haul routes, OTAs consistently show over 95% higher pricing compared to the Air Baltic website."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Latvia-Origin Trends",
+      "line_content": "For routes originating in Latvia, OTA prices are higher approximately 95.4% of the time."
+    },
+    {
+      "line_title": "Non-Latvia Stability",
+      "line_content": "Stability in OTA higher pricing for non-Latvia origins at 97.7%."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Clarity in Close-In Bookings",
+      "line_content": "For close-in booking windows, OTAs have higher prices 94.9% of the time."
+    },
+    {
+      "line_title": "Far-Out Booking Consistency",
+      "line_content": "All far-out booking instances have shown 100% higher prices on OTAs versus the website."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Predominant Price Status",
+      "line_content": "The MSE channel primarily shows lower prices than Air Baltic's website, accounting for about 45% of observations."
+    },
+    {
+      "line_title": "Price Stability on Channel",
+      "line_content": "Price matching between the MSE channel and Air Baltic's website has remained stable."
+    },
+    {
+      "line_title": "Channel Lowering Trends",
+      "line_content": "The frequency of lower prices on the MSE channel decreased by nearly 3% week-over-week."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Identical Offers",
+      "line_content": "Approximately 26% of itineraries were priced identically on the MSE channel and Air Baltic's website."
+    },
+    {
+      "line_title": "Channel Discounts",
+      "line_content": "MSE showed a 45% incidence of prices being lower than the airline's website, although this trend is decreasing."
+    },
+    {
+      "line_title": "Higher Channel Prices",
+      "line_content": "Prices on the MSE channel that were higher than the website saw a rise in frequency by 2.63% last week."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Dynamics",
+      "line_content": "The short-haul market exhibited a 45% incidence of fares being cheaper on MSE, with a decreasing trend in lower pricing."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Latvia Origin Comparison",
+      "line_content": "In Latvia-origin flights, 53.49% of fares were lower on the MSE channel."
+    },
+    {
+      "line_title": "Non-Latvia Origin Trends",
+      "line_content": "Higher recorded frequencies of MSE showing higher prices by 0.85% week-over-week for non-Latvia origins."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in bookings favored the MSE channel, with 56.9% lower prices compared to the airline's website."
+    },
+    {
+      "line_title": "Far-Out Bookings and MSE Premiums",
+      "line_content": "In the far-out booking window, MSE prices were higher than website prices for 53.57% of itineraries."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS Consistently Higher",
+      "line_content": "Prices in the GDS channel are consistently higher, with over 98% frequency in comparisons."
+    },
+    {
+      "line_title": "Stable Patterns in Availability",
+      "line_content": "Minimal change in instances where the GDS channel has the same or lower prices indicates a stable trend of higher pricing."
+    },
+    {
+      "line_title": "Low Frequency of GDS-exclusive Offers",
+      "line_content": "The frequency of website offers not available on GDS is below 2%."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offers Not Found",
+      "line_content": "Instances where website offers are not found on GDS occur less than 2% of the time."
+    },
+    {
+      "line_title": "Same Price Offers",
+      "line_content": "No significant occurrences of the same price offers in GDS compared with the website."
+    },
+    {
+      "line_title": "Channel Higher Offers Dominant",
+      "line_content": "The GDS channel frequently has higher prices than the website, with frequencies near 98%-100%."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Dominance of Higher Pricing",
+      "line_content": "For short-haul flights, prices are consistently higher on GDS with nearly identical frequency to overall patterns."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Higher Pricing from LV",
+      "line_content": "From Latvia, prices on the GDS are higher 100% of the time, slightly increasing by 2.33 percentage points."
+    },
+    {
+      "line_title": "Stable Non-LV Patterns",
+      "line_content": "For non-LV origins, high GDS pricing frequency remains stable at approximately 97.67%."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "High Close-In Pricing",
+      "line_content": "For close-in booking windows, GDS channel prices are higher over 98% of the time."
+    },
+    {
+      "line_title": "Far-Out Bookings Premium",
+      "line_content": "In far-out bookings, the GDS consistently shows 100% higher pricing compared to the airline's site."
+    }
+  ]
+}

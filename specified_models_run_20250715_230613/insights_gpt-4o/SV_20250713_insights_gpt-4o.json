@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Competitiveness",
+      "line_content": "OTA channel improved competitiveness with prices lower than the airline's site 16.09% of the time last week."
+    },
+    {
+      "line_title": "MSE Pricing Strategy",
+      "line_content": "MSE consistently offers lower prices with 95.6% of sampled itineraries priced below the airline's site."
+    },
+    {
+      "line_title": "GDS Pricing Opportunities",
+      "line_content": "GDS channel prices are identical to Saudia's website 68.59% of the time, with lower prices in 12.20% of cases offering potential growth in competitiveness."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "OTA Alignment Consistency",
+      "line_content": "67.77% of prices on the OTA channel matched those on the airline's website, indicating stable alignment."
+    },
+    {
+      "line_title": "Increased OTA Competitiveness",
+      "line_content": "OTA prices were lower than the airline's site 16.09% of the time, showing marginally improved competitiveness."
+    },
+    {
+      "line_title": "Minimal Disparity Changes",
+      "line_content": "Pricing discrepancies on OTA remained stable, with less than a 0.1% change."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA Site Absences",
+      "line_content": "Prices not found on the OTA channel remained minimal and stable."
+    },
+    {
+      "line_title": "Stable Match Rates",
+      "line_content": "Last week's prices matched 67.77% of the time across OTA and airline pricing."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Price Changes",
+      "line_content": "Short-haul routes had OTAs offering lower prices 16.67% of the time last week."
+    },
+    {
+      "line_title": "Long-Haul Stability",
+      "line_content": "Long-haul fares are 74.48% aligned between OTA and airline pricing."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Strong Alignment in SA",
+      "line_content": "Saudi Arabia origin flights had a 68.25% match rate with the airline pricing."
+    },
+    {
+      "line_title": "Non-SA Regions Competitive",
+      "line_content": "OTAs priced lower 27.48% of the time for Non-SA regions, reflecting competitive positioning."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Competitive Edge",
+      "line_content": "For close-in bookings, OTAs offered lower prices in 17.49% of cases last week."
+    },
+    {
+      "line_title": "Far-Out Continuity",
+      "line_content": "Far-out bookings had a 72.19% alignment with the airline pricing."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Stable Channel Performance",
+      "line_content": "MSE offers lower prices than the airline's site consistently across dimensions."
+    },
+    {
+      "line_title": "Negligible Price Changes",
+      "line_content": "Minimal fluctuations in short-haul and long-haul flights over the recent week."
+    },
+    {
+      "line_title": "Dominant Lower Pricing",
+      "line_content": "MSE platform prices were lower for 95.6% of itineraries."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A Consistency",
+      "line_content": "6% month-over-month decline in cases where MSE did not offer website deals."
+    },
+    {
+      "line_title": "Predominance of Lower Prices",
+      "line_content": "MSE offers lower prices 94.44% to 97.03% of the time in analyses."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Focus",
+      "line_content": "Short-haul flights dominate MSE but show less favorable pricing than long-haul."
+    },
+    {
+      "line_title": "Long-Haul Stability",
+      "line_content": "Long-haul saw a 1.54% improvement in lower pricing frequency on MSE."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "SA Performance",
+      "line_content": "95.36% of SA-origin prices were lower on MSE, with a decrease in frequency last week."
+    },
+    {
+      "line_title": "Non-SA Offers Stability",
+      "line_content": "Non-SA origins maintained stable lower pricing, with less than 2% change."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Pricing Dynamics",
+      "line_content": "Close-in bookings saw a 0.21% decrease in lower price offers on MSE."
+    },
+    {
+      "line_title": "Far-Out Pricing Stability",
+      "line_content": "Far-out bookings showed consistent lower pricing month-over-month on MSE."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS Consistency",
+      "line_content": "68.59% of GDS prices matched Saudia's site."
+    },
+    {
+      "line_title": "GDS Higher Rates",
+      "line_content": "15.70% of GDS prices were higher than Saudia's site last week."
+    },
+    {
+      "line_title": "Opportunities in Pricing",
+      "line_content": "GDS offers prices lower than Saudia's in 12.20% of cases."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Identical Pricing",
+      "line_content": "GDS fares matched Saudia's website in 68.59% of cases."
+    },
+    {
+      "line_title": "Channel-Specific Discounts",
+      "line_content": "12.20% of GDS pricing was lower, indicating channel-specific pricing."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Middle East Insights",
+      "line_content": "82.89% price parity in Middle East with GDS discounts at 13.92%."
+    },
+    {
+      "line_title": "Non-Middle East Region Trends",
+      "line_content": "82.89% price match in Non-Middle East regions, with 1.97% lower prices."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Middle East Origin Focus",
+      "line_content": "66.19% price consistency for Middle East origins on GDS."
+    },
+    {
+      "line_title": "International Origin Trends",
+      "line_content": "82.89% consistency for international origins, with 1.97% GDS price advantages."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Near-Term Booking Dynamics",
+      "line_content": "Close-in GDS bookings had competitive rates 13.79% of the time."
+    },
+    {
+      "line_title": "Far-Term Booking Strategy",
+      "line_content": "Far-out bookings had 70.27% identical pricing, with discounts in 9.12% of cases."
+    }
+  ]
+}

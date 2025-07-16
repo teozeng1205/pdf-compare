@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA – Mostly Aligned",
+      "line_content": "84 % of fares match the site; gaps are concentrated in non-Thai points of sale and last-minute shopping."
+    },
+    {
+      "line_title": "MSE – Severe Undercuts",
+      "line_content": "91 % of metasearch listings are cheaper by an average 8 %, signalling immediate revenue leakage."
+    },
+    {
+      "line_title": "GDS – Parity Eroding",
+      "line_content": "Parity has fallen to 76 %; undercuts now 14 % with the sharpest exposure in overseas markets."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Strong Parity",
+      "line_content": "84 % of OTA fares equal website prices, stable week-on-week and only 3 ppts below last month."
+    },
+    {
+      "line_title": "Selective Undercuts",
+      "line_content": "OTAs under-price on 7.3 % of itineraries, mainly in non-Thai markets and 0-14-day bookings."
+    },
+    {
+      "line_title": "Long-Haul Premiums",
+      "line_content": "OTA-higher cases doubled to 6 % on long-haul routes, eroding competitiveness on high-yield ODs."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Coverage Intact",
+      "line_content": "Website fare missing in just 2.5 % of checks; distribution reach remains solid."
+    },
+    {
+      "line_title": "Parity Drift",
+      "line_content": "Same-price share at 84.2 % is down 2.6 ppts month-over-month; monitor for further slide."
+    },
+    {
+      "line_title": "Undercut Trend Cooling",
+      "line_content": "OTA-lower share fell 1.1 ppt WoW to 7.3 %, yet levels stay 2.9 ppts above last month."
+    },
+    {
+      "line_title": "Modest Premium Risk",
+      "line_content": "OTA-higher occurrences rose to 6 %, broadly in line with the monthly average."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "Parity 83 %; undercuts 8.7 % (-1 ppt WoW); premiums 6 %."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "Parity 91 %; no undercuts; OTA premiums 6 % and growing."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Thailand POS",
+      "line_content": "Parity 92 %; undercuts 3.2 % (×4 MoM) but still low in absolute terms."
+    },
+    {
+      "line_title": "Non-Thailand POS",
+      "line_content": "Parity just 54 %; undercuts 22 %, premiums 21 %—largest dispersion hotspot."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-14 d)",
+      "line_content": "Parity 80 %; undercuts 9.8 %, premiums 6.3 %—widest swings for urgent travel."
+    },
+    {
+      "line_title": "Far-Out (15 d+)",
+      "line_content": "Parity 92 %; undercuts 2.7 % (-2.8 ppts WoW); premiums up to 5.3 %."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Chronic Undercutting",
+      "line_content": "91.7 % of itineraries cheaper on MSE, average 8 % discount."
+    },
+    {
+      "line_title": "Gap Accelerating",
+      "line_content": "‘MSE Lower’ share jumped 20 ppts month-over-month; parity shrank to 6.6 %."
+    },
+    {
+      "line_title": "Full Availability",
+      "line_content": "Website offer missing in only 0.7 % of searches; issue is price, not presence."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Minimal Offer Gaps",
+      "line_content": "Only 0.7 % of OD pairs lack a website fare on MSE."
+    },
+    {
+      "line_title": "Parity Collapse",
+      "line_content": "Exact-match fares down to 6.6 % (-20 ppts MoM)."
+    },
+    {
+      "line_title": "Revenue Dilution",
+      "line_content": "MSE lower on 91.7 % of checks, discount 8 %; risk intensifying week-on-week."
+    },
+    {
+      "line_title": "Rare Premiums",
+      "line_content": "MSE higher in just 0.9 % of cases, limiting upside pricing."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "92 % cheaper on MSE, 9 % average discount; gap widened 4 ppts WoW."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "94 % cheaper (6 % discount) but 4.6 % premium cases—policy inconsistency."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Thailand POS",
+      "line_content": "91.6 % undercutting at ‑8 %, +5 ppts WoW—domestic leakage worsening."
+    },
+    {
+      "line_title": "Non-Thailand POS",
+      "line_content": "Deeper 11 % discount, plus higher 3.3 % premium share; controls volatile abroad."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-7 d)",
+      "line_content": "94 % cheaper, 10 % discount; last-minute revenue most at risk."
+    },
+    {
+      "line_title": "Far-Out (8 d+)",
+      "line_content": "88 % cheaper, 6 % discount; higher parity (10 %) offers remediation window."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Parity Downtrend",
+      "line_content": "GDS parity at 76 %, ‑12 ppts MoM; alignment slipping."
+    },
+    {
+      "line_title": "Increasing Undercuts",
+      "line_content": "13.8 % of fares cheaper, 20 % average discount; +7.5 ppts MoM."
+    },
+    {
+      "line_title": "Overseas Exposure",
+      "line_content": "Non-Thai origins show 25 % undercuts—double domestic rate."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Full Presence",
+      "line_content": "No ‘offer not found’ cases last week."
+    },
+    {
+      "line_title": "Parity Erosion",
+      "line_content": "Same-price share 76.3 %, down 3.4 ppts WoW."
+    },
+    {
+      "line_title": "Discount Pressure",
+      "line_content": "GDS lower on 13.8 % with ‑20 % gap; up 1.5 ppts WoW."
+    },
+    {
+      "line_title": "Premium Share",
+      "line_content": "9.9 % premiums, 16 % mark-up; manageable but rising."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "Parity 75 %; undercuts 15.7 % (-21 %); pressure building regionally."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "Parity 85 %; limited 3 % undercuts; premiums 12 % (+14 %)."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Thailand POS",
+      "line_content": "Parity 79 %; 11 % undercuts but deepest 26 % discount when they occur."
+    },
+    {
+      "line_title": "Non-Thailand POS",
+      "line_content": "Parity 65 %; undercuts 25 % (-11 %); highest international leakage."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In",
+      "line_content": "Parity 73 %; 16.6 % undercuts at ‑22 %; rising weekly."
+    },
+    {
+      "line_title": "Far-Out",
+      "line_content": "Parity 81 %; undercuts 8.6 %, lighter ‑15 % gap; premiums unchanged at 9.9 %."
+    }
+  ]
+}

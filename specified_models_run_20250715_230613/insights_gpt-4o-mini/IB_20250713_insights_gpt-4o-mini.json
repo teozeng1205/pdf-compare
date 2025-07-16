@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Pricing Adherence",
+      "line_content": "The OTA channel reflects strong adherence to the airline's pricing, with 83.16% of fares matching the airline's website."
+    },
+    {
+      "line_title": "MSE Competitive Advantage",
+      "line_content": "74.3% of prices on the MSE channel were lower than those on the airline's website, providing a competitive edge."
+    },
+    {
+      "line_title": "GDS Price Dominance",
+      "line_content": "GDS prices were higher than the airline's website in 72.85% of instances, indicating a need for pricing strategy adjustments."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Frequent Options",
+      "line_content": "In the latest week, the 'Same' status was the most frequent, accounting for 83.16% of all fares on the OTA channel."
+    },
+    {
+      "line_title": "Price Competitiveness",
+      "line_content": "The OTA channel offered lower prices only in 1.34% of itineraries during the latest week, indicating strong price adherence to the airline's own pricing."
+    },
+    {
+      "line_title": "Frequent High Prices",
+      "line_content": "Prices were higher on the OTA channel for 2.24% of itineraries last week, reflecting limited competitive pricing dynamics."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A",
+      "line_content": "The OTA channel reported no offer for 13.26% of itineraries in the latest week, a potential area for growth."
+    },
+    {
+      "line_title": "Equal Pricing",
+      "line_content": "83.16% of fares from the OTA matched the airline's website prices, stable across the last week."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Spain Region",
+      "line_content": "In the Spanish market, prices were the same for 82.78% of fares, indicating strong price consistency."
+    },
+    {
+      "line_title": "Non-Spain Region",
+      "line_content": "The Non-Spain region experienced a 2.84% higher frequency of OTA fares compared to the airline's site, suggesting unique pricing strategies."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Spain Origin",
+      "line_content": "For origin point Spain, 13.91% of fares were not available on the OTA channel last week, highlighting potential availability gaps."
+    },
+    {
+      "line_title": "Non-Spain Origin",
+      "line_content": "Non-Spain origins show a higher 'Same' price rate, with 84.50%, demonstrating consistent pricing."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "In close-in booking scenarios, 79.31% of prices matched exactly with airline offerings, reinforcing competitive pricing."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "For far-out bookings, OTA channel pricing discrepancies were noted less frequently, with 90.85% found the same, indicating stable pricing in advance."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Significant Lower Prices",
+      "line_content": "In the latest week, 74.3% of prices on the MSE channel were lower than the airline's website."
+    },
+    {
+      "line_title": "Higher Prices Declining",
+      "line_content": "MSE prices being higher than the airline's website have become negligible, with only 0.07% of offers recorded as such in the last week."
+    },
+    {
+      "line_title": "Consistency Over Time",
+      "line_content": "MSE pricing showed consistent trends, with a decrease in offerings higher than the airline’s site from the previous month by 9.90%."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Low Pricing Dominance",
+      "line_content": "In the latest week, 74.3% of MSE prices were lower than the airline's website, indicating strong competitive pricing."
+    },
+    {
+      "line_title": "Stable Same Pricing",
+      "line_content": "Only 14.4% of offerings were the same price as the airline’s website, suggesting limited parity."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "European Offers",
+      "line_content": "For Spain (ES), the MSE channel showed 76.0% of fares lower than the airline’s site in the latest week, enhancing regional competitiveness."
+    },
+    {
+      "line_title": "Non-Spain Variability",
+      "line_content": "In non-Spain routes, lower prices constituted 67.2%, reflecting a need for further competitive pricing strategies."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Strong Spain Domination",
+      "line_content": "Spanish origin routes displayed a commanding presence of lower fares at 76.0% compared to the airline's website."
+    },
+    {
+      "line_title": "Moderate Non-Spain Pricing",
+      "line_content": "Non-Spanish origin routes had a lower disparity with 67.2% of MSE prices being lower than the airline's prices."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Advantages",
+      "line_content": "The MSE channel showed that 70.0% of last-minute bookings were priced lower than the airline's site, confirming competitive rates for urgent travelers."
+    },
+    {
+      "line_title": "Far Out Offers",
+      "line_content": "For bookings made further out, 82.9% of prices were lower, highlighting consistent pricing strategies designed for long-term travelers."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Increased Higher Prices",
+      "line_content": "The proportion of instances where GDS prices were higher than the airline website increased to 72.85% in the latest week."
+    },
+    {
+      "line_title": "Stable Price Range",
+      "line_content": "The frequency of prices being the same between the GDS channel and airline website remains low across all dimensions, with a maximum of 0.0006 for the latest week."
+    },
+    {
+      "line_title": "Low Competition on Short Haul",
+      "line_content": "For short haul itineraries, GDS prices were lower only 15.91% of the time, indicating limited competitive pricing on this segment."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Higher Status Dominance",
+      "line_content": "Overall, 72.85% of the records show GDS pricing higher than the airline's website, a slight increase from previous weeks."
+    },
+    {
+      "line_title": "N/A and Same Rates",
+      "line_content": "The GDS N/A status accounted for 12.55% of the pricing instances."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul - Price Increase",
+      "line_content": "In short haul routes, 72.38% of instances reflected higher GDS prices compared to airline website."
+    },
+    {
+      "line_title": "Long Haul - GDS Performance",
+      "line_content": "For long haul trips, GDS prices were higher 77.97% of the time, with average disparities showing minimal improvement."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Spanish Origin Dominance",
+      "line_content": "For departures from Spain, GDS prices were higher 70.23% of the time, maintaining a consistent trend."
+    },
+    {
+      "line_title": "Non-Spain Origin Challenges",
+      "line_content": "Non-Spanish origins exhibited a higher percentage of GDS prices being higher at 83.40%. This represents an area for potential focus on competitive pricing strategies."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In Booking - Price Comparisons",
+      "line_content": "GDS prices on close-in bookings were higher in 71.01% of cases, showcasing a persistent trend in premium pricing."
+    },
+    {
+      "line_title": "Far Out Booking Trends",
+      "line_content": "In far out bookings, GDS pricing was higher 76.50% of the time, indicating a need for more competitive offers as departure dates approach."
+    }
+  ]
+}

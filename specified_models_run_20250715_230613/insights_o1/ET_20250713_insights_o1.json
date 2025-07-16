@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Overview",
+      "line_content": "OTA fares exceed the homepage about 99% of the time, carrying a modest 0.63% average premium."
+    },
+    {
+      "line_title": "MSE Overview",
+      "line_content": "MSE delivers nearly perfect fare parity with the homepage, showing over 99% aligned fares."
+    },
+    {
+      "line_title": "GDS Overview",
+      "line_content": "GDS fares maintain a consistent 52–54% premium over the homepage across nearly all itineraries."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "OTA Higher ~99%",
+      "line_content": "Nearly all itineraries show higher OTA prices, though the premium averages only about 0.63%."
+    },
+    {
+      "line_title": "Not Found Slight Uptick",
+      "line_content": "OTA unavailability stays below 2% but shows notable increases of up to 52% in the Far Out window."
+    },
+    {
+      "line_title": "Steady Price Gap",
+      "line_content": "The OTA price difference remains under 1%, indicating consistent but minor markups."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A",
+      "line_content": "Around 1% of itineraries overall; up 23% week over week and as high as 52% for Far Out bookings."
+    },
+    {
+      "line_title": "SAME",
+      "line_content": "No matching fares identified, implying zero direct parity with the airline’s site."
+    },
+    {
+      "line_title": "OTA HIGHER",
+      "line_content": "Represents nearly 99% of observed fares; average premiums under 1% across weekly and monthly views."
+    },
+    {
+      "line_title": "OTA LOWER",
+      "line_content": "No instances where OTA undercuts the homepage fare."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Across this category, 99% of fares are OTA Higher with only a ~0.63% price premium."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "ET",
+      "line_content": "For departures from ET, OTA pricing is higher in almost all cases; no lower or equivalent fares."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "OTA higher nearly 99% of the time, with non-availability rising by 6% since last week."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "OTA higher in about 99% of itineraries; ‘not found’ jumped 52% week over week but remains under 2%."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "High Match Rates",
+      "line_content": "Over 99% of MSE fares aligned with the airline's site, reflecting virtually no price undercuts or premiums."
+    },
+    {
+      "line_title": "Minimal Listing Gaps",
+      "line_content": "A small fraction of routes (up to 1.06%) were not found on MSE for far-out bookings, but that share has recently fallen to 0%."
+    },
+    {
+      "line_title": "Steady Performance",
+      "line_content": "No fluctuations in relative pricing over the past weeks and month, indicating stable MSE parity."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A",
+      "line_content": "Rare missing listings, peaking at 1.06% for some far-out routes, now decreasing to none."
+    },
+    {
+      "line_title": "SAME",
+      "line_content": "Nearly 100% of itineraries matched the airline’s website across all timeframes, demonstrating consistent parity."
+    },
+    {
+      "line_title": "MSE LOWER",
+      "line_content": "No instances recorded, indicating no undercutting by the MSE channel."
+    },
+    {
+      "line_title": "MSE HIGHER",
+      "line_content": "No observations of higher fares, signaling no premium charged by MSE."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Nearly all short-haul routes (99.6% last week) matched the site, with a negligible 0.4% missing listings soon disappearing."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "ET Origin",
+      "line_content": "Close to 100% fare parity on Ethiopian origins, with minimal missing itineraries dropping from 0.4% to 0% over time."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "Full alignment of prices across last week and previous periods, with no missing or misaligned fares."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Initially 1.06% of routes not found last week, now improved to full availability, maintaining 100% price matches."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Consistently Higher Fares",
+      "line_content": "GDS fares remain above website rates in over 99% of cases, averaging a 52–54% premium last week."
+    },
+    {
+      "line_title": "Minimal Pricing Parity",
+      "line_content": "No occurrences of same-price or channel-lower fares, underscoring a persistent markup on GDS."
+    },
+    {
+      "line_title": "Stable Gap",
+      "line_content": "Week-over-week frequency shifts remain minor, indicating little change in the established premium."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Minimal Non-Availability",
+      "line_content": "Offers not found on GDS account for roughly 0.1%, showing near-complete coverage."
+    },
+    {
+      "line_title": "No Same Pricing",
+      "line_content": "No matching fare levels, indicating consistent fare differentials in this channel."
+    },
+    {
+      "line_title": "Dominant GDS Premium",
+      "line_content": "Nearly all recorded GDS fares exceed website prices by about 52–54%, with limited fluctuation."
+    },
+    {
+      "line_title": "No GDS Discounts",
+      "line_content": "No channel-lower fares observed, reinforcing GDS’s higher price position."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "Similar to overall results, GDS fares are higher nearly 100% of the time, at a 52–54% markup."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Ethiopia Origin",
+      "line_content": "All monitored itineraries from ET show GDS fares consistently higher by about 52–54%."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "GDS outpricing the website in almost every close-in case, at a 52–54% rate difference."
+    },
+    {
+      "line_title": "Far-Out Bookings",
+      "line_content": "Near-complete GDS dominance, with a 51–54% premium versus direct website fares."
+    }
+  ]
+}

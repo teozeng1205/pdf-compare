@@ -1,0 +1,180 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Pricing Parity",
+      "line_content": "The OTA channel maintains strong pricing parity with the Brussels Airlines website, achieving a 93.33% parity rate across offerings."
+    },
+    {
+      "line_title": "MSE Competitive Pricing",
+      "line_content": "MSE channel is highly competitive, with 87% of prices lower than the Brussels Airlines website, emphasizing a consumer-friendly pricing strategy."
+    },
+    {
+      "line_title": "GDS Premium Pricing",
+      "line_content": "The GDS channel consistently favors higher pricing, with over 98% of prices being higher than the website, signifying a premium positioning."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Strong Parity",
+      "line_content": "93.33% of the last week's offers on the OTA mirrored Brussels Airlines' website prices, ensuring strong price parity."
+    },
+    {
+      "line_title": "Slight Increase in Higher Offers",
+      "line_content": "3.19% of itineraries showed higher prices on the OTA, a minor 0.61% increase from the previous week."
+    },
+    {
+      "line_title": "Minimal Lower Offers",
+      "line_content": "Only 1.45% of itineraries were cheaper on the OTA, with negligible week-over-week changes."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Web Offer Missing",
+      "line_content": "An increase of 0.60% in offers not available on OTA was noted compared to last week."
+    },
+    {
+      "line_title": "Price Parity Consistency",
+      "line_content": "93.33% of prices remain identical, showing persistent high parity."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "Short-haul routes exhibited a steady 93.33% price parity."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Belgium Parity",
+      "line_content": "Belgium-origin routes had a 93.33% parity rate, aligning closely with the website."
+    },
+    {
+      "line_title": "Non-Belgium Parity Increase",
+      "line_content": "Non-BE routes saw improved parity at 93.85%."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Stability",
+      "line_content": "Close-in bookings retained 91.23% parity, slightly below the average."
+    },
+    {
+      "line_title": "Far-Out Improvements",
+      "line_content": "Far-out bookings achieved 98.29% parity, marking an improvement."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Competitive Pricing Dominance",
+      "line_content": "87% of MSE offers were below Brussels Airlines' website prices, indicating significantly competitive pricing."
+    },
+    {
+      "line_title": "Stable Competitive Position",
+      "line_content": "MSE consistently offers lower prices compared to the airline's site, maintaining a consumer-attractive pricing stance."
+    },
+    {
+      "line_title": "Minimal Higher Pricing",
+      "line_content": "Only 0.3% of itineraries had higher prices on MSE, highlighting effective control."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Price Alignment",
+      "line_content": "10% of prices matched the airline's website, showcasing some consistency."
+    },
+    {
+      "line_title": "Majority Lower Prices",
+      "line_content": "A notable 87% of MSE fares are lower, emphasizing strong consumer value."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "Short haul pricing on MSE remains in line with trends, with 92% priced lower."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Belgium Origin Advantage",
+      "line_content": "94% of Belgium-origin fares are lower on MSE, demonstrating channel strategy alignment."
+    },
+    {
+      "line_title": "Non-BE Competitive Pricing",
+      "line_content": "92% of non-BE fares are lower, maintaining competitiveness."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Pricing Strategy",
+      "line_content": "Close-in bookings maintain 91% lower prices on MSE."
+    },
+    {
+      "line_title": "Far-Out Competitive Edge",
+      "line_content": "96% of far-out bookings are priced lower on MSE."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Higher Pricing Strategy",
+      "line_content": "GDS consistently shows higher prices across 98% of cases, aligning with a premium channel strategy."
+    },
+    {
+      "line_title": "Lack of Parity",
+      "line_content": "Negligible price parity exists in GDS, indicating strong differential pricing."
+    },
+    {
+      "line_title": "Rare Lower Pricing",
+      "line_content": "Instances of lower GDS pricing are extremely rare, reinforcing high pricing strategy."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Absence Decrease",
+      "line_content": "A small decrease in missing GDS offers, from 0.87% to 1.72%, indicates better synchronization."
+    },
+    {
+      "line_title": "Predominantly Higher Pricing",
+      "line_content": "GDS fares remain higher in over 98% of cases, reinforcing its premium position."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Premium Pricing",
+      "line_content": "98.5% of short haul prices are higher on GDS, supporting a robust pricing approach."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Higher BE Pricing",
+      "line_content": "98.2% of Belgium-origin flights are higher priced on GDS."
+    },
+    {
+      "line_title": "High Non-BE Pricing",
+      "line_content": "99% of non-BE flights are priced higher on GDS."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In High Pricing",
+      "line_content": "GDS prices are higher in 98.2% of close-in bookings."
+    },
+    {
+      "line_title": "Far-Out Pricing Strategy",
+      "line_content": "100% of far-out bookings are higher priced on GDS."
+    }
+  ]
+}

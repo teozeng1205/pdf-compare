@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Mark-Up Dominates",
+      "line_content": "89.8 % of HX itineraries were priced higher on OTAs last week, averaging a 9 % premium."
+    },
+    {
+      "line_title": "MSE Systematic Undercut",
+      "line_content": "MSE undercut the website on 51.6 % of itineraries and was never higher, signalling consistent downward leakage."
+    },
+    {
+      "line_title": "GDS Premium Widespread",
+      "line_content": "GDS showed higher fares in 85.6 % of cases, with a 5 % average premium and very limited parity (4.7 %)."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "90 % OTA Mark-Up",
+      "line_content": "OTAs priced above HX.com on 89.8 % of itineraries last week, carrying a 9 % average premium."
+    },
+    {
+      "line_title": "Parity Improving",
+      "line_content": "‘OTA Higher’ share fell 3 ppts WoW while ‘OTA Lower’ more than doubled to 5.1 %."
+    },
+    {
+      "line_title": "Window Effect",
+      "line_content": "Far-out bookings still show the steepest premium (16 %) but also the largest WoW improvement (-7 ppts in overpriced share)."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Overpricing Still Dominant",
+      "line_content": "‘OTA Higher’ at 89.8 % (-3 ppts WoW) with a steady 9 % markup keeps revenue risk high."
+    },
+    {
+      "line_title": "Discount Frequency Rising",
+      "line_content": "‘OTA Lower’ climbed to 5.1 %, offering 30–49 % savings where present and eroding direct channel appeal."
+    },
+    {
+      "line_title": "Parity Rare",
+      "line_content": "Exact fare matches remain below 2 %, limiting perceived price consistency."
+    },
+    {
+      "line_title": "Offer Absence Minimal",
+      "line_content": "Website fare missing in 3.2 % of OTA records, stable month-on-month."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Steady Premium",
+      "line_content": "91.1 % of short-haul itineraries are higher on OTAs with a 9 % premium; little weekly movement."
+    },
+    {
+      "line_title": "Long-Haul Mixed",
+      "line_content": "‘OTA Higher’ dipped to 88 % yet the premium rose to 10 %; when lower, OTAs undercut by 35 %."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "HK Departures Most Affected",
+      "line_content": "91.4 % higher-priced incidence, though premium (9 %) slightly trails far-out non-HK routes."
+    },
+    {
+      "line_title": "Non-HK Slightly Better",
+      "line_content": "Higher-priced share at 88.4 % but with a larger 10 % markup; parity (3.6 %) triples HK levels."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Modest Gap",
+      "line_content": "92.7 % overpriced with a 6 % premium; undercut cases are rare (2.7 %) yet deep (-49 %)."
+    },
+    {
+      "line_title": "Far-Out Wide Gap, Improving",
+      "line_content": "83.3 % overpriced, 16 % premium; overpriced share fell 7.3 ppts WoW, showing traction in distribution control."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Consistent Undercut",
+      "line_content": "MSE priced below HX.com on 51.6 % of itineraries and never higher."
+    },
+    {
+      "line_title": "Long-Haul & Far-Out Exposed",
+      "line_content": "Lower fares on 56.5 % of long-haul and 61.5 % of far-out searches, both up ~9–10 ppts WoW."
+    },
+    {
+      "line_title": "Home-Market Cannibalisation",
+      "line_content": "87.5 % of HK-origin quotes were cheaper on MSE, far exceeding the 18 % for non-HK origins."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Undercut Majority",
+      "line_content": "51.6 % lower-priced share (+3.1 ppts WoW), although average discount is marginal (-0.06 %)."
+    },
+    {
+      "line_title": "Large Parity Block",
+      "line_content": "48.4 % fare parity, virtually unchanged month-on-month."
+    },
+    {
+      "line_title": "No Premium Cases",
+      "line_content": "0 % MSE-higher keeps downside unidirectional."
+    },
+    {
+      "line_title": "Full Offer Presence",
+      "line_content": "Website fare was found in 100 % of MSE queries last week."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Balanced",
+      "line_content": "47.1 % lower, 52.9 % parity; undercut frequency eased 2 ppts WoW."
+    },
+    {
+      "line_title": "Long-Haul Leakage Rising",
+      "line_content": "56.5 % lower (+8.9 ppts WoW), overtaking parity and squeezing margins."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "HK Origins Vulnerable",
+      "line_content": "87.5 % lower, only slight WoW improvement (-1.7 ppts)."
+    },
+    {
+      "line_title": "Non-HK Holding",
+      "line_content": "18 % lower yet up 8.6 ppts WoW; parity still dominant at 82 %."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Controlled",
+      "line_content": "Parity leads (52.7 %) with 47.3 % lower; leakage manageable in near-term demand."
+    },
+    {
+      "line_title": "Far-Out Dilution",
+      "line_content": "61.5 % lower (+10 ppts WoW, +12 ppts MoM) threatens early-booking revenue."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS Premium Prevalent",
+      "line_content": "86 % of itineraries priced higher than HX.com, averaging a 5 % premium."
+    },
+    {
+      "line_title": "High-Yield Segments Exposed",
+      "line_content": "Long-haul (7 % premium) and far-out (11 % premium) show the widest gaps."
+    },
+    {
+      "line_title": "Home-Market Gap",
+      "line_content": "HK origins 90 % higher with a 7 % premium, topping non-HK routes."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Premium Dominant",
+      "line_content": "85.6 % higher-priced share (+1 ppt WoW) with a 5 % average markup."
+    },
+    {
+      "line_title": "Parity Scarce",
+      "line_content": "Exact matches occurred on just 4.7 % of itineraries."
+    },
+    {
+      "line_title": "Undercuts Deep, Rare",
+      "line_content": "5.6 % lower share carries a steep 30 % discount when it appears."
+    },
+    {
+      "line_title": "Offer Missing Limited",
+      "line_content": "Only 4.2 % of website fares were absent in GDS, down 0.6 ppt WoW."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Premium",
+      "line_content": "87 % higher with a 3 % premium; share climbed 3 ppts WoW."
+    },
+    {
+      "line_title": "Long-Haul Larger Gap",
+      "line_content": "83 % higher with a 7 % premium, though higher-priced share dipped 3 ppts WoW."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "HK Premium",
+      "line_content": "90 % higher, 7 % premium; 7.7 % lower cases average a 30 % markdown."
+    },
+    {
+      "line_title": "Non-HK Moderated",
+      "line_content": "81 % higher, 2 % premium; undercutting limited to 2.7 % of itineraries."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Modest Premium",
+      "line_content": "88.7 % higher with a 2 % premium; undercuts 3.3 % but deep (-46 %)."
+    },
+    {
+      "line_title": "Far-Out Highest Risk",
+      "line_content": "77 % higher yet at an 11 % premium; 10.6 % lower fares average a 19 % discount."
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Alignment",
+      "line_content": "OTA channel reflects a stable pricing alignment with Aegean Airlines' website, with a price match occurring 76.6% of the time."
+    },
+    {
+      "line_title": "MSE Discount Strength",
+      "line_content": "MSE consistently provides lower prices compared to the airline's site, with discounts prevalent in approximately 80% of cases."
+    },
+    {
+      "line_title": "GDS Premiums",
+      "line_content": "GDS channel predominantly lists higher prices than the airline's site, with 98.4% of itineraries priced higher."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "OTA Prices Mostly Align",
+      "line_content": "Across all itineraries analyzed, OTA prices matched the airline's site 76.6% of the time in the latest week, reflecting a stable pricing alignment."
+    },
+    {
+      "line_title": "OTA Offers Less Frequently Lower",
+      "line_content": "The proportion of itineraries where OTAs offered lower prices decreased significantly in the last week and compared to previous periods."
+    },
+    {
+      "line_title": "Short-Term Discrepancies Decline",
+      "line_content": "Short-term discrepancies where OTA prices were higher than the airline's decreased by 2.5% week-over-week."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offer Not Found on OTA",
+      "line_content": "The incidence of OTA not listing available airline website offers increased slightly, indicating a mild rise in unavailable listings."
+    },
+    {
+      "line_title": "OTA Higher Instances",
+      "line_content": "Instances of higher OTA prices remained low and relatively stable, contributing only 2.4% to all cases in the latest week."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Matches Predominate",
+      "line_content": "Short haul flights showed 74.5% price alignment with the airline site in the latest week, a slight decrease from previous weeks."
+    },
+    {
+      "line_title": "Long Haul Consistency",
+      "line_content": "Long haul itineraries had a strong price match rate at 91.7%, more consistent than short haul, though with a 3% decrease from the previous week."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "GR Price Matches Lead",
+      "line_content": "From Greek origins, 81.3% of itineraries had price parity in the latest week, slightly down from prior periods."
+    },
+    {
+      "line_title": "Non-GR Matches Stable",
+      "line_content": "Outside Greece, matches remained stable with a 62.3% match rate, though overall less than Greek-origin itineraries."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Challenges",
+      "line_content": "Close-in bookings showed a higher incidence of unavailable OTA offers at 23.8%, revealing a challenge in last-minute listing availability."
+    },
+    {
+      "line_title": "Far-Out Stability in Matches",
+      "line_content": "Far-out booking windows experienced an increase in matched prices rising to 82.9%, suggesting better fare predictability further out."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Dominance of Lower Prices by MSE",
+      "line_content": "In most scenarios, the MSE consistently offers lower prices than the Aegean Airlines direct website, dominated by a share of 76% to over 96% across various groupings. This positions MSE as a competitive channel."
+    },
+    {
+      "line_title": "Stability in Price Comparisons",
+      "line_content": "Price match instances where MSE and website prices are the same show a notable increase in frequency up to 19% in some cases. This suggests a growing alignment of MSE with the airline's pricing strategy."
+    },
+    {
+      "line_title": "Noteworthy Shift in Price Gaps",
+      "line_content": "Instances of MSE posting higher prices than the airline remain marginal but show slight growth, hinting at potential inconsistencies that could signal opportunities for adjustment."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE Is Lower Overwhelmingly",
+      "line_content": "Across dimensions, MSE offers lower fares nearly 80% of the time, confirming its role as a discount-driven channel."
+    },
+    {
+      "line_title": "Same Pricing Gains Ground",
+      "line_content": "The frequency of identical pricing between the MSE and airline direct site increased, indicating strategic alignment in rate distribution."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Strong Discount in Short Haul",
+      "line_content": "The short haul sectors see MSE offering lower fares around 73% of the time, supporting substantial savings for this region."
+    },
+    {
+      "line_title": "Long Haul Discounts Dominant",
+      "line_content": "For long haul, MSE also frequently undercuts, with lower prices in nearly 97% of cases, indicating significant competitive pressure."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Greek Origins See Greater Discrepancies",
+      "line_content": "Flights originating in Greece show the highest percentage of MSE lower pricing, with fares lower in over 70% of observations, showing MSE's competitive strategy in this region."
+    },
+    {
+      "line_title": "Non-Greece Markets Aligned",
+      "line_content": "For non-Greece origins, MSE frequently offers lower fares, but there are signs of price alignment with the airline on around 3% of instances, suggesting opportunities for targeted marketing."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Discounts Strong",
+      "line_content": "For flights booked close to departure, MSE fares are lower in around 78% of cases, a crucial factor for last-minute travelers."
+    },
+    {
+      "line_title": "Far-Out Bookings Competitive",
+      "line_content": "Far-out booking windows see MSE maintaining a lower pricing strategy approximately 72% of the time, indicating a consistent discounting approach across booking lead times."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Predominant GDS Price Advantage",
+      "line_content": "The GDS channel consistently shows higher prices compared to the airline's website, with 98% of observations reflecting this trend last week."
+    },
+    {
+      "line_title": "Minimal Website Exclusivity",
+      "line_content": "Offers exclusive to Aegean's website are scarce, with less than 2% of itineraries not found on GDS."
+    },
+    {
+      "line_title": "Small GDS Price Reductions",
+      "line_content": "GDS prices are rarely lower, accounting for only 0.16% of all itineraries, with minimal price reductions when they do occur."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Higher Prices",
+      "line_content": "98.4% of itineraries in the GDS channel were priced higher than on the airline's website last week, a slight increase from 97.8% the previous month."
+    },
+    {
+      "line_title": "GDS Lower Prices",
+      "line_content": "Only 0.16% of itineraries were cheaper on the GDS channel compared to the airline's website, showing a minor decrease from 0.21% in prior periods."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Trends",
+      "line_content": "GDS prices were higher in 98.3% of short-haul itineraries, with a very small portion of prices reduced."
+    },
+    {
+      "line_title": "Long Haul Observations",
+      "line_content": "Long-haul routes showed even higher pricing consistency on GDS at 99.1%, with no lower prices on these routes last week."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Greek Origin Pricing",
+      "line_content": "GDS options originating from Greece had 98.2% of itineraries priced higher, mirroring the broader trend."
+    },
+    {
+      "line_title": "Non-Greek Differentials",
+      "line_content": "For non-Greek origins, 99.1% had higher pricing on GDS, indicating slightly stronger alignment with the overall trend."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Close-in bookings show a higher GDS price for 97.7% of itineraries, with minimal changes in lower or missing offers."
+    },
+    {
+      "line_title": "Far-Out Reservations",
+      "line_content": "Far-out booking windows have consistently higher GDS pricing in 100% of cases, maintaining the trend from previous months."
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA",
+      "line_content": "Over 75% of itineraries are missing on OTA, with about 22% priced higher than direct and undercuts below 1%."
+    },
+    {
+      "line_title": "MSE",
+      "line_content": "74% of itineraries are unavailable on MSE, 20% costlier than direct, 4% cheaper, and fare parity near 1%."
+    },
+    {
+      "line_title": "GDS",
+      "line_content": "Around 75% of fares are missing, reaching 92% close-in; over 60% far-out are higher, while undercuts remain below 0.2%."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Widespread Offer Gaps",
+      "line_content": "Over 75% of itineraries are not found on the OTA, with close-in bookings at 93% unlisted."
+    },
+    {
+      "line_title": "OTA Higher Share",
+      "line_content": "Nearly a quarter of short-haul and Chinese-origin itineraries show OTA prices above direct channel."
+    },
+    {
+      "line_title": "Minimal Undercutting",
+      "line_content": "OTA fares below the website remain below 1% of observed itineraries, reflecting negligible underpricing."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A",
+      "line_content": "Represents about 76% of flights last week, up 19% from the previous week, driven by particularly high close-in gaps."
+    },
+    {
+      "line_title": "SAME",
+      "line_content": "Consistent near 1–2% across segments, indicating limited exact price parity."
+    },
+    {
+      "line_title": "OTA LOWER",
+      "line_content": "Remains roughly 0.1% overall, showing little incentive pricing against the airline site."
+    },
+    {
+      "line_title": "OTA HIGHER",
+      "line_content": "At around 22% last week overall, down about 17% from earlier but reaching 59% among far-out bookings."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "74% of flights last week are OTA N/A, up 20% from the prior week. OTA Higher at 24% dipped slightly."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "OTA N/A stands at 80% with a 16% rise. OTA Higher is at 18% but declining by about 15%."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "CN",
+      "line_content": "75% of itineraries are OTA N/A, climbing nearly 20%. OTA Higher at 24% is notably above Non-CN levels."
+    },
+    {
+      "line_title": "Non-CN",
+      "line_content": "82% are OTA N/A, up 15% from earlier. OTA Higher remains at 13%, while SAME hits 5%."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "93% are unavailable on OTA. OTA Higher accounts for 6%, carrying a 1.21% premium over direct fares."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "35% are not found on OTA, whereas 59% show higher OTA pricing with a 0.67% difference versus direct."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Limited MSE Coverage",
+      "line_content": "About 74% of itineraries are missing from MSE, up over 20% from last week and 45% from last month."
+    },
+    {
+      "line_title": "Minimal Fare Parity",
+      "line_content": "Only around 1% of fares match the airline’s site, with negligible changes since last week."
+    },
+    {
+      "line_title": "Mostly Higher Prices",
+      "line_content": "MSE prices exceed direct fares in roughly 20% of cases, while underpricing remains rare at 4%."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A",
+      "line_content": "Unavailable on MSE for 74% of flights, a 20.7% rise from last week and 45.5% from last month."
+    },
+    {
+      "line_title": "SAME",
+      "line_content": "Price matching is minimal at about 1%, with little change over recent periods."
+    },
+    {
+      "line_title": "MSE HIGHER",
+      "line_content": "Costlier in 20% of cases, down 14.7% from last week. The premium averages around 5% above direct fares."
+    },
+    {
+      "line_title": "MSE LOWER",
+      "line_content": "Cheaper 4.4% of the time, a modest 4.7% drop from last week. Discounts hover near 6% below direct fares."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "73% not listed on MSE, up 22% from last week. MSE is higher 22% of the time, at about a 5% premium."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "79% unavailability this week, an 18% increase from last week. MSE fares run higher 16% of the time."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "CN Origins",
+      "line_content": "74% unavailable on MSE, up 21% week over week. Higher fares occur 23% of the time."
+    },
+    {
+      "line_title": "Non-CN Origins",
+      "line_content": "MSE undercuts the carrier in 18% of ODs, versus just 2% in CN. Still, 78% remain unlisted."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "Over 91% of near-term bookings are missing on MSE, up 16% from last week, leaving little last-minute visibility."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "MSE is found more often for early bookings but is priced higher 54% of the time, at around a 5% premium."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "High Missing Fares",
+      "line_content": "Close-in bookings show 92% missing fares last week on GDS, up nearly 15% from the prior week."
+    },
+    {
+      "line_title": "Rare Undercuts",
+      "line_content": "Channel-lower scenarios remain under 0.2% of flights, indicating minimal undercutting."
+    },
+    {
+      "line_title": "Far-Out Premiums",
+      "line_content": "Over 60% of far-out bookings see a higher GDS fare, with around a 1% premium."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Not Found",
+      "line_content": "N/A fares dominate at 75% overall last week, rising 19% from the prior week and spiking to 92% close-in."
+    },
+    {
+      "line_title": "Same",
+      "line_content": "Identical fares stay below 5% in most segments, showing little change from prior periods."
+    },
+    {
+      "line_title": "GDS Higher",
+      "line_content": "Accounts for up to 60% in far-out bookings, with a typical 1–2% fare difference across hauls."
+    },
+    {
+      "line_title": "GDS Lower",
+      "line_content": "Occurs under 0.2% of the time across dimensions, with no meaningful weekly or monthly shifts."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "GDS N/A fares reached 74% last week; GDS Higher held 24% with roughly a 1% premium."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "N/A fares stand at 79% last week; GDS Higher is 18% with up to a 1.6% price difference."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "CN",
+      "line_content": "N/A fares comprise 74% last week, up nearly 20%; GDS Higher steadily near 24% with ~1% premium."
+    },
+    {
+      "line_title": "Non-CN",
+      "line_content": "N/A hits 81% last week; about 16% of fares are higher on GDS, with a 2–3% price gap."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "Missing fares soared to 92%, rising 15% from the previous week; GDS Higher appears about 7% with a 1.4% premium."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Majority of far-out seats, at 60.6%, are priced higher on GDS, carrying around a 1% average premium."
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Pricing Discrepancy",
+      "line_content": "OTA channels often list higher prices than the airline's site, especially in long haul and non-China markets, with a significant trend of increasing discrepancies."
+    },
+    {
+      "line_title": "MSE Visibility Issues",
+      "line_content": "MSE frequently does not display the airline's offers, with an absence rate over 70%, though recent improvements suggest increased channel alignment."
+    },
+    {
+      "line_title": "GDS Non-Availability Trend",
+      "line_content": "Flight offerings on GDS showed an increasing trend of inavailability, covering over 74% of cases."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "High OTA Price Prevalence",
+      "line_content": "The OTA channel frequently lists higher prices compared to the airline's website, with significant discrepancies in long haul and non-China markets."
+    },
+    {
+      "line_title": "Decreasing Parity Over Time",
+      "line_content": "Instances of price parity between OTAs and the airline are declining, indicating increased discrepancy."
+    },
+    {
+      "line_title": "Minimal Lower Pricing Incidence",
+      "line_content": "OTA prices being lower than the airline's are rare, remaining below 0.5% across dimensions."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA Not Available",
+      "line_content": "A significant number of offers are unavailable on OTAs, increasing by 19% week-over-week."
+    },
+    {
+      "line_title": "OTA Higher Pricing",
+      "line_content": "OTAs have increased in listing higher prices than the airline's site by 20-25% more from last month."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Dynamics",
+      "line_content": "OTA pricing exceeds the airline's on short haul routes, with a 40% increase over the month."
+    },
+    {
+      "line_title": "Long Haul Premium Increase",
+      "line_content": "Long haul OTA price discrepancies rose by 15% week-over-week."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Dominant CN Trends",
+      "line_content": "Over 60% of OTA prices from China are higher, increasing 41% month-over-month."
+    },
+    {
+      "line_title": "Non-CN Variation",
+      "line_content": "Non-CN origins show higher OTA prices, increasing by 25% month-over-month."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Window Shifts",
+      "line_content": "Close-In bookings see a 44.6% increase in higher OTA prices compared to last month."
+    },
+    {
+      "line_title": "Far-Out Stability",
+      "line_content": "Far-Out bookings had a 15.89% rise in high OTA prices."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "High N/A Rate",
+      "line_content": "MSE often does not display airline offers, consistently above 70%."
+    },
+    {
+      "line_title": "MSE Higher Dominance",
+      "line_content": "Prices are frequently higher on MSE, especially for short-haul and China origins."
+    },
+    {
+      "line_title": "Price Visibility Improvement",
+      "line_content": "A slight reduction in 'MSE Lower' status indicates increased channel alignment."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offer Not Found",
+      "line_content": "Over 74% of flights were unlisted in MSE, with a 20.71% improvement from the previous week."
+    },
+    {
+      "line_title": "Higher Prices on MSE",
+      "line_content": "20% of flights displayed higher MSE prices, down by 14.74% from last week."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Offers Frequently Absent",
+      "line_content": "A high absence rate of 72.87% on MSE for short haul routes."
+    },
+    {
+      "line_title": "Long Haul Listings Improvement",
+      "line_content": "Long haul absence on MSE decreased by 17.85% from last week."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Offers Missing from China",
+      "line_content": "China-origin flights had a 73.62% absence on MSE, down 20.74% from last week."
+    },
+    {
+      "line_title": "Slight Advantage for Non-CN",
+      "line_content": "Non-CN origins had a 78.09% absence rate on MSE, highlighting availability issues."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Listings Absent",
+      "line_content": "Close-In bookings were 91.91% absent on MSE, improving by 15.90%."
+    },
+    {
+      "line_title": "Far-Out Window Listings Lagging",
+      "line_content": "33.04% of Far-Out bookings were absent, increasing by 17.13%."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "High Inavailability Rate",
+      "line_content": "Flight unavailability on GDS increased by 18.99% week-over-week."
+    },
+    {
+      "line_title": "Stability in GDS Lower Rates",
+      "line_content": "Minimal instances of lower GDS prices, at 0.13%, with little change."
+    },
+    {
+      "line_title": "Predominant GDS Higher Rates",
+      "line_content": "GDS offers higher prices compared to the website, reduced by 16.51% but still prominent."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Not Available High",
+      "line_content": "Over 74.96% of flights not found on GDS, indicating offer gaps."
+    },
+    {
+      "line_title": "GDS Higher Dominates",
+      "line_content": "GDS shows higher prices in 22.91% of checks, reflecting a consistent trend."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "High Non-Availability in China",
+      "line_content": "74.01% of China-origin flights are unlisted on GDS."
+    },
+    {
+      "line_title": "Non-China GDS Higher Frequency",
+      "line_content": "15.64% of non-China routes show higher GDS pricing, decreasing over time."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "China-Origin GDS Pricing Higher",
+      "line_content": "24.03% of China-origin flights have higher GDS prices, though declining."
+    },
+    {
+      "line_title": "Non-CN GDS Price Improvement",
+      "line_content": "2.77% of non-China origins show higher GDS prices, with a decline observed."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Higher GDS Rate",
+      "line_content": "6.72% of close-in bookings have higher GDS prices, declining recently."
+    },
+    {
+      "line_title": "Far-Out Inaccessibility Lessens",
+      "line_content": "34.36% of far-out bookings remain unavailable on GDS, with slight improvement."
+    }
+  ]
+}

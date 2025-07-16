@@ -1,0 +1,200 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Insight",
+      "line_content": "The OTA channel consistently exhibits a premium pricing strategy with over 91% OTA HIGHER status and a stable markup of approximately 0.85%, particularly strong on domestic and short-haul itineraries."
+    },
+    {
+      "line_title": "MSE Insight",
+      "line_content": "The MSE channel shows a dominant HIGHER status (~51%) with marginal price differences (+0.03%) overall, alongside evolving dynamics such as an 11% week-over-week drop and pronounced differences by point of origin."
+    },
+    {
+      "line_title": "GDS Insight",
+      "line_content": "The GDS channel maintains minimal overall pricing discrepancies (average difference of 0.01%), yet segmented analysis reveals notable variations for long-haul and non-VN itineraries requiring targeted review."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Premium Channel",
+      "line_content": "OTA HIGHER status exceeds 90% across most dimensions, reinforcing a premium pricing approach compared to the airline’s website."
+    },
+    {
+      "line_title": "Uniform Markup",
+      "line_content": "The average markup of roughly 0.85% across segments highlights a consistent pricing strategy on the OTA channel."
+    },
+    {
+      "line_title": "Stable Trends",
+      "line_content": "Week-over-week and month-over-month changes remain within ±2%, underscoring stable pricing trends."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Rare N/A Instances",
+      "line_content": "OTA N/A frequencies are minimal at approximately 2.9-3.0%, indicating strong offer consistency across channels."
+    },
+    {
+      "line_title": "Limited Parity",
+      "line_content": "About 5% of records reflect price parity (SAME status), with premium offers dominating and negligible OTA LOWER occurrences (<0.1%)."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Markup",
+      "line_content": "Short haul routes show a 93.38% OTA HIGHER frequency with consistent markups around 0.85%, reinforcing a strong premium in these segments."
+    },
+    {
+      "line_title": "Long Haul Parity",
+      "line_content": "Long haul routes exhibit a 75.44% SAME frequency with only 22.81% OTA HIGHER cases and a minimal 0.05% markup."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic Premium",
+      "line_content": "For VN origins, OTA HIGHER status occurs in approximately 93.78% of cases with an average markup near 0.86%, affirming domestic premium pricing."
+    },
+    {
+      "line_title": "International Alignment",
+      "line_content": "Non-VN origins display a higher SAME frequency (63.29%) and a lower OTA HIGHER mix (32.91%) with a marginal price difference of about 0.04%."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Consistency",
+      "line_content": "Close-in bookings maintain a 91.38% OTA HIGHER frequency with a stable markup around 0.86%, highlighting consistent last-minute pricing."
+    },
+    {
+      "line_title": "Far Out Stability",
+      "line_content": "Far-out bookings show a similar pattern with 92.05% OTA HIGHER frequency and a slightly lower average markup of 0.81%, indicating minimal variation by booking lead time."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Dominant HIGHER",
+      "line_content": "MSE HIGHER has a strong presence (~51%) compared to SAME (~32%), pointing to a tendency for slightly higher fares in the metasearch channel."
+    },
+    {
+      "line_title": "Minor Price Variations",
+      "line_content": "Marginal differences of +0.03% for MSE HIGHER and -0.06% for MSE LOWER reflect relatively stable but evolving pricing dynamics."
+    },
+    {
+      "line_title": "Evolving Trends",
+      "line_content": "An 11% week-over-week drop in MSE HIGHER frequency contrasts with stable SAME and minor positive changes in MSE LOWER, indicating shifting channel dynamics."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Minimal N/A",
+      "line_content": "MSE N/A occurrences are minimal at around 2%, ensuring that website offers are widely represented in the channel."
+    },
+    {
+      "line_title": "SAME vs. PREMIUM",
+      "line_content": "With SAME at roughly 32% and MSE HIGHER dominating at about 51% with a modest premium, the channel reflects clearly defined pricing tiers."
+    },
+    {
+      "line_title": "Noticeable Discount",
+      "line_content": "MSE LOWER is present in about 15% of cases with a slight discount of -0.06%, showing minor but significant price reductions."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Profile",
+      "line_content": "For short haul routes, MSE HIGHER is prevalent at approximately 52% alongside a stable 32% SAME and lower MSE LOWER (~13%), indicating marginal price elevation."
+    },
+    {
+      "line_title": "Long Haul Discount",
+      "line_content": "Long haul routes differ with MSE LOWER dominating at around 82%, suggesting that extended routes often receive lower fares relative to the website."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "VN Routes",
+      "line_content": "VN-origin bookings follow overall channel trends with roughly 53% MSE HIGHER and about 12% MSE LOWER, indicating pricing consistency for domestic travel."
+    },
+    {
+      "line_title": "Non-VN Routes",
+      "line_content": "Non-VN itineraries are marked by a high MSE LOWER frequency of approximately 91%, revealing significant deviations in pricing relative to website offers."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Timing",
+      "line_content": "Close-in bookings show 47% MSE HIGHER, 34% SAME, and 16% MSE LOWER, reflecting a modest premium for last-minute fares."
+    },
+    {
+      "line_title": "Advance Booking",
+      "line_content": "For far-out bookings, MSE HIGHER increases to around 60% while SAME drops to 26% and MSE LOWER to 12%, indicating a stronger premium with longer lead times."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Minimal Discrepancy",
+      "line_content": "GDS channel pricing is almost on par with the airline's own site, exhibiting an average last-week price difference of just 0.01%."
+    },
+    {
+      "line_title": "Segmented Differences",
+      "line_content": "While overall variance is minimal, long-haul and far-out bookings show slightly elevated GDS HIGHER frequencies and price differences (up to 0.04%)."
+    },
+    {
+      "line_title": "POO Divergence",
+      "line_content": "Non-VN itineraries register a higher GDS HIGHER frequency (around 30%), suggesting targeted review of pricing alignment for these markets."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "High N/A Rate",
+      "line_content": "The GDS N/A status dominates at approximately 93% in the last week, underscoring strong alignment with the website for the majority of offers."
+    },
+    {
+      "line_title": "Stable SAME Pricing",
+      "line_content": "SAME status accounts for about 5.9% of cases with minimal fluctuation, while GDS HIGHER occurs in roughly 1.08% of records with minor price differences."
+    },
+    {
+      "line_title": "Negligible Discounts",
+      "line_content": "GDS LOWER incidences are virtually non-existent, indicating that lower pricing scenarios are highly unusual on this channel."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "Short-haul itineraries maintain a very high GDS N/A rate (over 95%) with minimal GDS HIGHER incidences (~0.83%), ensuring tight pricing alignment."
+    },
+    {
+      "line_title": "Long Haul Variance",
+      "line_content": "Long-haul routes, while largely matching at 75%, show a notable GDS HIGHER frequency of 10.53% and higher price differences (up to 0.04%), warranting closer monitoring."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "VN Stability",
+      "line_content": "For VN origins, over 96% of records are classified as GDS N/A with negligible instances of GDS HIGHER, confirming stable pricing consistency."
+    },
+    {
+      "line_title": "Non-VN Variation",
+      "line_content": "Non-VN origins show a pronounced GDS HIGHER frequency at around 30% with stable price differences, highlighting pricing deviations."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Alignment",
+      "line_content": "Close-in bookings have a high GDS N/A frequency of 93.82% with nearly 1% exhibiting GDS HIGHER status, reflecting strong alignment with website fares."
+    },
+    {
+      "line_title": "Far-Out Premium",
+      "line_content": "Far-out bookings show a slightly higher GDS HIGHER frequency of 1.30% along with an average difference of 0.04%, indicating a modest early booking premium."
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Blackout",
+      "line_content": "Zero Garuda Indonesia itineraries surfaced on monitored OTAs for the third straight period; the channel remains fully inactive."
+    },
+    {
+      "line_title": "MSE Undercutting",
+      "line_content": "Meta-search lists fares ~6% below the website on 64% of routes, a 15-point jump month-over-month that erodes parity."
+    },
+    {
+      "line_title": "GDS Alignment",
+      "line_content": "Parity on GDS climbed to 44% while the average mark-up narrowed to 20%, signalling improving but still premium-heavy distribution."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Full Absence",
+      "line_content": "0% of the 19 OD pairs were displayed last week; no change WoW or MoM."
+    },
+    {
+      "line_title": "Persistent Gap",
+      "line_content": "Both close-in (655) and far-out (388) departures remain entirely unlisted, confirming a channel-wide blackout."
+    },
+    {
+      "line_title": "Risk Contained",
+      "line_content": "No undercutting or overpricing risk exists while offers are missing."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found – 100%",
+      "line_content": "All monitored itineraries classified as “website offer not found”; unchanged across periods."
+    },
+    {
+      "line_title": "Parity / Price Gaps – 0%",
+      "line_content": "With no listings, neither parity nor price discrepancies can occur."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul 0% Presence",
+      "line_content": "Every short-haul OD remained absent; no regional variation."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Indonesia 0% Presence",
+      "line_content": "All ID-origin itineraries missing for three consecutive periods."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Unlisted",
+      "line_content": "655 near-term itineraries not displayed; blackout unchanged."
+    },
+    {
+      "line_title": "Far-Out Unlisted",
+      "line_content": "388 advance itineraries also absent, mirroring close-in trend."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Undercutting Widens",
+      "line_content": "MSE cheaper on 64% of ODs (+15 ppts MoM); average discount holds at 6%."
+    },
+    {
+      "line_title": "Parity Drops",
+      "line_content": "Same-price share slid to 31% (-14 ppts MoM), signalling mounting price dispersion."
+    },
+    {
+      "line_title": "Strong Coverage",
+      "line_content": "Only 0.4% of website offers were missing, improving availability QoQ."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Missing – 0.4%",
+      "line_content": "Availability improved by 0.5 ppts MoM; nearly complete coverage."
+    },
+    {
+      "line_title": "MSE Lower – 64%",
+      "line_content": "Cheaper fares dominate; undercut share up 2 ppts WoW and 15 ppts MoM."
+    },
+    {
+      "line_title": "Parity – 31%",
+      "line_content": "Parity erosion continued, down 3 ppts WoW and 14 ppts MoM."
+    },
+    {
+      "line_title": "MSE Higher – 5%",
+      "line_content": "Premium instances remain marginal with an 8% mark-up."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Mirrors System",
+      "line_content": "64% lower, 31% same, 5% higher; no notable regional deviation."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Indonesia Pattern",
+      "line_content": "Domestic origins replicate system-wide 64% undercut rate, indicating structural issue."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (≤14d)",
+      "line_content": "62% lower, 7% higher; undercut share flat WoW but +22 ppts MoM."
+    },
+    {
+      "line_title": "Far-Out (>14d)",
+      "line_content": "67% lower; only 3% cases favour website, but with a steep 16% premium."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Parity Upturn",
+      "line_content": "GDS parity rose to 44% (+15 ppts MoM), the strongest gain among channels."
+    },
+    {
+      "line_title": "Premium Shrinks",
+      "line_content": "Higher-priced share fell 15 ppts MoM and the mark-up narrowed to 20% (-26%)."
+    },
+    {
+      "line_title": "Near-Total Availability",
+      "line_content": "Only 0.2% of ODs lacked a fare, best coverage in three months."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Missing – 0.2%",
+      "line_content": "Coverage improved by 0.6 ppts MoM; effectively full distribution."
+    },
+    {
+      "line_title": "Parity – 44%",
+      "line_content": "Up 3 ppts WoW and 15 ppts MoM; alignment progress evident."
+    },
+    {
+      "line_title": "GDS Higher – 56%",
+      "line_content": "Still majority higher-priced, but premium trimmed to 20% (-7 pts)."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Snapshot",
+      "line_content": "56% higher-priced with a 20% mark-up; parity at 44%, mirroring network."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Indonesia View",
+      "line_content": "Parity 44% (+15 ppts MoM); mark-up 20%, matching overall trend."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Gains",
+      "line_content": "Parity 45% (+18 ppts MoM); premium reduced to 19% (-30%)."
+    },
+    {
+      "line_title": "Far-Out Lag",
+      "line_content": "Parity 42% with a 22% mark-up; further alignment opportunity."
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Edge",
+      "line_content": "Online travel agencies maintain a strong discount, with over 95% of fares undercutting the website."
+    },
+    {
+      "line_title": "MSE Dominates",
+      "line_content": "Meta-search engines show over 99% of fares cheaper, reflecting a persistent negative price gap."
+    },
+    {
+      "line_title": "GDS Reliability",
+      "line_content": "Global distribution systems remain consistently lower at 96%+ cheaper fares, with minor unavailability."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "OTA Typically Cheaper",
+      "line_content": "Across all dimensions, over 95% of fares monitored were lower on the OTA than on the airline website."
+    },
+    {
+      "line_title": "Minimal Missing Offers",
+      "line_content": "Roughly 2–3% of website fares were not found on the OTA, remaining steady week over week."
+    },
+    {
+      "line_title": "No Higher or Same",
+      "line_content": "Zero instances of OTA matching or exceeding the airline’s website price."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A",
+      "line_content": "A small proportion (under 5%) of website fares are not listed on the OTA, yet this share has decreased since last month."
+    },
+    {
+      "line_title": "SAME",
+      "line_content": "No occurrences of identical pricing, indicating no direct matches."
+    },
+    {
+      "line_title": "OTA LOWER",
+      "line_content": "Most common outcome (95–98%), showing a consistent price advantage in recent weeks and months."
+    },
+    {
+      "line_title": "OTA HIGHER",
+      "line_content": "No observed cases of OTA surpassing the airline site’s fares."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "96–97% of short-haul fares were cheaper on the OTA, with a minor month-over-month dip from 98%."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Portugal (PT)",
+      "line_content": "A similar pattern with nearly all PT-origin fares cheaper on OTA and a small fraction not available."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "Around 95% of close-in fares were cheaper on OTA, down slightly from 97% last month."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Almost all far-out fares (98–100%) were cheaper, reflecting a slight but consistent OTA advantage."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Dominant MSE Price Advantage",
+      "line_content": "MSE offers consistently lower prices, with 99% of itineraries cheaper than the website last week."
+    },
+    {
+      "line_title": "Minimal Same Fare Cases",
+      "line_content": "Fares matched the website in only about 0.6% of cases last week, indicating limited fare parity."
+    },
+    {
+      "line_title": "Stable Negative Price Gap",
+      "line_content": "Price differences have remained around -0.24%, reinforcing a persistent advantage on MSE."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A Presence",
+      "line_content": "Essentially no segments lacked an MSE price."
+    },
+    {
+      "line_title": "Same Fare Share",
+      "line_content": "Hovers around 0.6% last week, showing minimal overlap with website rates."
+    },
+    {
+      "line_title": "MSE Lower Dominates",
+      "line_content": "Over 99% of fares are undercutting the direct website, with a slight negative price gap near -0.24%."
+    },
+    {
+      "line_title": "No MSE Higher",
+      "line_content": "No instances where MSE exceeded website pricing."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul: Nearly All Lower",
+      "line_content": "Last-week data shows 99.36% lower fares, confirming MSE’s strong price lead on short routes."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "PT: Same Pattern",
+      "line_content": "MSE fares are lower 99.36% of the time, mirroring the overall trend for all Portuguese departures."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In Bookings",
+      "line_content": "100% of fares last week were cheaper via MSE, with only minor weekly swings in the -0.24% range."
+    },
+    {
+      "line_title": "Far Out Bookings",
+      "line_content": "All observed itineraries remained cheaper on MSE for early purchases, solidifying its lead at 100%."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Consistent Price Advantage",
+      "line_content": "Over 96% of all GDS fares are priced lower than the airline’s website, indicating a steady cost benefit."
+    },
+    {
+      "line_title": "Minimal Unavailability",
+      "line_content": "Only about 2–3% of itineraries are not found in GDS, though this gap has crept slightly higher over the month."
+    },
+    {
+      "line_title": "Stable Price Gap",
+      "line_content": "GDS prices hover around 0.16% below website rates with negligible week-to-week variance."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offer Not Found",
+      "line_content": "Remains small at 2–3% but has risen incrementally from last week to last month."
+    },
+    {
+      "line_title": "Same Price",
+      "line_content": "Practically no occurrences reported in any segment."
+    },
+    {
+      "line_title": "Channel Lower",
+      "line_content": "Dominates at over 96% of itineraries, maintaining stable price differentials."
+    },
+    {
+      "line_title": "Channel Higher",
+      "line_content": "No measurable instances detected in the latest analysis."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "GDS Lower stands firmly above 97%, with a tiny Website N/A share below 3%."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Portugal (PT)",
+      "line_content": "Mirrors Short Haul metrics: around 97% GDS Lower and a small but gradual N/A increase."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "Approximately 96% of fares are GDS Lower, while the 4% N/A rate has grown slightly week over week."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "GDS Lower approaches 99%, with about 1% N/A holding steady over the monthly period."
+    }
+  ]
+}

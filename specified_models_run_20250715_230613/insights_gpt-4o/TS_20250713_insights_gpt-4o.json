@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Price Differentiation Increase",
+      "line_content": "OTAs have heightened price differentiation, lowering offers by 5.78% more frequently compared to last week."
+    },
+    {
+      "line_title": "MSE Dominant Lower Pricing",
+      "line_content": "MSE prices remain dominantly lower than Air Transat's site, with 90.78% of itineraries cheaper."
+    },
+    {
+      "line_title": "GDS Higher Pricing Trend",
+      "line_content": "GDS continues to exhibit higher prices, with roughly 41% of fares above the airline site pricing."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "OTA Lower Offers Increase",
+      "line_content": "The frequency of OTA lower offers increased by 5.78% in the latest week compared to the previous week."
+    },
+    {
+      "line_title": "Stable Website Offer Non-Availability",
+      "line_content": "The non-availability of website offers on OTAs varied marginally, showing a slight increase of 0.31% vs last week."
+    },
+    {
+      "line_title": "Consistent Price Parity",
+      "line_content": "Price parity (same prices across OTA and website) decreased by 5.67% against the previous week, indicating slightly more OTA price differentiation."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA Lower Frequency Surge",
+      "line_content": "OTAs lowered prices significantly more often recently, with frequencies increasing by 5.78% last week vs the prior week."
+    },
+    {
+      "line_title": "OTA Higher Pricing Stable",
+      "line_content": "Instances where OTAs offered higher pricing decreased marginally by 0.43% compared to last week."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Lower Offers Rise",
+      "line_content": "Short haul OTA price lowerings surged by 12.30% last week compared to the prior week."
+    },
+    {
+      "line_title": "Stable Long Haul Rates",
+      "line_content": "There was minimal volatility in long haul price differentials; OTA lower offer frequency slightly decreased by 2.85%."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Canadian Origin Drives Lower Offers",
+      "line_content": "Offers originating from Canada saw a 10.76% increase in OTA price lowering frequency over the last week."
+    },
+    {
+      "line_title": "Non-CA Offers Consistent",
+      "line_content": "Offers from non-Canadian origins showed little change, with OTA lower offers slightly decreasing by 0.02%."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Short-Term Discounts Increase",
+      "line_content": "In close-in windows, OTA offers were lower 8.46% more frequently versus the previous week."
+    },
+    {
+      "line_title": "Far Out Frugality Holds",
+      "line_content": "The far-out booking window showed a slight increase of 1.15% in OTA lower offer frequency from the previous month."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Dominance of MSE Lower Prices",
+      "line_content": "In the latest week, 90.78% of Air Transat's itineraries on MSE were priced lower than on the airline's site. This represents a slight decrease from the previous week."
+    },
+    {
+      "line_title": "Minimal Price Matching",
+      "line_content": "Only 9.22% of prices were the same between MSE and the airline\u0019s website. However, this is an improvement compared to last week and last month."
+    },
+    {
+      "line_title": "No Higher Pricing on MSE",
+      "line_content": "No itineraries were found where MSE had higher prices compared to the airline's website."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Stable Low Pricing",
+      "line_content": "90.78% of itineraries show consistently lower pricing on MSE compared to Air Transat's own site, with a minimal average difference of -0.06%."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "91.35% of short-haul itineraries on MSE are priced lower than on the airline's site, with a very slight price difference of -0.05%."
+    },
+    {
+      "line_title": "Long Haul Sensitivity",
+      "line_content": "88.71% of long-haul itineraries are also priced lower, with a relatively higher saving percentage at -0.07%."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Canadian Origin Dynamics",
+      "line_content": "84.18% of itineraries originating from Canada appear cheaper on MSE, with a noticeable price saving of -0.04%."
+    },
+    {
+      "line_title": "Non-Canadian Origin Strength",
+      "line_content": "In the case of itineraries from non-CA origins, 98.52% are priced lower on MSE, boasting a significant average price difference of -0.08%."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-in Booking Advantage",
+      "line_content": "90.05% of close-in bookings are lower on MSE, barely influenced by a slight decrease in savings of -0.06%."
+    },
+    {
+      "line_title": "Far-out Stability",
+      "line_content": "92.47% of far-out bookings are priced lower in MSE, observing an average price reduction of -0.06%."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Stable Pricing Observed",
+      "line_content": "Across all dimensions, the GDS channel showed minimal average price differences with a minor overall change of -0.01% last week compared to earlier periods."
+    },
+    {
+      "line_title": "GDS Prices Higher",
+      "line_content": "A significant portion of itineraries recorded higher prices in the GDS channel, with a consistent pattern across short haul, long haul, and non-CA origins."
+    },
+    {
+      "line_title": "Minimal Price Reductions",
+      "line_content": "Instances where GDS prices were lower than the airline site were scarce, especially in long haul and non-CA origins."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Same Pricing Frequency",
+      "line_content": "A significant portion of fares found on GDS mirror the airline's site, consistently over 54% of cases."
+    },
+    {
+      "line_title": "GDS Higher Prices",
+      "line_content": "Across evaluations, approximately 41% of prices were higher on GDS last week, indicating a trend of elevated fares via this channel."
+    },
+    {
+      "line_title": "GDS Lower Prices Minimal",
+      "line_content": "Fewer than 4% of all fare comparisons showed lower GDS prices last week."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul GDS Premium",
+      "line_content": "Nearly 39% of short-haul fares were higher on GDS with a slight 1.09% increase from the previous month."
+    },
+    {
+      "line_title": "Long Haul Stable High Prices",
+      "line_content": "Long haul itineraries had GDS prices higher in 43.9% of cases, although these occurrences slightly decreased from last month."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Canadian Origin Stability",
+      "line_content": "Canadian origin flights mostly had matching prices, at over 97%, with minimal cases of lower GDS pricing."
+    },
+    {
+      "line_title": "Non-CA GDS Premiums",
+      "line_content": "Significant GDS fare surpluses exist in non-CA origins, where around 87% showed GDS fares as higher."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In GDS Stability",
+      "line_content": "GDS prices for close-in bookings were slightly higher 41% of the time, maintaining consistency from last month."
+    },
+    {
+      "line_title": "Far Out GDS Variations",
+      "line_content": "GDS prices for far-out bookings exhibited higher prices in 39% of instances, although these occurrences slightly fell from the previous month."
+    }
+  ]
+}

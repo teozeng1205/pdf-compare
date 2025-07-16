@@ -1,0 +1,132 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Summary",
+      "line_content": "OTA data reveals a dominant premium pricing trend with 64% of records indicating higher fares compared to the airline website, alongside significant data gaps (20-26% OTA N/A) in far-out bookings."
+    },
+    {
+      "line_title": "MSE Summary",
+      "line_content": "MSE channel data shows strong parity with a 71.2% SAME pricing rate and a noticeable proportion (28.8%) of lower fares, indicating close alignment overall and slight variations for advance bookings."
+    },
+    {
+      "line_title": "GDS Summary",
+      "line_content": "GDS channel consistently registers 100% N/A across all dimensions, meaning the website offer is uniformly missing, which highlights a complete data disconnect between GDS and the airline's proprietary pricing."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Premium Prevalence",
+      "line_content": "OTA highlights indicate that 64% of records show higher pricing on OTA, with minimal occurrences of discounting (1-2%), emphasizing a strong premium pricing trend."
+    },
+    {
+      "line_title": "Data Gaps",
+      "line_content": "Notable OTA N/A rates averaging 20% and peaking at 26% in far-out bookings signal variability and potential inconsistencies in offer availability."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A & HIGHER",
+      "line_content": "The comparison shows nearly 20% OTA N/A and 64% OTA HIGHER, with a slight downshift in premium pricing by 16-18% from previous periods, and 14% record stability with same pricing."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Trends",
+      "line_content": "Short haul routes mirror the overall pattern with 64% OTA HIGHER and negligible discounting, affirming consistent premium pricing regional behavior."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "GR Market",
+      "line_content": "The GR market shows similar OTA trends, with 64% higher pricing and stable 20% N/A occurrences, reflecting predictability in pricing behavior."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In vs Far Out",
+      "line_content": "Close In bookings exhibit approximately 66% premium pricing, whereas Far Out windows have reduced premium occurrence (58%) and increased N/A gaps (26%), indicating more pricing variability for advanced bookings."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Price Parity",
+      "line_content": "MSE analysis shows that 71.2% of itineraries match the website prices, demonstrating strong pricing consistency and minimal differential overall (-0.01%)."
+    },
+    {
+      "line_title": "Lower Fare Presence",
+      "line_content": "Approximately 28.8% lower fare incidence, particularly pronounced (36.4%) in far-out bookings, provides insight into selective discounting strategies on the MSE channel."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "SAME vs LOWER",
+      "line_content": "The high-level view confirms 71.2% fare parity and 28.8% lower fares, with MSE HIGHER and N/A rates absent, highlighting a focus on matching or discounting relative to the website."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Uniform Short Haul",
+      "line_content": "Short haul regions reflect the overall distribution with 71.2% SAME pricing and 28.8% lower fares, ensuring a consistent, predictable market approach."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "GR Consistency",
+      "line_content": "The GR segment exhibits the same 71.2% price parity and 28.8% discounting, indicating robust price alignment between MSE and the airline website."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Booking Window Variance",
+      "line_content": "Close In windows show 74.9% price matches while Far Out windows drop to 63.6% SAME with increased lower fares at 36.4%, suggesting more aggressive discounting for advance purchases."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "100% N/A",
+      "line_content": "GDS channel analysis reveals that all records lack a corresponding website offer, consistently showing a 100% N/A status across every observed dimension."
+    },
+    {
+      "line_title": "Uniform Data",
+      "line_content": "Data consistency across regions, points-of-origin, and booking windows underscores that GDS does not capture website pricing, indicating a systematic data absence."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Exclusive N/A",
+      "line_content": "The GDS channel exclusively reports a 100% N/A status, with no instances of same, higher, or lower pricing, emphasizing a complete lack of comparable website offer data."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Uniformity",
+      "line_content": "For short haul routes, all records uniformly lack a corresponding website offer on GDS, aligning with the overall 100% N/A pattern."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "GR Market Consistency",
+      "line_content": "In the GR market, every record confirms the absence of the website offer on GDS, reinforcing consistent channel behavior."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Across Booking Windows",
+      "line_content": "Both Close In (211 itineraries) and Far Out (99 itineraries) booking windows maintain a 100% absence of corresponding website offers, reaffirming the channel's uniform data pattern."
+    }
+  ]
+}

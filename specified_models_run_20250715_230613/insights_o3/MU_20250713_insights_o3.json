@@ -1,0 +1,204 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Reach Collapse",
+      "line_content": "76% of MU itineraries were not listed on OTAs last week (+42 ppts MoM), making lost visibility the single-largest indirect issue."
+    },
+    {
+      "line_title": "MSE Shelf Mostly Empty",
+      "line_content": "74% of web fares were absent on metasearch (+46 ppts MoM); price gaps exist but are secondary to the visibility shortfall."
+    },
+    {
+      "line_title": "GDS Darkness Spreads",
+      "line_content": "75% of itineraries were missing in the GDS (+42 ppts MoM), confirming a system-wide content distribution breakdown."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Coverage Gap Widens",
+      "line_content": "76% of itineraries not found on OTAs, +19 ppts WoW and +42 ppts MoM, sharply reducing indirect reach."
+    },
+    {
+      "line_title": "Price Parity Rare",
+      "line_content": "Only 1.8% of OD pairs show parity; OTAs price higher 22% of the time and almost never lower (<0.2%)."
+    },
+    {
+      "line_title": "Close-In Void",
+      "line_content": "93% of near-departure inventory is absent, hampering last-minute sales."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A Dominates",
+      "line_content": "Offer-not-found now 76% of cases, eclipsing all other outcomes."
+    },
+    {
+      "line_title": "Modest Premiums",
+      "line_content": "When higher, OTA prices carry only a 0.8% average markup, limiting direct dilution pressure."
+    },
+    {
+      "line_title": "Undercut Negligible",
+      "line_content": "True OTA undercutting sits at 0.1%, commercially immaterial."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "74% missing; 24% of the remainder priced higher (+0.8%)."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "80% missing; 18% priced higher (+0.8%)."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "China Origins",
+      "line_content": "75% unavailable; 24% of shown fares higher (+1.0%)."
+    },
+    {
+      "line_title": "Non-China Origins",
+      "line_content": "82% unavailable; only 13% higher and at a negligible +0.04% premium."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In",
+      "line_content": "93% missing; 6% of visible fares higher (+1.2%)."
+    },
+    {
+      "line_title": "Far-Out",
+      "line_content": "65% available; yet 59% of those listings are higher (+0.7%)."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Visibility Gap Widening",
+      "line_content": "74% of fares not found on metasearch, +21 ppts WoW, +45 ppts MoM."
+    },
+    {
+      "line_title": "Price Discipline Holds",
+      "line_content": "Only 4% of routes are cheaper on MSE (-6%), while 20% are higher (+5%)."
+    },
+    {
+      "line_title": "Risk Hot-Spots",
+      "line_content": "Non-CN origins see 18% cheaper fares; Far-Out searches show 10% undercuts despite better availability."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found",
+      "line_content": "Absence at 74%, +21 ppts WoW, remains the primary concern."
+    },
+    {
+      "line_title": "Higher-Priced Share",
+      "line_content": "20% of displayed routes price above web by +5% on average; down 15 ppts WoW as content disappears."
+    },
+    {
+      "line_title": "Lower-Priced Exposure",
+      "line_content": "4% of routes undercut the site (-6%); exposure concentrated in Non-CN and Far-Out segments."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "73% missing; 22% higher (+5-6%) and 5% lower (-7%)."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "79% missing; 16% higher (+4-5%) and 4% lower (-5%)."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "China Origins",
+      "line_content": "74% unavailable; 23% higher (+5%), 2% lower (-8%)."
+    },
+    {
+      "line_title": "Non-China Origins",
+      "line_content": "78% unavailable; 18% lower (-5%), 1% higher (+13%)."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In",
+      "line_content": "92% fares missing; limited pricing action on remaining inventory."
+    },
+    {
+      "line_title": "Far-Out",
+      "line_content": "Availability rises to 67%; however, 10% of routes undercut (-6%) and 54% price higher (+5%)."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS Gaps Widen",
+      "line_content": "75% of itineraries absent, +19 ppts WoW and +42 ppts MoM."
+    },
+    {
+      "line_title": "Premium When Present",
+      "line_content": "23% of shown itineraries price higher with a 1.1% markup; long-haul premium peaks at 1.6%."
+    },
+    {
+      "line_title": "Booking-Window Contrast",
+      "line_content": "Close-in searches 92% missing; far-out fares more available but 61% carry a 1% premium."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Website Fare Not Found",
+      "line_content": "GDS N/A at 75%, +19 ppts WoW, mirrors other indirect channels."
+    },
+    {
+      "line_title": "Higher-Priced Share",
+      "line_content": "23% of available itineraries carry a 1.1% premium; undercuts remain <0.2%."
+    },
+    {
+      "line_title": "Parity Scarce",
+      "line_content": "Only 2% of OD pairs show exact parity, offering minimal price consistency."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "74% missing; 24% higher (+1.0%)."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "79% missing; 18% higher with the largest premium (+1.6%)."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "China Origins",
+      "line_content": "74% missing; 24% higher (+1.0%)."
+    },
+    {
+      "line_title": "Non-China Origins",
+      "line_content": "81% missing; 16% higher but at a steeper +2.8% premium."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In",
+      "line_content": "92% missing; of the 7% shown, 67% are higher (+1.4%)."
+    },
+    {
+      "line_title": "Far-Out",
+      "line_content": "Only 34% missing; yet 61% of displayed fares price higher (+1.1%)."
+    }
+  ]
+}

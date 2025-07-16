@@ -1,0 +1,204 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Leakage Accelerates",
+      "line_content": "OTAs undercut EY.com on 21% of itineraries last week, up 8 pts WoW, with UAE-origin routes hit hardest at 40% undercut frequency."
+    },
+    {
+      "line_title": "MSE Systemic Undercut",
+      "line_content": "Meta-search engines priced every observed EY fare lower than the website (-0.10% average gap), indicating 100% leakage and zero parity."
+    },
+    {
+      "line_title": "GDS Largely Stable",
+      "line_content": "GDS retains 88.5% parity; only 1.6% lower fares but 9.9% higher fares—risk concentrated in UAE-origin and close-in bookings."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Undercuts Rising",
+      "line_content": "OTAs priced below EY.com in 21% of itineraries last week, +8 pts WoW and +10 pts MoM."
+    },
+    {
+      "line_title": "Parity Slipping",
+      "line_content": "Overall parity fell to 76.6%, down 4.8 pts WoW and 8.2 pts MoM."
+    },
+    {
+      "line_title": "UAE Risk",
+      "line_content": "UAE-origin routes see OTA undercuts 40% of the time—13× higher than non-UAE markets."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Coverage Stable",
+      "line_content": "Website fare missing on OTAs only 1% of the time, unchanged vs prior periods."
+    },
+    {
+      "line_title": "Dominant Parity",
+      "line_content": "'Same' fares still 76.6% but slipping (-5 pts WoW)."
+    },
+    {
+      "line_title": "Cheaper OTA Share Grows",
+      "line_content": "Undercuts now 21.4%; average gap modest (-2%) but frequency escalating."
+    },
+    {
+      "line_title": "Limited Premiums",
+      "line_content": "OTA premiums rare at 1%; when present, average +19%."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Pressure",
+      "line_content": "Short-haul matches network: parity 76.6%, undercuts 21.4% (+8 pts WoW)."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "UAE Departures",
+      "line_content": "Parity only 57.9%; undercuts surge to 40% (+12.8 pts WoW)."
+    },
+    {
+      "line_title": "Non-UAE Departures",
+      "line_content": "Parity strong at 94.8%; undercuts minimal at 3.1%."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-7d)",
+      "line_content": "Parity 71.3%; undercuts 25.4% (+11.9 pts WoW)."
+    },
+    {
+      "line_title": "Far-Out (21+d)",
+      "line_content": "Parity 85.9%; undercuts limited to 14.1%."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "100% Undercut",
+      "line_content": "All observed fares cheaper on MSE than EY.com last week—no parity or premiums."
+    },
+    {
+      "line_title": "Small Gap, Big Impact",
+      "line_content": "Average price gap only ‑0.10%, but universality signals systemic leakage."
+    },
+    {
+      "line_title": "Worsening Trend",
+      "line_content": "Lower-price share up 1.6 pts WoW and 1.1 pts MoM; 'Same' cases have vanished."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Full Coverage",
+      "line_content": "No missing EY fares on MSE across all periods."
+    },
+    {
+      "line_title": "Parity Erased",
+      "line_content": "Parity dropped to 0%, down from 0.5% last month."
+    },
+    {
+      "line_title": "Lower Prices Dominate",
+      "line_content": "100% of itineraries cheaper on MSE (-0.10%); frequency +1.6 pts WoW."
+    },
+    {
+      "line_title": "No Premiums",
+      "line_content": "Zero higher-than-website fares recorded."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul 100% Lower",
+      "line_content": "MSE undercut EY.com on every short-haul route last week (-0.10% gap)."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "UAE Origins",
+      "line_content": "100% undercut; gap slightly wider at ‑0.12%."
+    },
+    {
+      "line_title": "Non-UAE Origins",
+      "line_content": "Also 100% undercut; gap narrower at ‑0.07%."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (≤14d)",
+      "line_content": "Lower pricing 100%; gap ‑0.10%, frequency +2.5 pts WoW."
+    },
+    {
+      "line_title": "Far-Out (>14d)",
+      "line_content": "Lower pricing sustained at 100%; gap steady at ‑0.09%."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "High Parity",
+      "line_content": "88.5% of GDS fares matched EY.com last week, steady WoW."
+    },
+    {
+      "line_title": "Modest Premiums",
+      "line_content": "9.9% of fares higher on GDS (avg +4%); incidence down 0.7 pts WoW."
+    },
+    {
+      "line_title": "UAE & Close-In Hot-Spots",
+      "line_content": "Premium cases spike to 19.2% for UAE-origin and 10% for close-in bookings."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Full Offer Coverage",
+      "line_content": "No 'website fare not found' cases on GDS."
+    },
+    {
+      "line_title": "Parity Dominates",
+      "line_content": "88.5% parity last week (+0.2 pts WoW; ‑2.8 pts MoM)."
+    },
+    {
+      "line_title": "Few Discounts",
+      "line_content": "GDS undercuts rare at 1.6%, but share has tripled vs last month."
+    },
+    {
+      "line_title": "Premium Share Stable",
+      "line_content": "Overpricing 9.9%; premium ~4%, flat WoW."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Mirror",
+      "line_content": "Short-haul holds 88.5% parity, 9.9% premiums, 1.6% discounts."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "UAE Origins",
+      "line_content": "19.2% higher fares (avg +3%); no discounts observed."
+    },
+    {
+      "line_title": "Non-UAE Origins",
+      "line_content": "Parity rises to 95.9%; premiums 1.0%, discounts 3.1%."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (<14d)",
+      "line_content": "Parity 88.3%; 10.0% premiums (+4%), 1.7% discounts (-4%)."
+    },
+    {
+      "line_title": "Far-Out (≥14d)",
+      "line_content": "Parity 88.7%; premiums 9.9% at +2%, discounts 1.4%."
+    }
+  ]
+}

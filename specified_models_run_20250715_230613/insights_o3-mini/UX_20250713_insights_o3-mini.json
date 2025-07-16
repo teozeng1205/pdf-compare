@@ -1,0 +1,176 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Insight",
+      "line_content": "OTA channel maintains strong fare consistency with over 80% of offers matching the website, though close-in bookings exhibit more volatility."
+    },
+    {
+      "line_title": "MSE Insight",
+      "line_content": "MSE predominantly offers lower fares with a robust discounting strategy and very few instances of higher pricing compared to the website."
+    },
+    {
+      "line_title": "GDS Insight",
+      "line_content": "GDS pricing is largely aligned with website fares, but a significant spike in N/A records warrants further investigation."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "High Consistency",
+      "line_content": "Over 80% of OTA offers mirror the website pricing, indicating strong alignment."
+    },
+    {
+      "line_title": "Minimal Variance",
+      "line_content": "The average price difference for the last week stands at just 0.02%, with negligible discrepancies overall."
+    },
+    {
+      "line_title": "Booking Impact",
+      "line_content": "Close-in bookings reveal a 16.8% missing offer rate, suggesting short-term pricing volatility."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "SAME Dominance",
+      "line_content": "80.4% of OTA records have matching website prices, underscoring a consistent pricing alignment."
+    },
+    {
+      "line_title": "OTA N/A Rise",
+      "line_content": "A 9.42% increase in OTA N/A records indicates a modest uptick in unmatched offers over the last week."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Spain Focus",
+      "line_content": "The ES region follows overall trends with high consistency and minimal price differences, reinforcing regional price stability."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "ES Origin",
+      "line_content": "Itineraries originating in Spain mirror the overall dataset with over 80% matching website fares and low variance."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "Close-in bookings (340 itineraries) show a 16.8% OTA N/A rate and an 8.5% occurrence of higher pricing, indicating increased short-term volatility."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Far-out bookings (150 itineraries) exhibit 95.3% alignment with website fares, denoting stable advance pricing."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Lower Pricing Dominance",
+      "line_content": "The MSE channel consistently delivers lower fares, with 85.7% of records showing a discount compared to the website."
+    },
+    {
+      "line_title": "Rare Upward Markups",
+      "line_content": "Instances of higher pricing on MSE are extremely low (around 0.2%-0.3%), indicating minimal upward deviations."
+    },
+    {
+      "line_title": "Steady Matching",
+      "line_content": "A small but consistent segment (approximately 5.7%-7.6%) of MSE offers matches the website pricing."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Website Not Found",
+      "line_content": "MSE N/A records stand at 8.4%, with increases of approximately 7.7% to 7.5% depending on the period, suggesting improved capture of non-listed offers."
+    },
+    {
+      "line_title": "Stable Matching",
+      "line_content": "SAME status remains steady at around 5.7%, reflecting consistent fare alignment."
+    },
+    {
+      "line_title": "Minimal Upward Variance",
+      "line_content": "MSE HIGHER instances are negligible at roughly 0.2%, with an average increase of 0.32%."
+    },
+    {
+      "line_title": "Predominant Discounts",
+      "line_content": "With 85.7% of records showing lower fares, MSE employs a strong discount strategy, though slight declines suggest marginal easing over time."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Short haul flights display a consistent pattern, with 85.7% lower pricing, reinforcing the discounting approach in this segment."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "ES Origin Trends",
+      "line_content": "For itineraries originating from Spain, approximately 85.7% benefit from lower pricing on the MSE channel, mirroring overall trends."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In Bookings",
+      "line_content": "In the close-in segment, 80.0% of itineraries are priced lower, with declines of 10.8% (PW) and 12.3% (PM) indicating dynamic last-minute pricing adjustments."
+    },
+    {
+      "line_title": "Far Out Bookings",
+      "line_content": "Nearly 99% of far-out itineraries are priced lower, reflecting a robust application of the discount strategy for advanced bookings."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Strong Alignment",
+      "line_content": "The GDS channel shows excellent alignment with website pricing, with SAME status dominating across the board."
+    },
+    {
+      "line_title": "N/A Spike",
+      "line_content": "A significant increase in GDS N/A records indicates potential data feed issues that merit further review."
+    },
+    {
+      "line_title": "Minimal Deviations",
+      "line_content": "Both GDS HIGHER and LOWER pricing discrepancies are minimal, remaining around 0.18% or lower."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "N/A Increase",
+      "line_content": "GDS N/A frequency has surged almost 10-fold from the previous week, which calls for further investigation into data quality."
+    },
+    {
+      "line_title": "SAME Status Reduction",
+      "line_content": "Although SAME status remains dominant, its frequency has dropped by roughly 8%, suggesting a subtle shift in pricing consistency."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Overview",
+      "line_content": "In the short haul segment, SAME pricing predominates at 82.65%, with other discrepancies remaining minimal."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "ES Consistency",
+      "line_content": "For the ES market, the pricing trends mirror the overall analysis with high SAME occurrences and modest discrepancies."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In Window",
+      "line_content": "Close in bookings feature around 77.06% SAME status, though a higher GDS N/A rate (12.35%) and modest discrepancies are noted."
+    },
+    {
+      "line_title": "Far Out Window",
+      "line_content": "Far-out bookings exhibit exceptionally high alignment at 95.97% SAME, with very low instances of higher pricing."
+    }
+  ]
+}

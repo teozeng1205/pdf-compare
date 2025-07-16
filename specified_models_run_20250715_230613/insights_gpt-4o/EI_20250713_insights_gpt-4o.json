@@ -1,0 +1,192 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Consistent Pricing",
+      "line_content": "90% of itineraries on OTAs are priced the same as Aer Lingus' website, showcasing high consistency."
+    },
+    {
+      "line_title": "MSE Frequent Lower Pricing",
+      "line_content": "In 74.96% of cases, MSE channels offer lower prices compared to Aer Lingus' website, highlighting a strong competitive pricing position."
+    },
+    {
+      "line_title": "GDS Higher Pricing Trend",
+      "line_content": "Nearly 98% of prices on GDS are higher than the airline's website, indicating a dominant trend of premium pricing in this channel."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Consistency in Pricing",
+      "line_content": "90% of itineraries in OTA channel are priced the same as Aer Lingus' website consistently across time periods."
+    },
+    {
+      "line_title": "OTA Higher Pricing Trends",
+      "line_content": "OTAs frequently price higher, with approximately 10% of itineraries showing higher prices than Aer Lingus' site."
+    },
+    {
+      "line_title": "Minimal Lower Pricing",
+      "line_content": "The OTA channel shows nominally lower prices for less than 1% of itineraries, maintaining a consistent and slight reduction trend."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA Pricing Parity",
+      "line_content": "90% of OTA itineraries align with Aer Lingus' website on average."
+    },
+    {
+      "line_title": "OTA Premium Pricing",
+      "line_content": "Around 10% of OTA fares are higher than direct site pricing, with minor fluctuation."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Stability",
+      "line_content": "89% of short-haul fares are identical to website pricing, indicating strong alignment in this segment."
+    },
+    {
+      "line_title": "Long Haul Price Premiums",
+      "line_content": "16% of long-haul fares are higher on OTAs, showing a notable premium compared to website pricing."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Domestic Uniformity",
+      "line_content": "IE-based Origin itineraries have almost complete price parity with the website at 97%."
+    },
+    {
+      "line_title": "International Variance",
+      "line_content": "Non-IE origins show more higher pricing, at about 16% against the direct site, but presence of lower pricing remains below 1%."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Parity",
+      "line_content": "SAME pricing for close-in bookings reaches 90%, exhibiting major parity with Aer Lingus direct sales."
+    },
+    {
+      "line_title": "Far-Out Price Sensitivity",
+      "line_content": "Far-out bookings depict higher OTA pricing at approximately 13%, while SAME pricing covers majority at 86%."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "High MSE Lower Frequency",
+      "line_content": "The MSE channel has a high frequency of offering lower prices than the airline's website, with 74.96% of cases in the latest week."
+    },
+    {
+      "line_title": "Stable SAME Frequency",
+      "line_content": "Prices matching between website and MSE channel remain stable with a gradual increase from the previous week to the latest week, showing a 7.25% rise."
+    },
+    {
+      "line_title": "Minor MSE Higher Impact",
+      "line_content": "Instances where the MSE channel prices were higher than the airline's website were minimal, at just 0.61% in the latest week."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offer Unavailable",
+      "line_content": "No instances of website offers being unavailable on MSE were reported."
+    },
+    {
+      "line_title": "Matched Prices Increase",
+      "line_content": "Matched prices between MSE and airline website increased by 7.25% from the previous week."
+    },
+    {
+      "line_title": "MSE Lower Prevalence Increase",
+      "line_content": "There is a notable increase in MSE offering lower prices, rising 7.48% from the previous week."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Trends",
+      "line_content": "The MSE channel more frequently offers lower prices for short-haul flights, representing 74.18% of cases in the latest week."
+    },
+    {
+      "line_title": "Long Haul Shift",
+      "line_content": "The long-haul segment saw an increase in MSE offering higher prices from 0% previously to 0.64% in the latest week."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "IE Price Dynamics",
+      "line_content": "For itineraries originating in Ireland, 74.69% had lower prices on the MSE channel as of the latest week."
+    },
+    {
+      "line_title": "Non-IE Increase in 'SAME'",
+      "line_content": "Non-Ireland origins showed a 14.26% increase in price matching between MSE and Aer Lingus’ site over the latest week."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-in Booking Edge",
+      "line_content": "Close-in bookings saw a high prevalence of lower prices on MSE, accounting for 77.78% in the latest week."
+    },
+    {
+      "line_title": "Far-out Consistency",
+      "line_content": "Far-out bookings maintain consistency with significant lower pricing on MSE, capturing 69.37% in the most recent analysis."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "High Percentage GDS Higher Prices",
+      "line_content": "Roughly 98% of prices on GDS are higher compared to the airline's website, consistently observed."
+    },
+    {
+      "line_title": "Minimal GDS Price Advantage",
+      "line_content": "Instances where GDS offered lower prices than the airline's site are nearly negligible across all dimensions."
+    },
+    {
+      "line_title": "Stable Price Status Over Time",
+      "line_content": "Overall, the pricing status across dimensions shows consistency over the weeks and months."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Higher Dominance",
+      "line_content": "Between 97.8% and 99.1% of cases indicate GDS prices are higher compared to the airline's website."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistently More Expensive",
+      "line_content": "Short haul flights nearly always show GDS prices higher than the website, averaging a 1.55% difference."
+    },
+    {
+      "line_title": "Long Haul Slightly More Competitive",
+      "line_content": "Long haul routes exhibit slightly less price discrepancy, with GDS higher in roughly 90% of cases and a narrow 0.18% average difference."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Consistent Higher Pricing for IE Origins",
+      "line_content": "Flights originating from IE show 98.9% of GDS fares higher than the airline's website, with a 2.78% average price difference."
+    },
+    {
+      "line_title": "Non-IE Origins Follow Trend",
+      "line_content": "Non-IE regions also exhibit higher GDS pricing 97.8% of the time, albeit with a lesser average difference of 0.35%."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings Less Priced Advantageously",
+      "line_content": "For close-in bookings, GDS fares are higher 98.07% of the time with a 1.23% average price discrepancy."
+    },
+    {
+      "line_title": "Far-Out Bookings See Higher Variability",
+      "line_content": "Far-out bookings show slightly more volatility with a 1.75% average price discrepancy, though 99.07% remain higher."
+    }
+  ]
+}

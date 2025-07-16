@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Blackout Intensifies",
+      "line_content": "96 % of Air China website fares are now missing on OTAs (+4 ppts MoM); pricing risk is low overall but clusters on long-haul and non-CN routes."
+    },
+    {
+      "line_title": "MSE Visibility Halves",
+      "line_content": "59 % of itineraries are absent on metasearch (+42 % MoM) and the share of MSE-cheaper fares has dropped from 42 % to 22 %, shrinking cost-savings exposure."
+    },
+    {
+      "line_title": "GDS Content Near-Void",
+      "line_content": "GDS misses 98 % of website fares; when listed, 1.7 % price 4 % higher, concentrating on long-haul and non-China origins."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Coverage Gap Growing",
+      "line_content": "OTAs failed to list 96.3 % of web fares last week, up 2.2 ppts WoW and 4.3 ppts MoM."
+    },
+    {
+      "line_title": "Limited Pricing Pressure",
+      "line_content": "Only 1.2 % of displayed itineraries were OTA-higher and 0.02 % OTA-lower; average gap ±0.1 %."
+    },
+    {
+      "line_title": "Risk Hot-Spots",
+      "line_content": "Long-haul (7.2 % OTA-higher) and non-China origins (22.2 % OTA-higher) generate nearly all above-site pricing."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found 96.3 %",
+      "line_content": "‘N/A’ rate keeps rising, signalling a widening OTA blackout."
+    },
+    {
+      "line_title": "Parity Slips to 2.6 %",
+      "line_content": "Exact-match fares fell 1.5 ppts WoW, reducing consistency even where content exists."
+    },
+    {
+      "line_title": "OTA Higher 1.2 %",
+      "line_content": "Premiums remain modest (0.04 %) but concentrated on strategic routes."
+    },
+    {
+      "line_title": "OTA Lower 0.02 %",
+      "line_content": "Undercutting is now practically negligible."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Blackout",
+      "line_content": "97.3 % of short-haul fares are absent; pricing deviations are statistically insignificant."
+    },
+    {
+      "line_title": "Long-Haul Exposure",
+      "line_content": "82.8 % missing, but 7.2 % OTA-higher and 9.9 % at parity create focused parity risk."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "China Origins",
+      "line_content": "Web fares missing 97.4 %; virtually no price deltas, indicating low domestic threat."
+    },
+    {
+      "line_title": "Non-China Origins",
+      "line_content": "Coverage improves to 75.9 % ‘N/A’; however, OTA-higher jumps to 22.2 %, up 12.7 ppts WoW."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0–15d)",
+      "line_content": "97.6 % ‘N/A’; OTA-higher only 0.8 %, limiting near-term revenue impact."
+    },
+    {
+      "line_title": "Far-Out (16+d)",
+      "line_content": "‘N/A’ falls to 93.7 % but OTA-higher rises to 1.9 % with a 0.05 % premium."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Visibility Drops 60 %",
+      "line_content": "59.5 % of itineraries missing on metasearch, up 25 % WoW."
+    },
+    {
+      "line_title": "Discount Share Halved",
+      "line_content": "MSE-cheaper itineraries fell from 42 % to 22 % MoM, cutting customer savings exposure."
+    },
+    {
+      "line_title": "Close-In Weakest",
+      "line_content": "75 % of searches within 14 days show no CA offer, limiting high-yield reach."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found 59.5 %",
+      "line_content": "Distribution gap widened 25 % WoW, 42 % MoM."
+    },
+    {
+      "line_title": "Price Parity 18.2 %",
+      "line_content": "Parity stable despite coverage erosion."
+    },
+    {
+      "line_title": "MSE Lower 22 %",
+      "line_content": "Undercutting incidence down 20 % WoW; average discount ‑0.48 %."
+    },
+    {
+      "line_title": "MSE Higher 0.3 %",
+      "line_content": "Overpricing remains negligible."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Gap",
+      "line_content": "60 % missing; only 22 % cheaper, mirroring total trend."
+    },
+    {
+      "line_title": "Long-Haul Parity",
+      "line_content": "56 % missing, but parity improves to 23 %; discounts drop to 20.5 %."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "China Origin",
+      "line_content": "59 % not found; 22.5 % cheaper by ‑0.49 % where shown."
+    },
+    {
+      "line_title": "Non-China Origin",
+      "line_content": "65 % not found; discount share only 12 %, weakest of all segments."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0–14d)",
+      "line_content": "74.7 % missing; remaining 23 % cheaper by ‑0.53 %."
+    },
+    {
+      "line_title": "Far-Out (15+d)",
+      "line_content": "Coverage improves (31 % missing); parity dominates at 50 %, discounts fall to 19 %."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Content Gap 97.7 %",
+      "line_content": "GDS availability slipped another 1.5 ppts WoW."
+    },
+    {
+      "line_title": "4 % Premium Risk",
+      "line_content": "When present, 1.7 % of fares carry a 4 % markup; discounts virtually nil."
+    },
+    {
+      "line_title": "Long-Haul & Non-CN Hotspots",
+      "line_content": "Long-haul 9.3 % and non-China origins 32.7 % GDS-higher despite recent easing."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Missing 97.7 %",
+      "line_content": "Distribution blackout continues to widen (+2.4 ppts MoM)."
+    },
+    {
+      "line_title": "Exact Parity 0.6 %",
+      "line_content": "Parity remains negligible, no material trend."
+    },
+    {
+      "line_title": "GDS Higher 1.7 %",
+      "line_content": "Incidence down 1 ppt WoW but still at a 4 % premium."
+    },
+    {
+      "line_title": "GDS Lower 0.02 %",
+      "line_content": "Operationally irrelevant."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Near-Void",
+      "line_content": "98.3 % missing; 1.1 % overpriced by 5 %."
+    },
+    {
+      "line_title": "Long-Haul Premium",
+      "line_content": "90.5 % missing; 9.3 % overpriced (-4.6 ppts WoW)."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "China Origins",
+      "line_content": "99.5 % missing; almost no pricing activity."
+    },
+    {
+      "line_title": "Non-China Origins",
+      "line_content": "64.4 % missing; 33 % of shown fares 4 % higher (-19 ppts WoW)."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0–7d)",
+      "line_content": "98.7 % missing; 1.2 % overpriced by 4 %."
+    },
+    {
+      "line_title": "Far-Out (8+d)",
+      "line_content": "95.7 % missing; overpriced share grows to 2.7 % at same 4 % premium."
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Key Insight",
+      "line_content": "Most fares remain priced above the airline’s site, with minimal cheaper listings and steady coverage."
+    },
+    {
+      "line_title": "MSE Key Insight",
+      "line_content": "Over half of fares match direct pricing, but MSE also undercuts nearly 41% of the time, dwarfing higher-priced listings."
+    },
+    {
+      "line_title": "GDS Key Insight",
+      "line_content": "Over 95% of fares are unavailable through GDS; listed fares typically come at a substantial premium."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Consistent OTA Premium",
+      "line_content": "Approximately 95% of monitored fares remain higher on this channel, indicating stable premium pricing versus the airline's site."
+    },
+    {
+      "line_title": "Limited Cheaper Offers",
+      "line_content": "OTA-lower fares stay below 2% overall, with only marginal week-to-week growth, suggesting minimal undercutting."
+    },
+    {
+      "line_title": "Marked Differences in Coverage",
+      "line_content": "‘Not found’ rates are below 3% on most flights but spike up to 16% on long-haul itineraries, reflecting uneven channel availability."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A",
+      "line_content": "Offers not found remain under 3% overall, down slightly from last week and indicating combined modest improvement in the channel’s coverage."
+    },
+    {
+      "line_title": "SAME",
+      "line_content": "Matching fares consistently under 1%, with negligible changes week over week, reflecting stable parity cases."
+    },
+    {
+      "line_title": "OTA HIGHER",
+      "line_content": "Over 95% of tickets are priced above the site, with a typical premium near 0.18% and minimal shifts from before."
+    },
+    {
+      "line_title": "OTA LOWER",
+      "line_content": "Close to 1% of fares stand lower than the site, with an average discount of 0.17%, showing marginal but steady traction."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "OTA higher dominates at about 96% of cases, minimal weekly fluctuations, and less than 2% coverage gaps."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "Close to 79% priced above the site, while ‘not found’ instances climb to 16%. Price parity and cheaper fares remain rare."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "BR Origins",
+      "line_content": "Over 97% are costlier on OTA, and ‘not found’ dips near 2%. This region displays tight price control and minimal cheaper listings."
+    },
+    {
+      "line_title": "Non-BR Origins",
+      "line_content": "OTA higher share is notably lower at 63%, with 17% cheaper than the airline’s site, indicating greater fare variation."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "95% of fares run higher, with limited cheaper availability. ‘Not found’ rates stay around 3%, hinting at slightly diminished coverage in near-term bookings."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Nearly 97% higher than the site, with a minimal 1.7% cheaper portion. ‘Not found’ remains low, showing solid coverage in advance schedules."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Strong Rate Parity",
+      "line_content": "Over half of itineraries match website fares, indicating stable pricing alignment on MSE."
+    },
+    {
+      "line_title": "Channel Often Undercuts",
+      "line_content": "In the last week, MSE fares were lower about 41% of the time, overshadowing the small 4% of higher fares."
+    },
+    {
+      "line_title": "Minor Week-to-Week Shifts",
+      "line_content": "Most frequency changes remain under 10%, reflecting steady performance from previous periods."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE Not Found",
+      "line_content": "Remains below 1% across most markets, showing minimal instances of unavailable fares."
+    },
+    {
+      "line_title": "Same",
+      "line_content": "Holds a majority share around 54–55%, signifying consistent parity with the direct site."
+    },
+    {
+      "line_title": "MSE Lower",
+      "line_content": "Accounts for roughly 41% overall; slight downward trend from previous periods but still significant."
+    },
+    {
+      "line_title": "MSE Higher",
+      "line_content": "Below 5% in the latest week, down from previous highs near 8%, indicating low upward pressure on fares."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Over half are matched fares, with around 42% lower and under 4% higher; pricing remains stable week over week."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "Two-thirds match direct fares, but lower fares trend around 28%. Slight week-to-week volatility noted."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "BR Markets",
+      "line_content": "High parity (56%) and fewer price gaps above website (3%). MSE undercutting at 41% remains a steady factor."
+    },
+    {
+      "line_title": "Non-BR Markets",
+      "line_content": "Lower fares stand out at nearly 58%, but higher fares also spike to 13%, indicating greater variability."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "Close to a 50/50 split between website parity and lower fares, with less than 5% priced higher."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Nearly 68% match the website, with about 28% lower and minimal higher fares, pointing to strong long-range parity."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Widespread Unavailability",
+      "line_content": "Over 95% of fares do not appear in GDS, indicating significant gaps in channel coverage."
+    },
+    {
+      "line_title": "Higher Fares Dominate",
+      "line_content": "When listed, around 3–4% of GDS fares are consistently higher than the website, often by about 20% or more."
+    },
+    {
+      "line_title": "Minimal GDS Discounts",
+      "line_content": "GDS-lower prices remain rare, generally below 1% of the sample."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offer Not Found",
+      "line_content": "GDS N/A persists above 95% in nearly all segments, with marginal weekly changes."
+    },
+    {
+      "line_title": "Same",
+      "line_content": "Consistently under 1% across the board, signaling few matched fare scenarios."
+    },
+    {
+      "line_title": "Channel Lower",
+      "line_content": "Remains insignificant, mostly under 1%, showing little impact on overall pricing."
+    },
+    {
+      "line_title": "Channel Higher",
+      "line_content": "Ranges around 3–4% of cases, with a premium of 20–26% higher than the airline website."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Over 96% unlisted in GDS, with the remaining 3–4% typically priced higher by 21–23%."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "About 87% unlisted in GDS; up to 6% match the website while 5–7% run 11% higher than the website."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "BR",
+      "line_content": "100% GDS N/A, indicating no active listings for flights originating in Brazil within this data sample."
+    },
+    {
+      "line_title": "Non-BR",
+      "line_content": "92% appear in GDS at higher prices, averaging a 22% premium; minimal same or lower fare occurrences."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "Around 96% are missing in GDS; reduced weekly presence of GDS-lower fares and a 3–4% higher-fare share."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Roughly 95% offers unavailable; about 5% are higher with an 18% price premium versus the website."
+    }
+  ]
+}

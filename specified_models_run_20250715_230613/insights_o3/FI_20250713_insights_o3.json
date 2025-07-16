@@ -1,0 +1,212 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA – Parity Erosion",
+      "line_content": "OTAs still match FI.com on 88 % of itineraries, but parity has fallen 6 ppt WoW as ‘offer-not-found’ cases doubled to 12.5 %, exposing growing distribution gaps without price inflation risk."
+    },
+    {
+      "line_title": "MSE – Systemic Undercutting",
+      "line_content": "Metasearch undercuts the website on 88 % of itineraries and shows 12 % missing offers; although the average discount is small (-0.10 %), the sheer coverage makes this the highest revenue-leak channel."
+    },
+    {
+      "line_title": "GDS – Parity With Loading Issues",
+      "line_content": "GDS retains 87.5 % parity and negligible undercutting (0.7 %), but missing fares climbed to 11.8 %, signalling an urgent content-sync concern, especially on short-haul and IS-origin segments."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Parity Still High, But Eroding",
+      "line_content": "OTAs match the website on 88 % of itineraries; parity slipped 6 ppt WoW and 8 ppt MoM."
+    },
+    {
+      "line_title": "Missing Offers Rising",
+      "line_content": "12.5 % of website fares are absent on OTAs—double last month—signalling widening content gaps."
+    },
+    {
+      "line_title": "No Systematic Overpricing",
+      "line_content": "0 % of checks show OTA prices above the website; under-pricing is negligible, keeping margin risk low."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offer Not Found",
+      "line_content": "Share rose to 12.5 % (+6 ppt WoW, +10 ppt MoM), the fastest-worsening metric."
+    },
+    {
+      "line_title": "Price Parity",
+      "line_content": "Still dominant at 87.5 % but eroding in step with availability gaps."
+    },
+    {
+      "line_title": "Channel Lower",
+      "line_content": "No occurrences this week; last seen at 2.7 % a month ago."
+    },
+    {
+      "line_title": "Channel Higher",
+      "line_content": "Zero instances across all periods—OTAs are not inflating prices."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Gaps",
+      "line_content": "14.6 % OTA N/A (+7.8 ppt WoW) cuts parity to 85 %."
+    },
+    {
+      "line_title": "Long-Haul Stable",
+      "line_content": "Maintains 92 % parity; missing offers 8.2 % (+2 ppt WoW)."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Iceland Departures Lag",
+      "line_content": "IS origins show 18.1 % missing offers (+8.4 ppt WoW), dropping parity to 82 %."
+    },
+    {
+      "line_title": "Non-IS Strong",
+      "line_content": "Non-IS origins hold 97 % parity with only 3.4 % missing fares."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Weak Spot",
+      "line_content": "Same-week travel has 15 % missing fares (+6.2 ppt WoW), parity down to 85 %."
+    },
+    {
+      "line_title": "Far-Out Secure",
+      "line_content": ">3-week window retains 96 % parity with 4.4 % missing offers."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Pervasive Undercutting",
+      "line_content": "MSE priced below the website on 88 % of itineraries; no higher-priced or parity cases registered."
+    },
+    {
+      "line_title": "Rising Offer Gaps",
+      "line_content": "11.8 % of website fares missing on MSE, up 5 ppt WoW and 10 ppt MoM."
+    },
+    {
+      "line_title": "Non-IS Deepest Exposure",
+      "line_content": "Non-IS origins show 98 % undercutting and the largest average discount (-0.14 %)."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offer Not Found",
+      "line_content": "Coverage slipped to 11.8 %, more than doubling MoM; concentrated in IS and close-in markets."
+    },
+    {
+      "line_title": "Channel Lower Dominates",
+      "line_content": "Still high at 88.2 % but down 5.3 ppt WoW; average discount stable at ‑0.10 %."
+    },
+    {
+      "line_title": "True Parity Absent",
+      "line_content": "0 % of OD pairs matched the website across all comparison periods."
+    },
+    {
+      "line_title": "Channel Higher Zero",
+      "line_content": "No instances of MSE prices above the website, eliminating margin upside risk."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Weakening",
+      "line_content": "85.6 % undercutting (-7.8 ppt WoW); missing offers peak at 14.4 %."
+    },
+    {
+      "line_title": "Long-Haul Exposure",
+      "line_content": "91.8 % undercutting (-2.0 ppt WoW) with low 8.2 % offer gaps."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Iceland Origins",
+      "line_content": "18.1 % not-found; 81.9 % cheaper (-8.5 ppt WoW); discount depth ‑0.08 %."
+    },
+    {
+      "line_title": "Non-Iceland Origins",
+      "line_content": "98.3 % cheaper with ‑0.14 % discount; only 1.7 % offers missing."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Risks",
+      "line_content": "85 % cheaper (-6.3 ppt WoW); 15 % offers missing, main driver of gap."
+    },
+    {
+      "line_title": "Far-Out Better Controlled",
+      "line_content": "95.6 % cheaper (-2.4 ppt WoW); 4.4 % offers missing, smallest discount (-0.09 %)."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Strong Parity",
+      "line_content": "87.5 % of GDS itineraries priced exactly as website; none higher-priced."
+    },
+    {
+      "line_title": "Rising Availability Gap",
+      "line_content": "Missing fares up to 11.8 % (+5.3 ppt WoW, +9.8 ppt MoM)."
+    },
+    {
+      "line_title": "Minimal Undercutting",
+      "line_content": "Only 0.7 % cheaper in GDS, with a negligible ‑0.06 % average discount."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A Escalating",
+      "line_content": "Website fares not found rose from 6.5 % to 11.8 % WoW; urgent fare-loading fix needed."
+    },
+    {
+      "line_title": "Parity Slippage",
+      "line_content": "Parity still high at 87.5 % but fell 6 ppt WoW, 9.8 ppt MoM."
+    },
+    {
+      "line_title": "Channel Lower Negligible",
+      "line_content": "GDS-lower cases up to 0.66 %, average discount just ‑0.06 %."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Gap",
+      "line_content": "14.6 % missing fares cut parity to 84.5 %, 7 ppt worse than long-haul."
+    },
+    {
+      "line_title": "Long-Haul Stable",
+      "line_content": "91.8 % parity with 8.2 % missing fares; no price deltas."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Iceland Origin Issue",
+      "line_content": "18.1 % fares absent; parity 80.9 %, weakest across segments."
+    },
+    {
+      "line_title": "Non-IS Near-Perfect",
+      "line_content": "98.3 % parity; only 1.7 % missing fares."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Weakness",
+      "line_content": "15 % missing fares; parity down to 84.1 % for last-minute sales."
+    },
+    {
+      "line_title": "Far-Out Strength",
+      "line_content": "93.3 % parity; 4.4 % missing fares and zero undercutting."
+    }
+  ]
+}

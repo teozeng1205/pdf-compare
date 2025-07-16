@@ -1,0 +1,196 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Channel Insight",
+      "line_content": "OTA prices showed increased consistency with airline site pricing, with 71.68% parity and improved competitiveness by reducing higher pricing instances."
+    },
+    {
+      "line_title": "MSE Channel Insight",
+      "line_content": "The MSE channel maintains stable pricing parity at 78.4%, with a reduced frequency of higher-priced instances, indicating competitive adjustments."
+    },
+    {
+      "line_title": "GDS Channel Insight",
+      "line_content": "GDS prices became more competitive, with a noticeable decrease in higher price instances, now at 47.24% compared to the previous weeks."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Price Parity Stability",
+      "line_content": "Currently, 71.68% of OTA prices match the airline's website in the latest week, maintaining stability from previous analyses."
+    },
+    {
+      "line_title": "OTA Price Competitiveness",
+      "line_content": "For 18.22% of the itineraries, OTA prices were higher in the last week, indicating a decrease compared to previous periods."
+    },
+    {
+      "line_title": "Slight Drop in OTC Lower",
+      "line_content": "OTA prices were lower for about 8.99% of itineraries in the last week, showing a slight increase in competitive pricing compared to both the previous week and month."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Same Levels Increase",
+      "line_content": "Identified a 5.82% increase in itinerary matches between OTA and airline site compared to the previous week, demonstrating improved price consistency."
+    },
+    {
+      "line_title": "Reduction in OTA Higher",
+      "line_content": "There was an 11.67% reduction in higher OTA prices from the previous week, reflecting better alignment with the airline's pricing strategy."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "Short haul itineraries maintain high price consistency with the airline's site, with 70.34% identical offerings."
+    },
+    {
+      "line_title": "Long Haul Parity",
+      "line_content": "Long haul routes show even greater consistency, with 94.20% of prices matching the airline’s site."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Canadian Origin Consistency",
+      "line_content": "Prices from Canadian origins tend to match the airline's offerings 75.09% of the time, with a reduced percentage of OTA higher pricing compared to past data."
+    },
+    {
+      "line_title": "Non-Canadian Fluctuations",
+      "line_content": "Non-Canada origins have a lower match level at 59.07%, with significant fluctuations in competitive discounting tactics."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Stability",
+      "line_content": "Close-in booking periods show stable pricing, with 68.54% parity between OTA and the airline’s site."
+    },
+    {
+      "line_title": "Far-Out Discrepancies",
+      "line_content": "Far-out bookings have a higher parity level at 78.10%, although the segment saw an increase in OTA higher pricing, reflecting potential pricing strategy shifts."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Stability in Pricing",
+      "line_content": "There is a considerable stability with 78.4% of prices matching between the MSE channel and the airline's website in the latest week."
+    },
+    {
+      "line_title": "Channel Price Sensitivity",
+      "line_content": "In the past week, 16.6% of MSE channel prices were higher than the airline's website, with this segment seeing a slight decline in frequency from previous comparisons."
+    },
+    {
+      "line_title": "Discount Opportunities",
+      "line_content": "The MSE channel offered lower prices than the airline website 4.8% of the time in the latest week, showing a slight increasing trend from both previous week and month."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "SAME Price Status Prevails",
+      "line_content": "The same price status remains dominant in the MSE channel analysis, representing 78.4% of the comparisons in the latest week."
+    },
+    {
+      "line_title": "MSE Higher Pricing Reduced",
+      "line_content": "The frequency of MSE channel prices being higher than the website dropped by 2.89% from the previous week, highlighting a competitive pricing adjustment."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Pricing Consistency",
+      "line_content": "For short-haul routes, 79.9% of prices remained consistent between MSE and the airline in the latest week, with an increasing trend over time."
+    },
+    {
+      "line_title": "Long Haul Price Reduction",
+      "line_content": "Long-haul routes showed significant price reductions on MSE, with 47.3% being lower than airline prices, though showing a slight decrease compared to past data."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "N/A Status Slightly Rising in CA",
+      "line_content": "Flights originating from Canada had a slight increase in price unavailability on MSE, reaching 0.17% in the latest week."
+    },
+    {
+      "line_title": "Non-CA Higher Price Frequency",
+      "line_content": "For non-Canadian origins, 27.2% of prices were higher on the MSE channel, though this frequency slightly decreased compared to previous data."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Deals Increase",
+      "line_content": "Close-in bookings saw a higher frequency of the same price, with a noted increase of 5.85% over the previous week, indicating a stronger alignment in pricing."
+    },
+    {
+      "line_title": "Far-Out MSE Price Increase",
+      "line_content": "For far-out bookings, 20.07% of prices were higher on MSE compared to the airline's site, with an increasing trend noted week over week."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Stable GDS Availability",
+      "line_content": "Overall, GDS prices are mostly available, with only 0.08% of offers not found, showing consistent presence in the channel."
+    },
+    {
+      "line_title": "Price Comparison Trends",
+      "line_content": "The percentage of routes with higher prices in GDS over AC's site decreased by 10.68% from the previous week and by 6.78% from the previous month."
+    },
+    {
+      "line_title": "Minimal GDS Price Advantage",
+      "line_content": "Instances where GDS prices were lower than Air Canada's site were extremely rare, decreasing over the last month by 0.33%."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offers Not Available on GDS",
+      "line_content": "Only 0.08% of offers were unavailable on GDS, maintaining stability from the previous week, highlighting minimal distribution gaps."
+    },
+    {
+      "line_title": "Same Price Across Channels",
+      "line_content": "GDS and Air Canada's site had identical pricing for 52.11% of the itineraries, with a 7.63% increase in parity from the previous month."
+    },
+    {
+      "line_title": "Higher GDS Pricing",
+      "line_content": "GDS prices were higher 47.24% of the time, a notable improvement from last week's 57.93%, indicating a decreasing trend in higher GDS pricing."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Pricing Characteristics",
+      "line_content": "For short haul, 48.50% of prices were higher on GDS than the airline's site, with a significant weekly reduction in these instances by 11.18%."
+    },
+    {
+      "line_title": "Long Haul Price Stability",
+      "line_content": "Long haul routes showed 73.79% price parity, with a small decrease in GDS prices being higher by 2.43% since last week."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Canada-Origin Pricing Trends",
+      "line_content": "61.18% of itineraries originating from Canada had higher GDS prices, but showed a 12.94% reduction over the past week, improving competitiveness."
+    },
+    {
+      "line_title": "Non-Canada Origins",
+      "line_content": "Pricing differences for non-Canada origins showed more price parity, with 57.63% of itineraries being the same across channels, signifying more consistent pricing."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking",
+      "line_content": "GDS had higher prices for 39.61% of close-in bookings, with a 14.59% decrease over the week, indicating increased GDS competitiveness."
+    },
+    {
+      "line_title": "Far-Out Booking Strategies",
+      "line_content": "A substantial 62.78% of far-out bookings had higher GDS prices, with a minor 2.75% decrease indicating less competitive long-term GDS pricing."
+    }
+  ]
+}

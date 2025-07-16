@@ -1,0 +1,160 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Pricing and Availability Issues",
+      "line_content": "The OTA channel exhibits no price advantage or parity with the airline's website, with a consistent 100% N/A status across all dimensions, indicating availability and alignment challenges."
+    },
+    {
+      "line_title": "MSE Competitive Pricing Strategy",
+      "line_content": "MSE offers generally lower prices than Garuda Indonesia's site across most dimensions, demonstrating competitive dynamics and declining price parity."
+    },
+    {
+      "line_title": "GDS Higher Average Pricing",
+      "line_content": "While GDS shows strong price consistency with Garuda Indonesia's website, over 55% of prices are higher, suggesting premium placements."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "No Price Advantage on OTA",
+      "line_content": "Prices on the OTA channel never undercut those on Garuda Indonesia's website across all dimensions."
+    },
+    {
+      "line_title": "Constant OTA Availability",
+      "line_content": "OTA N/A status remains stable at 100% across all dimensions, indicating consistent issues with availability."
+    },
+    {
+      "line_title": "Lack of Price Parity",
+      "line_content": "No instances of identical pricing were recorded between the OTA and Garuda Indonesia’s website."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA Non-Availability Dominance",
+      "line_content": "OTA offers were not available in 100% of cases across all dimensions, showing a trend of consistently missing offers on the OTA channel."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Trends Unchanged",
+      "line_content": "For short-haul segments, the OTA channel did not offer any available pricing (OTA N/A) and failed to present comparative pricing data entirely."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Lack of Indonesian Offerings on the OTA",
+      "line_content": "From Indonesia, the lack of OTA pricing parity is evidenced by a persistent N/A status."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Uniform Unavailability in Booking Windows",
+      "line_content": "For both 'Close In' and 'Far Out' booking windows, OTA failed to provide any price comparisons, with all cases showing OTA N/A."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Majority MSE Lower",
+      "line_content": "Across all analyzed dimensions, the majority of offers on MSE were lower than the airline's website, indicating potential savings for travelers using MSE."
+    },
+    {
+      "line_title": "Short Haul Trends",
+      "line_content": "In the short haul segment, the MSE channel consistently offered lower prices compared to the airline's website, with a 2.16% increase in frequency from the previous week."
+    },
+    {
+      "line_title": "Stable Price Parity",
+      "line_content": "For offers where prices matched the airline's website, there was a decrease in occurrence over recent weeks, suggesting a shift towards more competitive pricing by MSE."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE Channel Lower Prices",
+      "line_content": "Offers on the MSE channel were more often lower than the airline's direct pricing, with an upward trend in lower pricing trends visible over the past month."
+    },
+    {
+      "line_title": "Reduced Parity Between MSE and Direct Website",
+      "line_content": "The frequency of identical pricing between MSE and the direct website decreased by 14.14% from the previous month, showing MSE's increased competitive pricing strategy."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Opportunities",
+      "line_content": "Short haul routes frequently had lower prices on MSE compared to the airline's direct website, showing a 14.58% increase in lower price occurrences compared to the previous month."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Indonesian Origin Consistency",
+      "line_content": "For flights originating in Indonesia, the pattern mirrored overall trends with MSE showing a higher tendency to offer lower prices than the airline's direct site."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Window Pricing",
+      "line_content": "For bookings made closer to departure, MSE provides lower prices in about 61.77% of cases, though the frequency slightly decreased from the previous week."
+    },
+    {
+      "line_title": "Far-Out Window Dynamics",
+      "line_content": "For far-out bookings, a greater proportion of MSE prices were lower than the airline's site, with a notable 6.32% hike in lower fare incidences from the previous week."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Minimal Website Absence",
+      "line_content": "The GDS rarely lacks offers found on the airline's site, indicating a well-aligned distribution strategy with less than 1% mismatch."
+    },
+    {
+      "line_title": "Consistent Price Parity",
+      "line_content": "A substantial 44.15% of pricing remains the same across GDS and airline site, showing significant effort in maintaining pricing consistency."
+    },
+    {
+      "line_title": "GDS Higher Pricing",
+      "line_content": "Over fifty-five percent of prices are higher on GDS, noting a trend that may require action if balance is desired."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Price Consistency Strong",
+      "line_content": "The 'SAME' status hit 44.15% last week, reflecting a strong commitment to consistent pricing in GDS versus direct sales."
+    },
+    {
+      "line_title": "GDS Predominantly Higher",
+      "line_content": "About 55.7% of flights show higher prices on GDS, hinting at strategic premium placements or missed harmonization opportunities."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Uniform Short Haul Behavior",
+      "line_content": "Short haul flights mirror overall trends with over 55% GDS higher and minimal website offer mismatch."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Indonesian Market Matches",
+      "line_content": "Passengers departing from Indonesia face similar pricing structures in GDS as globally. Website offers are mostly present, with over 55% higher pricing recorded."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Trends",
+      "line_content": "For close-in windows, 54.4% higher GDS pricing remains a significant theme. GDS offers are almost fully synchronized with the airline offers."
+    },
+    {
+      "line_title": "Far-Out Booking Variability",
+      "line_content": "Far-out bookings show GDS pricing higher 57.7% of the time, but there's greater variability with website offer synchronization."
+    }
+  ]
+}

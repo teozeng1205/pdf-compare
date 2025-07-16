@@ -1,0 +1,196 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Price Parity",
+      "line_content": "With 86.85% of listings matching Singapore Airlines' web prices, OTAs show strong alignment, though 7.65% of OTA prices are higher."
+    },
+    {
+      "line_title": "MSE Competitive Edge",
+      "line_content": "MSE offers lower prices than Singapore Airlines' website in 71.34% of instances, maintaining a trend of competitive pricing."
+    },
+    {
+      "line_title": "GDS Higher Pricing Trend",
+      "line_content": "GDS channels predominantly feature higher prices than Singapore Airlines' site, with 96% of cases exhibiting pricing above web offers."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "High Web Parity",
+      "line_content": "86.85% of OTA prices matched Singapore Airlines' website, showcasing strong price alignment."
+    },
+    {
+      "line_title": "Minor OTA Higher Prices",
+      "line_content": "7.65% of OTA listings were higher than web prices, a slight concern."
+    },
+    {
+      "line_title": "Decrease in Lower Offers",
+      "line_content": "Lower offers on OTAs decreased to 1.22%, indicating less competitive positioning."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Stable Web Offers",
+      "line_content": "Only 4.28% of offers were not found on OTAs, consistent over time."
+    },
+    {
+      "line_title": "Incremental OTA Price Increase",
+      "line_content": "7.65% of OTA listings were priced higher than the website, marking an incremental increase."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Web Dependence",
+      "line_content": "77.85% of short-haul itineraries matched website pricing, with a slight decrease recently."
+    },
+    {
+      "line_title": "Long Haul Price Consistency",
+      "line_content": "94.71% of long-haul itineraries maintained parity with the web, reflecting strong alignment."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "High Parity for Singapore Origin",
+      "line_content": "94.27% of Singapore-origin itineraries matched web pricing, with minimal instances of higher OTA prices."
+    },
+    {
+      "line_title": "Variable Pricing for Non-SG Origins",
+      "line_content": "80.12% match rate for non-SG origins, with 14.62% of fares higher on OTA."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Consistency in Close-In Bookings",
+      "line_content": "86.19% price parity for close-in bookings aligns OTA and web offers."
+    },
+    {
+      "line_title": "Fluctuating Far-Out Parity",
+      "line_content": "88.03% parity for far-out bookings, with 17.1% offering lower OTA prices over time."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Dominant Lower Pricing",
+      "line_content": "71.34% of MSE offers were lower than the website, reinforcing MSE's competitive pricing edge."
+    },
+    {
+      "line_title": "Minimal Pricing Alignment Drop",
+      "line_content": "A 6.07% decrease in identical pricing between MSE and the airline's site was observed."
+    },
+    {
+      "line_title": "Stable Price Differences",
+      "line_content": "Price differences on MSE showed a marginal decrease of 0.04%."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Predominant Lower Pricing",
+      "line_content": "71.34% of MSE offers were lower than the airline's site, though slightly decreased from the prior week's 77.41%."
+    },
+    {
+      "line_title": "Increase in Same Prices",
+      "line_content": "28.66% of tickets had the same price on MSE and the airline's site, reflecting a minor increase from the previous week."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Long Haul Pricing Drop",
+      "line_content": "59.76% of long haul flights had lower MSE prices, a 7.10% weekly decrease."
+    },
+    {
+      "line_title": "Short Haul Pricing Decline",
+      "line_content": "Short haul offers fell to 83.65% lower MSE pricing, down 5.10% from the previous week."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Non-SG Markets Maintain Lower Pricing",
+      "line_content": "87.13% of non-SG routes had lower MSE prices, with a slight 3.23% decrease over last week."
+    },
+    {
+      "line_title": "Singapore Origin Decrease",
+      "line_content": "53.85% lower MSE offers for Singapore-origin itineraries, a 10.61% decline from the previous week."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-in MSE Pricing Decrease",
+      "line_content": "MSE prices were lower in 75.36% of cases for close-in bookings, despite a 4.46% weekly decline."
+    },
+    {
+      "line_title": "Far-out MSE Pricing Advantage",
+      "line_content": "Far-out bookings showed a 64.10% lower MSE pricing, with an 8.40% decrease from the previous week."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Predominant Higher Pricing",
+      "line_content": "96% of GDS prices are higher than Singapore Airlines' web prices, consistently seen over time."
+    },
+    {
+      "line_title": "Rare Lower Pricing",
+      "line_content": "Lower prices via GDS are below 1%, posing minimal competitive influence."
+    },
+    {
+      "line_title": "Stable Price Parity Gains",
+      "line_content": "Slight improvements observed in price parity efforts on GDS channels."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Prevalence of Higher GDS Pricing",
+      "line_content": "96% of GDS prices were higher than the website, stable over recent months."
+    },
+    {
+      "line_title": "Increasing Price Parity",
+      "line_content": "'Same' pricing improved by 0.95% from last week, indicating progress in parity efforts."
+    },
+    {
+      "line_title": "Rare Lower GDS Prices",
+      "line_content": "Lower prices via GDS remain scant at approximately 0.3%."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Higher Pricing in Short Haul",
+      "line_content": "94.94% of short haul itineraries had higher GDS prices last week, little change over time."
+    },
+    {
+      "line_title": "Consistent Higher Long Haul Pricing",
+      "line_content": "97.63% of long haul routes displayed higher GDS pricing, stable historically."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Singapore-Origin High GDS Prices",
+      "line_content": "94.23% of GDS prices for Singapore-origin routes were higher last week."
+    },
+    {
+      "line_title": "Non-SG Origin Higher Pricing Consistency",
+      "line_content": "98.25% of non-SG origin itineraries featured higher GDS prices last week."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Elevated Prices in Close-In Period",
+      "line_content": "94.31% of close-in bookings on GDS were priced higher."
+    },
+    {
+      "line_title": "Far-Out Booking Higher Price Trend",
+      "line_content": "99.15% of far-out bookings on GDS showed higher prices last week, reflecting stability in advanced booking pricing."
+    }
+  ]
+}

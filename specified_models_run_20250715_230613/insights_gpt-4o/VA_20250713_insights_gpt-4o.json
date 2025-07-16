@@ -1,0 +1,180 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Pricing Consistency",
+      "line_content": "OTA prices for Virgin Australia were higher 81% of the time, indicating a robust trend of more expensive options on this channel."
+    },
+    {
+      "line_title": "MSE Competitive Advantage",
+      "line_content": "MSE offers consistently cheaper fares than Virgin Australia's website, with a dominant lower pricing in 85% of cases."
+    },
+    {
+      "line_title": "GDS Higher Pricing",
+      "line_content": "GDS consistently shows higher pricing in 82.08% of cases, reinforcing its position as the more premium-priced channel."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "OTA Higher Trend",
+      "line_content": "The OTA prices for Virgin Australia were consistently higher in 81% of cases last week, marking a decrease from both the previous week and month."
+    },
+    {
+      "line_title": "OTA Lower Frequency",
+      "line_content": "OTA prices were rarely lower, with occurrences in only around 0.5% of cases, showing an increase from previous trends."
+    },
+    {
+      "line_title": "Consistent Offerings",
+      "line_content": "About 17% of prices were the same across both the airline's and OTA's channels, confirming stability in pricing strategies."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA Not Available",
+      "line_content": "Only 1.8% of flights were not found on OTAs last week, showing a slight decrease from the previous week."
+    },
+    {
+      "line_title": "Same Pricing Stability",
+      "line_content": "The percentage of same pricing remained stable around 16.6% last week, micro-improving by 0.05% from the previous week."
+    },
+    {
+      "line_title": "OTA Higher Offers",
+      "line_content": "Frequently, 81% of itineraries were priced higher on OTAs, signaling a 0.09% reduction from the previous week."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "Pricing across short-haul routes resembles the average trends, with noticeable higher OTA prices in approximately 81% of instances."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Australia's Pricing Patterns",
+      "line_content": "For origin groups from AU, the data matched overall trends, with a persistent majority of OTA pricing being higher."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-in Window Trends",
+      "line_content": "There were temporary price increases in close-in bookings, with OTA higher prices seen 78% last week, an increase from prior data."
+    },
+    {
+      "line_title": "Far-Out Stability",
+      "line_content": "Far-out bookings showed 86% higher OTA prices, a reduction from previous higher percentages."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Dominant Lower Prices",
+      "line_content": "Virgin Australia's prices on MSE are predominantly lower than on their website across all dimensions analyzed."
+    },
+    {
+      "line_title": "Steady Price Parity",
+      "line_content": "Approximately 14% of offers remained the same on both the Virgin Australia site and MSE over the latest week, showing stability in competitive pricing."
+    },
+    {
+      "line_title": "Minimal Higher Offers",
+      "line_content": "There are negligible instances where MSE prices are higher than Virgin Australia’s website."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Web Offer Not Found",
+      "line_content": "The frequency of web offers not appearing on MSE increased slightly by 22% from the previous week and by 11% from the previous month."
+    },
+    {
+      "line_title": "Same Price Stability",
+      "line_content": "Pricing parity between MSE and Virgin Australia’s site persisted in about 14% of cases, with a slight increase of 0.68% from the previous week and 2.35% from the previous month."
+    },
+    {
+      "line_title": "Predominant Market Advantage",
+      "line_content": "MSE prices were lower than the website in 85% of cases, but saw a slight decrease in frequency of lower prices by 0.90% from the previous week and 2.45% from the previous month."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Insights",
+      "line_content": "Short haul routes maintain consistency with 85% lower prices on MSE than the airline’s website, however, this has seen a slight decline by 0.90% from the previous week."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Australia POO Dominance",
+      "line_content": "For flights originating in Australia, MSE offers were lower 85% of the time, indicating a strategic pricing advantage in the local market."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Advantage",
+      "line_content": "Close-in bookings showed 95% of the MSE listings being lower priced than the website, providing significant savings potential for last-minute travelers."
+    },
+    {
+      "line_title": "Far-Out Consistency",
+      "line_content": "Far-out bookings continued to see a high percentage (68%) of lower-priced MSE offers, although there has been a notable decrease from previous months from 71%."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS Pricing Higher",
+      "line_content": "Overall, 82.08% of the time, GDS pricing is higher than Virgin Australia's website, with only minor week-to-week fluctuations."
+    },
+    {
+      "line_title": "Stability in Pricing Similarity",
+      "line_content": "Approximately 17.33% of the GDS fares match those on Virgin Australia's website, indicating stable similarity over time."
+    },
+    {
+      "line_title": "Limited GDS Lower Pricing",
+      "line_content": "Only 0.6% of GDS fares are lower than those on Virgin Australia's site, suggesting minimal competitive pricing in GDS."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Higher Frequent",
+      "line_content": "GDS fares appear higher 82.08% of the time, with a slight decrease from last month by 2.16%."
+    },
+    {
+      "line_title": "Consistent Matching Prices",
+      "line_content": "The consistency in fares matching Virgin Australia's website remains steady at around 17.33%."
+    },
+    {
+      "line_title": "Minimal Lower GDS Pricing",
+      "line_content": "GDS fares lower than Virgin Australia's site are rare, showing 0.6%, down by 0.11% from the previous week."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Trends",
+      "line_content": "Short Haul GDS pricing patterns mirror the overall trends, with a notable 82.08% of fares being higher and stable same pricing at 17.33%."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Australia's GDS Pricing",
+      "line_content": "In Australia, GDS fares are higher 82.08% of the time, with trends identical to overall results."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Patterns",
+      "line_content": "Close-in bookings see 79.85% higher GDS prices, with a slight week-to-week increase to 2.4%."
+    },
+    {
+      "line_title": "Far-Out Booking Dynamics",
+      "line_content": "For far-out bookings, 85.86% of fares are higher on GDS, though there's a significant decrease of 4.64% from the previous week."
+    }
+  ]
+}

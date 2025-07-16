@@ -1,0 +1,164 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Pricing Insight",
+      "line_content": "OTA prices are consistently higher, observed in over 98% of cases compared to Ethiopian Airlines' website."
+    },
+    {
+      "line_title": "MSE Pricing Insight",
+      "line_content": "MSE channel maintains strong price parity with the airline’s direct site, exhibiting negligible price discrepancies."
+    },
+    {
+      "line_title": "GDS Pricing Insight",
+      "line_content": "GDS displays higher pricing than the airline's website consistently, with over 99% frequency."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "OTA Higher Frequency",
+      "line_content": "Ethiopian Airlines prices on OTA are consistently higher, with OTA Higher status observed in nearly 99% of the cases."
+    },
+    {
+      "line_title": "Minimal Non-Availability",
+      "line_content": "Website offers are rarely missing from OTA, noted at just about 1% of the instances."
+    },
+    {
+      "line_title": "Stable Price Patterns",
+      "line_content": "The average price uplift for OTA is steady around 0.63% to 0.65% across different timescales."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Mostly OTA Higher",
+      "line_content": "In over 98% of the analyzed cases, OTA prices exceed those on the Ethiopian Airlines website."
+    },
+    {
+      "line_title": "Website Presence",
+      "line_content": "Only about 1% of offers are missing from the OTA channel."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Trends",
+      "line_content": "For short haul, OTA prices are mostly higher, following the overall trend with a consistent price difference."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Ethiopian Origin Consistency",
+      "line_content": "OTA pricing patterns from Ethiopian origins mirror the overall trend, with the OTA channel frequently pricing higher."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Traveling",
+      "line_content": "Close-in booking shows a slight increase in OTA higher pricing frequency, yet the price difference remains around 0.63%."
+    },
+    {
+      "line_title": "Far-Out Stability",
+      "line_content": "Far-out bookings show stability in OTA higher pricing, but the status remains overwhelmingly in favor of higher OTA prices."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Consistency in MSE Prices",
+      "line_content": "Across all dimensions and booking windows, MSE prices were consistently the same as the airline's direct site, with negligible differences in offer availability."
+    },
+    {
+      "line_title": "Minimal Price Discrepancy",
+      "line_content": "There were no significant instances where MSE prices were higher or lower than the airline's direct prices, reinforcing pricing synchronization."
+    },
+    {
+      "line_title": "Stable Offer Availability",
+      "line_content": "The presence of the airline's offers on MSE closely mirrored their availability over the past weeks and month, with no significant fluctuations."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE Offer Absence",
+      "line_content": "A small fraction (0.4%) of offers were not present on MSE compared to the airline's site, with a slight improvement from previous measurements."
+    },
+    {
+      "line_title": "Consistent Pricing with Airline Site",
+      "line_content": "Nearly all analyzed routes showed no price differences between MSE and the airline site, indicating strong price parity maintenance."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "For Short Haul routes, MSE prices matched the airline's site 100% of the time, maintaining uniformity across periods with no observed cases of higher or lower MSE pricing."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Ethiopia-Origin Stability",
+      "line_content": "From Ethiopian origins, the channel maintained consistent parity with the airline site, showing a persistent absence of pricing discrepancies across all data points."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Booking Stability",
+      "line_content": "Close-In bookings consistently reflected the airline's site prices, with full parity maintained over time."
+    },
+    {
+      "line_title": "Far-Out Booking Consistency",
+      "line_content": "Far-Out itineraries exhibited slight variations in offer availability but remained consistent in pricing accuracy with the airline site."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS Predominantly Higher Priced",
+      "line_content": "In all relevant categories, GDS prices were consistently higher than those on the airline website, with over 99% frequency last week."
+    },
+    {
+      "line_title": "Significant Consistency",
+      "line_content": "The pattern of GDS having higher prices has been stable across the last week, previous week, and month, with only minor fluctuations."
+    },
+    {
+      "line_title": "No GDS Lower Pricing",
+      "line_content": "Across all dimensions and time comparisons, there were no instances recorded where the GDS channel offered lower prices than the website."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Higher Pricing",
+      "line_content": "The GDS consistently offered higher prices, with frequency close to or at 100% across time frames."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "On short-haul routes, GDS pricing was always higher, with minimal variation in the frequency observed."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Ethiopia-Based Examinations",
+      "line_content": "Flights originating from Ethiopia showed GDS pricing higher than the website nearly universally, reflecting the broader channel trend."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Higher Prices",
+      "line_content": "Close-in bookings frequently had higher prices on GDS, with little to no variation over time."
+    },
+    {
+      "line_title": "Far-Out Consistency in Higher Pricing",
+      "line_content": "Bookings made far ahead also showed nearly universal higher pricing on GDS, maintaining steady rates over the observed months."
+    }
+  ]
+}

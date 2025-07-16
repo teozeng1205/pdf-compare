@@ -1,0 +1,204 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Price Premium",
+      "line_content": "OTAs list higher fares than LATAM.com on 98.7% of itineraries, charging an average 29% markup—particularly acute on short-haul and far-out bookings."
+    },
+    {
+      "line_title": "MSE Margin Leakage",
+      "line_content": "MSE undercuts the website on 32.4% of itineraries by 9% on average, while parity slips to 61.6% and premium cases expand, underscoring growing revenue dilution risk."
+    },
+    {
+      "line_title": "GDS Premium & Gaps",
+      "line_content": "GDS fares are higher 80% of the time with a 21% surcharge and 18% of website offers remain unavailable, limiting the channel’s competitive relevance."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "OTAs Mostly Higher",
+      "line_content": "Higher fares appear on 98.7% of OTA itineraries with a 29% average premium."
+    },
+    {
+      "line_title": "Short-Haul Markup 31%",
+      "line_content": "Short-haul routes face the steepest 31% premium, versus 10% on long-haul."
+    },
+    {
+      "line_title": "Advance Booking Hit",
+      "line_content": "Far-out shoppers pay 36% more via OTA, compared with 26% in close-in windows."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Higher – 98.7%",
+      "line_content": "Share dipped only 0.3 ppt week-on-week; premium steady at ~29%."
+    },
+    {
+      "line_title": "Offer Not Found – 0.9%",
+      "line_content": "Content gaps in OTA listings rose 0.28 ppt, signalling emerging availability issues."
+    },
+    {
+      "line_title": "Parity – 0.2%",
+      "line_content": "Price parity remains negligible and unchanged."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Dominance",
+      "line_content": "OTAs higher on 99.0% of ODs with a 31% premium; frequency eased marginally."
+    },
+    {
+      "line_title": "Long-Haul Softer",
+      "line_content": "Higher-fare share falls to 94.9% and premium narrows to 10%, with slight parity gains."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Brazil Origins",
+      "line_content": "Higher-fare share peaks at 99.7% but premium moderates to 23%."
+    },
+    {
+      "line_title": "Non-Brazil Origins",
+      "line_content": "Incidence dips to 98.2%, yet premium spikes to 33%."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-7d)",
+      "line_content": "26% average premium; higher-fare frequency 98.4%."
+    },
+    {
+      "line_title": "Far-Out (8+d)",
+      "line_content": "Premium escalates to 36% with higher-fare frequency at 99.4%."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Parity Still Leads",
+      "line_content": "Website and MSE prices match on 61.6% of ODs, though alignment is eroding."
+    },
+    {
+      "line_title": "32% Undercuts",
+      "line_content": "MSE offers a 9% average discount on nearly one-third of itineraries."
+    },
+    {
+      "line_title": "Premium Cases Rising",
+      "line_content": "Overpricing climbed to 5.9% of ODs, concentrated in long-haul and far-out searches."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Parity – 61.6%",
+      "line_content": "Down 1.3 ppts week-on-week; dispersion widening."
+    },
+    {
+      "line_title": "Lower – 32.4%",
+      "line_content": "Discount share stable; 9% average price gap persists."
+    },
+    {
+      "line_title": "Higher – 5.9%",
+      "line_content": "Incidence up 1.7 ppts; 4% average premium threatens direct sales."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Mirror",
+      "line_content": "Parity 61.5%; 9% discounts on 32.7% of ODs."
+    },
+    {
+      "line_title": "Long-Haul Creep",
+      "line_content": "Premium cases rise to 7.5% and discounts shrink to 8%."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Brazil Origins",
+      "line_content": "Parity improves to 60.5%; deepest discounts (-12%) remain on 37.6% of ODs."
+    },
+    {
+      "line_title": "Non-Brazil Origins",
+      "line_content": "Undercuts at 29.4% (-7% discount) while premiums nearly double to 8.2%."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-20d)",
+      "line_content": "High parity (64.6%) with 10% discounts on 29.8% of searches."
+    },
+    {
+      "line_title": "Far-Out (21+d)",
+      "line_content": "Parity drops to 55.7%; discounts on 37.4% but premiums edge up to 6.5%."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "80% GDS Premium",
+      "line_content": "GDS fares exceed the website on 80% of itineraries with a 21% markup."
+    },
+    {
+      "line_title": "Shrinking Gaps",
+      "line_content": "Offer-not-found cases fell to 18% of ODs, improving 1 ppt week-on-week."
+    },
+    {
+      "line_title": "Parity Rare",
+      "line_content": "Exact price matches occur on only 0.6% of ODs."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found – 18.2%",
+      "line_content": "Availability improved by 1 ppt but remains material."
+    },
+    {
+      "line_title": "Higher – 79.9%",
+      "line_content": "Average 21% premium; incidence up 1.2 ppts week-on-week."
+    },
+    {
+      "line_title": "Lower – 1.3%",
+      "line_content": "True GDS discounts are scarce and declining."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "22% average premium on 79% of ODs; slight availability gains."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "Higher-fare share rises to 89% but premium moderates to 11%."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Brazil Origins",
+      "line_content": "Virtually universal 24% premium (99.7% of ODs)."
+    },
+    {
+      "line_title": "Non-Brazil Origins",
+      "line_content": "Premium incidence eases to 69% with a 19% markup; offer gaps rise to 28%."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-7d)",
+      "line_content": "Premium at 19% on 80% of ODs; incidence up 1.4 ppts."
+    },
+    {
+      "line_title": "Far-Out (21+d)",
+      "line_content": "Markup widens to 26% despite marginally lower higher-fare share (79%)."
+    }
+  ]
+}

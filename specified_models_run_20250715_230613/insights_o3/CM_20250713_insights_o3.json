@@ -1,0 +1,212 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA – High Parity, Emerging Gaps",
+      "line_content": "86 % of OTA itineraries remain price-aligned with copaair.com, yet ‘website offer missing’ jumped six-fold to 1.9 % and 11.9 % still price higher, signalling growing visibility and price-perception risk."
+    },
+    {
+      "line_title": "MSE – Undercutting Dominates",
+      "line_content": "Parity holds at 72 %, but 25 % of metasearch results undercut the website (-0.3 % average), threatening direct conversion despite a 0.7 ppt drop in offer gaps."
+    },
+    {
+      "line_title": "GDS – Strategic Mark-Up",
+      "line_content": "99.9 % of GDS fares price above the website, albeit by only +0.16 %; parity is virtually extinct, confirming an intentional differential-pricing stance."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Parity Dominates",
+      "line_content": "86 % of OTA fares matched the website, inching up 0.5 ppt WoW and reinforcing overall price alignment."
+    },
+    {
+      "line_title": "Visibility Risk Rising",
+      "line_content": "Website offers missing on OTAs rose from 0.3 % to 1.9 %, a six-fold surge that could suppress demand capture."
+    },
+    {
+      "line_title": "Premium Shrinks",
+      "line_content": "‘OTA Higher’ share fell 2.1 ppt to 11.9 %, but those cases still carry a 5 % premium and potential defection risk."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Same Price Stable",
+      "line_content": "Parity remains at 86 %, showing consistency across weeks and months."
+    },
+    {
+      "line_title": "OTA Higher",
+      "line_content": "11.9 % of itineraries priced higher (-2.1 ppt WoW; ‑1.4 ppt MoM) with a steady ~5 % mark-up."
+    },
+    {
+      "line_title": "OTA N/A Spike",
+      "line_content": "Offer gaps climbed to 1.9 % (+1.6 ppt WoW), reversing prior stability."
+    },
+    {
+      "line_title": "No Undercutting",
+      "line_content": "‘OTA Lower’ cases dropped to 0 %, eliminating price-leadership erosion via OTAs."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Strong",
+      "line_content": "Parity at 89.9 %; OTA higher just 8.3 % and falling (-2.4 ppt WoW)."
+    },
+    {
+      "line_title": "Long-Haul Weak",
+      "line_content": "Parity dips to 69.4 %; 28.1 % of itineraries carry a 4 % OTA premium."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Panama Origins Solid",
+      "line_content": "97.1 % parity, only 1.1 % OTA higher; no undercutting noted."
+    },
+    {
+      "line_title": "Non-Panama Origins Exposed",
+      "line_content": "Parity falls to 75.4 %; 22.6 % OTA higher with a 5 % gap, plus rising 2 % offer absence."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Volatile",
+      "line_content": "Parity 85.3 %; OTA higher 11.8 % (-2.7 ppt WoW) but missing offers up to 2.9 %."
+    },
+    {
+      "line_title": "Far-Out Controlled",
+      "line_content": "Parity 88.1 %; OTA higher 11.9 % with zero offer gaps, showing stronger forward-inventory discipline."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Parity Holds",
+      "line_content": "72 % of MSE itineraries priced identically to copaair.com, steady WoW and +2 ppt MoM."
+    },
+    {
+      "line_title": "Undercut Risk",
+      "line_content": "25.4 % of searches showed lower MSE prices (-0.3 % avg); higher pricing almost vanished (0.3 %)."
+    },
+    {
+      "line_title": "Offer Presence Improves",
+      "line_content": "‘Offer not found’ fell to 2.1 % (-0.7 ppt MoM), with gaps now concentrated in non-Panama origins."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Availability Gaps Shrink",
+      "line_content": "MSE N/A down to 2.1 %, nearly eradicated for Panama origins."
+    },
+    {
+      "line_title": "Undercutting Persists",
+      "line_content": "Channel lower cases inch up to 25.4 %, keeping margin pressure despite minimal discount."
+    },
+    {
+      "line_title": "Overpricing Negligible",
+      "line_content": "MSE higher occurrences at 0.27 %, eliminating upside consumer-perception risk."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Mirror",
+      "line_content": "73 % parity; 24 % cheaper on MSE (-0.29 %) and 0.3 % higher."
+    },
+    {
+      "line_title": "Long-Haul Focus",
+      "line_content": "33 % undercutting and zero overpricing; discounts modest (-0.30 %)."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Panama Origins Clean",
+      "line_content": "77 % parity, no gaps, 23 % undercutting (-0.35 %)."
+    },
+    {
+      "line_title": "Non-Panama Origins Weaker",
+      "line_content": "Parity 68 %; 28 % undercutting and 4.2 % offer gaps expose control issues."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Coverage",
+      "line_content": "Undercuts on 26.8 % of searches (-0.27 %); gaps down to 2.0 %."
+    },
+    {
+      "line_title": "Far-Out Opportunity",
+      "line_content": "22.4 % undercutting with larger ‑0.34 % discount; zero overpricing—scope to tighten early fares."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Mark-Up Ubiquitous",
+      "line_content": "99.9 % of GDS fares priced above the website, confirming systematic mark-up."
+    },
+    {
+      "line_title": "Gap Creeping Up",
+      "line_content": "Premium modest at +0.16 % but frequency of higher fares rose 0.11 ppt WoW."
+    },
+    {
+      "line_title": "Short-Haul & Close-In Most Affected",
+      "line_content": "Short-haul (+0.19 %) and close-in (+0.18 %) show the largest mark-ups—quadruple the long-haul gap."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Higher Reigns",
+      "line_content": "99.91 % higher-priced; mark-up steady at ~0.16 %, breadth widening vs PW and PM."
+    },
+    {
+      "line_title": "Parity Vanishing",
+      "line_content": "Same-price cases at 0.09 % and declining—signals deliberate differential pricing."
+    },
+    {
+      "line_title": "Lower-Priced Nil",
+      "line_content": "0 % GDS lower; leakage risk essentially zero."
+    },
+    {
+      "line_title": "Offers Fully Synced",
+      "line_content": "Website offer not found cases eradicated (0 % LW)."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Premium",
+      "line_content": "100 % higher-priced with +0.19 % uplift; incidence up 0.12 ppt WoW."
+    },
+    {
+      "line_title": "Long-Haul Mild",
+      "line_content": "99.5 % higher-priced but only +0.04 % premium; stable trend."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Panama Origins",
+      "line_content": "100 % higher-priced (+0.16 %); offer gaps dropped to zero."
+    },
+    {
+      "line_title": "Non-Panama Origins",
+      "line_content": "99.82 % higher-priced with slightly larger +0.17 % premium; parity statistically insignificant."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Mark-Up",
+      "line_content": "99.86 % higher; +0.18 % premium, gaps down 0.31 ppt WoW."
+    },
+    {
+      "line_title": "Far-Out Mark-Up",
+      "line_content": "100 % higher; +0.12 % premium, frequency up 1.11 ppt vs PM."
+    }
+  ]
+}

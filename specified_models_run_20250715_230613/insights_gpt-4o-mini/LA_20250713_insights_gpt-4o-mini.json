@@ -1,0 +1,168 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Price Domination",
+      "line_content": "The OTA channel shows that 98.7% of pricing instances are higher than on the airline's website, revealing significant price gaps."
+    },
+    {
+      "line_title": "MSE Price Competitiveness",
+      "line_content": "The MSE channel provided lower prices on 32.4% of itineraries, demonstrating a competitive advantage in the current market."
+    },
+    {
+      "line_title": "GDS Pricing Trends",
+      "line_content": "The GDS channel had 79.92% of itineraries priced higher than the airline's website, indicating less favorable pricing conditions in this channel."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Significant Price Gaps",
+      "line_content": "The OTA channel consistently shows higher prices for the majority of offers, with nearly 99% of analyzed routes priced higher than the airline's website."
+    },
+    {
+      "line_title": "Stable Fare Comparisons",
+      "line_content": "Pricing comparisons remain stable week-over-week, with minimal fluctuations in the frequency of status categories."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA Higher Dominance",
+      "line_content": "In the latest week, 98.7% of the pricing instances showed OTA prices as higher than those on the airline's website."
+    },
+    {
+      "line_title": "Consistent Same Offers",
+      "line_content": "Only 0.2% of the offers were the same price, indicating that OTA offerings do not align closely with direct sales on the airline's site."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Regional Price Gaps",
+      "line_content": "Offers from Brazil show a 99.7% higher pricing status, while non-Brazilian region offers display similar trends but with slightly less volume."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Brazil vs Non-Brazil",
+      "line_content": "Pricing analysis shows Brazilian offers overwhelmingly higher (99.7%) than OTA, while non-Brazil remains elevated, but marginally less pronounced."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In vs Far-Out Pricing",
+      "line_content": "Both close-in and far-out bookings predominantly feature higher OTA prices, with a higher frequency observed in close-in scenarios."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Predominantly Lower Prices",
+      "line_content": "The MSE channel offered lower prices on 32.4% of observed itineraries last week, indicating a competitive advantage under current market conditions."
+    },
+    {
+      "line_title": "Stable Price Position",
+      "line_content": "Price positions remained stable with only 6% of itineraries priced higher on the MSE channel compared to the airline's website last week."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Same Price Status",
+      "line_content": "62% of itineraries matched the price of the airline's own site last week, reflecting consistent market pricing strategies."
+    },
+    {
+      "line_title": "MSE Lower Percentage",
+      "line_content": "The segment reporting a lower MSE price increased slightly from 32.8% to 32.4% last week, highlighting competitive pricing."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Pricing",
+      "line_content": "For short-haul routes, MSE prices were lower 32.7% of the time last week, affirming the channel's value in regional travel."
+    },
+    {
+      "line_title": "Long Haul Consistency",
+      "line_content": "Long-haul pricing stands firm, with only 27.8% lower rates reported on the MSE channel, indicating room for competitive improvement."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Brazil Specific Insights",
+      "line_content": "MSE provided lower prices on 37.6% of itineraries from Brazil, which is crucial for market penetration."
+    },
+    {
+      "line_title": "Non-Brazil Performance",
+      "line_content": "A slightly lower percentage of 29.4% was observed for non-Brazil departures on MSE, reflecting regional pricing challenges."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In Strategy",
+      "line_content": "MSE pricing was lower on 29.8% of close-in bookings, suggesting effective strategies for last-minute travelers."
+    },
+    {
+      "line_title": "Far Out Optimizations",
+      "line_content": "For far-out bookings, 37.4% of MSE prices were more attractive, indicating successful engagement in advance purchase strategies."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "High GDS Pricing",
+      "line_content": "The GDS channel exhibited a high occurrence of prices being higher than the website across most dimensions, with 79.92% of all itineraries priced higher in the latest week."
+    },
+    {
+      "line_title": "Limited Price Gaps",
+      "line_content": "Overall, the average price difference percentage for the GDS channel was minimal at 0.03%, indicating a consistent pricing strategy between the GDS and the direct website."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "No Website Offer",
+      "line_content": "In the latest week, 18.24% of itineraries had no corresponding offer on the airline's website."
+    },
+    {
+      "line_title": "GDS Higher Prices",
+      "line_content": "Higher prices in the GDS channel were prevalent, accounting for 79.92% across all routes in the latest week."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Pricing",
+      "line_content": "For short-haul routes, 79.21% of itineraries were priced higher on GDS compared to the website."
+    },
+    {
+      "line_title": "Long Haul Consistency",
+      "line_content": "Long haul routes showed a lower GDS volume but had 89.43% of itineraries priced higher compared to the website."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Brazil Domination",
+      "line_content": "Brazilian origin routes had a high disparity with 99.70% of itineraries priced higher on the GDS channel."
+    },
+    {
+      "line_title": "Non-Brazil Competitive",
+      "line_content": "Conversely, only 68.79% of non-Brazil itineraries were priced higher on GDS, indicating greater competitive pricing for non-Brazil routes."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "Within the close-in booking window, 80.18% of itineraries were priced higher on GDS, reflecting potential pricing strategy adjustments."
+    },
+    {
+      "line_title": "Far Out Stability",
+      "line_content": "For far out bookings, GDS pricing remained high at 79.42%, consistent with trends observed in close-in bookings."
+    }
+  ]
+}

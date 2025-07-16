@@ -1,0 +1,208 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Insight",
+      "line_content": "Over 90% of fares on OTAs remain above the direct site, with a notable uptick in cheaper fares for some segments."
+    },
+    {
+      "line_title": "MSE Insight",
+      "line_content": "MSE-higher share dropped sharply from 83% to 53%, reflecting renewed competitiveness in this channel."
+    },
+    {
+      "line_title": "GDS Insight",
+      "line_content": "More than 90% of GDS fares are priced above the website, with 34% unavailability in Non-US routes."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Majority Priced Higher",
+      "line_content": "Over 90% of itineraries on OTAs are priced above the airline site, with only minor shifts from week to week."
+    },
+    {
+      "line_title": "Non-US Gaps",
+      "line_content": "Website offers were missing for nearly 19% of Non-US itineraries, more than quadruple the overall average."
+    },
+    {
+      "line_title": "Minimal Cheaper Fares",
+      "line_content": "Channel-lower fares remain slim but rose nearly 50% in frequency versus the previous week for some segments."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Missing Airline Offer ~3.5%",
+      "line_content": "Increases in Non-US markets, reflecting a moderate shortfall in coverage."
+    },
+    {
+      "line_title": "Channel Higher ~95%",
+      "line_content": "OTA fares remain above the direct site in most markets, underscoring a systematic premium."
+    },
+    {
+      "line_title": "Channel Lower <2%",
+      "line_content": "Small but growing presence, especially on short-haul and far-out bookings."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "96% priced higher on OTA, with a small uptick in cheaper fares from last week."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "91% carry higher OTA fares, with missing fares above 6%."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "US",
+      "line_content": "96% remain higher on OTA, 1% cheaper, and ~2% missing offers."
+    },
+    {
+      "line_title": "Non-US",
+      "line_content": "79% higher on OTA, but 19% missing website fares hamper direct comparisons."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "95% higher on OTA, with ~4.6% absent offers."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "96% higher, while OTA-lower surpasses 2%, indicating a slight increase in cheaper fares."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Significant Drop in MSE-Higher",
+      "line_content": "Over half of fares are still higher on MSE but down sharply from 83% to 53%."
+    },
+    {
+      "line_title": "Rise in MSE-Lower",
+      "line_content": "Frequency climbed from 13% to 28%, pointing to more competitive pricing on metasearch."
+    },
+    {
+      "line_title": "SAME Category Increases",
+      "line_content": "Fares priced the same rose from 4% to 19%, indicating growing parity with the direct site."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "N/A Under 1%",
+      "line_content": "Minimal missing-fare occurrences, stable below 1%."
+    },
+    {
+      "line_title": "SAME ~19%",
+      "line_content": "Nearly one-fifth of fares matched, a sizable jump from earlier levels."
+    },
+    {
+      "line_title": "MSE-Higher ~53%",
+      "line_content": "Largest share, though down from ~83%, with a ~26% premium."
+    },
+    {
+      "line_title": "MSE-Lower ~28%",
+      "line_content": "Up from ~13% with a ~16% discount, reflecting stronger channel savings."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "51% remain higher on MSE but down from 84%. 30% are now cheaper on MSE."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "58% of fares are MSE-higher, 22% cheaper, and 19% match exactly."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "US Departures",
+      "line_content": "52% MSE-higher at a 26% premium, 29% cheaper, and minimal missing fares."
+    },
+    {
+      "line_title": "Non-US Departures",
+      "line_content": "65% are MSE-higher, with a 24% added cost; 13% show cheaper fares."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Departures",
+      "line_content": "51% are MSE-higher at a 23% premium, while 30% are cheaper by ~15%."
+    },
+    {
+      "line_title": "Far-Out Departures",
+      "line_content": "58% remain MSE-higher with a 32% gap, indicating stronger markups over longer lead times."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Widespread Higher Pricing",
+      "line_content": "Over 90% of itineraries via GDS are priced above the website, spanning all dimensions."
+    },
+    {
+      "line_title": "Limited GDS Discounts",
+      "line_content": "Fewer than 2% of fares undercut website prices, with marginal week-to-week growth."
+    },
+    {
+      "line_title": "Non-US Gaps",
+      "line_content": "34% of Non-US itineraries are unavailable in GDS, compared to just 1.5% for US routes."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "N/A ~3–5%",
+      "line_content": "Some unavailability persists, driven largely by Non-US itineraries."
+    },
+    {
+      "line_title": "Channel Higher ~90%",
+      "line_content": "Most GDS fares maintain a premium over direct rates."
+    },
+    {
+      "line_title": "Channel Lower <2%",
+      "line_content": "Minimal undercutting, with only slight fluctuations reported."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "96.9% of GDS fares exceed website pricing, with ~0.7% cheaper on GDS."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "90.6% higher, with 7.6% unavailable in this channel."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "US",
+      "line_content": "98% higher via GDS, with 1.5% not found and under 1% cheaper."
+    },
+    {
+      "line_title": "Non-US",
+      "line_content": "63% higher, but 35% remain unavailable, reflecting considerable coverage gaps."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "94.5% higher, ~5% unavailable, and less than 1% cheaper fares."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "96.9% higher, 1.9% cheaper, and minimal unavailability reported."
+    }
+  ]
+}

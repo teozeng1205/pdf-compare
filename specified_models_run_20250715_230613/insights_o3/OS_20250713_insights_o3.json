@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA—Parity Strengthening",
+      "line_content": "93.3 % of OTA fares matched the website (+3.9 pp MoM) with a tiny 0.19 % premium; only long-haul shows material deviation."
+    },
+    {
+      "line_title": "MSE—Frequent Undercut, Low Risk",
+      "line_content": "MSE priced below the site on 95.8 % of itineraries, yet the average discount is just −0.08 %, suggesting limited absolute revenue leakage."
+    },
+    {
+      "line_title": "GDS—Systematic Overpricing",
+      "line_content": "97.1 % of GDS fares exceeded the website, although the average premium is modest at +0.42 ppt and coverage gaps continue to narrow."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Parity Dominates",
+      "line_content": "93.3 % of OTA fares matched the website last week, +1.4 pp WoW and +3.9 pp MoM—industry-leading consistency."
+    },
+    {
+      "line_title": "Markup Shrinking",
+      "line_content": "Only 2.2 % of itineraries were higher on OTA, and the average premium fell to 0.19 %, down 0.08 pp MoM."
+    },
+    {
+      "line_title": "Watch Long-Haul",
+      "line_content": "Long-haul parity at 87 % trails other segments, with a 0.34 % premium on 9 % of ODs."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Website Offer Missing",
+      "line_content": "OTA carried no offer on 3.2 % of ODs, improving 0.9 pp MoM."
+    },
+    {
+      "line_title": "Exact Match",
+      "line_content": "Parity at 93.3 % is rising steadily and now covers virtually all key ODs."
+    },
+    {
+      "line_title": "Channel Priced Lower",
+      "line_content": "Discounting is limited: 1.2 % of ODs averaged a −0.07 % undercut, flat MoM."
+    },
+    {
+      "line_title": "Channel Priced Higher",
+      "line_content": "Higher-priced OTAs fell 2.9 pp MoM to 2.2 %, with the premium trimmed to 0.19 %."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Solid",
+      "line_content": "Parity 93.5 %; OTA premiums on just 2.1 % of ODs with a 0.17 % markup."
+    },
+    {
+      "line_title": "Long-Haul Gap",
+      "line_content": "Parity 86.9 %; 8.7 % of ODs see a 0.34 % markup and 4.4 % are undercut."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Austria Origin",
+      "line_content": "AT ODs show 93.9 % parity; premiums on 2.2 % of itineraries average 0.08 %."
+    },
+    {
+      "line_title": "Non-AT Origin",
+      "line_content": "Parity slips to 92.6 %; premiums similar in frequency (2.3 %) but four times larger at 0.32 %."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Stability",
+      "line_content": "Same-price share 93.5 %; premiums limited to 1.8 % of itineraries with a 0.14 % markup."
+    },
+    {
+      "line_title": "Far-Out Exposure",
+      "line_content": "Parity dips to 92.3 %; premiums double to 3.2 % of itineraries, averaging 0.26 %—though improving 3.5 pp MoM."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Widespread Undercut",
+      "line_content": "95.8 % of ODs priced lower on MSE than the site, up 2 pp WoW and 3 pp MoM."
+    },
+    {
+      "line_title": "Gap Is Marginal",
+      "line_content": "Average discount only −0.08 %, limiting revenue impact despite prevalence."
+    },
+    {
+      "line_title": "Coverage Up",
+      "line_content": "‘Web fare missing’ down to 2.7 %, a 20 % MoM improvement."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE Lower Dominates",
+      "line_content": "Lower-than-site fares on 95.8 % of ODs; average undercut −0.08 %."
+    },
+    {
+      "line_title": "Parity Rare",
+      "line_content": "Only 1.6 % of ODs at parity, down 55 % WoW."
+    },
+    {
+      "line_title": "Offer Not Found Shrinking",
+      "line_content": "Web fare absent on 2.7 % of ODs; down 5 % WoW and 20 % MoM."
+    },
+    {
+      "line_title": "MSE Higher Eliminated",
+      "line_content": "No higher-than-site fares recorded this week (0.0 %)."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Undercut",
+      "line_content": "96.0 % of short-haul routes cheaper on MSE with a −0.08 % gap."
+    },
+    {
+      "line_title": "Long-Haul Sample Small",
+      "line_content": "87.5 % of long-haul ODs lower; undercut margin steady at −0.08 %."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Austria Origin Exposure",
+      "line_content": "From AT PoS, 96.8 % of ODs cheaper on MSE; zero higher-priced cases."
+    },
+    {
+      "line_title": "Non-AT Discounted",
+      "line_content": "Outside AT, 94.7 % of ODs lower with a −0.07 % gap."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Impact",
+      "line_content": "0–7 days: 95.4 % of itineraries cheaper, discount deepens to −0.10 %."
+    },
+    {
+      "line_title": "Far-Out Widening",
+      "line_content": "8 + days: 96.5 % cheaper (+5.1 pp WoW); gap milder at −0.04 %."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Near-Universal Overpricing",
+      "line_content": "97.1 % of GDS itineraries priced above the site; parity or discounts appear in only 0.2 % of cases."
+    },
+    {
+      "line_title": "Premium Still Modest",
+      "line_content": "Average GDS premium just +0.42 ppt overall, +0.56 ppt on far-out bookings."
+    },
+    {
+      "line_title": "Coverage Better, Costlier",
+      "line_content": "‘Website offer not found’ fell 0.47 pp MoM, but higher-priced share rose 0.25 pp."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found",
+      "line_content": "GDS lacked a matching fare on 2.7 % of ODs, down 0.47 pp MoM."
+    },
+    {
+      "line_title": "Price Parity Negligible",
+      "line_content": "Exact matching stuck at 0.11 % of ODs."
+    },
+    {
+      "line_title": "GDS Lower Insignificant",
+      "line_content": "Only 0.11 % of itineraries cheaper in GDS; share contracted further MoM."
+    },
+    {
+      "line_title": "GDS Higher Dominates",
+      "line_content": "Overpriced cases 97.1 %, rising 0.14 pp WoW; average premium ~+0.42 ppt."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "97.2 % higher with +0.43 ppt premium; frequency up 0.48 pp MoM."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "91.7 % higher, 4.2 % same, 4.2 % lower; premium negligible at +0.05 ppt."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Austria Origin",
+      "line_content": "97.2 % higher with +0.35 ppt premium; coverage gaps narrowed 0.35 pp MoM."
+    },
+    {
+      "line_title": "Non-AT Origin",
+      "line_content": "Premium slightly larger at +0.51 ppt; parity/lower fares in 0.46 % of cases."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (≤14 days)",
+      "line_content": "GDS higher on 96.9 % of bookings with +0.36 ppt premium; stable MoM."
+    },
+    {
+      "line_title": "Far-Out (≥15 days)",
+      "line_content": "97.5 % higher with +0.56 ppt premium; frequency up 1.52 pp MoM."
+    }
+  ]
+}

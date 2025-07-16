@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Insight",
+      "line_content": "OTA fares are cheaper in 38% of cases but miss 14% of itineraries, largely on long-haul."
+    },
+    {
+      "line_title": "MSE Insight",
+      "line_content": "MSE fares lead with 77–79% cheaper pricing overall, albeit 60% missing on long-haul."
+    },
+    {
+      "line_title": "GDS Insight",
+      "line_content": "GDS fares are typically higher, with 67% above website rates and minimal undercuts."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Coverage Gaps",
+      "line_content": "OTA misses 14% of itineraries overall, driven by a 61% gap in long-haul routes."
+    },
+    {
+      "line_title": "Cheapest Option",
+      "line_content": "38% of all cases show cheaper OTA fares, with the Netherlands leading at 75% cheaper."
+    },
+    {
+      "line_title": "Minimal Price Differences",
+      "line_content": "OTA fares are on average within 0.2% of website prices when higher, and only 0.04% cheaper when lower."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A",
+      "line_content": "Not found in about 14% of itineraries, slightly reduced from the prior week. This is heavily skewed by long-haul."
+    },
+    {
+      "line_title": "SAME",
+      "line_content": "Over one-fourth of fares match the website; nearly flat from previous periods."
+    },
+    {
+      "line_title": "OTA LOWER",
+      "line_content": "Largest share at roughly 38% and rising, with only marginal week-over-week improvements."
+    },
+    {
+      "line_title": "OTA HIGHER",
+      "line_content": "Represents 22% of the sample and grew nearly 1% week over week, especially on non-NL itineraries."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "High coverage and competitive pricing: 47% cheaper vs airline, only 2% not listed."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "Limited availability on OTA (61% missing), with no cheaper fares reported."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "NL",
+      "line_content": "Dominantly cheaper on OTA (75%), with minimal instances of higher pricing."
+    },
+    {
+      "line_title": "Non-NL",
+      "line_content": "Mostly same or higher fares (85% combined), indicating fewer OTA discounts."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "36% are lower on OTA, 22% are higher, and 15% are not found. Price levels remain stable."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "40% are lower on OTA, 22% are higher. Non-availability is slightly less (12%) than close-in."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Dominant Lower Pricing",
+      "line_content": "Channel-lower leads overall at about 77–79%, with short haul hitting over 90%."
+    },
+    {
+      "line_title": "Long-Haul Gaps",
+      "line_content": "Long haul shows ~60% missing site fares, leaving only 21% channel-lower."
+    },
+    {
+      "line_title": "Stable Windows",
+      "line_content": "Both close-in and far-out bookings maintain high channel-lower rates near 76–80%."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Not Found (N/A)",
+      "line_content": "Hovers around 12–14% overall but spikes to 60% on long haul."
+    },
+    {
+      "line_title": "Same Price",
+      "line_content": "Roughly 8–10% overall, rising to 18% on certain non-NL routes."
+    },
+    {
+      "line_title": "MSE Higher",
+      "line_content": "Remains negligible below 1% across all segments."
+    },
+    {
+      "line_title": "MSE Lower",
+      "line_content": "Dominates at 77–79% overall, especially strong on short haul (over 90%) but weaker on long haul (21%)."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "About 91% channel-lower frequency, with only 0.2% higher and minimal not-found cases."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "60% of fares not found on MSE, overshadowing the 21% channel-lower availability."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "NL Origins",
+      "line_content": "MSE-lower remains high at ~85%, with minimal same-price occurrences (around 3%)."
+    },
+    {
+      "line_title": "Non-NL Origins",
+      "line_content": "Channel-lower is 69–73%, balanced by 18% same-price and moderate not-found rates."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In",
+      "line_content": "Maintains ~76–78% channel-lower with only ~13% not-found and negligible higher prices."
+    },
+    {
+      "line_title": "Far-Out",
+      "line_content": "Slightly higher channel-lower at ~78–80% and stable same-price near 7–9%."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "GDS Premium",
+      "line_content": "Approximately two-thirds of GDS fares cost more than the website, with minor fluctuations week to week."
+    },
+    {
+      "line_title": "Long-Haul Gaps",
+      "line_content": "Over 60% of long-haul site fares are not listed on GDS, a stable pattern across the period."
+    },
+    {
+      "line_title": "Minimal Undercuts",
+      "line_content": "GDS-lower fares account for less than 1% of total cases, showing no notable swing."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A",
+      "line_content": "No GDS listing occurs in about 12% of cases overall, trending slightly lower versus previous periods."
+    },
+    {
+      "line_title": "Same",
+      "line_content": "Roughly 20% of GDS fares match the website, with marginal improvement from last week."
+    },
+    {
+      "line_title": "GDS Higher",
+      "line_content": "About 67% of fares on GDS exceed the site’s pricing, reflecting slight week-over-week stability."
+    },
+    {
+      "line_title": "GDS Lower",
+      "line_content": "Below 1% of fares are cheaper on GDS, with no significant weekly change."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul",
+      "line_content": "Nearly 79% of short-haul fares are higher on GDS than on the site; N/A and lower options remain negligible."
+    },
+    {
+      "line_title": "Long Haul",
+      "line_content": "Over 60% of long-haul site fares are missing on GDS; of the remainder, around 20% command higher prices."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "NL",
+      "line_content": "Over half of NL itineraries are priced higher on GDS, with about 12% not found and a third matching."
+    },
+    {
+      "line_title": "Non-NL",
+      "line_content": "In Non-NL markets, GDS fares are higher about 80% of the time; GDS-lower remains a minimal factor."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In",
+      "line_content": "Around 60% of close-in fares run higher on GDS, while 27% match. GDS-lower is below 1%."
+    },
+    {
+      "line_title": "Far Out",
+      "line_content": "Over 80% of far-out fares are higher on GDS, with roughly 12% not listed and under 10% the same."
+    }
+  ]
+}

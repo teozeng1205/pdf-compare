@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Premium & Stability",
+      "line_content": "OTA analysis reveals a dominant premium pricing trend with approximately 59% of fares marked higher, alongside stable same pricing at 27%, and slight shifts towards lower pricing."
+    },
+    {
+      "line_title": "MSE Parity & Discounting",
+      "line_content": "MSE insights show over 50% parity between website and channel, with a systematic discounting pattern affecting nearly half of the offers and virtually no premium pricing instances."
+    },
+    {
+      "line_title": "GDS Premium Focus",
+      "line_content": "GDS results demonstrate a consistent premium pricing strategy in approximately 65% of cases, with a rising trend in discounted offers while maintaining stable parity in a quarter of itineraries."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Premium Dominance",
+      "line_content": "The OTA channel exhibits a strong premium pricing trend with approximately 59% of fares priced higher, indicating a consistent upward price adjustment."
+    },
+    {
+      "line_title": "Stable Pricing",
+      "line_content": "Around 27% of OTA fares remain at parity, reflecting minimal variation and a stable pricing environment."
+    },
+    {
+      "line_title": "Incremental Shifts",
+      "line_content": "Minor increases in lower pricing (up to 1.74%) alongside modest declines in higher pricing suggest subtle market adjustments on the OTA channel."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA N/A",
+      "line_content": "OTA N/A occurrences are low at about 5.1%, showing little week-to-week change."
+    },
+    {
+      "line_title": "SAME Status",
+      "line_content": "The SAME status holds at roughly 27.5%, indicating consistent listing between website and OTA."
+    },
+    {
+      "line_title": "OTA HIGHER",
+      "line_content": "At approximately 59.2% frequency with an average price increase of 1.09%, OTA HIGHER pricing is prevalent."
+    },
+    {
+      "line_title": "OTA LOWER",
+      "line_content": "The OTA LOWER status, at around 8.2%, reflects infrequent cases where OTA fares undercut website prices by about -0.16%."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Emphasis",
+      "line_content": "Short haul routes show a pronounced premium trend with 62.6% in OTA HIGHER and a +1.09% price diff, while lower pricing remains marginal."
+    },
+    {
+      "line_title": "Long Haul Consistency",
+      "line_content": "Long haul routes are dominated by the SAME status (over 91.7%), with minimal premium or discount deviations."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "KR Market Premium",
+      "line_content": "KR-origin routes exhibit a higher premium with 64.6% OTA HIGHER and a +1.33% difference."
+    },
+    {
+      "line_title": "Non-KR Variation",
+      "line_content": "Non-KR routes display a balanced distribution; 36.2% at parity with a lower OTA HIGHER frequency of 43.0% and increased OTA LOWER at 17.2%."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Bookings",
+      "line_content": "In close-in bookings, a 61.4% OTA HIGHER frequency and +0.99% price difference underscore robust premium pricing."
+    },
+    {
+      "line_title": "Far Out Bookings",
+      "line_content": "Far out bookings, while showing a slightly lower 55.0% premium frequency, command a higher premium at +1.32%."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Price Parity",
+      "line_content": "Over 50% of fares on the MSE channel reflect parity with the airline website, indicating strong price alignment."
+    },
+    {
+      "line_title": "Systematic Discounting",
+      "line_content": "Approximately 45-48% of fares are discounted at an average of -0.09%, showing a clear tendency towards lower pricing."
+    },
+    {
+      "line_title": "Minimal Premiums",
+      "line_content": "Instances of fares priced above the website (MSE HIGHER) are nearly nonexistent, confirming limited premium listings."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE N/A",
+      "line_content": "MSE N/A occurrences remain negligible at around 0.1%, indicating comprehensive fare availability."
+    },
+    {
+      "line_title": "SAME Status",
+      "line_content": "The SAME status accounts for 51-62% of fares, reflecting stable pricing alignment between channels."
+    },
+    {
+      "line_title": "MSE HIGHER",
+      "line_content": "There are virtually no instances of MSE HIGHER pricing, reinforcing the channel’s consistency with website rates."
+    },
+    {
+      "line_title": "MSE LOWER",
+      "line_content": "Nearly half of the offers fall under MSE LOWER with an average difference of -0.09%, highlighting systematic discounting."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "Approximately 55% of short haul itineraries register as SAME, with 45% under MSE LOWER, indicating consistent but slightly discounted pricing."
+    },
+    {
+      "line_title": "Long Haul Uniformity",
+      "line_content": "Long haul routes, though few, are entirely categorized under MSE LOWER with a modest average difference of -0.06%."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "KR Stability",
+      "line_content": "In the KR segment, 62% of fares show parity and 38% fall under MSE LOWER, signifying stable pricing across channels."
+    },
+    {
+      "line_title": "Non-KR Sensitivity",
+      "line_content": "Non-KR routes report only 22% parity with 78% at lower pricing, highlighting a stronger discount trend internationally."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Dynamics",
+      "line_content": "Close-in booking windows show a 54% parity rate with 46% discounted fares, indicating moderate last-minute discounting."
+    },
+    {
+      "line_title": "Far Out Variability",
+      "line_content": "For far-out bookings, 52% of fares are lower priced compared to 47% at parity, showing dynamic pricing adjustments as the booking window extends."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Premium Dominance",
+      "line_content": "GDS consistently sells approximately 65% of fares at a premium, emphasizing a strong higher pricing trend."
+    },
+    {
+      "line_title": "Growing Discounts",
+      "line_content": "There is an observable increase in discounted fares, with GDS LOWER up by 1.42% week-over-week and 3.14% month-over-month."
+    },
+    {
+      "line_title": "Stable Parity",
+      "line_content": "Around 25-27% of GDS itineraries remain priced the same as the website, underscoring areas of pricing consistency."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A",
+      "line_content": "The GDS N/A status is minimal at about 0.9-1.0%, indicating high offer alignment."
+    },
+    {
+      "line_title": "SAME Status",
+      "line_content": "Approximately 25-27% of fares are offered at the same price as the website, reflecting stable matches."
+    },
+    {
+      "line_title": "GDS HIGHER",
+      "line_content": "With roughly 65% frequency and an average premium near 1.0%, GDS HIGHER pricing prevails."
+    },
+    {
+      "line_title": "GDS LOWER",
+      "line_content": "Though less common at about 8-9%, GDS LOWER pricing is on a rising trend both weekly and monthly."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Consistency",
+      "line_content": "For short haul itineraries, GDS HIGHER dominates at around 66% with stable parity near 24% and an upward trend in discounted pricing."
+    },
+    {
+      "line_title": "Long Haul Stability",
+      "line_content": "Long haul routes show a balanced trend with 49% at parity and 51% at premium pricing, though the small sample size limits broader implications."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "KR Trends",
+      "line_content": "In KR routes, about 66% of cases are priced higher, with an average premium of 1.35% and roughly 27% showing parity."
+    },
+    {
+      "line_title": "Non-KR Shift",
+      "line_content": "Non-KR segments report lower SAME status and a growing presence of GDS LOWER pricing, increasing nearly 4% week-over-week."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Window",
+      "line_content": "For close-in bookings, approximately 67% of fares are premium priced with a steady premium around 0.96%, while discounted fares are on an upward trend."
+    },
+    {
+      "line_title": "Far Out Window",
+      "line_content": "Longer booking windows show a slightly higher SAME status at 28.5% and an increased incidence of GDS LOWER pricing (around 10%), alongside a dominant 60% premium pricing."
+    }
+  ]
+}

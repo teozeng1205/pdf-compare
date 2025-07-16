@@ -1,0 +1,180 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Availability Gap",
+      "line_content": "11.6% of OTA searches returned no UX fare last week—a five-fold jump that threatens visibility more than pricing."
+    },
+    {
+      "line_title": "MSE Systemic Undercuts",
+      "line_content": "86% of itineraries were cheaper on MSE, albeit by only 0.07%, putting brand integrity at risk despite minimal revenue loss per ticket."
+    },
+    {
+      "line_title": "GDS Parity Erosion",
+      "line_content": "GDS parity remains high at 83% but slipped 8 ppt WoW, coupled with an 8.6% ‘not-found’ rate concentrated in close-in travel."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Missing Offers Surge",
+      "line_content": "11.6% of OTA checks showed no UX offer, up 9.4 ppt WoW, exposing a sudden distribution break."
+    },
+    {
+      "line_title": "Parity Predominant",
+      "line_content": "80% of OTA fares still match the site, preserving core pricing integrity."
+    },
+    {
+      "line_title": "Negligible Price Deltas",
+      "line_content": "When differences occur, OTA pricing is within ±0.2%, limiting revenue exposure."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found",
+      "line_content": "Not-found share at 11.6% (+9.4 ppt WoW) is the key risk driver."
+    },
+    {
+      "line_title": "Price Match",
+      "line_content": "Parity slipped to 80.4% (-9.2 ppt WoW) but still dominates."
+    },
+    {
+      "line_title": "OTA Higher",
+      "line_content": "7.4% of fares carry a marginal +0.19% premium; undercuts are rare (<1%)."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Similarity",
+      "line_content": "Short-haul mirrors network: 11.6% not found, 80% parity, ±0.2% deltas."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Spain Mirrors Network",
+      "line_content": "Spanish origins replicate overall metrics—availability, parity and gap levels unchanged."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Weakness",
+      "line_content": "Within 14 days, not-found rises to 16.8% and parity slips to 73.8%."
+    },
+    {
+      "line_title": "Far-Out Strength",
+      "line_content": "Beyond 30 days, 0% not-found and 95.3% parity; only a +0.13% OTA premium observed."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Widespread Undercutting",
+      "line_content": "86% of MSE fares beat the site, though gap averages just ‑0.07%."
+    },
+    {
+      "line_title": "Price Gap Shrinking",
+      "line_content": "Share of undercuts improved 7 ppt WoW, hinting at early corrective impact."
+    },
+    {
+      "line_title": "Rising Missing Fares",
+      "line_content": "8% of itineraries lacked a UX fare on MSE vs <1% prior week."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found",
+      "line_content": "N/A rate spiked to 8.4% (+7.7 ppt WoW), eroding shelf presence."
+    },
+    {
+      "line_title": "MSE Lower",
+      "line_content": "Lower pricing still dominates (85.7%) but eased 7.2 ppt WoW."
+    },
+    {
+      "line_title": "Parity Rare",
+      "line_content": "Only 5.7% of itineraries show parity; higher-than-site cases are negligible (0.2%)."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Exposure",
+      "line_content": "Short-haul exhibits 86% undercuts and mirrors overall missing-fare rate."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Spain Origin Risk",
+      "line_content": "Home market shows identical 86% undercuts and 8% missing fares."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Shift",
+      "line_content": "Undercuts drop to 80% (-10.8 ppt WoW) but missing fares jump to 12%."
+    },
+    {
+      "line_title": "Far-Out Dilution",
+      "line_content": ">14 days out, 98.7% of checks are cheaper on MSE—parity virtually absent."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Parity Dominates but Slips",
+      "line_content": "83% parity, down 8 ppt WoW, signalling emerging consistency issues."
+    },
+    {
+      "line_title": "Missing Fares Spike",
+      "line_content": "GDS not-found surged to 8.6%, driven by close-in demand."
+    },
+    {
+      "line_title": "Small Premiums",
+      "line_content": "7.8% of fares are higher by +0.18%, dwarfing undercuts (1%)."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found",
+      "line_content": "No-fare share rose to 8.6% (+7.7 ppt WoW) indicating filing gaps."
+    },
+    {
+      "line_title": "Price Parity",
+      "line_content": "Parity at 83% (-8.1 ppt WoW) remains the norm but trending down."
+    },
+    {
+      "line_title": "GDS Higher",
+      "line_content": "Overpriced cases stable at 7.8% with a modest +0.18% premium."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Consistency Dip",
+      "line_content": "Short-haul parity at 83% and not-found at 8.6%, matching network issues."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Spain Filing Gap",
+      "line_content": "Spanish origins show identical 8.6% not-found rate, indicating a home-market lapse."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Weakness",
+      "line_content": "Within 14 days, parity drops to 77% and not-found climbs to 12.4%."
+    },
+    {
+      "line_title": "Far-Out Stability",
+      "line_content": ">14 days bookings see 96% parity and zero missing fares."
+    }
+  ]
+}

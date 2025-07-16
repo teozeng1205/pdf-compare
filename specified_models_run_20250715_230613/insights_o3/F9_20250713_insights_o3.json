@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA – Broad but Shallow Premiums",
+      "line_content": "95% of Frontier itineraries price higher on OTAs, yet the average markup is only +0.29%, underscoring a pervasive—but correctable—parity gap."
+    },
+    {
+      "line_title": "MSE – Parity Rising, Undercuts Emerging",
+      "line_content": "True parity has climbed to 19%, but 28% of itineraries are now cheaper on metasearch, risking revenue leakage despite deltas of just −0.16%."
+    },
+    {
+      "line_title": "GDS – Global Visibility Risk",
+      "line_content": "GDS displays a 95% premium rate, and a 34% offer-not-found rate for non-US origins exposes a critical weakness in international distribution."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Near-Universal OTA Premium",
+      "line_content": "95% of fares list higher on OTAs, averaging a +0.29% markup and leaving virtually no price parity."
+    },
+    {
+      "line_title": "Early Parity Momentum",
+      "line_content": "OTA-higher share slipped 1.1 ppts MoM while OTA-lower cases nearly doubled, hinting at nascent correction."
+    },
+    {
+      "line_title": "Long-Haul Content Gaps",
+      "line_content": "6.5% of long-haul fares are missing on OTAs—double the system rate—suppressing international demand."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Offers Missing – 3.5%",
+      "line_content": "Coverage improved 12% WoW but remains 40% above last month’s level."
+    },
+    {
+      "line_title": "OTA Higher – 95.1%",
+      "line_content": "Still dominant; share eased 0.2 ppts WoW and 1.1 ppts MoM."
+    },
+    {
+      "line_title": "OTA Lower – 1.3%",
+      "line_content": "Discounted cases up 52% WoW, yet average undercut is just −0.20%."
+    },
+    {
+      "line_title": "Exact Parity – 0.0%",
+      "line_content": "True price matches are virtually nonexistent across the network."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul Premium",
+      "line_content": "96.4% higher on OTAs with a +0.30% markup; minimal 2.5% content gap."
+    },
+    {
+      "line_title": "Long-Haul Gap",
+      "line_content": "91.5% higher, but missing-fare rate peaks at 6.5%; OTA-lower share doubled WoW."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "US Origins",
+      "line_content": "96.4% higher on OTAs; missing content only 2.4% with +0.29% premium."
+    },
+    {
+      "line_title": "Non-US Origins",
+      "line_content": "18.8% of fares missing; only 78.6% price higher and markup softens to +0.24%."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In ( <7 days )",
+      "line_content": "94.7% higher on OTAs (+0.26%); highest missing-fare rate at 4.6%."
+    },
+    {
+      "line_title": "Far-Out ( ≥7 days )",
+      "line_content": "96.1% higher with a steeper +0.34% premium; OTA-lower share 2.4× WoW."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Higher-Fare Exposure Shrinking",
+      "line_content": "Share of MSE-higher itineraries fell ~31% WoW to 53%, reflecting effective parity actions."
+    },
+    {
+      "line_title": "Undercutting Risk Rising",
+      "line_content": "MSE-lower cases climbed to 28% (+16% WoW), threatening brand trust despite small deltas."
+    },
+    {
+      "line_title": "Tiny Price Gaps",
+      "line_content": "Average difference stays within ±0.3%, making perception—not economics—the key issue."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Coverage – 99.9%",
+      "line_content": "Offer-not-found just 0.1%, confirming near-complete presence."
+    },
+    {
+      "line_title": "Price Parity – 19%",
+      "line_content": "Up 15% WoW but still below the 40–50% industry benchmark."
+    },
+    {
+      "line_title": "MSE Lower – 28%",
+      "line_content": "Undercuts rising fastest; average −0.16% delta."
+    },
+    {
+      "line_title": "MSE Higher – 53%",
+      "line_content": "Still majority but down 31% WoW; premium now +0.26%."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul Shift",
+      "line_content": "Higher-fare share dropped to 51% (−33% WoW); lower-fare share up to 30%."
+    },
+    {
+      "line_title": "Long-Haul Still Premium",
+      "line_content": "58% higher on MSE; undercuts limited to 22%, needing focus."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "US Origins Improving",
+      "line_content": "Higher-fare frequency down to 52%; parity matches network average at 19%."
+    },
+    {
+      "line_title": "Non-US Origins Lagging",
+      "line_content": "65% higher and 34.5% missing, largest gap across segments."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In Trends",
+      "line_content": "Higher-fare cases down to 51%; undercuts at 30% with −0.15% delta."
+    },
+    {
+      "line_title": "Far-Out Exposure",
+      "line_content": "58% higher with widest +0.32% premium despite 37% WoW improvement."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Nearly All Fares Premium",
+      "line_content": "95.3% higher on GDS with a modest +0.28% markup."
+    },
+    {
+      "line_title": "International Visibility Gap",
+      "line_content": "34.5% of non-US origin itineraries not found, versus 1.5% for US."
+    },
+    {
+      "line_title": "Close-In Deterioration",
+      "line_content": "GDS-higher share for near-departure searches jumped 3.2 ppts WoW to 94.5%."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found – 3.8%",
+      "line_content": "Flat WoW, down 0.5 ppt MoM but still material in select markets."
+    },
+    {
+      "line_title": "GDS Higher – 95.3%",
+      "line_content": "Up 1.9 ppts WoW; markup steady at +0.28%."
+    },
+    {
+      "line_title": "GDS Lower – 1.0%",
+      "line_content": "Cheaper fares nearly disappeared (−1.5 ppts WoW)."
+    },
+    {
+      "line_title": "Parity – 0.0%",
+      "line_content": "Exact matches essentially absent, highlighting structural mis-alignment."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul Premium",
+      "line_content": "97% higher with +0.30% markup; missing content 2.4%."
+    },
+    {
+      "line_title": "Long-Haul Issues",
+      "line_content": "90.6% higher but 7.6% not-found, combining price and visibility concerns."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "US Origins Solid",
+      "line_content": "97.6% higher; minimal 1.5% missing content."
+    },
+    {
+      "line_title": "Non-US Origins Weak",
+      "line_content": "Only 62.9% higher, yet 34.5% missing—a critical exposure abroad."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In ( <7 days )",
+      "line_content": "94.5% higher (+0.25%); under-pricing nearly extinct at 0.6%."
+    },
+    {
+      "line_title": "Far-Out ( ≥7 days )",
+      "line_content": "96.9% higher with the largest +0.35% premium; missing content low at 1.3%."
+    }
+  ]
+}

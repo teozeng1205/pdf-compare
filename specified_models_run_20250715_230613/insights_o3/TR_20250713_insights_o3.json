@@ -1,0 +1,208 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Erosion",
+      "line_content": "Parity slipped to 63 % while OTA mark-ups climbed to 18 %, signalling widening off-site price gaps."
+    },
+    {
+      "line_title": "MSE Undercuts",
+      "line_content": "Metasearch is cheaper on 73 % of itineraries (-5 % avg.), pressuring direct sales despite small week-on-week improvement."
+    },
+    {
+      "line_title": "GDS Premiums",
+      "line_content": "GDS prices are higher on 93 % of fares, yet the premium is only 0.66 %, indicating a systemic but low-magnitude misalignment."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Parity Falling",
+      "line_content": "Only 63 % of OTA fares match the website, down 10 ppts month-on-month."
+    },
+    {
+      "line_title": "Mark-ups Rising",
+      "line_content": "18 % of OTA itineraries carry a 7 % premium, the fastest-growing discrepancy."
+    },
+    {
+      "line_title": "Long-Haul Exposure",
+      "line_content": "Parity just 45 % on long-haul; nearly half of itineraries priced above direct."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Same Price 63 %",
+      "line_content": "Share down 2 ppts WoW and 10 ppts MoM, driven by short-haul weakness."
+    },
+    {
+      "line_title": "OTA Higher 18 %",
+      "line_content": "Mark-ups up 2.6 ppts WoW; average premium steady at 7 %."
+    },
+    {
+      "line_title": "OTA Lower 7 %",
+      "line_content": "Discount cases up 1.5 ppts WoW with a 4 % undercut."
+    },
+    {
+      "line_title": "Not Found 13 %",
+      "line_content": "Availability gaps improved slightly but still impact one in eight searches."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "Parity 65 % (-11 ppts MoM); 14 % OTA-higher at 9 % premium."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "Parity 45 %; 45 % OTA-higher but modest 2 % premium."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Singapore Origin",
+      "line_content": "Strong control: 78 % parity, only 9 % OTA-higher."
+    },
+    {
+      "line_title": "Non-Singapore Origin",
+      "line_content": "Parity falls to 48 %; OTA-higher spikes to 26 % and gaps hit 19 %."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In 0-14d",
+      "line_content": "Parity 59 %; 17 % OTA-higher and 16 % not found hamper late revenue."
+    },
+    {
+      "line_title": "Far-Out 15d+",
+      "line_content": "Parity 69 % but falling; 19 % OTA-higher with 7 % premium."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Widespread Undercuts",
+      "line_content": "MSE cheaper on 72.8 % of fares, averaging a 5 % discount."
+    },
+    {
+      "line_title": "Parity Improving",
+      "line_content": "Same-price share rose 3.9 ppts WoW to 22.8 %."
+    },
+    {
+      "line_title": "Home-Market Risk",
+      "line_content": "85 % of Singapore departures are undercut, the network’s largest leakage."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE Lower 73 %",
+      "line_content": "Undercuts fell 2.3 ppts WoW but remain dominant."
+    },
+    {
+      "line_title": "Parity 23 %",
+      "line_content": "Up 4 ppts MoM, indicating slow alignment."
+    },
+    {
+      "line_title": "Offer Missing 4 %",
+      "line_content": "Visibility gaps dropped 1.6 ppts WoW, yet still dilute reach."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "73 % undercut (-5 %); parity up 3.6 ppts WoW."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "69 % undercut (-4 %); parity up 5.1 ppts WoW, no MSE premiums."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Singapore Origin",
+      "line_content": "85 % undercut persists; little week-on-week change."
+    },
+    {
+      "line_title": "Non-Singapore Origin",
+      "line_content": "Undercut share drops to 61 %; parity gains 7 ppts WoW."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In 0-7d",
+      "line_content": "70 % undercut with a 6 % gap; parity up 4.4 ppts WoW."
+    },
+    {
+      "line_title": "Far-Out 8d+",
+      "line_content": "79 % undercut at 4 % gap; undercut share down 3.8 ppts WoW."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Premium Pricing",
+      "line_content": "GDS higher than web on 92.8 % of fares; share creeping up."
+    },
+    {
+      "line_title": "Tiny Premium Size",
+      "line_content": "Average gap just 0.66 %, pointing to systematic filing rather than strategy."
+    },
+    {
+      "line_title": "Missing Content",
+      "line_content": "7 % of web fares absent in GDS, above the 5 % tolerance."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "Channel Higher 93 %",
+      "line_content": "Dominant issue; premium edges up week-on-week."
+    },
+    {
+      "line_title": "Offer Missing 7 %",
+      "line_content": "Down 1 ppt WoW but still limits agency sales."
+    },
+    {
+      "line_title": "No Parity",
+      "line_content": "0 % of observations show identical pricing, underscoring misalignment."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "92 % higher with 0.69 % premium; 7 % offers missing."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "96 % higher but smaller 0.45 % premium; gaps fall to 4 %."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Singapore Origin",
+      "line_content": "93 % higher pricing; 0.52 % premium; no GDS undercuts."
+    },
+    {
+      "line_title": "Non-Singapore Origin",
+      "line_content": "92 % higher with widest 0.79 % premium; undercuts <0.5 %."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In 0-14d",
+      "line_content": "89 % higher; 0.58 % premium; missing offers peak at 10 %."
+    },
+    {
+      "line_title": "Far-Out 15d+",
+      "line_content": "100 % higher with 0.81 % premium; all fares present."
+    }
+  ]
+}

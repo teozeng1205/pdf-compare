@@ -1,0 +1,208 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Premium & Gaps",
+      "line_content": "OTAs priced 85 % of itineraries above the MH website at a 9 % average markup and missed 14 % of offers—coverage shortfalls remain most acute outside Malaysia."
+    },
+    {
+      "line_title": "MSE Undercutting",
+      "line_content": "Metasearch engines undercut the website on 97 % of fares with a –0.20 % average discount and now display 100 % of offers, erasing prior availability gaps."
+    },
+    {
+      "line_title": "GDS Premium Shrinks",
+      "line_content": "GDS still quotes higher prices 96 % of the time, yet the average markup has narrowed to +0.09 %, its lowest level in three weeks, signalling improving alignment."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Persistent OTA Premium",
+      "line_content": "OTA fares exceeded the website on 85 % of itineraries last week, with an average 9 % markup (-1.3 ppts frequency WoW)."
+    },
+    {
+      "line_title": "Far-Out Bookings Most Exposed",
+      "line_content": "For searches >21 days out, OTA prices were higher 91 % of the time with a 12 % uplift—almost double the close-in gap."
+    },
+    {
+      "line_title": "International Coverage Gap",
+      "line_content": "83 % of non-Malaysia origin itineraries were absent from OTAs, limiting MH’s overseas reach."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found – 14 %",
+      "line_content": "13.5 % of website itineraries were missing on OTAs, up 1.2 ppts WoW."
+    },
+    {
+      "line_title": "Channel Higher – 85 %",
+      "line_content": "OTAs maintained a price premium in 84.5 % of cases; average uplift eased to 9 % from 15 %."
+    },
+    {
+      "line_title": "Price Parity – 2 %",
+      "line_content": "Only 1.9 % of itineraries priced identically."
+    },
+    {
+      "line_title": "Channel Lower – <1 %",
+      "line_content": "Undercuts remain statistically negligible (0.1 %)."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "84 % higher pricing with a 9 % premium; missing offers rose to 14 %."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "97 % premium frequency but a smaller 5 % uplift; limited sample (2 ODs)."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "Malaysia Origins",
+      "line_content": "OTAs higher 93 % of the time, 9 % average premium; only 5 % missing content."
+    },
+    {
+      "line_title": "Non-Malaysia Origins",
+      "line_content": "Coverage, not price, is the issue—83 % of itineraries missing; listed fares carry a 5 % premium."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-21 Days)",
+      "line_content": "Premium frequency 81 % with a 7 % uplift, down sharply from 16 % the prior week."
+    },
+    {
+      "line_title": "Far-Out (22+ Days)",
+      "line_content": "91 % higher-priced frequency and a stable 12 % premium."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Universal Undercutting",
+      "line_content": "MSEs priced 97 % of MH itineraries below the website; no premiums recorded."
+    },
+    {
+      "line_title": "Discount Gap Widening",
+      "line_content": "Average discount deepened to –0.20 %, a 3 bps erosion MoM."
+    },
+    {
+      "line_title": "Full Offer Presence",
+      "line_content": "‘Website offer not found’ fell to 0 %, restoring complete coverage."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Channel Lower – 97 %",
+      "line_content": "Undercutting rose 9.4 ppts WoW; average discount –0.20 %."
+    },
+    {
+      "line_title": "Parity Shrinking",
+      "line_content": "Same-price cases fell to 2.9 % from 12 % last week."
+    },
+    {
+      "line_title": "Offers Missing – 0 %",
+      "line_content": "All website fares now display on metasearch."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "97 % of ODs cheaper on MSE at –0.20 %; parity collapsed 9 ppts WoW."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "100 % of sampled long-haul itineraries priced lower, sustaining the –0.20 % gap."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Malaysia Origins",
+      "line_content": "97.6 % lower pricing; discount widened to –0.21 %."
+    },
+    {
+      "line_title": "Non-Malaysia Origins",
+      "line_content": "92.7 % lower with a smaller –0.13 % gap; parity 7.3 %."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In",
+      "line_content": "Steepest undercut—97.8 % lower, –0.24 % discount."
+    },
+    {
+      "line_title": "Far-Out",
+      "line_content": "96 % lower, –0.14 % discount; stable MoM."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Near-Universal Premium",
+      "line_content": "GDS priced higher on 95.7 % of itineraries last week."
+    },
+    {
+      "line_title": "Premium Trending Down",
+      "line_content": "Markup eased to +0.09 % from +0.15 % WoW."
+    },
+    {
+      "line_title": "Undercuts Emerging",
+      "line_content": "GDS-lower cases doubled WoW to 1.3 % of observations."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Higher – 96 %",
+      "line_content": "Dominant channel premium, though narrowing to +0.09 %."
+    },
+    {
+      "line_title": "Parity Stable – 2.4 %",
+      "line_content": "Exact-price matches essentially unchanged WoW."
+    },
+    {
+      "line_title": "GDS Lower – 1.3 %",
+      "line_content": "Undercuts up 69 % WoW; average discount –0.14 %."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "96 % premium frequency; uplift +0.09 % and declining."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "Premium frequency 94 %, but 5.9 % of cases now cheaper with –0.25 % discount."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Malaysia Origins",
+      "line_content": "Higher pricing 96.3 % of the time, +0.09 % uplift; undercuts negligible (0.4 %)."
+    },
+    {
+      "line_title": "Ex-Malaysia",
+      "line_content": "Premium frequency drops to 89.7 %, and undercuts jump to 8.3 %."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (<14 Days)",
+      "line_content": "Premium on 93.6 % of itineraries, small +0.07 % uplift; undercuts 1.6 %."
+    },
+    {
+      "line_title": "Far-Out (≥14 Days)",
+      "line_content": "Premium peaks at 99.1 % with +0.12 % markup."
+    }
+  ]
+}

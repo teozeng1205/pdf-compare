@@ -1,0 +1,176 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Pricing Dominance",
+      "line_content": "OTA prices are predominantly higher, with 82.85% of fares exceeding those on the airline's website."
+    },
+    {
+      "line_title": "MSE Pricing Challenge",
+      "line_content": "On the MSE channel, 67.54% of offers were higher than the airline's website, highlighting limited competitive pricing."
+    },
+    {
+      "line_title": "GDS Price Discrepancy",
+      "line_content": "The GDS channel showed over 98% of pricing higher than the airline's own website, creating significant visibility issues for travelers."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "High OTA Price Discrepancy",
+      "line_content": "The majority of pricing comparisons indicate OTA prices are higher compared to the airline's website, particularly for non-TR and long-haul routes."
+    },
+    {
+      "line_title": "Stable Same Pricing",
+      "line_content": "Pricing for the same listings remains unchanged across all dimensions, reflecting consistency in fare offerings over the last week."
+    },
+    {
+      "line_title": "Close In Booking Patterns",
+      "line_content": "Close-in bookings show a narrow channel lower offering, emphasizing opportunities for competitive pricing strategies."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "OTA Higher Dominance",
+      "line_content": "For the latest week, 82.85% of fares checked were higher on the OTA than on the airline website, indicating a strong pricing discrepancy."
+    },
+    {
+      "line_title": "Increased High Pricing",
+      "line_content": "In the latest week compared to the previous week, the percentage of fares classified as 'OTA Higher' rose by 4.36%, suggesting escalating price gaps."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short Haul Pricing Patterns",
+      "line_content": "Within short haul routes, OTA prices were predominantly higher, accounting for approximately 82.38% of the pricing analyses."
+    },
+    {
+      "line_title": "Long Haul Price Consistency",
+      "line_content": "Long haul routes displayed a high incidence of higher OTA prices at 87.98%, reinforcing regional pricing competitiveness."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "TR Origin Price Analysis",
+      "line_content": "Fares originating from TR reflect a staggering 89.76% higher pricing status on OTAs, indicating a critical area for competitive pricing review."
+    },
+    {
+      "line_title": "Non-TR Pricing Trends",
+      "line_content": "Non-TR routes also show significant OTA pricing at 64.29% higher, highlighting consistent trends in pricing discrepancies."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close In Booking Discrepancies",
+      "line_content": "For the close-in booking window, OTA prices were 83.29% higher, representing a critical opportunity for the airline to re-evaluate fare strategies."
+    },
+    {
+      "line_title": "Far Out Booking Insights",
+      "line_content": "Far out bookings indicated slightly better competitiveness at 81.92% higher, but still reinforce the trend of elevated OTA pricing."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "High Discrepancy Rates",
+      "line_content": "In the latest week, 67.54% of offers on the MSE channel were priced higher than those on the airline's website."
+    },
+    {
+      "line_title": "Lower Offers Rare",
+      "line_content": "Only 8.56% of MSE offers were priced lower than the airline's site in the last week, indicating limited price competitiveness."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "MSE Higher Dominance",
+      "line_content": "The MSE channel continues to reflect higher prices, accounting for 67.54% of all quoted offers."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short Haul Pricing",
+      "line_content": "For short haul routes, 67.44% of MSE listings were higher than website prices, with only 8.03% offering lower rates."
+    },
+    {
+      "line_title": "Long Haul Discrepancy",
+      "line_content": "The long haul segment showed a similar trend, where 68.60% of MSE prices exceeded those on the airline's website."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "Turkey Market Insights",
+      "line_content": "For Turkish outbound traffic, the MSE channel showed higher pricing for 67.76% of offers, with a competitive edge demonstrated in only 3.81% of cases."
+    },
+    {
+      "line_title": "Non-Turkey Market",
+      "line_content": "In non-Turkish markets, 66.94% of MSE offers exceeded airline website prices, indicating limited competitive pricing strategies."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close In Bookings",
+      "line_content": "Close in bookings reflect that 67.85% of MSE prices are higher than those listed on the airline's website."
+    },
+    {
+      "line_title": "Far Out Bookings",
+      "line_content": "For far out bookings, a slightly better competitive scenario is observed with 66.84% of MSE prices being higher, yet lower than for close-in."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "High Discrepancy Rates",
+      "line_content": "Over 98% of itineraries are priced higher on the GDS channel compared to the airline's own website, indicating significant price discrepancies."
+    },
+    {
+      "line_title": "Stable Pricing Trends",
+      "line_content": "Price differences remained stable across the last week, previous week, and previous month, with a slight increase of 0.66% last week."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS Higher Prices",
+      "line_content": "The GDS channel recorded a 98.97% occurrence of higher pricing versus the airline website last week."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short Haul Region Discrepancies",
+      "line_content": "For short-haul routes, 98.91% of the itineraries had GDS prices higher than the website, with an average price difference of 2.40% last week."
+    },
+    {
+      "line_title": "Long Haul Region Status",
+      "line_content": "In long-haul routes, 99.61% exhibited higher GDS pricing, with a notable average price difference of 0.85%."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "Turkey Discrepancies",
+      "line_content": "For itineraries originating from Turkey (TR), GDS prices were higher 99.25% of the time, with an average discrepancy of 2.86% last week."
+    },
+    {
+      "line_title": "Non-Turkey Rates",
+      "line_content": "For non-TR itineraries, 98.33% were priced higher on GDS, showcasing a consistent pricing strategy across point of origin."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close In Booking Insights",
+      "line_content": "For close-in bookings, 98.86% were priced higher on GDS, with average price differences ranging around 2.34% last week."
+    },
+    {
+      "line_title": "Far Out Booking Analysis",
+      "line_content": "Far-out bookings showed 99.19% were higher priced on GDS, indicating a lesser competitive advantage in longer booking windows."
+    }
+  ]
+}

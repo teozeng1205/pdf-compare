@@ -1,0 +1,216 @@
+{
+  "key_channel_insights": [
+    {
+      "line_title": "OTA Parity Leads",
+      "line_content": "67% of OTA itineraries now match Qantas.com pricing while missing offers dropped to 26%, marking the strongest alignment this quarter."
+    },
+    {
+      "line_title": "MSE Margin Risk",
+      "line_content": "Parity improved to 49% on metasearch, but 14% of fares still undercut the site by an average 13%, posing the largest immediate revenue leakage."
+    },
+    {
+      "line_title": "GDS Premium Bias",
+      "line_content": "70% of agency-sold fares price 10% above Qantas.com despite better coverage, indicating continued cost pressure in the indirect channel."
+    }
+  ],
+  "conclusion": [
+    {
+      "line_title": "",
+      "line_content": "This report provides a high-level summary of the price discrepancies observed across different channels.  It is important to note that the data contains many nuances depending on various factors such as market conditions, booking windows, and the competitive landscape. Understanding these subtleties can be critical in optimizing pricing strategies and ensuring competitive positioning."
+    },
+    {
+      "line_title": "",
+      "line_content": "As part of our 'PriceEye' solution, we are developing an intuitive dashboard designed to help your airline's analysts drill down into this data. This tool will allow you to uncover and focus on critical actionable insights, enabling your team to make data-driven decisions with confidence."
+    },
+    {
+      "line_title": "",
+      "line_content": "We are here to support you in leveraging these insights to enhance your revenue management and distribution strategies. Please don't hesitate to connect with our team for more information about how PriceEye can assist you in achieving your business objectives."
+    }
+  ],
+  "ota_highlights": [
+    {
+      "line_title": "Parity Strengthened",
+      "line_content": "67% of OTA itineraries now match Qantas.com pricing, a 4 ppt lift vs last month and best performance this quarter."
+    },
+    {
+      "line_title": "Coverage Gap Shrinking",
+      "line_content": "‘No-offer’ instances fell to 26.5% (-6 ppt MoM), expanding paid visibility across OTAs."
+    },
+    {
+      "line_title": "Non-AU Risk Hot-Spot",
+      "line_content": "For non-Australian origins, 35% of fares deviate from website pricing—over four times the variance seen for AU departures."
+    }
+  ],
+  "ota_summary_high_level_comparison": [
+    {
+      "line_title": "Offer Not Found",
+      "line_content": "OTAs still miss fares on 26.5% of routes—down 5.7 ppt MoM but equal to one in four searches."
+    },
+    {
+      "line_title": "Price Parity",
+      "line_content": "67.1% of observations are aligned, improving consistently week-over-week."
+    },
+    {
+      "line_title": "Channel Higher",
+      "line_content": "Only 3.2% of OTA fares price above Qantas.com, and the average premium is a negligible 0.19%."
+    },
+    {
+      "line_title": "Channel Lower",
+      "line_content": "Another 3.2% undercut the website by 0.23% on average; frequency and depth flat WoW."
+    }
+  ],
+  "ota_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "66% parity; undercuts (3.5%) mildly outnumber premiums (2.9%), both <0.25% in size."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "Parity climbs to 77% and ‘no-offer’ dips to 17%, but over-pricing premiums double to 0.34%."
+    }
+  ],
+  "ota_summary_by_point_of_origin": [
+    {
+      "line_title": "AU Origins",
+      "line_content": "67% parity with minimal deviations—2.5% premiums, 2.8% discounts."
+    },
+    {
+      "line_title": "Non-AU Origins",
+      "line_content": "Parity slips to 62%; OTAs price higher on 21% and lower on 14% of itineraries, exposing overseas execution gaps."
+    }
+  ],
+  "ota_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (<14 d)",
+      "line_content": "Parity 66%; more over-pricing than under-pricing but missing offers still 27%."
+    },
+    {
+      "line_title": "Far-Out (≥14 d)",
+      "line_content": "Parity improves to 69%; premiums fall to 2.7%, yet 25% of searches still lack a QF offer."
+    }
+  ],
+  "mse_highlights": [
+    {
+      "line_title": "Parity Rising",
+      "line_content": "49.1% of QF fares match the website on MSE, up 13 ppt MoM—the strongest lift this quarter."
+    },
+    {
+      "line_title": "Undercutting Eases",
+      "line_content": "MSE discounts fell to 14.4% of OD pairs, yet average gap remains a sizeable 13%."
+    },
+    {
+      "line_title": "Long-Haul Premium Risk",
+      "line_content": "When higher-priced, long-haul premiums average 23% versus 4% on short-haul, risking high-value traffic."
+    }
+  ],
+  "mse_summary_high_level_comparison": [
+    {
+      "line_title": "Website Not Shown",
+      "line_content": "25.7% of itineraries lack a QF offer; visibility gap shrinking slowly."
+    },
+    {
+      "line_title": "Same Price",
+      "line_content": "Parity is now the most common outcome at 49.1%, rising 4.4 ppt WoW."
+    },
+    {
+      "line_title": "MSE Higher",
+      "line_content": "Premium cases down to 10.8%; average uplift steady at 5%."
+    },
+    {
+      "line_title": "MSE Lower",
+      "line_content": "Discounts still exceed premiums in frequency and depth (-13%)."
+    }
+  ],
+  "mse_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "Parity 48.4%; undercuts 13.6% with a 14% discount."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "Best parity at 54.5% and lowest ‘not-found’ rate (17.3%), but premiums average 23% when they occur."
+    }
+  ],
+  "mse_summary_by_point_of_origin": [
+    {
+      "line_title": "AU Origin",
+      "line_content": "Parity 49.9%; discounts taper to 12.8% but remain deep at 14%."
+    },
+    {
+      "line_title": "Non-AU Origin",
+      "line_content": "Parity weak at 27.5%; majority (53.7%) are discounted by 9%, highlighting overseas governance needs."
+    }
+  ],
+  "mse_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (0-14 d)",
+      "line_content": "Parity up to 48.3% yet 15.1% undercut by 14%—impacting highest-yield demand."
+    },
+    {
+      "line_title": "Far-Out (15 d+)",
+      "line_content": "Best parity at 50.8%; premiums rare (11%) and mild (+4%)."
+    }
+  ],
+  "gds_highlights": [
+    {
+      "line_title": "Persistent Premium",
+      "line_content": "70% of GDS fares price 10% above Qantas.com, widening 2.9 ppt MoM."
+    },
+    {
+      "line_title": "Coverage Improves",
+      "line_content": "‘No-offer’ share fell from 31% to 25%, yet one in four fares is still unavailable to agencies."
+    },
+    {
+      "line_title": "Early Parity Green-Shoots",
+      "line_content": "GDS-lower cases tripled to 3.5% MoM, hinting at selective tactical discounting."
+    }
+  ],
+  "gds_summary_high_level_comparison": [
+    {
+      "line_title": "GDS N/A",
+      "line_content": "Coverage gap at 25.4%—improved vs last month but flat WoW."
+    },
+    {
+      "line_title": "Same Price",
+      "line_content": "True parity is rare at 0.7% of ODs."
+    },
+    {
+      "line_title": "GDS Lower",
+      "line_content": "Discounted cases rise to 3.5%; average undercut ~17%."
+    },
+    {
+      "line_title": "GDS Higher",
+      "line_content": "High-priced listings dominate 70.4% of ODs with a stable 10% mark-up."
+    }
+  ],
+  "gds_summary_by_region": [
+    {
+      "line_title": "Short-Haul",
+      "line_content": "69.7% GDS-higher (10% premium); 26% missing; undercuts edge up to 3.8%."
+    },
+    {
+      "line_title": "Long-Haul",
+      "line_content": "76% GDS-higher with better coverage (17% missing) and minimal undercutting (1%)."
+    }
+  ],
+  "gds_summary_by_point_of_origin": [
+    {
+      "line_title": "AU Origins",
+      "line_content": "70% higher-priced, 26% missing, 3% lower—mirrors channel average."
+    },
+    {
+      "line_title": "Non-AU Origins",
+      "line_content": "Small sample shows more undercutting (14%) and almost full coverage (1% missing)."
+    }
+  ],
+  "gds_summary_by_booking_window": [
+    {
+      "line_title": "Close-In (≤14 d)",
+      "line_content": "70.1% GDS-higher; 25.6% missing; 3.7% cheaper than site."
+    },
+    {
+      "line_title": "Far-Out (≥15 d)",
+      "line_content": "71.1% GDS-higher; 3.0% undercuts; premiums intensify vs last month."
+    }
+  ]
+}
