@@ -23,7 +23,7 @@ st.set_page_config(
 def load_insights_data():
     """Load all insights data from JSON files"""
     base_path = Path("specified_models_run_20250715_230613")
-    models = ["gpt-4o", "gpt-4o-mini", "o1", "o3", "o3-mini"]
+    models = ["gpt-4o", "gpt-4o-mini", "o1", "o3", "o3-mini", "o4-mini"]
     
     data = {}
     airlines = set()
